@@ -1,13 +1,14 @@
 import json , urllib.request
 def crawler_fun(Jahr):
 
-
     Endergebnis_Spieltag = []
 
     Endergebnisse_Jahr = []
 
     # Schleife für alle Spieltage
-    for i in range(1,34):
+    for i in range(1,35):
+
+        
 
         # Daten von Openligadb
         Spieltaglink = ("https://www.openligadb.de/api/getmatchdata/bl1/") + str(Jahr) + ("/") + str(i)
@@ -16,8 +17,8 @@ def crawler_fun(Jahr):
         req = urllib.request.urlopen(Spieltaglink)
         jso = json.loads(req.read().decode())
 
-         # Funktion schaut jede Begegnung eines Spieltages an
-    
+        # Funktion schaut jede Begegnung eines Spieltages an
+
 
         for f in jso:
         
@@ -53,20 +54,17 @@ def crawler_fun(Jahr):
             goalsteam2 = dict.get(MaRe[0], "PointsTeam2")
             Gasttor = str(goalsteam2)
             Goalslist.append(Gasttor)
-
             # Zusammenfügen der Spiele am Spieltag
             Endergebnis_Spieltag.append(Goalslist)
-            # Spieltag einfügen in alle gespielte Spiele
-            Endergebnisse_Jahr.append(Endergebnis_Spieltag)
             
+        # Spieltag einfügen in alle gespielte Spiele
+        Endergebnisse_Jahr.append(Endergebnis_Spieltag)
+        Endergebnis_Spieltag = []
     
-    #print(Endergebnis_Spieltag)
-    #print(Endergebnisse_Jahr) 
+    
+    print(Endergebnisse_Jahr) 
     return Endergebnisse_Jahr
-    
-   
-# Test Jahr
-crawler_fun(2018)
 
-#Jahr = input("Von welchem Jahr sollen die Spieldaten geladen werden? ")
-#crawler_fun(Jahr)
+
+Jahr = input("Von welchem Jahr sollen die Spieldaten geladen werden? ")
+crawler_fun(Jahr)
