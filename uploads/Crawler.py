@@ -13,8 +13,6 @@ def crawler_fun(Jahr):
     # Schleife für alle Spieltage
     for i in range(1,35):
 
-        
-
         # Daten von Openligadb
         Spieltaglink = ("https://www.openligadb.de/api/getmatchdata/bl1/") + str(Jahr) + ("/") + str(i)
 
@@ -26,53 +24,58 @@ def crawler_fun(Jahr):
 
 
         for f in jso:
-            
-            # Namen der spielenden Heimmannschaft , Gastmannschaft
-            Match = []
-
-            # Namen der spielenden Heimmannschaft , Gastmannschaft
-            Teamlist = []
-
-            # Speichert Heimmannschaft
-            team1 = dict.get(f, "Team1")
-            name1 = dict.get(team1, "TeamName")
-            #Heim = str(name1)
-            Teamlist.append(name1)
-
-            # Speichert Gastmannschaft
-            team2 = dict.get(f, "Team2")
-            name2 = dict.get(team2, "TeamName")
-            #Gast = str(name2)
-            Teamlist.append(name2)
-
-            Match.append(Teamlist)
-
-            # Tore von der Heimmannschaft , Gastmannschaft
-            Goalslist = []
 
             # Endergebnis des Matchs
             MaRe = dict.get(f, "MatchResults")
+
+            # überprüfen ob das aktuell zu betrachtende Spiel gespielt wurden
+            if not len(MaRe) == 0:
+                versuch = dict.get(MaRe[0], "PointsTeam1")
+            else:
+                versuch = None
+
+            if versuch != None:
+                # Namen der spielenden Heimmannschaft , Gastmannschaft
+                Match = []
+
+                # Namen der spielenden Heimmannschaft , Gastmannschaft
+                Teamlist = []
+
+                # Speichert Heimmannschaft
+                team1 = dict.get(f, "Team1")
+                name1 = dict.get(team1, "TeamName")
+                Teamlist.append(name1)
+
+                # Speichert Gastmannschaft
+                team2 = dict.get(f, "Team2")
+                name2 = dict.get(team2, "TeamName")
+                Teamlist.append(name2)
+
+                Match.append(Teamlist)
+
+                # Tore von der Heimmannschaft , Gastmannschaft
+                Goalslist = []
         
-            # Tore Heimmannschaft
-            goalsteam1 = dict.get(MaRe[0], "PointsTeam1")
-            #Heimtor = str(goalsteam1)
-            Goalslist.append(goalsteam1)
-
-            # Tore Gastmannschaft
-            goalsteam2 = dict.get(MaRe[0], "PointsTeam2")
-            #Gasttor = str(goalsteam2)
-            Goalslist.append(goalsteam2)
-            # Zusammenfügen der Spiele am Spieltag
-            Match.append(Goalslist)
+                # Tore Heimmannschaft
             
-            # Datum des Spieltages mit Uhrzeit
-            get_datum = dict.get(f,"MatchDateTime")
-            Datum = str(get_datum)
-            Match.append(Datum)
+                goalsteam1 = dict.get(MaRe[0], "PointsTeam1")
+                Goalslist.append(goalsteam1)
 
-            # Teamlist, Goallist und des Datums in einer Liste
-            # List of Strings, List of Strings, String
-            Endergebnis_Spieltag.append(Match)
+                # Tore Gastmannschaft
+                goalsteam2 = dict.get(MaRe[0], "PointsTeam2")
+                Goalslist.append(goalsteam2)
+
+                # Zusammenfügen der Spiele am Spieltag
+                Match.append(Goalslist)
+            
+                # Datum des Spieltages mit Uhrzeit
+                get_datum = dict.get(f,"MatchDateTime")
+                Datum = str(get_datum)
+                Match.append(Datum)
+
+                # Teamlist, Goallist und des Datums in einer Liste
+                # List of Strings, List of Strings, String
+                Endergebnis_Spieltag.append(Match)
 
         # Spieltag einfügen in alle gespielte Spiele
         Endergebnisse_Jahr.append(Endergebnis_Spieltag)
@@ -85,6 +88,6 @@ def crawler_fun(Jahr):
             for j in i:
                 writer.writerow(j)
 
-Jahr = input("Von welchem Jahr sollen die Spieldaten geladen werden? ")
-crawler_fun(Jahr)
+#Jahr = input("Von welchem Jahr sollen die Spieldaten geladen werden? ")
+crawler_fun(2019)
  
