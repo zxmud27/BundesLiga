@@ -45,10 +45,13 @@ def newframe(buttonnummer):
    canvas.pack()
    frame2 = tk.Frame(newWindow, bg='cornflowerblue')
    frame2.place(relwidth=1, relheight=1)
-   BM =  tk.Button(frame2,image=bayernMuenchen,text="FC Bayern München",width=200,height=100,bg="royalblue",command=lambda: buttonupdate(buttonnummer,bayernMuenchen))
+   BM =  tk.Button(frame2,image=bayernMuenchen,width=200,height=100,bg="royalblue",command=lambda: buttonupdate(buttonnummer,bayernMuenchen))
    BM.place(relx=0.0,rely=0.0)
-   koln =  tk.Button(frame2,image=koeln,text="FC Bayern München",width=200,height=100,bg="royalblue",command=lambda: buttonupdate(buttonnummer,koeln))
+   DM = tk.Button(frame2,image=dortmund,width=200,height=100,bg="royalblue",command=lambda: buttonupdate(buttonnummer,bayernMuenchen))
+   DM.place(relx=0.0,rely=0.0)
+   koln =  tk.Button(frame2,image=koeln,width=200,height=100,bg="royalblue",command=lambda: buttonupdate(buttonnummer,koeln))
    koln.place(relx=0.5,rely=0.5)
+
 
 erstesTeamButton = tk.Button(frame,image=dortmund,width=10, height=10, fg="white", bg="royalblue", command=lambda: newframe(1))
 erstesTeamButton.place(relx=0.20,rely=0.52, relwidth=0.2, relheight=0.2)  
