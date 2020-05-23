@@ -35,6 +35,8 @@ def buttonupdate(buttonnummer, teamname):
    if(buttonnummer==1):
       erstesTeamButton = tk.Button(frame,image= teamname,width=10, height=10, fg="white", bg="royalblue",command=lambda: newframe(1))
       erstesTeamButton.place(relx=0.20,rely=0.52, relwidth=0.20, relheight=0.20) 
+    
+
    else:
       zweitesTeamButton = tk.Button(frame,image= teamname,width=10, height=10, fg="white", bg="royalblue",command=lambda:newframe(2))
       zweitesTeamButton.place(relx=0.60,rely=0.52, relwidth=0.20, relheight=0.20)
