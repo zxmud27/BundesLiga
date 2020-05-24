@@ -80,18 +80,21 @@ def buttonupdate(buttonnummer, teamname):
       erstesTeamButton.place(relx=0.20,rely=0.52, relwidth=0.20, relheight=0.20) 
       global leckmich 
       leckmich=teamname
+      newWindow.destroy()
       
    else:
       zweitesTeamButton = tk.Button(frame,image= teamname,width=10, height=10, fg="white", bg="royalblue",command=lambda:newframe(2))
       zweitesTeamButton.place(relx=0.60,rely=0.52, relwidth=0.20, relheight=0.20)
       global leckmich2
       leckmich2 = teamname
+      newWindow.destroy()
     
 
 
       
 def newframe(buttonnummer):
-   newWindow = tk.Toplevel(root)
+   global newWindow 
+   newWindow= tk.Toplevel(root)
    canvas = tk.Canvas(newWindow, height=900, width=400)
    canvas.pack()
    frame2 = tk.Frame(newWindow, bg='cornflowerblue')
