@@ -5,6 +5,9 @@ from Crawler import CrawlerX
 crawAlgo = CrawlerX
 class Algo(object):
     def __init__(self):
+        self.win_ratio
+        self.draw_ratio
+        self.lose_ratio
         pass
     def get_all_matches(self,Jahr):
         # CSV Name
@@ -99,12 +102,12 @@ class Algo(object):
         win = 0
         draw = 0
         lose = 0
-        global win_ratio 
-        win_ratio= 0
-        global draw_ratio 
-        draw_ratio= 0
-        global lose_ratio 
-        lose_ratio= 0
+        #global win_ratio 
+        #win_ratio= 0
+        #global draw_ratio 
+        #draw_ratio= 0
+        #global lose_ratio 
+        #lose_ratio= 0
         played_games = 0 
         counter = 0
         for n in all_stats:
@@ -124,19 +127,23 @@ class Algo(object):
                             played_games += 1
 
         if not played_games == 0:
-         win_ratio= win / played_games * 100
-         draw_ratio = draw / played_games * 100
-         lose_ratio= lose / played_games * 100
+            #global win_ratio 
+            self.win_ratio = win / played_games * 100
+ 
+            self.draw_ratio = draw / played_games * 100
 
-      #  ratio = [win_ratio, draw_ratio, lose_ratio]
+            self.lose_ratio = lose / played_games * 100
+
+        #ratio = [win_ratio, draw_ratio, lose_ratio]
       #  print(win , " " , draw , " " , lose)
-      #  print(ratio)
+       # print(ratio)
       #  return ratio
+        print(self.win_ratio)
     def getwinRatio(self):
         return win_ratio
     def getdrawRatio(self):
         return draw_ratio
     def getloseRatio(self):
         return lose_ratio
-    #get_win_ratio(1, 'FC Bayern',"Borussia Dortmund")
+    get_win_ratio(1, 'FC Bayern',"Borussia Dortmund")
 

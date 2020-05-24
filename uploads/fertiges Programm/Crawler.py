@@ -1,5 +1,6 @@
 import json , urllib.request
 import csv
+
 class CrawlerX:
     def __init__(self):
         pass
