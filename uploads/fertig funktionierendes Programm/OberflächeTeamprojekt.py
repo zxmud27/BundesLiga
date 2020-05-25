@@ -180,8 +180,6 @@ def winrateLabels(team1, team2):
    pWA.place(relx=0.6,rely=0.9, relwidth=0.2, relheight=0.04)
 
 
-
-
 #Labels
 winHome = tk.Label(frame, text="Win Home", bg='cornflowerblue')
 winHome.place(relx=0.20,rely=0.85, relwidth=0.2, relheight=0.04)
