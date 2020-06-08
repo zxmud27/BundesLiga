@@ -1,12 +1,12 @@
-"['Borussia Dortmund', 'Werder Bremen']","[2, 1]",2012-08-24T20:30:00
-"['Borussia Mönchengladbach', 'TSG 1899 Hoffenheim']","[2, 1]",2012-08-25T15:30:00
-"['SC Freiburg', '1. FSV Mainz 05']","[1, 1]",2012-08-25T15:30:00
-"['FC Augsburg', 'Fortuna Düsseldorf']","[0, 2]",2012-08-25T15:30:00
-"['Hamburger SV', '1. FC Nürnberg']","[0, 1]",2012-08-25T15:30:00
-"['SpVgg Greuther Fürth', 'FC Bayern']","[0, 3]",2012-08-25T15:30:00
-"['Eintracht Frankfurt', 'Bayer Leverkusen']","[2, 1]",2012-08-25T18:30:00
-"['VfB Stuttgart', 'VfL Wolfsburg']","[0, 1]",2012-08-25T20:45:00
-"['Hannover 96', 'FC Schalke 04']","[2, 2]",2012-08-26T17:30:00
+"['Borussia Dortmund', 'Werder Bremen']","[2, 1]",2012-08-24T20:30:00,"['https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/240px-Borussia_Dortmund_logo.svg.png', 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png']"
+"['Borussia Mönchengladbach', 'TSG 1899 Hoffenheim']","[2, 1]",2012-08-25T15:30:00,"['https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_Mönchengladbach_logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/64/TSG_Logo-Standard_4c.png']"
+"['SC Freiburg', '1. FSV Mainz 05']","[1, 1]",2012-08-25T15:30:00,"['https://upload.wikimedia.org/wikipedia/de/thumb/f/f1/SC-Freiburg_Logo-neu.svg/739px-SC-Freiburg_Logo-neu.svg.png', 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1099px-Logo_Mainz_05.svg.png']"
+"['FC Augsburg', 'Fortuna Düsseldorf']","[0, 2]",2012-08-25T15:30:00,"['https://upload.wikimedia.org/wikipedia/de/b/b5/Logo_FC_Augsburg.svg', 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Fortuna_D%C3%BCsseldorf.svg/150px-Fortuna_D%C3%BCsseldorf.svg.png']"
+"['Hamburger SV', '1. FC Nürnberg']","[0, 1]",2012-08-25T15:30:00,"['https://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg']"
+"['SpVgg Greuther Fürth', 'FC Bayern']","[0, 3]",2012-08-25T15:30:00,"['https://upload.wikimedia.org/wikipedia/de/b/b1/SpVgg_Greuther_Fürth_2017.svg', 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg/240px-Logo_FC_Bayern_M%C3%BCnchen_%282002%E2%80%932017%29.svg.png']"
+"['Eintracht Frankfurt', 'Bayer Leverkusen']","[2, 1]",2012-08-25T18:30:00,"['https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1024px-Eintracht_Frankfurt_Logo.svg.png', 'https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1280px-Bayer_Leverkusen_Logo.svg.png']"
+"['VfB Stuttgart', 'VfL Wolfsburg']","[0, 1]",2012-08-25T20:45:00,"['https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/921px-VfB_Stuttgart_1893_Logo.svg.png', 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/1024px-Logo-VfL-Wolfsburg.svg.png']"
+"['Hannover 96', 'FC Schalke 04']","[2, 2]",2012-08-26T17:30:00,"['https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg']"
 "['1. FSV Mainz 05', 'SpVgg Greuther Fürth']","[0, 1]",2012-08-31T20:30:00
 "['FC Schalke 04', 'FC Augsburg']","[3, 1]",2012-09-01T15:30:00
 "['Bayer Leverkusen', 'SC Freiburg']","[2, 0]",2012-09-01T15:30:00

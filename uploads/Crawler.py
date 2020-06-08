@@ -1,12 +1,14 @@
 import json , urllib.request
 import csv
 
+
 def crawler_fun(Jahr):
 
     Endergebnis_Spieltag = []
 
     Endergebnisse_Jahr = []
 
+    counter = 0
     # CSV Name
     filename = str(Jahr) + ('.csv')
 
@@ -22,9 +24,8 @@ def crawler_fun(Jahr):
 
         # Funktion schaut jede Begegnung eines Spieltages an
 
-
         for f in jso:
-
+            
             # Endergebnis des Matchs
             MaRe = dict.get(f, "MatchResults")
 
@@ -73,11 +74,26 @@ def crawler_fun(Jahr):
                 Datum = str(get_datum)
                 Match.append(Datum)
 
-                # Teamlist, Goallist und des Datums in einer Liste
+                
+                if counter < 9:
+                
+                    team_icons = []
+
+                    team_one_icon = dict.get(team1, "TeamIconUrl")
+                    team_two_icon= dict.get(team2, "TeamIconUrl")
+
+                    # insert icons into the array
+                    team_icons.append(team_one_icon)
+                    team_icons.append(team_two_icon)
+
+                    Match.append(team_icons)
+
+                # Teamlist, Goallist and date
                 # List of Strings, List of Strings, String
                 Endergebnis_Spieltag.append(Match)
 
-        # Spieltag einfügen in alle gespielte Spiele
+                counter += 1
+        # Insert all played matches of the day 
         Endergebnisse_Jahr.append(Endergebnis_Spieltag)
         Endergebnis_Spieltag = []
     
@@ -89,5 +105,5 @@ def crawler_fun(Jahr):
                 writer.writerow(j)
 
 #Jahr = input("Von welchem Jahr sollen die Spieldaten geladen werden? ")
-crawler_fun(2019)
+#crawler_fun(2018)
  

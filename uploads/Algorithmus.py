@@ -91,8 +91,8 @@ def get_all_matches(Jahr):
             
 def get_win_ratio(home, away):
     all_stats = []
-    for i in range(2):
-        file = 2017 + i
+    for i in range(10):
+        file = 2009 + i
         if not path.exists(str(file) + ('.csv')):
             crawler_fun(file) 
         all_stats.append(get_all_matches(file))
@@ -131,4 +131,4 @@ def get_win_ratio(home, away):
     print(ratio)
     return ratio
 
-get_win_ratio('FC Bayern',"Borussia Dortmund")
+#get_win_ratio('FC Bayern',"Borussia Dortmund")

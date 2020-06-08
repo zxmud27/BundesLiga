@@ -1,12 +1,12 @@
-"['VfL Wolfsburg', 'VfB Stuttgart']","[2, 0]",2009-08-07T20:30:00
-"['Borussia Dortmund', '1. FC Köln']","[1, 0]",2009-08-08T15:30:00
-"['1. FC Nürnberg', 'FC Schalke 04']","[1, 2]",2009-08-08T15:30:00
-"['Werder Bremen', 'Eintracht Frankfurt']","[2, 3]",2009-08-08T15:30:00
-"['Hertha BSC', 'Hannover 96']","[1, 0]",2009-08-08T15:30:00
-"['1. FSV Mainz 05', 'Bayer Leverkusen']","[2, 2]",2009-08-08T15:30:00
-"['TSG 1899 Hoffenheim', 'FC Bayern München']","[1, 1]",2009-08-08T18:30:00
-"['VfL Bochum', 'Borussia Mönchengladbach']","[3, 3]",2009-08-09T15:30:00
-"['SC Freiburg', 'Hamburger SV']","[1, 1]",2009-08-09T17:30:00
+"['VfL Wolfsburg', 'VfB Stuttgart']","[2, 0]",2009-08-07T20:30:00,"['https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/1024px-Logo-VfL-Wolfsburg.svg.png', 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/921px-VfB_Stuttgart_1893_Logo.svg.png']"
+"['Borussia Dortmund', '1. FC Köln']","[1, 0]",2009-08-08T15:30:00,"['https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/240px-Borussia_Dortmund_logo.svg.png', 'https://upload.wikimedia.org/wikipedia/en/thumb/5/53/FC_Cologne_logo.svg/901px-FC_Cologne_logo.svg.png']"
+"['1. FC Nürnberg', 'FC Schalke 04']","[1, 2]",2009-08-08T15:30:00,"['https://upload.wikimedia.org/wikipedia/commons/f/fa/1._FC_Nürnberg_logo.svg', 'https://upload.wikimedia.org/wikipedia/commons/6/6d/FC_Schalke_04_Logo.svg']"
+"['Werder Bremen', 'Eintracht Frankfurt']","[2, 3]",2009-08-08T15:30:00,"['https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/681px-SV-Werder-Bremen-Logo.svg.png', 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1024px-Eintracht_Frankfurt_Logo.svg.png']"
+"['Hertha BSC', 'Hannover 96']","[1, 0]",2009-08-08T15:30:00,"['https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/2858px-Hertha_BSC_Logo_2012.svg.png', 'https://upload.wikimedia.org/wikipedia/commons/c/cd/Hannover_96_Logo.svg']"
+"['1. FSV Mainz 05', 'Bayer Leverkusen']","[2, 2]",2009-08-08T15:30:00,"['https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1099px-Logo_Mainz_05.svg.png', 'https://upload.wikimedia.org/wikipedia/de/thumb/f/f7/Bayer_Leverkusen_Logo.svg/1280px-Bayer_Leverkusen_Logo.svg.png']"
+"['TSG 1899 Hoffenheim', 'FC Bayern München']","[1, 1]",2009-08-08T18:30:00,"['https://upload.wikimedia.org/wikipedia/commons/6/64/TSG_Logo-Standard_4c.png', 'https://www.openligadb.de/images/teamicons/Bayern_Muenchen.gif']"
+"['VfL Bochum', 'Borussia Mönchengladbach']","[3, 3]",2009-08-09T15:30:00,"['https://www.openligadb.de/images/teamicons/VfL_Bochum.gif', 'https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_Mönchengladbach_logo.svg']"
+"['SC Freiburg', 'Hamburger SV']","[1, 1]",2009-08-09T17:30:00,"['https://upload.wikimedia.org/wikipedia/de/thumb/f/f1/SC-Freiburg_Logo-neu.svg/739px-SC-Freiburg_Logo-neu.svg.png', 'https://upload.wikimedia.org/wikipedia/commons/6/66/HSV-Logo.svg']"
 "['FC Bayern München', 'Werder Bremen']","[1, 1]",2009-08-15T15:30:00
 "['VfB Stuttgart', 'SC Freiburg']","[4, 2]",2009-08-15T15:30:00
 "['Hamburger SV', 'Borussia Dortmund']","[4, 1]",2009-08-15T15:30:00
