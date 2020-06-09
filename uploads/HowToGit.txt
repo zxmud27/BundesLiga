@@ -1,0 +1,9 @@
+Order Aktualisieren:
+git pull
+Dateien ins Repository hochladen:
+-> Datei hinzufügen
+-> git add .
+-> git status
+Jetzt müsstest du sehen, ob der Inhalt des Ordners sich verändert hat
+-> git commit -m "Commitbeschreibung"
+-> git push
