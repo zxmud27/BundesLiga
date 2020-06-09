@@ -9,67 +9,67 @@ def crawler_fun(Jahr):
     Endergebnisse_Jahr = []
 
     counter = 0
-    # CSV Name
+    # CSV file name
     filename = str(Jahr) + ('.csv')
 
-    # Schleife für alle Spieltage
+     # loop for every season
     for i in range(1,35):
 
-        # Daten von Openligadb
+        # files from Openligadb
         Spieltaglink = ("https://www.openligadb.de/api/getmatchdata/bl1/") + str(Jahr) + ("/") + str(i)
 
-        # zieht Daten eines Spieltages
+       # extracts files of one match day
         req = urllib.request.urlopen(Spieltaglink)
         jso = json.loads(req.read().decode())
 
-        # Funktion schaut jede Begegnung eines Spieltages an
+        # function looks for every encounter of one match day
 
         for f in jso:
             
-            # Endergebnis des Matchs
+             # end result of match
             MaRe = dict.get(f, "MatchResults")
 
-            # überprüfen ob das aktuell zu betrachtende Spiel gespielt wurden
+            # verifies if the current match has been played or not
             if not len(MaRe) == 0:
                 versuch = dict.get(MaRe[0], "PointsTeam1")
             else:
                 versuch = None
 
             if versuch != None:
-                # Namen der spielenden Heimmannschaft , Gastmannschaft
+                # name of the playing home team, away team
                 Match = []
 
-                # Namen der spielenden Heimmannschaft , Gastmannschaft
+               # name of the playing home team, away team
                 Teamlist = []
 
-                # Speichert Heimmannschaft
+                 # saves home team
                 team1 = dict.get(f, "Team1")
                 name1 = dict.get(team1, "TeamName")
                 Teamlist.append(name1)
 
-                # Speichert Gastmannschaft
+                 # saves away team
                 team2 = dict.get(f, "Team2")
                 name2 = dict.get(team2, "TeamName")
                 Teamlist.append(name2)
 
                 Match.append(Teamlist)
 
-                # Tore von der Heimmannschaft , Gastmannschaft
+                # goals home team, away team
                 Goalslist = []
         
-                # Tore Heimmannschaft
+                 # goals home team
             
                 goalsteam1 = dict.get(MaRe[0], "PointsTeam1")
                 Goalslist.append(goalsteam1)
 
-                # Tore Gastmannschaft
+               # goals away team
                 goalsteam2 = dict.get(MaRe[0], "PointsTeam2")
                 Goalslist.append(goalsteam2)
 
-                # Zusammenfügen der Spiele am Spieltag
+                 # puts together matches of match day
                 Match.append(Goalslist)
             
-                # Datum des Spieltages mit Uhrzeit
+                # date and time of match day
                 get_datum = dict.get(f,"MatchDateTime")
                 Datum = str(get_datum)
                 Match.append(Datum)

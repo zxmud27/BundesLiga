@@ -8,19 +8,18 @@ def get_all_matches(Jahr):
     filename = str(Jahr) + ('.csv')
     teams = []
     
-    # Auslesen der Teams
+     # Reading the teams
     with open(filename) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         line_count = 0
-        # Zähler für gespielte spiele
+         # Counter for played games
         k = 0
-        # CSV wird gelesen und ausgewertet
+         # CSV file is read and evaluated
         for i in csv_reader:
-            # Alle Teamname eingetragen?, wird in den ersten 9 Spielen auf False gesetzt
-
-            # Namen der zwei Teams die gegeneinander spielen an dem Tag
+            # are all teamnames signed in? is set to false in the first 9 games
+                # Name of the 2 competing teams
             names = i[0]
-            # Torverhältnis nach dem Ende des Spiels
+            # goals ratio after the match
             goals = i[1]
 
             #Auftrennung von "names" -> Teamname beider Teams wird entnommen
@@ -30,12 +29,12 @@ def get_all_matches(Jahr):
             teamb = both_teams[1]
             teamb = teamb[1:-1]
 
-            #Auftrennung der Tore, von Team A geschossene Tore : goals_a, von Team B geschossene Tore : goals_b
+            #Seperation of goals, team a's goals: goals_a, team b's goals: goals_b
             all_goals = goals.strip('["]').split(', ') 
             goals_a = int(all_goals[0])
             goals_b = int(all_goals[1])
             
-            # Eintragen der Namen in "teams" für die ersten 9 Spiele
+           # enters names in "teams" for the first 9 matches
             if k < 9:
                 
                 teamstatsa = []   
@@ -49,7 +48,7 @@ def get_all_matches(Jahr):
                 teams.append(teamstatsb)
             k += 1
             
-            # Zähler für die Position des gesuchten Teams
+             # counter for position of the wanted team
             c = 0
 
             # teams[get teamstats][in [1] = all stats][0= won  1 = draw, 2 lose]

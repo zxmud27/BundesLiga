@@ -74,19 +74,18 @@ def Ubersetzer(teamname):
    elif(teamname==rbLeipzig):
       return 'RB Leipzig'
 def buttonupdate(buttonnummer, teamname):
-   print("duspast")
    if(buttonnummer==1):
       erstesTeamButton = tk.Button(frame,image= teamname,width=10, height=10, fg="white", bg="royalblue",command=lambda: newframe(1))
       erstesTeamButton.place(relx=0.20,rely=0.52, relwidth=0.20, relheight=0.20) 
-      global leckmich 
-      leckmich=teamname
+      global tname1 
+      tname1=teamname
       newWindow.destroy()
       
    else:
       zweitesTeamButton = tk.Button(frame,image= teamname,width=10, height=10, fg="white", bg="royalblue",command=lambda:newframe(2))
       zweitesTeamButton.place(relx=0.60,rely=0.52, relwidth=0.20, relheight=0.20)
-      global leckmich2
-      leckmich2 = teamname
+      global tname2
+      tname2 = teamname
       newWindow.destroy()
     
 
@@ -158,9 +157,9 @@ CrawlerButton.place(relx=0.06,rely=0.13, relwidth=0.2, relheight=0.1)
 
 IncludeSeasonButtonCheckBox = tk.Checkbutton(frame, text="Include current Season", bg="cornflowerblue")
 IncludeSeasonButtonCheckBox.place(relx=0.35,rely=0.165, relwidth=0.4, relheight=0.03)
-leckmich=dortmund
-leckmich2=wolfsburg
-predictButton = tk.Button(frame, text="Predict",width=10, height=10, fg="white", bg="royalblue",command=lambda:winrateLabels(leckmich,leckmich2))
+tname1=dortmund
+tname2=wolfsburg
+predictButton = tk.Button(frame, text="Predict",width=10, height=10, fg="white", bg="royalblue",command=lambda:winrateLabels(tname1,tname2))
 predictButton.place(relx=0.4,rely=0.75, relwidth=0.2, relheight=0.08)
 startTrain = tk.Button(frame, text="Start Training",width=10, height=10, fg="white", bg="royalblue")
 startTrain.place(relx=0.4,rely=0.38, relwidth=0.2, relheight=0.08)
@@ -204,34 +203,3 @@ punkt2.place(relx=0.5,rely=0.63, relwidth=0.02, relheight=0.02)
 
 
 root.mainloop()
-#Hello World
-#class Application(tk.Frame):
- #   def __init__(self, master=None):
-  #      super().__init__(master)
-   #     self.master = master
-    #    self.pack()
-     #   self.create_widgets()
-      #  self.winfo_width=200
-       # self.winfo_height=200
-
-#    def create_widgets(self):
- #       self.hi_there = tk.Button(self)
- #       self.hi_there["text"] = "Hello World\n(click me)"
-  #      self.hi_there["command"] = self.say_hi
-   #     self.hi_there.pack(side="top")
-#
- #       self.quit = tk.Button(self, text="QUIT", fg="red",
-  #                            command=self.master.destroy)
-   #     self.quit.pack(side="bottom")
-#
-   #    self.button1 =tk.Button(self)
-    #    self.button1["text"] = "Button 1\n(Klick mich nicht!)"
-    #    self.button1["command"] = self.say_hi
-    #    self.button1.pack(side="bottom")
-
- #   def say_hi(self):
-  #      print("hi there, everyone!")
-#
-#root = tk.Tk()
-#app = Application(master=root)
-#app.mainloop()
