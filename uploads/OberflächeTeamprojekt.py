@@ -26,8 +26,8 @@ schalke04   = PhotoImage(file='s04.png')
 hoffenheim  = PhotoImage(file='tsg.png')
 #koeln       = PhotoImage(file='koe.png')
 herthaBSC   = PhotoImage(file='bsc.png')
-#unionBerlin    = PhotoImage(file='fcu.png')
-eintrachtFrankfurt   = PhotoImage(file='sge.png')
+#unionBerlin  = PhotoImage(file='fcu.png')
+eintrachtFrankfurt = PhotoImage(file='sge.png')
 augsburg = PhotoImage(file='fca.png')
 mainz05  = PhotoImage(file='m05.png')
 fortunaduesseldorf   = PhotoImage(file='f95.png')
@@ -87,10 +87,7 @@ def buttonupdate(buttonnummer, teamname):
       global tname2
       tname2 = teamname
       newWindow.destroy()
-    
 
-
-      
 def newframe(buttonnummer):
    global newWindow 
    newWindow= tk.Toplevel(root)
@@ -200,6 +197,62 @@ punkt1 = tk.Label(frame, text="Oberer Schwarzer Punkt", bg="black", fg="black")
 punkt1.place(relx=0.5,rely=0.60, relwidth=0.02, relheight=0.02)
 punkt2 = tk.Label(frame, text="Unterer Schwarzer Punkt", bg="black", fg="black")
 punkt2.place(relx=0.5,rely=0.63, relwidth=0.02, relheight=0.02)
+
+def show():
+   myLable = Label(root, text=clicked1.get()).pack()
+
+   
+#Lists with all seasons
+seasons_Start = [
+   "2009/2010", 
+   "2010/2011", 
+   "2011/2012", 
+   "2012/2013", 
+   "2013/2014",
+   "2014/2015",
+   "2015/2016",
+   "2016/2017",
+   "2017/2018",
+   "2018,2019",
+   "2019/2020"
+]
+#reversed list with all seasons
+seasons_End = seasons_Start[::-1]
+
+#List with all match days 
+matchdays_Start = []
+for i in range(0, 34):
+   matchdays_Start.append(i+1)
+
+#reversed list with all match days
+matchdays_End = matchdays_Start[::-1]
+
+clicked1 = StringVar()  
+clicked1.set(seasons_Start[0])
+season_start_menu = OptionMenu(root, clicked1, *seasons_Start)
+season_start_menu.pack()
+season_start_menu.place(relx=0.05,rely=0.3)
+
+clicked2 = StringVar()  
+clicked2.set(seasons_End[0])
+season_end_menu = OptionMenu(root, clicked2, *seasons_End)
+season_end_menu.pack()
+season_end_menu.place(relx=0.55,rely=0.3)
+
+clicked3 = StringVar()  
+clicked3.set(matchdays_Start[0])
+matchdays_start_menu = OptionMenu(root, clicked3, *matchdays_Start)
+matchdays_start_menu.pack()
+matchdays_start_menu.place(relx=0.35,rely=0.3)
+
+clicked4 = StringVar()  
+clicked4.set(matchdays_End[0])
+matchdays_end_menu = OptionMenu(root, clicked4, *matchdays_End)
+matchdays_end_menu.pack()
+matchdays_end_menu.place(relx=0.8,rely=0.3)
+
+selector = tk.Button(root, text="Choose",width=10, height=5, fg="white", bg="royalblue", command=show).pack()
+#selector.place(relx=0.4,rely=0.45, relwidth=0.2, relheight=0.08)
 
 
 root.mainloop()
