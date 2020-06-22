@@ -162,7 +162,7 @@ startTrain = tk.Button(frame, text="Start Training",width=10, height=10, fg="whi
 startTrain.place(relx=0.4,rely=0.38, relwidth=0.2, relheight=0.08)
 #Methode 
 def winrateLabels(team1, team2):
-   stats = get_win_ratio(Ubersetzer(team1),Ubersetzer(team2))
+   stats = get_win_ratio(Ubersetzer(team1),Ubersetzer(team2),clicked_day_Start,clicked_season_Start,clicked_day_End,clicked_season_End)
 
    #algo1.get_win_ratio(Ubersetzer(team1),Ubersetzer(team2))
    # Winrate
@@ -206,17 +206,17 @@ def createLabel():
    myLable.place(relx=0.42,rely=0.95)
 #Lists with all seasons
 seasons_Start = [
-   "2009/2010", 
-   "2010/2011", 
-   "2011/2012", 
-   "2012/2013", 
-   "2013/2014",
-   "2014/2015",
-   "2015/2016",
-   "2016/2017",
-   "2017/2018",
-   "2018,2019",
-   "2019/2020"
+   2009, 
+   2010, 
+   2011, 
+   2012, 
+   2013,
+   2014,
+   2015,
+   2016,
+   2017,
+   2018,
+   2019
 ]
 #reversed list with all seasons
 seasons_End = seasons_Start[::-1]
@@ -229,23 +229,24 @@ for i in range(0, 34):
 #reversed list with all match days
 matchdays_End = matchdays_Start[::-1]
 
-clicked1 = StringVar()  
-clicked1.set(seasons_Start[0])
-season_start_menu = tk.OptionMenu(root, clicked1, *seasons_Start )
+clicked_season_Start = StringVar()  
+clicked_season_Start.set(seasons_Start[0])
+season_start_menu = OptionMenu(root, clicked_season_Start, *seasons_Start)
 season_start_menu.place(relx=0.05,rely=0.12)
-clicked2 = StringVar()  
-clicked2.set(seasons_End[0])
-season_end_menu = OptionMenu(root, clicked2, *seasons_End)
+
+clicked_season_End = StringVar()  
+clicked_season_End.set(seasons_End[0])
+season_end_menu = OptionMenu(root, clicked_season_End, *seasons_End)
 season_end_menu.place(relx=0.58,rely=0.12)
 
-clicked3 = StringVar()  
-clicked3.set(matchdays_Start[0])
-matchdays_start_menu = OptionMenu(root, clicked3, *matchdays_Start)
+clicked_day_Start = StringVar()  
+clicked_day_Start.set(matchdays_Start[0])
+matchdays_start_menu = OptionMenu(root, clicked_day_Start, *matchdays_Start)
 matchdays_start_menu.place(relx=0.28,rely=0.12)
 
-clicked4 = StringVar()  
-clicked4.set(matchdays_End[0])
-matchdays_end_menu = OptionMenu(root, clicked4, *matchdays_End)
+clicked_day_End = StringVar()  
+clicked_day_End.set(matchdays_End[0])
+matchdays_end_menu = OptionMenu(root, clicked_day_End, *matchdays_End)
 matchdays_end_menu.place(relx=0.8,rely=0.12)
 
 untilLabel = tk.Label(frame, text="until",bg='gray13',fg='white')
