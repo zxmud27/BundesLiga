@@ -156,13 +156,13 @@ IncludeSeasonButtonCheckBox = tk.Checkbutton(frame, text="Include current Season
 IncludeSeasonButtonCheckBox.place(relx=0.35,rely=0.285, relwidth=0.4, relheight=0.03)
 tname1=dortmund
 tname2=wolfsburg
-predictButton = tk.Button(frame, text="Predict",width=10, height=10, fg="white", bg='brown4',command=lambda:winrateLabels(tname1,tname2))
+predictButton = tk.Button(frame, text="Predict",width=10, height=10, fg="white", bg='brown4',command=lambda:winrateLabels(tname1,tname2,clicked_day_Start,clicked_season_Start,clicked_day_End,clicked_season_End))
 predictButton.place(relx=0.4,rely=0.75, relwidth=0.2, relheight=0.08)
 startTrain = tk.Button(frame, text="Start Training",width=10, height=10, fg="white", bg='brown4')
 startTrain.place(relx=0.4,rely=0.38, relwidth=0.2, relheight=0.08)
 #Methode 
-def winrateLabels(team1, team2):
-   stats = get_win_ratio(Ubersetzer(team1),Ubersetzer(team2),clicked_day_Start,clicked_season_Start,clicked_day_End,clicked_season_End)
+def winrateLabels(team1, team2,clicked_day_Start,clicked_season_Start,clicked_day_End,clicked_season_End):
+   stats = get_win_ratio(Ubersetzer(team1),Ubersetzer(team2),int(clicked_day_Start.get()),int(clicked_season_Start.get()),int(clicked_day_End.get()),int(clicked_season_End.get()))
 
    #algo1.get_win_ratio(Ubersetzer(team1),Ubersetzer(team2))
    # Winrate
@@ -229,6 +229,7 @@ for i in range(0, 34):
 #reversed list with all match days
 matchdays_End = matchdays_Start[::-1]
 
+
 clicked_season_Start = StringVar()  
 clicked_season_Start.set(seasons_Start[0])
 season_start_menu = OptionMenu(root, clicked_season_Start, *seasons_Start)
@@ -251,10 +252,6 @@ matchdays_end_menu.place(relx=0.8,rely=0.12)
 
 untilLabel = tk.Label(frame, text="until",bg='gray13',fg='white')
 untilLabel.place(relx=0.46,rely=0.14, relwidth=0.06, relheight=0.03)
-
-selector = tk.Button(root, text="Choose", fg="white", bg='brown4', command=lambda: show())
-selector.place(relx=0.0,rely=0.00, relwidth=1, relheight=0.1) #choose button
-#selector.place(relx=0.4,rely=0.45, relwidth=0.2, relheight=0.08)
 
 
 root.mainloop()

@@ -98,12 +98,12 @@ def get_win_ratio(home, away, start_day, start_year ,end_day, end_year):
     while match_year <= end_year:
         if not path.exists(str(match_year) + ('.csv')):
             crawler_fun(match_year) 
-        if match_year == start_year == end_year:
-            all_stats.append(get_all_matches(start_day ,match_year,end_day))
+        if match_year == end_year:
+            all_stats.append(get_all_matches(1 ,match_year,end_day))
         elif match_year == start_year:
             all_stats.append(get_all_matches(start_day,match_year,34))
-        elif match_year == end_year:
-            all_stats.append(get_all_matches(1,match_year,end_day))
+        elif match_year < end_year:
+            all_stats.append(get_all_matches(1,match_year,34))
         match_year += 1
     win = 0
     draw = 0
@@ -134,10 +134,10 @@ def get_win_ratio(home, away, start_day, start_year ,end_day, end_year):
         draw_ratio = draw / played_games * 100
         lose_ratio = lose / played_games * 100
 
-    ratio = [win_ratio, draw_ratio, lose_ratio]
+    ratio = [round(win_ratio,4), round(draw_ratio,4), round(lose_ratio,4)]
     print(win , " " , draw , " " , lose)
     print(ratio)
     return ratio
 
-#get_win_ratio('FC Bayern',"Borussia Dortmund",1,2018,10,2018)
+get_win_ratio('FC Bayern',"Borussia Dortmund",1,2010,34,2018)
 #get_all_matches(1,2018,3)
