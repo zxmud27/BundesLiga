@@ -3,7 +3,30 @@ import urllib.request
 import csv
 
 
-def crawler_fun(Jahr):
+def crawler_fun(year):
+
+    """
+    Creating a csv file with:
+        teamnames
+        match score
+        matchday and matchtime
+    -----------
+    Parameters:
+    -----------
+
+    year : int
+        Match year
+    
+    -------
+    Return:
+    -------
+    
+    list with three lists:
+        [[teams][score][match time and match day]]
+            [[teamA][teamB]] [[scoreA][scoreB][match time and match day]]
+    
+    """
+
 
     Endergebnis_Spieltag = []
 
@@ -11,14 +34,14 @@ def crawler_fun(Jahr):
 
     counter = 0
     # CSV file name
-    filename = str(Jahr) + ('.csv')
+    filename = str(year) + ('.csv')
 
     # loop for every season
     for i in range(1, 35):
 
         # files from Openligadb
         Spieltaglink = (
-            "https://www.openligadb.de/api/getmatchdata/bl1/") + str(Jahr) + ("/") + str(i)
+            "https://www.openligadb.de/api/getmatchdata/bl1/") + str(year) + ("/") + str(i)
 
        # extracts files of one match day
         req = urllib.request.urlopen(Spieltaglink)

@@ -5,6 +5,37 @@ from Crawler import crawler_fun
 
 
 def get_all_matches(start_season_day, start_season_year, end_season_day):
+
+    """
+
+    Evaluating the stats of team from the csv file:
+        win
+        tie
+        loose
+        
+    -----------
+    Parameters:
+    -----------
+
+    start_season_day : int
+        first match day the algorithm uses to evaluate the win , tie and loose ratio of all team 
+    
+    start_season_year : int
+        first match year the algorithm uses to evaluate the win , tie and loose ratio of all team 
+
+    end_season_day : int
+        the algorithm evaluates the win, tie and loose ratio of all teams untill the last day of the match year
+        
+    -------
+    Return:
+    -------
+    
+    list with three lists:
+        [[teamA][teamB]] [[scoreA][scoreB][matchtime and matchday]]
+    
+    """
+
+
     # CSV Name
     filename = str(start_season_year) + ('.csv')
     teams = []
@@ -98,17 +129,53 @@ def get_all_matches(start_season_day, start_season_year, end_season_day):
 
 
 def get_win_ratio(home, away, start_day, start_year, end_day, end_year):
+    """
+    Evaluating lists from get_all_matches() function
+    to evaluate the win, tie and loose ratio
+
+    -----------
+    Parameters:
+    -----------
+
+    home : string
+        home team name
+
+    away : string
+        away team name
+
+    start_day : int
+        first match day 
+    
+    start_year : int
+        first match year  
+
+    end_day : int
+        last match day
+        
+    end_year : int
+        last match year
+    -------
+    Return:
+    -------
+    
+    list with three arguments:
+        [[win ratio][tie ratio][loose ratio]]
+    
+    """
+    
     all_stats = []
     match_year = start_year
     while match_year <= end_year:
         if not path.exists(str(match_year) + ('.csv')):
             crawler_fun(match_year)
-        if match_year == end_year:
-            all_stats.append(get_all_matches(1, match_year, end_day))
+        if start_year == end_year:
+            all_stats.append(get_all_matches(start_day, match_year, end_day))
         elif match_year == start_year:
             all_stats.append(get_all_matches(start_day, match_year, 34))
         elif match_year < end_year:
             all_stats.append(get_all_matches(1, match_year, 34))
+        elif match_year == end_year:
+            all_stats.append(get_all_matches(1, match_year, end_day))
         match_year += 1
     win = 0
     draw = 0
