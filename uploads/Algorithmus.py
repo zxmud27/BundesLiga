@@ -2,6 +2,7 @@ import csv
 import os.path
 from os import path
 from Crawler import crawler
+from urllib.request import urlretrieve
 
 class algo:
 
@@ -221,6 +222,103 @@ class algo:
         print(ratio)
         return ratio
 
-game1 = algo('FC Bayern', "Borussia Dortmund", 1, 2010, 34, 2018)
-game1.get_win_ratio()
-# get_all_matches(1,2018,3)
+    def teamnames_and_icon_links(self,year):
+        """
+        saving teamnames and icon list into a list
+
+        -----------
+        Parameters:
+        -----------
+
+        year : int
+            season year to get the icons and teams
+
+        -------
+        Return:
+        -------
+    
+        list : string
+            with names of the team and icons inside
+                [[name of team][icon link]]
+    
+        """
+        filename = str(year) + ('.csv')
+        teams = []
+
+        with open(filename) as csv_file:
+            csv_reader = csv.reader(csv_file, delimiter=',')
+            line_count = 0
+            # Counter for played games
+            k = 0
+            startday_counter = 0
+            # CSV file is read and evaluated
+            name_icon_list = []
+            for i in csv_reader:
+    
+                k += 1
+                if k <= 9:
+                    # Name of the 2 competing teams
+                    names = i[0]
+                    # Icons of the 2 competing teams
+                    icon = i[3]
+
+                    # Auftrennung von "names" -> Teamname beider Teams wird
+                    # entnommen
+                    both_teams = names.strip('["]').split(', ')
+                    teama = both_teams[0]
+                    teama = teama[1:-1]
+                    teamb = both_teams[1]
+                    teamb = teamb[1:-1]
+
+                    both_icons = icon.strip('[]').split(', ')
+                    icon_a = both_icons[0]
+                    icon_a = icon_a[1:-1]
+                    icon_b = both_icons[1]
+                    icon_b = icon_b[1:-1]
+                    
+                    cache = []
+                    cache.append(teama)
+                    cache.append(icon_a)
+                    name_icon_list.append(cache)
+                    cache = []
+                    cache.append(teamb)
+                    cache.append(icon_b)
+                    name_icon_list.append(cache)
+
+                    #print(name_icon_list)
+            return name_icon_list
+
+
+ 
+    def icon_download(self,list_with_icons):
+        """
+        downloading and saving icons of the teams
+
+        -----------
+        Parameters:
+        -----------
+
+        list : string
+            icon links
+
+        -------
+        Return:
+        -------
+    
+        saving png
+    
+        """
+        for i in range(0,18):
+            name = list_with_icons[i][0]
+            url = list_with_icons[i][1]
+            filename = name + ".png"
+            if not os.path.isfile(filename):
+                urlretrieve(url, filename)
+
+
+#game1 = algo('FC Bayern', "Borussia Dortmund", 1, 2010, 34, 2018)
+#game1.get_win_ratio()
+#my_list = game1.teamnames_and_icon_links(2017)
+#print(my_list)
+#game1.icon_download(my_list)
+
