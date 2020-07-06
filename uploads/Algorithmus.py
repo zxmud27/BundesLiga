@@ -1,7 +1,7 @@
 import csv
 import os.path
 from os import path
-from Crawler import csvcreater
+from Crawler import crawler
 
 class algo:
 
@@ -176,16 +176,16 @@ class algo:
         match_year = self.start_year
         while match_year <= self.end_year:
             if not path.exists(str(match_year) + ('.csv')):
-                match = Crawler.csvcreater(match_year)
+                match = crawler.csvcreater(match_year)
                 match.Crawler.csvcreater()
-            if start_year == self.end_year:
+            if self.start_year == self.end_year:
                 all_stats.append(self.get_all_matches(self.start_day, self.match_year, self.end_day))
             elif match_year == self.start_year:
-                all_stats.append(self.get_all_matches(self.start_day, self.match_year, 34))
+                all_stats.append(self.get_all_matches(self.start_day, match_year, 34))
             elif match_year < self.end_year:
-                all_stats.append(self.get_all_matches(1, self.match_year, 34))
+                all_stats.append(self.get_all_matches(1, match_year, 34))
             elif match_year == self.end_year:
-                all_stats.append(self.get_all_matches(1, self.match_year, self.end_day))
+                all_stats.append(self.get_all_matches(1, match_year, self.end_day))
             match_year += 1
         win = 0
         draw = 0
