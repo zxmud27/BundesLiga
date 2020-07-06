@@ -5,10 +5,10 @@ import csv
 
 class crawler:
 
-    def __init__(self, params):
-        self.params = params
+    def __init__(self, year):
+        self.year = year
 
-    def csvcreater(year):
+    def csvcreater(self):
         """
         Creating a csv file with:
             teamnames
@@ -37,14 +37,14 @@ class crawler:
 
         counter = 0
         # CSV file name
-        filename = str(year) + ('.csv')
+        filename = str(self.year) + ('.csv')
 
         # loop for every season
         for i in range(1, 35):
 
             # files from Openligadb
             Spieltaglink = (
-                "https://www.openligadb.de/api/getmatchdata/bl1/") + str(year) + ("/") + str(i)
+                "https://www.openligadb.de/api/getmatchdata/bl1/") + str(self.year) + ("/") + str(i)
 
        # extracts files of one match day
         req = urllib.request.urlopen(Spieltaglink)

@@ -1,14 +1,19 @@
 import csv
 import os.path
 from os import path
-from uploads.Crawler import csvcreater
+from Crawler import csvcreater
 
-class algorithm:
+class algo:
 
-    def __init__(self, params):
-        self.params = params
+    def __init__(self,home, away, start_day, start_year, end_day, end_year):
+        self.home = home
+        self.away = away
+        self.start_day = start_day
+        self.start_year = start_year
+        self.end_day = end_day
+        self.end_year = end_year
 
-    def get_all_matches(start_season_day, start_season_year, end_season_day):
+    def get_all_matches(self,start_season_day, start_season_year, end_season_day):
 
         """
 
@@ -132,7 +137,7 @@ class algorithm:
             return teams
 
 
-    def get_win_ratio(home, away, start_day, start_year, end_day, end_year):
+    def get_win_ratio(self):
         """
         Evaluating lists from get_all_matches() function
         to evaluate the win, tie and loose ratio
@@ -168,18 +173,19 @@ class algorithm:
         """
     
         all_stats = []
-        match_year = start_year
-        while match_year <= end_year:
+        match_year = self.start_year
+        while match_year <= self.end_year:
             if not path.exists(str(match_year) + ('.csv')):
-                Crawler.csvcreater(match_year)
-            if start_year == end_year:
-                all_stats.append(get_all_matches(start_day, match_year, end_day))
-            elif match_year == start_year:
-                all_stats.append(get_all_matches(start_day, match_year, 34))
-            elif match_year < end_year:
-                all_stats.append(get_all_matches(1, match_year, 34))
-            elif match_year == end_year:
-                all_stats.append(get_all_matches(1, match_year, end_day))
+                match = Crawler.csvcreater(match_year)
+                match.Crawler.csvcreater()
+            if start_year == self.end_year:
+                all_stats.append(self.get_all_matches(self.start_day, self.match_year, self.end_day))
+            elif match_year == self.start_year:
+                all_stats.append(self.get_all_matches(self.start_day, self.match_year, 34))
+            elif match_year < self.end_year:
+                all_stats.append(self.get_all_matches(1, self.match_year, 34))
+            elif match_year == self.end_year:
+                all_stats.append(self.get_all_matches(1, self.match_year, self.end_day))
             match_year += 1
         win = 0
         draw = 0
@@ -191,17 +197,17 @@ class algorithm:
         counter = 0
         for n in all_stats:
             for x in n:
-                if x[0] == home:
+                if x[0] == self.home:
                     for g in x[1][0]:
-                        if g == away:
+                        if g == self.away:
                             win += 1
                             played_games += 1
                     for h in x[1][1]:
-                        if h == away:
+                        if h == self.away:
                             draw += 1
                             played_games += 1
                     for j in x[1][2]:
-                        if j == away:
+                        if j == self.away:
                             lose += 1
                             played_games += 1
 
@@ -215,6 +221,6 @@ class algorithm:
         print(ratio)
         return ratio
 
-
-algorithm.get_win_ratio('FC Bayern', "Borussia Dortmund", 1, 2010, 34, 2018)
+game1 = algo('FC Bayern', "Borussia Dortmund", 1, 2010, 34, 2018)
+game1.get_win_ratio()
 # get_all_matches(1,2018,3)
