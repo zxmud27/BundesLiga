@@ -179,7 +179,7 @@ class algo:
                 match = crawler.csvcreater(match_year)
                 match.Crawler.csvcreater()
             if self.start_year == self.end_year:
-                all_stats.append(self.get_all_matches(self.start_day, self.match_year, self.end_day))
+                all_stats.append(self.get_all_matches(self.start_day, match_year, self.end_day))
             elif match_year == self.start_year:
                 all_stats.append(self.get_all_matches(self.start_day, match_year, 34))
             elif match_year < self.end_year:

@@ -1,6 +1,6 @@
 from tkinter import *
 import tkinter as tk
-from Algorithmus import get_win_ratio
+from Algorithmus import algo
 #from Crawler import CrawlerX
 
 # Hello Tutorial
@@ -348,13 +348,13 @@ def winrateLabels(
         clicked_season_Start,
         clicked_day_End,
         clicked_season_End):
-    stats = get_win_ratio(
+    stats_from_algorithm = algo(
         Ubersetzer(team1), Ubersetzer(team2), int(
             clicked_day_Start.get()), int(
             clicked_season_Start.get()), int(
                 clicked_day_End.get()), int(
                     clicked_season_End.get()))
-
+    stats = stats_from_algorithm.get_win_ratio()
     # algo1.get_win_ratio(Ubersetzer(team1),Ubersetzer(team2))
     # Winrate
     # Übersetzer für team1 und team2
