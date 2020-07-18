@@ -1,4 +1,5 @@
 # This contains some examples for what functionality might be tested, TODO…:
+import teamproject
 from teamproject.models.nonsense import Model
 
 

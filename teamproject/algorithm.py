@@ -1,7 +1,7 @@
 import csv
 import os.path
 from os import path
-from Crawler import crawler
+from teamproject.crawler import CRAWLER
 from urllib.request import urlretrieve
 
 class algo:
@@ -47,11 +47,12 @@ class algo:
 
 
         # CSV Name
+        folder = "teamproject/match_year/"
         filename = str(start_season_year) + ('.csv')
         teams = []
 
         # Reading the teams
-        with open(filename) as csv_file:
+        with open(folder+filename) as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
             line_count = 0
             # Counter for played games
@@ -172,13 +173,13 @@ class algo:
             [[win ratio][tie ratio][loose ratio]]
     
         """
-    
+        folder = "teamproject/match_year/"
         all_stats = []
         match_year = self.start_year
         while match_year <= self.end_year:
-            if not path.exists(str(match_year) + ('.csv')):
-                match = crawler.csvcreater(match_year)
-                match.Crawler.csvcreater()
+            if not path.exists(folder+str(match_year) + ('.csv')):
+                match = CRAWLER(match_year)
+                match.csvcreater()
             if self.start_year == self.end_year:
                 all_stats.append(self.get_all_matches(self.start_day, match_year, self.end_day))
             elif match_year == self.start_year:
@@ -242,10 +243,11 @@ class algo:
                 [[name of team][icon link]]
     
         """
+        folder = "teamproject/match_year/"
         filename = str(year) + ('.csv')
         teams = []
 
-        with open(filename) as csv_file:
+        with open(folder+filename) as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
             line_count = 0
             # Counter for played games
@@ -316,8 +318,8 @@ class algo:
                 urlretrieve(url, filename)
 
 
-#game1 = algo('FC Bayern', "Borussia Dortmund", 1, 2010, 34, 2018)
-#game1.get_win_ratio()
+game1 = algo('FC Bayern', "Borussia Dortmund", 1, 2010, 34, 2018)
+game1.get_win_ratio()
 #my_list = game1.teamnames_and_icon_links(2017)
 #print(my_list)
 #game1.icon_download(my_list)
