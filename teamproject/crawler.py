@@ -123,10 +123,10 @@ class CRAWLER:
         # Insert all played matches of the day
         Endergebnisse_Jahr.append(Endergebnis_Spieltag)
         Endergebnis_Spieltag = []
-        dir = "teamproject/match_year"
-        if not os.path.isdir(dir):
-            os.makedirs(dir)
-        with open(dir + "/" + filename, 'w', newline='') as f:
+        folder = "teamproject/match_year"
+        if not os.path.isdir(folder):
+            os.makedirs(folder)
+        with open(folder + "/" + filename, 'w', newline='') as f:
             writer = csv.writer(f)
             for i in Endergebnisse_Jahr:
                 for j in i:
