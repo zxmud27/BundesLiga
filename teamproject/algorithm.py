@@ -318,7 +318,7 @@ class algo:
                 urlretrieve(url, filename)
 
 
-game1 = algo('FC Bayern', "Borussia Dortmund", 1, 2010, 34, 2018)
+game1 = algo('FC Bayern', "Borussia Dortmund", 1, 2009, 34, 2018)
 game1.get_win_ratio()
 #my_list = game1.teamnames_and_icon_links(2017)
 #print(my_list)

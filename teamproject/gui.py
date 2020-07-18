@@ -1,6 +1,6 @@
 from tkinter import *
 import tkinter as tk
-from Algorithmus import algo
+from teamproject.algorithm import algo
 #from Crawler import CrawlerX
 
 # Hello Tutorial
