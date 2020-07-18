@@ -1,5 +1,5 @@
-from Crawler import crawler
-from Algorithmus import algo
+from teamproject.crawler import CRAWLER
+from teamproject.algorithm import algo
 from tkinter import *
 class Team:
 
