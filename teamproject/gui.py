@@ -384,29 +384,36 @@ def dropDownMenu():
     ]
     # reversed list with all seasons
     seasons_End = seasons_Start[::-1]
+
     # List with all match days
     matchdays_Start = []
     for i in range(0, 34):
         matchdays_Start.append(i+1)
+
     # reversed list with all match days
     matchdays_End = matchdays_Start[::-1]
+
     clicked_season_Start = StringVar()
     clicked_season_Start.set(seasons_Start[0])
     season_start_menu = OptionMenu(root, clicked_season_Start, *seasons_Start)
     season_start_menu.place(relx=0.05, rely=0.12)
+
     clicked_season_End = StringVar()
     clicked_season_End.set(seasons_End[0])
     season_end_menu = OptionMenu(root, clicked_season_End, *seasons_End)
     season_end_menu.place(relx=0.58, rely=0.12)
+
     clicked_day_Start = StringVar()
     clicked_day_Start.set(matchdays_Start[0])
     matchdays_start_menu = tk.OptionMenu(
         root, clicked_day_Start, 1, *matchdays_Start,)
     matchdays_start_menu.place(relx=0.28, rely=0.12)
+
     clicked_day_End = StringVar()
     clicked_day_End.set(matchdays_End[0])
     matchdays_end_menu = OptionMenu(root, clicked_day_End, 1, *matchdays_End)
     matchdays_end_menu.place(relx=0.8, rely=0.12)
+    
     predictButton = tk.Button(
         frame,
         text="Predict",
@@ -422,6 +429,17 @@ def dropDownMenu():
             clicked_day_End,
             clicked_season_End))
     predictButton.place(relx=0.4, rely=0.75, relwidth=0.2, relheight=0.08)
+
+#dropdownmenu for choosing algorithm
+def algo_dropDown():
+    algorithms = [
+        "Minimal Prediction Algorithm",
+        "Poisson Algorithm"
+    ]
+
+    clicked_Algo = StringVar()
+    clicked_Algo.set(algorithms[0])
+    clicked_Algo_menu = OptionMenu(root, clicked_Algo, *algorithms)
 
 
 dropDownMenu()
