@@ -31,6 +31,12 @@ hannover = PhotoImage(file='bilder/hn96.png')
 nurnberg = PhotoImage(file='bilder/nb.png')
 tname1 = dortmund
 tname2 = wolfsburg
+inputTeamname1 = dortmund
+inputTeamname2 = dortmund
+global counter1
+counter1=0
+global counter2
+counter2=0
 def Ubersetzer(teamname):
     if(teamname == bayernMuenchen):
         return 'FC Bayern'
@@ -68,11 +74,10 @@ def Ubersetzer(teamname):
         return 'VfB Stuttgart'
     elif(teamname == rbLeipzig):
         return 'RB Leipzig'
-
-
 def buttonupdate(buttonnummer, teamname):
     if(buttonnummer == 1):
-        erstesTeamButton = tk.Button(
+        global firstTeamButton
+        firstTeamButton = tk.Button(
             frame,
             image=teamname,
             width=150,
@@ -80,14 +85,14 @@ def buttonupdate(buttonnummer, teamname):
             fg="white",
             bg='black',
             command=lambda: newframe(1))
-        erstesTeamButton.place(
+        firstTeamButton.place(
             relx=0.10, rely=0.2)
         global tname1
         tname1 = teamname
-        newWindow.destroy()
-
+        resetButton(1)
     else:
-        zweitesTeamButton = tk.Button(
+        global secondTeamButton
+        secondTeamButton = tk.Button(
             frame,
             image=teamname,
             width=150,
@@ -95,22 +100,47 @@ def buttonupdate(buttonnummer, teamname):
             fg="white",
             bg='black',
             command=lambda: newframe(2))
-        zweitesTeamButton.place(
+        secondTeamButton.place(
             relx=0.35,
             rely=0.2)
         global tname2
         tname2 = teamname
-        newWindow.destroy()
-
-
+        resetButton(0)
+    newWindow.destroy()
+def resetButton(buttonnummer):
+    if(buttonnummer==1):
+        global counter2
+        if(counter2==0):
+            zweitesTeamButton['state']='normal'
+        else:
+            secondTeamButton['state']='normal'
+    elif(buttonnummer==0):
+        global counter1
+        if(counter1==0):
+            erstesTeamButton['state']='normal'
+        else:
+            firstTeamButton['state']='normal'
 def newframe(buttonnummer):
+    global counter1
+    if(counter1==1):
+        firstTeamButton['state']='disabled'
+    else:
+        erstesTeamButton['state']='disabled'
+    global counter2
+    if(counter2==1):
+        secondTeamButton['state']='disabled'
+    else:
+        zweitesTeamButton['state']='disabled'
+    if(buttonnummer==1):
+        counter1=1
+    else:
+        counter2=1
+
     global newWindow
     newWindow = tk.Toplevel(root)
     canvas = tk.Canvas(newWindow, height=900, width=400)
     canvas.pack()
     teamset(buttonnummer)
-
-
 def teamset(buttonnummer):
     frame2 = tk.Frame(newWindow, bg='black')
     frame2.place(relwidth=1, relheight=1)
@@ -258,9 +288,8 @@ def teamset(buttonnummer):
             buttonnummer,
             nurnberg))
     NN.place(relx=0.5, rely=8/9, relwidth=1/2, relheight=1/9)
-
-
 def staticGUI():
+    global erstesTeamButton
     erstesTeamButton = tk.Button(
         frame,
         image=dortmund,
@@ -269,6 +298,7 @@ def staticGUI():
         bg='black',
         command=lambda: newframe(1))
     erstesTeamButton.place(relx=0.10, rely=0.2)
+    global zweitesTeamButton
     zweitesTeamButton = tk.Button(
         frame,
         image=wolfsburg,
@@ -368,32 +398,32 @@ def staticGUI():
 
     #Labels Mini-Algo
     winHome = tk.Label(frame, text="Win Home:", bg='black', fg='white',height=3,width=8)
-    winHome.place(relx=0.46, rely=0.7)
+    winHome.place(relx=0.47, rely=0.7)
     pWH = tk.Label(frame, text="PercentWH", bg='black',
                    fg='white',height=3,width=8)  # Übersetzer für team1 und team2
-    pWH.place(relx=0.52, rely=0.7)
+    pWH.place(relx=0.53, rely=0.7)
     draw = tk.Label(frame, text="Draw:", bg='black', fg='white',height=3,width=8)
-    draw.place(relx=0.46, rely=0.75)
+    draw.place(relx=0.47, rely=0.75)
     pDraw = tk.Label(frame, text="PercDRAW", bg='black', fg='white',height=3,width=8)
-    pDraw.place(relx=0.52, rely=0.75)
+    pDraw.place(relx=0.53, rely=0.75)
     winAway = tk.Label(frame, text="Win Away:", bg='black', fg='white',height=3,width=8)
-    winAway.place(relx=0.46, rely=0.8)
+    winAway.place(relx=0.47, rely=0.8)
     pWA = tk.Label(frame, text="PercentWA", bg='black', fg='white',height=3,width=8)
-    pWA.place(relx=0.52, rely=0.8)
+    pWA.place(relx=0.53, rely=0.8)
     #Labels Poisson-Algo
     winHomePoisson = tk.Label(frame, text="Win Home:", bg='black', fg='white',height=3,width=8)
-    winHomePoisson.place(relx=0.46, rely=0.47)
+    winHomePoisson.place(relx=0.47, rely=0.47)
     pWHPoisson = tk.Label(frame, text="PercentWH", bg='black',
                    fg='white',height=3,width=8)  # Übersetzer für team1 und team2
-    pWHPoisson.place(relx=0.52, rely=0.47)
+    pWHPoisson.place(relx=0.53, rely=0.47)
     drawPoisson = tk.Label(frame, text="Draw:", bg='black', fg='white',height=3,width=8)
-    drawPoisson.place(relx=0.46, rely=0.52 )
+    drawPoisson.place(relx=0.47, rely=0.52 )
     pDrawPoisson = tk.Label(frame, text="PercDRAW", bg='black', fg='white',height=3,width=8)
-    pDrawPoisson.place(relx=0.52, rely=0.52)
+    pDrawPoisson.place(relx=0.53, rely=0.52)
     winAwayPoisson = tk.Label(frame, text="Win Away:", bg='black', fg='white',height=3,width=8)
-    winAwayPoisson.place(relx=0.46, rely=0.57)
+    winAwayPoisson.place(relx=0.47, rely=0.57)
     pWAPoisson = tk.Label(frame, text="PercentWA", bg='black', fg='white',height=3,width=8)
-    pWAPoisson.place(relx=0.52, rely=0.57)
+    pWAPoisson.place(relx=0.53, rely=0.57)
 
     #Grafik Labels
     vsLabel = tk.Label(
@@ -404,8 +434,6 @@ def staticGUI():
     vsLabel.place(relx=0.27, rely=0.3)
     untilLabel = tk.Label(frame, text="until", bg='black', fg='white',height=2,width=3, font='bold')
     untilLabel.place(relx=0.27, rely=0.12)
-
-
 def winrateLabels(
         team1,
         team2,
@@ -431,8 +459,6 @@ def winrateLabels(
     # Loserate
     pWA = tk.Label(frame, text=stats[2], bg='black', fg='white')
     pWA.place(relx=0.6, rely=0.9, relwidth=0.2, relheight=0.04)
-
-
 def dropDownMenu():
     seasons_Start = [
         2009,
@@ -448,11 +474,11 @@ def dropDownMenu():
         2019
     ]
     # reversed list with all seasons
-    seasons_End = seasons_Start[::-1]
+    seasons_End = seasons_Start[::1]
 
     # List with all match days
     matchdays_Start = []
-    for i in range(1, 34):
+    for i in range(0, 34):
         matchdays_Start.append(i+1)
 
     # reversed list with all match days
@@ -468,17 +494,17 @@ def dropDownMenu():
 
     clicked_day_Start = StringVar()
     clicked_day_Start.set(matchdays_Start[0])
-    matchdays_start_menu = tk.OptionMenu(frame, clicked_day_Start, 1, *matchdays_Start,)
+    matchdays_start_menu = tk.OptionMenu(frame, clicked_day_Start, *matchdays_Start,)
     matchdays_start_menu.place(relx=0.11, rely=0.12)
 
     clicked_season_End = StringVar()
-    clicked_season_End.set(seasons_End[0])
+    clicked_season_End.set(seasons_End[-1])
     season_end_menu = OptionMenu(root, clicked_season_End,*seasons_End)
     season_end_menu.place(relx=0.41, rely=0.12)
 
     clicked_day_End = StringVar()
     clicked_day_End.set(matchdays_End[-1])
-    matchdays_end_menu = OptionMenu(root, clicked_day_End, 1, *matchdays_End)
+    matchdays_end_menu = OptionMenu(root, clicked_day_End, *matchdays_End)
     matchdays_end_menu.place(relx=0.36, rely=0.12)
     
     miniAlgoButton = tk.Button(
@@ -496,17 +522,14 @@ def dropDownMenu():
             clicked_day_End,
             clicked_season_End))
     miniAlgoButton.place(relx=0.3, rely=0.75)
-
-#dropdownmenu for choosing algorithm
-def algo_dropDown():
-    algorithms = [
-        "Minimal Prediction Algorithm",
-        "Poisson Algorithm"
-    ]
-
-    clicked_Algo = StringVar()
-    clicked_Algo.set(algorithms[0])
-    clicked_Algo_menu = OptionMenu(root, clicked_Algo, *algorithms)
+    poissonAlgoButton = tk.Button(
+        frame,
+        text="Poisson-Algorithmus",
+        width=25,
+        height=2,
+        fg="white",
+        bg='brown4')
+    poissonAlgoButton.place(relx=0.3, rely=0.52)   
 
 
 dropDownMenu()
