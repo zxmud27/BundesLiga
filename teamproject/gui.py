@@ -2,7 +2,7 @@ from tkinter import *
 import tkinter as tk
 #from teamproject.algorithm import algo
 #from Crawler import CrawlerX
-
+#test GUI aufrufen
 # Hello Tutorial
 root = tk.Tk()
 root.title("Bundesliga Vorhersage")
