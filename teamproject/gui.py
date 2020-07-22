@@ -1,14 +1,14 @@
 from tkinter import *
 import tkinter as tk
-from teamproject.algorithm import algo
+#from teamproject.algorithm import algo
 #from Crawler import CrawlerX
 
 # Hello Tutorial
 root = tk.Tk()
-root.title("GUI")
-canvas = tk.Canvas(root, height=400, width=400)
+root.title("Bundesliga Vorhersage")
+canvas = tk.Canvas(root, height=600, width=1200)
 canvas.pack()
-frame = tk.Frame(root, bg='gray13')
+frame = tk.Frame(root, bg='black')
 frame.place(relwidth=1, relheight=1)
 teamfoto = PhotoImage(file='bilder/teamwahl.png')
 bayernMuenchen = PhotoImage(file='bilder/fcb.png')
@@ -31,8 +31,6 @@ hannover = PhotoImage(file='bilder/hn96.png')
 nurnberg = PhotoImage(file='bilder/nb.png')
 tname1 = dortmund
 tname2 = wolfsburg
-
-
 def Ubersetzer(teamname):
     if(teamname == bayernMuenchen):
         return 'FC Bayern'
@@ -77,16 +75,13 @@ def buttonupdate(buttonnummer, teamname):
         erstesTeamButton = tk.Button(
             frame,
             image=teamname,
-            width=10,
-            height=10,
+            width=150,
+            height=150,
             fg="white",
-            bg='gray13',
+            bg='black',
             command=lambda: newframe(1))
         erstesTeamButton.place(
-            relx=0.20,
-            rely=0.52,
-            relwidth=0.20,
-            relheight=0.20)
+            relx=0.10, rely=0.2)
         global tname1
         tname1 = teamname
         newWindow.destroy()
@@ -95,16 +90,14 @@ def buttonupdate(buttonnummer, teamname):
         zweitesTeamButton = tk.Button(
             frame,
             image=teamname,
-            width=10,
-            height=10,
+            width=150,
+            height=150,
             fg="white",
-            bg='gray13',
+            bg='black',
             command=lambda: newframe(2))
         zweitesTeamButton.place(
-            relx=0.60,
-            rely=0.52,
-            relwidth=0.20,
-            relheight=0.20)
+            relx=0.35,
+            rely=0.2)
         global tname2
         tname2 = teamname
         newWindow.destroy()
@@ -119,12 +112,12 @@ def newframe(buttonnummer):
 
 
 def teamset(buttonnummer):
-    frame2 = tk.Frame(newWindow, bg='gray13')
+    frame2 = tk.Frame(newWindow, bg='black')
     frame2.place(relwidth=1, relheight=1)
     BM = tk.Button(
         frame2,
         image=bayernMuenchen,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             bayernMuenchen))
@@ -132,7 +125,7 @@ def teamset(buttonnummer):
     DM = tk.Button(
         frame2,
         image=dortmund,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             dortmund))
@@ -140,7 +133,7 @@ def teamset(buttonnummer):
     MG = tk.Button(
         frame2,
         image=moenchengladbach,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             moenchengladbach))
@@ -148,7 +141,7 @@ def teamset(buttonnummer):
     RL = tk.Button(
         frame2,
         image=rbLeipzig,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             rbLeipzig))
@@ -156,7 +149,7 @@ def teamset(buttonnummer):
     LK = tk.Button(
         frame2,
         image=leverkusen,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             leverkusen))
@@ -164,7 +157,7 @@ def teamset(buttonnummer):
     WB = tk.Button(
         frame2,
         image=wolfsburg,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             wolfsburg))
@@ -172,7 +165,7 @@ def teamset(buttonnummer):
     FB = tk.Button(
         frame2,
         image=freiburg,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             freiburg))
@@ -180,7 +173,7 @@ def teamset(buttonnummer):
     S4 = tk.Button(
         frame2,
         image=schalke04,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             schalke04))
@@ -188,7 +181,7 @@ def teamset(buttonnummer):
     HH = tk.Button(
         frame2,
         image=hoffenheim,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             hoffenheim))
@@ -196,7 +189,7 @@ def teamset(buttonnummer):
     HN = tk.Button(
         frame2,
         image=hannover,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             hannover))
@@ -204,7 +197,7 @@ def teamset(buttonnummer):
     HBSC = tk.Button(
         frame2,
         image=herthaBSC,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             herthaBSC))
@@ -212,7 +205,7 @@ def teamset(buttonnummer):
     ST = tk.Button(
         frame2,
         image=stuttgart,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             stuttgart))
@@ -220,7 +213,7 @@ def teamset(buttonnummer):
     EF = tk.Button(
         frame2,
         image=eintrachtFrankfurt,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             eintrachtFrankfurt))
@@ -228,7 +221,7 @@ def teamset(buttonnummer):
     AB = tk.Button(
         frame2,
         image=augsburg,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             augsburg))
@@ -236,7 +229,7 @@ def teamset(buttonnummer):
     M5 = tk.Button(
         frame2,
         image=mainz05,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             mainz05))
@@ -244,7 +237,7 @@ def teamset(buttonnummer):
     FD = tk.Button(
         frame2,
         image=fortunaduesseldorf,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             fortunaduesseldorf))
@@ -252,7 +245,7 @@ def teamset(buttonnummer):
     WB = tk.Button(
         frame2,
         image=werderBremen,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             werderBremen))
@@ -260,7 +253,7 @@ def teamset(buttonnummer):
     NN = tk.Button(
         frame2,
         image=nurnberg,
-        bg='gray13',
+        bg='black',
         command=lambda: buttonupdate(
             buttonnummer,
             nurnberg))
@@ -271,74 +264,146 @@ def staticGUI():
     erstesTeamButton = tk.Button(
         frame,
         image=dortmund,
-        width=10,
-        height=10,
-        bg='gray13',
+        width=150,
+        height=150,
+        bg='black',
         command=lambda: newframe(1))
-    erstesTeamButton.place(relx=0.20, rely=0.52, relwidth=0.20, relheight=0.20)
+    erstesTeamButton.place(relx=0.10, rely=0.2)
     zweitesTeamButton = tk.Button(
         frame,
         image=wolfsburg,
-        width=100,
-        height=10,
-        bg='gray13',
+        width=150,
+        height=150,
+        bg='black',
         command=lambda: newframe(2))
     zweitesTeamButton.place(
-        relx=0.60,
-        rely=0.52,
-        relwidth=0.20,
-        relheight=0.20)
+        relx=0.35,
+        rely=0.2,)
     CrawlerButton = tk.Button(
         frame,
         text="Start Crawler",
-        width=30,
-        height=5,
+        width=25,
+        height=2,
         fg="white",
-        bg='brown4',
-        padx=10,
-        pady=5)
-    CrawlerButton.place(relx=0.06, rely=0.25, relwidth=0.2, relheight=0.1)
+        bg='brown4')
+    CrawlerButton.place(relx=0.09, rely=0.52)
     IncludeSeasonButtonCheckBox = tk.Checkbutton(
-        frame, text="Include current Season", bg='gray13', fg="white")
+        frame, text="Include current Season", bg='black',fg='red',height=1,width=17,font='bold')
     IncludeSeasonButtonCheckBox.place(
-        relx=0.35, rely=0.285, relwidth=0.4, relheight=0.03)
+        relx=0.09, rely=0.61)
     startTrain = tk.Button(
         frame,
         text="Start Training",
-        width=10,
-        height=10,
+        width=25,
+        height=2,
         fg="white",
         bg='brown4')
-    startTrain.place(relx=0.4, rely=0.38, relwidth=0.2, relheight=0.08)
+    startTrain.place(relx=0.3, rely=0.6)
+    poissonAlgoButton = tk.Button(
+        frame,
+        text="Poisson-Algorithmus",
+        width=25,
+        height=2,
+        fg="white",
+        bg='brown4')
+    poissonAlgoButton.place(relx=0.3, rely=0.52)    
     # Labels
-    winHome = tk.Label(frame, text="Win Home", bg='gray13', fg='white')
-    winHome.place(relx=0.20, rely=0.85, relwidth=0.2, relheight=0.04)
-    pWH = tk.Label(frame, text="PercentWH", bg='gray13',
-                   fg='white')  # Übersetzer für team1 und team2
-    pWH.place(relx=0.20, rely=0.9, relwidth=0.2, relheight=0.04)
-    draw = tk.Label(frame, text="Draw", bg='gray13', fg='white')
-    draw.place(relx=0.45, rely=0.85, relwidth=0.1, relheight=0.04)
-    pDraw = tk.Label(frame, text="PercentDRAW", bg='gray13', fg='white')
-    pDraw.place(relx=0.40, rely=0.9, relwidth=0.2, relheight=0.04)
+    #NextMatchDay  Potentiell in extra Methode, um sie zu varrieren über Crawler
+    nextMatchDay = tk.Label(frame,text="Nächster Spieltag", bg='black',fg='white',font='bold')
+    nextMatchDay.place(relx=0.75,rely=0.18)
+    matchdayTeam1 = tk.Label(frame,text="Team 1", bg='black',fg='white', font='bold') 
+    matchdayTeam1.place(relx=0.73,rely=0.25)
+    firstMatchVs = tk.Label(frame,text="V.S.", bg='black',fg='white', font='bold') 
+    firstMatchVs.place(relx=0.79,rely=0.25)
+    matchdayTeam2 = tk.Label(frame,text="Team 2", bg='black',fg='white', font='bold') 
+    matchdayTeam2.place(relx=0.83,rely=0.25)
+    matchdayTeam3 = tk.Label(frame,text="Team 3", bg='black',fg='white', font='bold') 
+    matchdayTeam3.place(relx=0.73,rely=0.3)
+    secondMatchVs = tk.Label(frame,text="V.S.", bg='black',fg='white', font='bold') 
+    secondMatchVs.place(relx=0.79,rely=0.3)
+    matchdayTeam4 = tk.Label(frame,text="Team 4", bg='black',fg='white', font='bold') 
+    matchdayTeam4.place(relx=0.83,rely=0.3)
+    matchdayTeam5 = tk.Label(frame,text="Team 5", bg='black',fg='white', font='bold') 
+    matchdayTeam5.place(relx=0.73,rely=0.35)
+    thirdMatchVs = tk.Label(frame,text="V.S.", bg='black',fg='white', font='bold') 
+    thirdMatchVs.place(relx=0.79,rely=0.35)
+    matchdayTeam6 = tk.Label(frame,text="Team 6", bg='black',fg='white', font='bold') 
+    matchdayTeam6.place(relx=0.83,rely=0.35)
+    matchdayTeam7 = tk.Label(frame,text="Team 7", bg='black',fg='white', font='bold') 
+    matchdayTeam7.place(relx=0.73,rely=0.4)
+    fourthMatchVs = tk.Label(frame,text="V.S.", bg='black',fg='white', font='bold') 
+    fourthMatchVs.place(relx=0.79,rely=0.4)
+    matchdayTeam8 = tk.Label(frame,text="Team 8", bg='black',fg='white', font='bold') 
+    matchdayTeam8.place(relx=0.83,rely=0.4)
+    matchdayTeam9 = tk.Label(frame,text="Team 9", bg='black',fg='white', font='bold') 
+    matchdayTeam9.place(relx=0.73,rely=0.45)
+    fifthMatchVs = tk.Label(frame,text="V.S.", bg='black',fg='white', font='bold') 
+    fifthMatchVs.place(relx=0.79,rely=0.45)
+    matchdayTeam10 = tk.Label(frame,text="Team 10", bg='black',fg='white', font='bold') 
+    matchdayTeam10.place(relx=0.83,rely=0.45)
+    matchdayTeam11 = tk.Label(frame,text="Team 11", bg='black',fg='white', font='bold') 
+    matchdayTeam11.place(relx=0.73,rely=0.5)
+    sixthMatchVs = tk.Label(frame,text="V.S.", bg='black',fg='white', font='bold') 
+    sixthMatchVs.place(relx=0.79,rely=0.5)
+    matchdayTeam12 = tk.Label(frame,text="Team 12", bg='black',fg='white', font='bold') 
+    matchdayTeam12.place(relx=0.83,rely=0.5)
+    matchdayTeam13 = tk.Label(frame,text="Team 13", bg='black',fg='white', font='bold') 
+    matchdayTeam13.place(relx=0.73,rely=0.55)
+    seventhMatchVs = tk.Label(frame,text="V.S.", bg='black',fg='white', font='bold') 
+    seventhMatchVs.place(relx=0.79,rely=0.55)
+    matchdayTeam14 = tk.Label(frame,text="Team 14", bg='black',fg='white', font='bold') 
+    matchdayTeam14.place(relx=0.83,rely=0.55)
+    matchdayTeam15 = tk.Label(frame,text="Team 15", bg='black',fg='white', font='bold') 
+    matchdayTeam15.place(relx=0.73,rely=0.6)
+    eightMatchVs = tk.Label(frame,text="V.S.", bg='black',fg='white', font='bold') 
+    eightMatchVs.place(relx=0.79,rely=0.6)
+    matchdayTeam16 = tk.Label(frame,text="Team 16", bg='black',fg='white', font='bold') 
+    matchdayTeam16.place(relx=0.83,rely=0.6)
+    matchdayTeam17 = tk.Label(frame,text="Team 17", bg='black',fg='white', font='bold') 
+    matchdayTeam17.place(relx=0.73,rely=0.65)
+    ninthMatchVs = tk.Label(frame,text="V.S.", bg='black',fg='white', font='bold') 
+    ninthMatchVs.place(relx=0.79,rely=0.65)
+    matchdayTeam18 = tk.Label(frame,text="Team 18", bg='black',fg='white', font='bold') 
+    matchdayTeam18.place(relx=0.83,rely=0.65)
 
-    winAway = tk.Label(frame, text="Win Away", bg='gray13', fg='white')
-    winAway.place(relx=0.63, rely=0.85, relwidth=0.14, relheight=0.04)
-    pWA = tk.Label(frame, text="PercentWA", bg='gray13', fg='white')
-    pWA.place(relx=0.6, rely=0.9, relwidth=0.2, relheight=0.04)
-    punkt1 = tk.Label(
+    #Labels Mini-Algo
+    winHome = tk.Label(frame, text="Win Home:", bg='black', fg='white',height=3,width=8)
+    winHome.place(relx=0.46, rely=0.7)
+    pWH = tk.Label(frame, text="PercentWH", bg='black',
+                   fg='white',height=3,width=8)  # Übersetzer für team1 und team2
+    pWH.place(relx=0.52, rely=0.7)
+    draw = tk.Label(frame, text="Draw:", bg='black', fg='white',height=3,width=8)
+    draw.place(relx=0.46, rely=0.75)
+    pDraw = tk.Label(frame, text="PercDRAW", bg='black', fg='white',height=3,width=8)
+    pDraw.place(relx=0.52, rely=0.75)
+    winAway = tk.Label(frame, text="Win Away:", bg='black', fg='white',height=3,width=8)
+    winAway.place(relx=0.46, rely=0.8)
+    pWA = tk.Label(frame, text="PercentWA", bg='black', fg='white',height=3,width=8)
+    pWA.place(relx=0.52, rely=0.8)
+    #Labels Poisson-Algo
+    winHomePoisson = tk.Label(frame, text="Win Home:", bg='black', fg='white',height=3,width=8)
+    winHomePoisson.place(relx=0.46, rely=0.47)
+    pWHPoisson = tk.Label(frame, text="PercentWH", bg='black',
+                   fg='white',height=3,width=8)  # Übersetzer für team1 und team2
+    pWHPoisson.place(relx=0.52, rely=0.47)
+    drawPoisson = tk.Label(frame, text="Draw:", bg='black', fg='white',height=3,width=8)
+    drawPoisson.place(relx=0.46, rely=0.52 )
+    pDrawPoisson = tk.Label(frame, text="PercDRAW", bg='black', fg='white',height=3,width=8)
+    pDrawPoisson.place(relx=0.52, rely=0.52)
+    winAwayPoisson = tk.Label(frame, text="Win Away:", bg='black', fg='white',height=3,width=8)
+    winAwayPoisson.place(relx=0.46, rely=0.57)
+    pWAPoisson = tk.Label(frame, text="PercentWA", bg='black', fg='white',height=3,width=8)
+    pWAPoisson.place(relx=0.52, rely=0.57)
+
+    #Grafik Labels
+    vsLabel = tk.Label(
         frame,
-        text="Oberer Schwarzer Punkt",
-        bg='gray13',
-        fg='gray13')
-    punkt1.place(relx=0.5, rely=0.60, relwidth=0.02, relheight=0.02)
-    punkt2 = tk.Label(
-        frame,
-        text="Unterer Schwarzer Punkt",
-        bg='gray13',
-        fg='gray13')
-    punkt2.place(relx=0.5, rely=0.63, relwidth=0.02, relheight=0.02)
-    untilLabel = tk.Label(frame, text="until", bg='gray13', fg='white')
-    untilLabel.place(relx=0.46, rely=0.14, relwidth=0.06, relheight=0.03)
+        text="V.S.",
+        bg='black',
+        fg='white', width=3, height=1, font='bold')
+    vsLabel.place(relx=0.27, rely=0.3)
+    untilLabel = tk.Label(frame, text="until", bg='black', fg='white',height=2,width=3, font='bold')
+    untilLabel.place(relx=0.27, rely=0.12)
 
 
 def winrateLabels(
@@ -358,13 +423,13 @@ def winrateLabels(
     # algo1.get_win_ratio(Ubersetzer(team1),Ubersetzer(team2))
     # Winrate
     # Übersetzer für team1 und team2
-    pWH = tk.Label(frame, text=stats[0], bg='gray13', fg='white')
+    pWH = tk.Label(frame, text=stats[0], bg='black', fg='white')
     pWH.place(relx=0.20, rely=0.9, relwidth=0.2, relheight=0.04)
     # Drawrate
-    pDraw = tk.Label(frame, text=stats[1], bg='gray13', fg='white')
+    pDraw = tk.Label(frame, text=stats[1], bg='black', fg='white')
     pDraw.place(relx=0.40, rely=0.9, relwidth=0.2, relheight=0.04)
     # Loserate
-    pWA = tk.Label(frame, text=stats[2], bg='gray13', fg='white')
+    pWA = tk.Label(frame, text=stats[2], bg='black', fg='white')
     pWA.place(relx=0.6, rely=0.9, relwidth=0.2, relheight=0.04)
 
 
@@ -387,38 +452,40 @@ def dropDownMenu():
 
     # List with all match days
     matchdays_Start = []
-    for i in range(0, 34):
+    for i in range(1, 34):
         matchdays_Start.append(i+1)
 
     # reversed list with all match days
-    matchdays_End = matchdays_Start[::-1]
+    matchdays_End=[]
+    for j in range(0,34):
+        matchdays_End.append(j+1)
+    #matchdays_End = matchdays_Start[::-1]
 
     clicked_season_Start = StringVar()
     clicked_season_Start.set(seasons_Start[0])
-    season_start_menu = OptionMenu(root, clicked_season_Start, *seasons_Start)
-    season_start_menu.place(relx=0.05, rely=0.12)
-
-    clicked_season_End = StringVar()
-    clicked_season_End.set(seasons_End[0])
-    season_end_menu = OptionMenu(root, clicked_season_End, *seasons_End)
-    season_end_menu.place(relx=0.58, rely=0.12)
+    season_start_menu = OptionMenu(frame, clicked_season_Start, *seasons_Start)
+    season_start_menu.place(relx=0.16, rely=0.12)
 
     clicked_day_Start = StringVar()
     clicked_day_Start.set(matchdays_Start[0])
-    matchdays_start_menu = tk.OptionMenu(
-        root, clicked_day_Start, 1, *matchdays_Start,)
-    matchdays_start_menu.place(relx=0.28, rely=0.12)
+    matchdays_start_menu = tk.OptionMenu(frame, clicked_day_Start, 1, *matchdays_Start,)
+    matchdays_start_menu.place(relx=0.11, rely=0.12)
+
+    clicked_season_End = StringVar()
+    clicked_season_End.set(seasons_End[0])
+    season_end_menu = OptionMenu(root, clicked_season_End,*seasons_End)
+    season_end_menu.place(relx=0.41, rely=0.12)
 
     clicked_day_End = StringVar()
-    clicked_day_End.set(matchdays_End[0])
+    clicked_day_End.set(matchdays_End[-1])
     matchdays_end_menu = OptionMenu(root, clicked_day_End, 1, *matchdays_End)
-    matchdays_end_menu.place(relx=0.8, rely=0.12)
+    matchdays_end_menu.place(relx=0.36, rely=0.12)
     
-    predictButton = tk.Button(
+    miniAlgoButton = tk.Button(
         frame,
-        text="Predict",
-        width=10,
-        height=10,
+        text="Minimaler-Algorithmus",
+        width=25,
+        height=2,
         fg="white",
         bg='brown4',
         command=lambda: winrateLabels(
@@ -428,7 +495,7 @@ def dropDownMenu():
             clicked_season_Start,
             clicked_day_End,
             clicked_season_End))
-    predictButton.place(relx=0.4, rely=0.75, relwidth=0.2, relheight=0.08)
+    miniAlgoButton.place(relx=0.3, rely=0.75)
 
 #dropdownmenu for choosing algorithm
 def algo_dropDown():
