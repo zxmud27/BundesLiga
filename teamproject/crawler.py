@@ -28,8 +28,6 @@ class DataCrawler:
             "," +
             "AwayGoals" +
             "," +
-            "Data" +
-            "," +
             "IconLink" +
             "\n")
         
