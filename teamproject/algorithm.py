@@ -1,11 +1,11 @@
 import csv
-import os.path
+import os.path , os
 from os import path
-from teamproject.crawler import CRAWLER
+from teamproject.crawler import *
 from urllib.request import urlretrieve
 
 class algo:
-
+    
     def __init__(self,home, away, start_day, start_year, end_day, end_year):
         self.home = home
         self.away = away
@@ -47,12 +47,11 @@ class algo:
 
 
         # CSV Name
-        folder = "teamproject/match_year/"
         filename = str(start_season_year) + ('.csv')
         teams = []
 
         # Reading the teams
-        with open(folder+filename) as csv_file:
+        with open(filename) as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
             line_count = 0
             # Counter for played games
@@ -66,23 +65,18 @@ class algo:
                         1 > start_season_day and (startday_counter / 9) <= end_season_day:
                     # are all teamnames signed in? is set to false in the first 9 games
                     # Name of the 2 competing teams
-                    names = i[0]
+                    teama = i[0]
+                    teamb = i[1]
+
                     # goals ratio after the match
-                    goals = i[1]
+                    goalsa = i[2]
+                    goalsb = i[3]
 
                     # Auftrennung von "names" -> Teamname beider Teams wird
                     # entnommen
-                    both_teams = names.strip('["]').split(', ')
-                    teama = both_teams[0]
-                    teama = teama[1:-1]
-                    teamb = both_teams[1]
-                    teamb = teamb[1:-1]
 
                     # Seperation of goals, team a's goals: goals_a, team b's goals:
                     # goals_b
-                    all_goals = goals.strip('["]').split(', ')
-                    goals_a = int(all_goals[0])
-                    goals_b = int(all_goals[1])
 
                     # enters names in "teams" for the first 9 matches
                     if k < 9:
@@ -173,12 +167,12 @@ class algo:
             [[win ratio][tie ratio][loose ratio]]
     
         """
-        folder = "teamproject/match_year/"
+    
         all_stats = []
         match_year = self.start_year
         while match_year <= self.end_year:
-            if not path.exists(folder+str(match_year) + ('.csv')):
-                match = CRAWLER(match_year)
+            if not path.exists(str(match_year) + ('.csv')):
+                match = crawler(match_year)
                 match.csvcreater()
             if self.start_year == self.end_year:
                 all_stats.append(self.get_all_matches(self.start_day, match_year, self.end_day))
@@ -243,11 +237,10 @@ class algo:
                 [[name of team][icon link]]
     
         """
-        folder = "teamproject/match_year/"
         filename = str(year) + ('.csv')
         teams = []
 
-        with open(folder+filename) as csv_file:
+        with open(filename) as csv_file:
             csv_reader = csv.reader(csv_file, delimiter=',')
             line_count = 0
             # Counter for played games
@@ -318,9 +311,8 @@ class algo:
                 urlretrieve(url, filename)
 
 
-game1 = algo('FC Bayern', "Borussia Dortmund", 1, 2009, 34, 2018)
+game1 = algo('FC Bayern', "Borussia Dortmund", 1, 2010, 34, 2018)
 game1.get_win_ratio()
 #my_list = game1.teamnames_and_icon_links(2017)
 #print(my_list)
 #game1.icon_download(my_list)
-
