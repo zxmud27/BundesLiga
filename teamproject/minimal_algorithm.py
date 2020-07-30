@@ -2,9 +2,7 @@ import pandas as pd
 
 class minimal_class():
 
-    filename = pd.read_csv("BundesligaData.csv",encoding='unicode_escape')
-
-    def get_minimal_probabilities(home,away):
+    def get_minimal_probabilities(self, home,away):
         """
         Evaluating csv file to get
         the win, tie and loose ratio
@@ -26,7 +24,7 @@ class minimal_class():
         list with three probability:
             [win ratio,draw ratio,lose ratio]
         """
-        filename = pd.read_csv("BundesligaData.csv",encoding='unicode_escape')
+        filename = pd.read_csv("teamproject/BundesligaData.csv",encoding='unicode_escape')
 
         Hometeam_at_home = [filename[filename["HomeTeam"] == home]]
         Hometeam_at_away = [filename[filename["AwayTeam"] == home]]
@@ -64,4 +62,4 @@ class minimal_class():
 
         return [round(win_ratio, 4), round(draw_ratio, 4), round(lose_ratio, 4)]
 
-print(minimal_class.get_minimal_probabilities('FC Bayern','Borussia Dortmund'))
+print(minimal_class().get_minimal_probabilities('FC Bayern','Borussia Dortmund'))

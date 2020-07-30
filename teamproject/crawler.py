@@ -86,4 +86,4 @@ class DataCrawler:
 
 
 BLCrawler = DataCrawler()
-BLCrawler.getSeasons(1,2009,34,2018)
+BLCrawler.getSeasons(1,2019,34,2019)
