@@ -2,17 +2,17 @@ import requests
 import json
 import csv
 
-class DataCrawler:
+class DataCrawler():
 
     def clear(self):
         """Delete all values in the csv-file
 
         """
-        open("BundesligaData.csv", "w")
+        open("teamproject/BundesligaData.csv", "w")
 
     def getSeasons(self, FirstDay, FirstSeason, LastDay,LastSeason):
         self.clear()
-        csv = open("BundesligaData.csv", "w")
+        csv = open("teamproject/BundesligaData.csv", "w")
         csv.write(
             "HomeTeam" +
             "," +
@@ -69,11 +69,17 @@ class DataCrawler:
                         TeamA_half = Result_half['PointsTeam1']
                         TeamB_half = Result_half['PointsTeam2']
 
-                        Result = Matchresults[1]
-                        TeamA = Result['PointsTeam1']
-                        TeamB = Result['PointsTeam2']
+                        if not len(Matchresults) == 1:
+                            Result = Matchresults[1]
+                            TeamA = Result['PointsTeam1']
+                            TeamB = Result['PointsTeam2']
+                        else:
+                            TeamA = -1
+                            TeamB = -1
 
-                        if TeamA_half + TeamB_half > TeamA +TeamB:
+
+
+                        if TeamA_half + TeamB_half > TeamA + TeamB:
                             GoalsHome[counter] = TeamA_half
                             GoalsAway[counter] = TeamB_half
                         else:
@@ -85,5 +91,6 @@ class DataCrawler:
                     counter += 1
 
 
-BLCrawler = DataCrawler()
-BLCrawler.getSeasons(1,2019,34,2019)
+#BLCrawler = DataCrawler()
+#BLCrawler.getSeasons(1,2011,34,2018)
+#BLCrawler.clear()

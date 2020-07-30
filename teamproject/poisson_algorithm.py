@@ -13,7 +13,7 @@ class poisson_class():
         #self.HomeTeam = HomeTeam
         #self.AwayTeam = AwayTeam
 
-    filename = pd.read_csv("BundesligaData.csv",encoding='unicode_escape')
+    filename = pd.read_csv("teamproject/BundesligaData.csv",encoding='unicode_escape')
     filename.head()
     goal_model_data =  pd.concat([filename[['HomeTeam','AwayTeam','HomeGoals']].assign(home=1).rename(
                     columns={'HomeTeam':'team', 'AwayTeam':'opponent','HomeGoals':'goals'}),
@@ -49,4 +49,4 @@ class poisson_class():
         return [round(prob_win_home*100, 4),round(prob_draw*100, 4),round(prob_win_away*100, 4)]
 
 
-print(poisson_class().get_probabilities("Hannover 96","Fortuna Düsseldorf"))
+#print(poisson_class().get_probabilities('FC Bayern','Borussia Dortmund'))
