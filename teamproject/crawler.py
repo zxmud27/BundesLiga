@@ -90,7 +90,6 @@ class DataCrawler():
                     csv.write(match)
                     counter += 1
 
-
 #BLCrawler = DataCrawler()
-#BLCrawler.getSeasons(1,2011,34,2018)
+#BLCrawler.getSeasons(1,2013,34,2020)
 #BLCrawler.clear()
