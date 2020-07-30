@@ -46,7 +46,7 @@ class poisson_class():
 
         prob_draw = np.sum(np.diag(teams_goal_prob_matrix))
         
-        return [prob_win_home,prob_win_away,prob_draw]
+        return [round(prob_win_home, 4),round(prob_win_away, 4),round(prob_draw, 4)]
 
-test = poisson_class()
-print(test.get_probabilities("Hannover 96","Fortuna Düsseldorf"))
+
+print(poisson_class().get_probabilities("Hannover 96","Fortuna Düsseldorf"))
