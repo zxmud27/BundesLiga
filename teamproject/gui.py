@@ -1,6 +1,5 @@
 from tkinter import *
 import tkinter as tk
-import pandas as pd
 #from teamproject.algorithm import algo
 #from Crawler import CrawlerX
 #test GUI aufrufen
@@ -11,84 +10,70 @@ canvas = tk.Canvas(root, height=600, width=1200)
 canvas.pack()
 frame = tk.Frame(root, bg='black')
 frame.place(relwidth=1, relheight=1)
-
-
-
-  
-#teamfoto = PhotoImage(file='bilder/teamwahl.png')
-#bayernMuenchen = PhotoImage(file='bilder/fcb.png')
-#dortmund    = PhotoImage(file='bilder/bvb.png')
-#moenchengladbach = PhotoImage(file='bilder/bmg.png')
-#rbLeipzig   = PhotoImage(file='bilder/rbl.png')
-#leverkusen  = PhotoImage(file='bilder/b04.png')
-#wolfsburg   = PhotoImage(file='bilder/wob.png')
-#freiburg = PhotoImage(file='bilder/scf.png')
-#schalke04   = PhotoImage(file='bilder/s04.png')
-#hoffenheim  = PhotoImage(file='bilder/tsg.png')
-#herthaBSC   = PhotoImage(file='bilder/bsc.png')
-#eintrachtFrankfurt = PhotoImage(file='bilder/sge.png')
-#augsburg = PhotoImage(file='bilder/fca.png')
-#mainz05  = PhotoImage(file='bilder/m05.png')
-#fortunaduesseldorf   = PhotoImage(file='bilder/f95.png')
-#werderBremen   = PhotoImage(file='bilder/svw.png')
-#stuttgart = PhotoImage(file='bilder/vfb.png')
-#hannover = PhotoImage(file='bilder/hn96.png')
-#nurnberg = PhotoImage(file='bilder/nb.png')
-#tname1 = dortmund
-#tname2 = wolfsburg
-#inputTeamname1 = dortmund
-#inputTeamname2 = dortmund
+teamfoto = PhotoImage(file='bilder/teamwahl.png')
+bayernMuenchen = PhotoImage(file='bilder/fcb.png')
+dortmund    = PhotoImage(file='bilder/bvb.png')
+moenchengladbach = PhotoImage(file='bilder/bmg.png')
+rbLeipzig   = PhotoImage(file='bilder/rbl.png')
+leverkusen  = PhotoImage(file='bilder/b04.png')
+wolfsburg   = PhotoImage(file='bilder/wob.png')
+freiburg = PhotoImage(file='bilder/scf.png')
+schalke04   = PhotoImage(file='bilder/s04.png')
+hoffenheim  = PhotoImage(file='bilder/tsg.png')
+herthaBSC   = PhotoImage(file='bilder/bsc.png')
+eintrachtFrankfurt = PhotoImage(file='bilder/sge.png')
+augsburg = PhotoImage(file='bilder/fca.png')
+mainz05  = PhotoImage(file='bilder/m05.png')
+fortunaduesseldorf   = PhotoImage(file='bilder/f95.png')
+werderBremen   = PhotoImage(file='bilder/svw.png')
+stuttgart = PhotoImage(file='bilder/vfb.png')
+hannover = PhotoImage(file='bilder/hn96.png')
+nurnberg = PhotoImage(file='bilder/nb.png')
+tname1 = dortmund
+tname2 = wolfsburg
+inputTeamname1 = dortmund
+inputTeamname2 = dortmund
 global counter1
 counter1=0
 global counter2
 counter2=0
-#def Ubersetzer(teamname):
-#    if(teamname == bayernMuenchen):
-#        return 'FC Bayern'
-#    elif(teamname == herthaBSC):
-#        return 'Hertha BSC'
-#    elif(teamname == werderBremen):
-#        return 'Werder Bremen'
-#    elif(teamname == freiburg):
-#        return 'SC Freiburg'
-#    elif(teamname == wolfsburg):
-#        return 'VfL Wolfsburg'
-#    elif(teamname == fortunaduesseldorf):
-#        return 'Fortuna Düsseldorf'
-#    elif(teamname == moenchengladbach):
-#        return 'Borussia Mönchengladbach'
-#    elif(teamname == mainz05):
-#        return '1. FSV Mainz 05'
-#    elif(teamname == dortmund):
-#        return 'Borussia Dortmund'
-#    elif(teamname == hoffenheim):
-#        return 'TSG 1899 Hoffenheim'
-#    elif(teamname == nurnberg):
-#        return '1. FC Nürnberg'
-#    elif(teamname == hannover):
-#        return 'Hannover 96'
-#    elif(teamname == eintrachtFrankfurt):
-#        return 'Eintracht Frankfurt'
-#    elif(teamname == schalke04):
-#        return 'FC Schalke 04'
-#    elif(teamname == augsburg):
-#        return 'FC Augsburg'
-#    elif(teamname == leverkusen):
-#        return 'Bayer Leverkusen'
-#    elif(teamname == stuttgart):
-#        return 'VfB Stuttgart'
-#    elif(teamname == rbLeipzig):
-#        return 'RB Leipzig'
-#
-col_list=["HomeTeam", "AwayTeam", "HomeGoals", "AwayGoals","Date"]
-df = pd.read_csv("BundesligaData.csv",encoding='unicode_escape' ,usecols=col_list)
-teamname = []
-def hometeam_names():
-    for i in range(0, 18):
-        teamname[i] = df["HomeTeam"[i]]
-      
-    print(teamname)   
-hometeam_names()
+def Ubersetzer(teamname):
+    if(teamname == bayernMuenchen):
+        return 'FC Bayern'
+    elif(teamname == herthaBSC):
+        return 'Hertha BSC'
+    elif(teamname == werderBremen):
+        return 'Werder Bremen'
+    elif(teamname == freiburg):
+        return 'SC Freiburg'
+    elif(teamname == wolfsburg):
+        return 'VfL Wolfsburg'
+    elif(teamname == fortunaduesseldorf):
+        return 'Fortuna Düsseldorf'
+    elif(teamname == moenchengladbach):
+        return 'Borussia Mönchengladbach'
+    elif(teamname == mainz05):
+        return '1. FSV Mainz 05'
+    elif(teamname == dortmund):
+        return 'Borussia Dortmund'
+    elif(teamname == hoffenheim):
+        return 'TSG 1899 Hoffenheim'
+    elif(teamname == nurnberg):
+        return '1. FC Nürnberg'
+    elif(teamname == hannover):
+        return 'Hannover 96'
+    elif(teamname == eintrachtFrankfurt):
+        return 'Eintracht Frankfurt'
+    elif(teamname == schalke04):
+        return 'FC Schalke 04'
+    elif(teamname == augsburg):
+        return 'FC Augsburg'
+    elif(teamname == leverkusen):
+        return 'Bayer Leverkusen'
+    elif(teamname == stuttgart):
+        return 'VfB Stuttgart'
+    elif(teamname == rbLeipzig):
+        return 'RB Leipzig'
 def buttonupdate(buttonnummer, teamname):
     if(buttonnummer == 1):
         global firstTeamButton
@@ -476,11 +461,6 @@ def winrateLabels(
     pWA.place(relx=0.6, rely=0.9, relwidth=0.2, relheight=0.04)
 def dropDownMenu():
     seasons_Start = [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
         2009,
         2010,
         2011,
@@ -498,11 +478,14 @@ def dropDownMenu():
 
     # List with all match days
     matchdays_Start = []
-    for i in range(0, 35):
+    for i in range(0, 34):
         matchdays_Start.append(i+1)
-        
+
     # reversed list with all match days
-    matchdays_End = matchdays_Start[::-1]
+    matchdays_End=[]
+    for j in range(0,34):
+        matchdays_End.append(j+1)
+    #matchdays_End = matchdays_Start[::-1]
 
     clicked_season_Start = StringVar()
     clicked_season_Start.set(seasons_Start[0])
@@ -548,16 +531,6 @@ def dropDownMenu():
         bg='brown4')
     poissonAlgoButton.place(relx=0.3, rely=0.52)   
 
-#dropdownmenu for choosing algorithm
-def algo_dropDown():
-    algorithms = [
-        "Minimal Prediction Algorithm",
-        "Poisson Algorithm"
-    ]
-
-    clicked_Algo = StringVar()
-    clicked_Algo.set(algorithms[0])
-    clicked_Algo_menu = OptionMenu(root, clicked_Algo, *algorithms)
 
 dropDownMenu()
 staticGUI()

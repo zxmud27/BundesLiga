@@ -45,6 +45,7 @@ class poisson_class():
         prob_win_away = np.sum(np.triu(teams_goal_prob_matrix, 1))
 
         prob_draw = np.sum(np.diag(teams_goal_prob_matrix))
+        
         return [round(prob_win_home*100, 4),round(prob_draw*100, 4),round(prob_win_away*100, 4)]
 
 
