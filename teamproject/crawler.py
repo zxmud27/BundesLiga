@@ -4,21 +4,15 @@ import csv
 
 class DataCrawler:
 
-    def __init__(self, csvPath):
-        """Initialize instance of DataCrawler
-
-        csvPath to where csv-file will be saved"""
-        self.csvPath = csvPath
-
     def clear(self):
         """Delete all values in the csv-file
 
         """
-        csv = open(self.csvPath, "w")
+        open("BundesligaData.csv", "w")
 
-    def getSeasons(self, FirstSeason, LastSeason):
+    def getSeasons(self, FirstDay, FirstSeason, LastDay,LastSeason):
         self.clear()
-        csv = open(self.csvPath, "w")
+        csv = open("BundesligaData.csv", "w")
         csv.write(
             "HomeTeam" +
             "," +
@@ -28,9 +22,8 @@ class DataCrawler:
             "," +
             "AwayGoals" +
             "," +
-            "IconLink" +
+            "Date" +
             "\n")
-        
 
         for i in range(FirstSeason, (LastSeason + 1)):
             counter = 0
@@ -43,7 +36,12 @@ class DataCrawler:
             GoalsHome = {}
             GoalsAway = {}
 
-            game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl1/{i}').text)
+            if i == FirstSeason and FirstDay != 1 :
+                game_data = json.loads(requests.get(f"http://www.openligadb.de/api/getmatchdata/bl1/"+str(FirstSeason)+"/"+str(FirstDay)).text)
+            elif i == LastSeason and LastDay != 34 :
+                game_data = json.loads(requests.get(f"http://www.openligadb.de/api/getmatchdata/bl1/"+ str(LastSeason) +"/"+str(LastDay)).text)
+            else:
+                game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl1/{i}').text)
 
             for game in game_data:
                 for x in game:
@@ -63,6 +61,6 @@ class DataCrawler:
                 csv.write(match)
                 counter += 1
 
-CVS_Path = "BundesligaData.csv"
-BLCrawler = DataCrawler(CVS_Path)
-BLCrawler.getSeasons(2009, 2018)
+
+BLCrawler = DataCrawler()
+BLCrawler.getSeasons(1,2009,3,2018)
