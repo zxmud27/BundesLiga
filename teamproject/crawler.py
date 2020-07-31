@@ -77,8 +77,6 @@ class DataCrawler():
                             TeamA = -1
                             TeamB = -1
 
-
-
                         if TeamA_half + TeamB_half > TeamA + TeamB:
                             GoalsHome[counter] = TeamA_half
                             GoalsAway[counter] = TeamB_half
@@ -91,5 +89,5 @@ class DataCrawler():
                     counter += 1
 
 #BLCrawler = DataCrawler()
-#BLCrawler.getSeasons(1,2013,34,2020)
+#BLCrawler.getSeasons(1,2013,34,2017)
 #BLCrawler.clear()

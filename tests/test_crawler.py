@@ -1,17 +1,22 @@
-# This contains some examples for what functionality might be tested, TODO…:
+import teamproject.crawler 
+import numpy as np
+import csv
 
+def test_games_played():
+    
+    # in one match year are 34 match games
+    match_year = 34
+    # one match day contain 9 games 
+    match_day = 9
+    # all games in one year
+    all_games_in_a_year = match_year * match_day + 1
+    
+    match_crawl = teamproject.crawler.DataCrawler()
+    match_crawl.getSeasons(1,2012,34,2012)
 
-def test_fetch_data():
-    pass
+    with open("teamproject/BundesligaData.csv","r") as f:
+        reader = csv.reader(f,delimiter = ",")
+        data = list(reader)
+        row_count = len(data)
 
-
-def test_convert_data_to_internal():
-    pass
-
-
-def test_save_cached_data():
-    pass
-
-
-def test_load_cached_data():
-    pass
+    assert row_count == all_games_in_a_year

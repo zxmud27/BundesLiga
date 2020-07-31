@@ -61,4 +61,3 @@ def test_StuttvsSChalk():
 
     assert np.array_equal(my_result, result)
 
-

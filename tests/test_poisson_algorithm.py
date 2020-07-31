@@ -9,9 +9,18 @@ def test_bayvsBVB():
 
     match =  teamproject.poisson_algorithm.poisson_class()
     my_result = match.get_probabilities('FC Bayern', "Borussia Dortmund")
-    result = [68.7925, 18.166, 13.0388]
-
+    result = [68.7, 17.7, 13.6]
+    bool_result = True
+    my_result[0] = np.float(my_result[0])
+    my_result[1] = np.float(my_result[1])
+    my_result[2] = np.float(my_result[2])
+    for i in range(0,3):
+        #print([result[i],my_result[i]])
+        if not result[i] == my_result[i]:
+            bool_result = False
     
+    #print(bool_result)
+    assert bool_result
 
 def test_bremvsFCK():
 
@@ -20,8 +29,17 @@ def test_bremvsFCK():
 
     match =  teamproject.poisson_algorithm.poisson_class()
     my_result = match.get_probabilities('Werder Bremen', 'Borussia Mönchengladbach') 
-    result = [34.0098, 24.1867, 41.8034]
-
+    result = [31.4, 23.6, 45.1]
+    my_result[0] = np.float(my_result[0])
+    my_result[1] = np.float(my_result[1])
+    my_result[2] = np.float(my_result[2])
+    bool_result = True
+    for i in range(0,3):
+        #print([result[i],my_result[i]])
+        if not result[i] == my_result[i]:
+            bool_result = False
+    #print(bool_result)
+    assert bool_result
 
 def test_SCFvsS04():
 
@@ -30,6 +48,24 @@ def test_SCFvsS04():
 
     match =  teamproject.poisson_algorithm.poisson_class()
     my_result = match.get_probabilities('SC Freiburg', "FC Schalke 04")
-    result = [34.7762, 26.6737, 38.5501]
+    my_result[0] = np.float(my_result[0])
+    my_result[1] = np.float(my_result[1])
+    my_result[2] = np.float(my_result[2])
+    result = [34.8, 26.7, 38.6]
+    bool_result = True
+    for i in range(0,3):
+        #print([result[i],my_result[i]])
+        if not result[i] == my_result[i]:
+            bool_result = False
+    #print(bool_result)
+    assert bool_result
 
-
+    #pytestmy_result[0] = np.float(my_result[0])
+    #pytestmy_result[1] = np.float(my_result[1])
+    #pytestmy_result[2] = np.float(my_result[2])
+    #pytestprint(type(my_result[0]))
+    #pytestprint(type(my_result[1]))
+    #pytestprint(type(my_result[2]))
+    #pytestprint(type(result[0]))
+    #pytestprint(type(result[1]))
+    #pytestprint(type(result[2]))
