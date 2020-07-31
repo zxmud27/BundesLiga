@@ -9,10 +9,6 @@ import statsmodels.formula.api as smf
 
 class poisson_class():
 
-    #def __init__(self, HomeTeam):
-        #self.HomeTeam = HomeTeam
-        #self.AwayTeam = AwayTeam
-
     filename = pd.read_csv("teamproject/BundesligaData.csv",encoding='unicode_escape')
     filename.head()
     goal_model_data =  pd.concat([filename[['HomeTeam','AwayTeam','HomeGoals']].assign(home=1).rename(
@@ -33,7 +29,23 @@ class poisson_class():
         team_pred = [[poisson.pmf(i, team_avg) for i in range(0, max_goals+1)] for team_avg in [home_goals_avg, away_goals_avg]]
         return(np.outer(np.array(team_pred[0]), np.array(team_pred[1])))
 
-    def get_probabilities(self, team1,team2):
+    def get_probabilities(self, team1, team2):
+        """
+        compute with team1 and team2 the winratio of team1 against team2
+        -----------
+        Parameters:
+        -----------
+        team1 : string
+            Hometeam name
+        
+        team2 : string
+            Awayteam name
+        -------
+        Return:
+        -------
+        list with three probability:
+            [win ratio,draw ratio,lose ratio]
+        """
         teams_goal_prob_matrix = self.simulate_match(
             self.poisson_model,
             team1,

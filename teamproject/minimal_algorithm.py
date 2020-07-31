@@ -2,7 +2,6 @@ import pandas as pd
 
 class minimal_class():
     
-
     def get_minimal_probabilities(self, home,away):
         """
         Evaluating csv file to get

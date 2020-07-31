@@ -5,12 +5,45 @@ import csv
 class DataCrawler():
 
     def clear(self):
-        """Delete all values in the csv-file
-
+        """
+            delete all values in the csv file
         """
         open("teamproject/BundesligaData.csv", "w")
 
     def getSeasons(self, FirstDay, FirstSeason, LastDay,LastSeason):
+        """
+
+        crawling data from Website and saving 
+           - hometeam,
+           - awayteam,
+           - homegoals,
+           - awaygoals,
+           - date
+        into a csv file.
+
+        -----------
+        Parameters:
+        -----------
+
+        FirstDay : int
+            start day of the first season
+
+        FirstSeason : int
+            from this season on the data get crawled
+
+        LastDay : int
+            last day of the last season
+
+        LastSeason : int
+            till this season the data get crawled
+
+        -------
+        Return:
+        -------
+    
+        saving data into csv file
+
+        """
         self.clear()
         csv = open("teamproject/BundesligaData.csv", "w")
         csv.write(
@@ -40,7 +73,7 @@ class DataCrawler():
             if FirstSeason == LastSeason:
                 start_season_day = FirstDay
                 end_season_day = LastDay
-            if i == FirstSeason and FirstDay != 1:
+            elif i == FirstSeason and FirstDay != 1:
                 start_season_day = FirstDay
                 end_season_day = 34
             elif i == LastSeason and LastDay != 34:
@@ -88,6 +121,6 @@ class DataCrawler():
                     csv.write(match)
                     counter += 1
 
-#BLCrawler = DataCrawler()
-#BLCrawler.getSeasons(1,2013,34,2017)
+BLCrawler = DataCrawler()
+BLCrawler.getSeasons(3,2013,22,2013)
 #BLCrawler.clear()
