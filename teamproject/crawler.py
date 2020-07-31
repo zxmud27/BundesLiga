@@ -121,6 +121,49 @@ class DataCrawler():
                     csv.write(match)
                     counter += 1
 
-BLCrawler = DataCrawler()
-BLCrawler.getSeasons(3,2013,22,2013)
-#BLCrawler.clear()
+    def getNamelist(self, year):
+        """
+
+        crawling teamnames of the the year variable
+
+        -----------
+        Parameters:
+        -----------
+
+        year : int
+            match year
+
+        -------
+        Return:
+        -------
+    
+        name_list: list of strings
+            Teamnames in the list are saved to work with
+
+        """
+
+
+        startday_counter = 0
+        name_list = []
+        counter = 0
+        
+        for i in range(year, (year + 1)):
+            game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl1/{i}').text)
+            for game in game_data:
+                startday_counter += 1
+                if startday_counter <= 9:
+                    
+                    Team1 = game['Team1']
+                    name_list.append(Team1['TeamName'])
+                        
+                    Team2 = game['Team2']
+                    name_list.append(Team2['TeamName'])
+                    counter += 1
+                
+            return name_list
+
+
+
+#BLCrawler = DataCrawler()
+#BLCrawler.getSeasons(3,2013,22,2013)
+#print(BLCrawler.getNamelist(2019))
