@@ -1,181 +1,2341 @@
 HomeTeam,AwayTeam,HomeGoals,AwayGoals,Date
-Borussia Dortmund,Werder Bremen,1,0,2013-08-23T20:30:00
-FC Bayern,1. FC Nürnberg,2,0,2013-08-24T15:30:00
-Bayer Leverkusen,Borussia Mönchengladbach,4,2,2013-08-24T15:30:00
-Hannover 96,FC Schalke 04,2,1,2013-08-24T15:30:00
-TSG 1899 Hoffenheim,SC Freiburg,3,3,2013-08-24T15:30:00
-1. FSV Mainz 05,VfL Wolfsburg,2,0,2013-08-24T15:30:00
-Hertha BSC,Hamburger SV,1,0,2013-08-24T18:30:00
-Eintracht Braunschweig,Eintracht Frankfurt,0,2,2013-08-25T15:30:00
-FC Augsburg,VfB Stuttgart,2,1,2013-08-25T17:30:00
-SC Freiburg,FC Bayern,1,1,2013-08-27T18:30:00
-Borussia Mönchengladbach,Werder Bremen,4,1,2013-08-31T15:30:00
-Hannover 96,1. FSV Mainz 05,4,1,2013-08-31T15:30:00
-VfL Wolfsburg,Hertha BSC,2,0,2013-08-31T15:30:00
-1. FC Nürnberg,FC Augsburg,0,1,2013-08-31T15:30:00
-Hamburger SV,Eintracht Braunschweig,4,0,2013-08-31T15:30:00
-FC Schalke 04,Bayer Leverkusen,2,0,2013-08-31T18:30:00
-VfB Stuttgart,TSG 1899 Hoffenheim,6,2,2013-09-01T15:30:00
-Eintracht Frankfurt,Borussia Dortmund,1,2,2013-09-01T17:30:00
-Hertha BSC,VfB Stuttgart,0,1,2013-09-13T20:30:00
-FC Bayern,Hannover 96,2,0,2013-09-14T15:30:00
-Bayer Leverkusen,VfL Wolfsburg,3,1,2013-09-14T15:30:00
-Werder Bremen,Eintracht Frankfurt,0,3,2013-09-14T15:30:00
-1. FSV Mainz 05,FC Schalke 04,0,1,2013-09-14T15:30:00
-FC Augsburg,SC Freiburg,2,1,2013-09-14T15:30:00
-Borussia Dortmund,Hamburger SV,6,2,2013-09-14T18:30:00
-TSG 1899 Hoffenheim,Borussia Mönchengladbach,2,1,2013-09-15T15:30:00
-Eintracht Braunschweig,1. FC Nürnberg,1,1,2013-09-15T17:30:00
-Borussia Mönchengladbach,Eintracht Braunschweig,4,1,2013-09-20T20:30:00
-Hannover 96,FC Augsburg,2,1,2013-09-21T15:30:00
-VfL Wolfsburg,TSG 1899 Hoffenheim,2,1,2013-09-21T15:30:00
-1. FC Nürnberg,Borussia Dortmund,1,1,2013-09-21T15:30:00
-1. FSV Mainz 05,Bayer Leverkusen,1,4,2013-09-21T15:30:00
-Hamburger SV,Werder Bremen,0,2,2013-09-21T15:30:00
-FC Schalke 04,FC Bayern,0,4,2013-09-21T18:30:00
-SC Freiburg,Hertha BSC,1,1,2013-09-22T15:30:00
-VfB Stuttgart,Eintracht Frankfurt,1,1,2013-09-22T17:30:00
-FC Augsburg,Borussia Mönchengladbach,2,2,2013-09-27T20:30:00
-Borussia Dortmund,SC Freiburg,5,0,2013-09-28T15:30:00
-FC Bayern,VfL Wolfsburg,1,0,2013-09-28T15:30:00
-Bayer Leverkusen,Hannover 96,2,0,2013-09-28T15:30:00
-TSG 1899 Hoffenheim,FC Schalke 04,3,3,2013-09-28T15:30:00
-Hertha BSC,1. FSV Mainz 05,3,1,2013-09-28T15:30:00
-Eintracht Frankfurt,Hamburger SV,2,2,2013-09-28T18:30:00
-Werder Bremen,1. FC Nürnberg,3,3,2013-09-29T15:30:00
-Eintracht Braunschweig,VfB Stuttgart,0,4,2013-09-29T17:30:00
-Hannover 96,Hertha BSC,1,1,2013-10-04T20:30:00
-FC Schalke 04,FC Augsburg,4,1,2013-10-05T15:30:00
-Borussia Mönchengladbach,Borussia Dortmund,2,0,2013-10-05T15:30:00
-VfB Stuttgart,Werder Bremen,1,1,2013-10-05T15:30:00
-VfL Wolfsburg,Eintracht Braunschweig,0,2,2013-10-05T15:30:00
-1. FSV Mainz 05,TSG 1899 Hoffenheim,2,2,2013-10-05T15:30:00
-Bayer Leverkusen,FC Bayern,1,1,2013-10-05T18:30:00
-1. FC Nürnberg,Hamburger SV,0,5,2013-10-06T15:30:00
-SC Freiburg,Eintracht Frankfurt,1,1,2013-10-06T17:30:00
-TSG 1899 Hoffenheim,Bayer Leverkusen,1,2,2013-10-18T20:30:00
-Borussia Dortmund,Hannover 96,1,0,2013-10-19T15:30:00
-FC Bayern,1. FSV Mainz 05,4,1,2013-10-19T15:30:00
-Werder Bremen,SC Freiburg,0,0,2013-10-19T15:30:00
-Eintracht Braunschweig,FC Schalke 04,2,3,2013-10-19T15:30:00
-Eintracht Frankfurt,1. FC Nürnberg,1,1,2013-10-19T15:30:00
-Hertha BSC,Borussia Mönchengladbach,1,0,2013-10-19T18:30:00
-Hamburger SV,VfB Stuttgart,3,3,2013-10-20T15:30:00
-FC Augsburg,VfL Wolfsburg,1,2,2013-10-20T17:30:00
-VfB Stuttgart,1. FC Nürnberg,1,1,2013-10-25T20:30:00
-FC Bayern,Hertha BSC,3,2,2013-10-26T15:30:00
-FC Schalke 04,Borussia Dortmund,1,3,2013-10-26T15:30:00
-Bayer Leverkusen,FC Augsburg,2,1,2013-10-26T15:30:00
-Hannover 96,TSG 1899 Hoffenheim,1,4,2013-10-26T15:30:00
-1. FSV Mainz 05,Eintracht Braunschweig,2,0,2013-10-26T15:30:00
-VfL Wolfsburg,Werder Bremen,3,0,2013-10-26T18:30:00
-SC Freiburg,Hamburger SV,0,3,2013-10-27T15:30:00
-Borussia Mönchengladbach,Eintracht Frankfurt,4,1,2013-10-27T17:30:00
-Borussia Dortmund,VfB Stuttgart,6,1,2013-11-01T20:30:00
-1. FC Nürnberg,SC Freiburg,0,3,2013-11-02T15:30:00
-TSG 1899 Hoffenheim,FC Bayern,1,2,2013-11-02T15:30:00
-Hamburger SV,Borussia Mönchengladbach,0,2,2013-11-02T15:30:00
-Eintracht Braunschweig,Bayer Leverkusen,1,0,2013-11-02T15:30:00
-Hertha BSC,FC Schalke 04,0,2,2013-11-02T15:30:00
-Eintracht Frankfurt,VfL Wolfsburg,1,2,2013-11-02T18:30:00
-FC Augsburg,1. FSV Mainz 05,2,1,2013-11-03T15:30:00
-Werder Bremen,Hannover 96,3,2,2013-11-03T17:30:00
-Hannover 96,Eintracht Braunschweig,0,0,2013-11-08T20:30:00
-FC Bayern,FC Augsburg,3,0,2013-11-09T15:30:00
-FC Schalke 04,Werder Bremen,3,1,2013-11-09T15:30:00
-Bayer Leverkusen,Hamburger SV,5,3,2013-11-09T15:30:00
-VfL Wolfsburg,Borussia Dortmund,2,1,2013-11-09T15:30:00
-TSG 1899 Hoffenheim,Hertha BSC,2,3,2013-11-09T15:30:00
-Borussia Mönchengladbach,1. FC Nürnberg,3,1,2013-11-09T18:30:00
-1. FSV Mainz 05,Eintracht Frankfurt,1,0,2013-11-10T15:30:00
-SC Freiburg,VfB Stuttgart,1,3,2013-11-10T17:30:00
-VfB Stuttgart,Borussia Mönchengladbach,0,2,2013-11-22T20:30:00
-1. FC Nürnberg,VfL Wolfsburg,1,1,2013-11-23T15:30:00
-FC Augsburg,TSG 1899 Hoffenheim,2,0,2013-11-23T15:30:00
-Eintracht Braunschweig,SC Freiburg,0,1,2013-11-23T15:30:00
-Eintracht Frankfurt,FC Schalke 04,3,3,2013-11-23T15:30:00
-Hertha BSC,Bayer Leverkusen,0,1,2013-11-23T15:30:00
-Borussia Dortmund,FC Bayern,0,3,2013-11-23T18:30:00
-Hamburger SV,Hannover 96,3,1,2013-11-24T15:30:00
-Werder Bremen,1. FSV Mainz 05,2,3,2013-11-24T17:30:00
-VfL Wolfsburg,Hamburger SV,1,1,2013-11-29T20:30:00
-FC Bayern,Eintracht Braunschweig,2,0,2013-11-30T15:30:00
-Bayer Leverkusen,1. FC Nürnberg,3,0,2013-11-30T15:30:00
-TSG 1899 Hoffenheim,Werder Bremen,4,4,2013-11-30T15:30:00
-1. FSV Mainz 05,Borussia Dortmund,1,3,2013-11-30T15:30:00
-Hertha BSC,FC Augsburg,0,0,2013-11-30T15:30:00
-FC Schalke 04,VfB Stuttgart,3,0,2013-11-30T18:30:00
-Hannover 96,Eintracht Frankfurt,2,0,2013-12-01T15:30:00
-Borussia Mönchengladbach,SC Freiburg,1,0,2013-12-01T17:30:00
-1. FC Nürnberg,1. FSV Mainz 05,1,1,2013-12-06T20:30:00
-Borussia Mönchengladbach,FC Schalke 04,2,1,2013-12-07T15:30:00
-VfB Stuttgart,Hannover 96,4,2,2013-12-07T15:30:00
-Werder Bremen,FC Bayern,0,7,2013-12-07T15:30:00
-Hamburger SV,FC Augsburg,0,1,2013-12-07T15:30:00
-Eintracht Frankfurt,TSG 1899 Hoffenheim,1,2,2013-12-07T15:30:00
-Borussia Dortmund,Bayer Leverkusen,0,1,2013-12-07T18:30:00
-SC Freiburg,VfL Wolfsburg,0,3,2013-12-08T15:30:00
-Eintracht Braunschweig,Hertha BSC,0,2,2013-12-08T17:30:00
-Hertha BSC,Werder Bremen,3,2,2013-12-13T20:30:00
-FC Bayern,Hamburger SV,3,1,2013-12-14T15:30:00
-Hannover 96,1. FC Nürnberg,3,3,2013-12-14T15:30:00
-TSG 1899 Hoffenheim,Borussia Dortmund,2,2,2013-12-14T15:30:00
-1. FSV Mainz 05,Borussia Mönchengladbach,0,0,2013-12-14T15:30:00
-FC Augsburg,Eintracht Braunschweig,4,1,2013-12-14T15:30:00
-VfL Wolfsburg,VfB Stuttgart,3,1,2013-12-14T18:30:00
-FC Schalke 04,SC Freiburg,2,0,2013-12-15T15:30:00
-Bayer Leverkusen,Eintracht Frankfurt,0,1,2013-12-15T17:30:00
-Eintracht Frankfurt,FC Augsburg,1,1,2013-12-20T20:30:00
-Borussia Dortmund,Hertha BSC,1,2,2013-12-21T15:30:00
-Werder Bremen,Bayer Leverkusen,1,0,2013-12-21T15:30:00
-SC Freiburg,Hannover 96,2,1,2013-12-21T15:30:00
-Hamburger SV,1. FSV Mainz 05,2,3,2013-12-21T15:30:00
-Eintracht Braunschweig,TSG 1899 Hoffenheim,1,0,2013-12-21T15:30:00
-1. FC Nürnberg,FC Schalke 04,0,0,2013-12-21T18:30:00
-Borussia Mönchengladbach,VfL Wolfsburg,2,2,2013-12-22T15:30:00
-VfB Stuttgart,FC Bayern,1,2,2014-01-29T20:00:00
-Borussia Mönchengladbach,FC Bayern,0,2,2014-01-24T20:30:00
-Borussia Dortmund,FC Augsburg,2,2,2014-01-25T15:30:00
-VfB Stuttgart,1. FSV Mainz 05,1,2,2014-01-25T15:30:00
-VfL Wolfsburg,Hannover 96,1,3,2014-01-25T15:30:00
-1. FC Nürnberg,TSG 1899 Hoffenheim,4,0,2014-01-25T15:30:00
-SC Freiburg,Bayer Leverkusen,3,2,2014-01-25T15:30:00
-Eintracht Frankfurt,Hertha BSC,1,0,2014-01-25T18:30:00
-Werder Bremen,Eintracht Braunschweig,0,0,2014-01-26T15:30:00
-Hamburger SV,FC Schalke 04,0,3,2014-01-26T17:30:00
-Eintracht Braunschweig,Borussia Dortmund,1,2,2014-01-31T20:30:00
-FC Schalke 04,VfL Wolfsburg,2,1,2014-02-01T15:30:00
-Bayer Leverkusen,VfB Stuttgart,2,1,2014-02-01T15:30:00
-TSG 1899 Hoffenheim,Hamburger SV,3,0,2014-02-01T15:30:00
-1. FSV Mainz 05,SC Freiburg,2,0,2014-02-01T15:30:00
-FC Augsburg,Werder Bremen,3,1,2014-02-01T15:30:00
-Hannover 96,Borussia Mönchengladbach,3,1,2014-02-01T18:30:00
-Hertha BSC,1. FC Nürnberg,1,3,2014-02-02T15:30:00
-FC Bayern,Eintracht Frankfurt,5,0,2014-02-02T17:30:00
-Borussia Mönchengladbach,Bayer Leverkusen,0,1,2014-02-07T20:30:00
-VfL Wolfsburg,1. FSV Mainz 05,3,0,2014-02-08T15:30:00
-Werder Bremen,Borussia Dortmund,1,5,2014-02-08T15:30:00
-1. FC Nürnberg,FC Bayern,0,2,2014-02-08T15:30:00
-SC Freiburg,TSG 1899 Hoffenheim,1,1,2014-02-08T15:30:00
-Eintracht Frankfurt,Eintracht Braunschweig,3,0,2014-02-08T15:30:00
-Hamburger SV,Hertha BSC,0,3,2014-02-08T18:30:00
-VfB Stuttgart,FC Augsburg,1,4,2014-02-09T15:30:00
-FC Schalke 04,Hannover 96,2,0,2014-02-09T17:30:00
-1. FSV Mainz 05,Hannover 96,2,0,2014-02-14T20:30:00
-Borussia Dortmund,Eintracht Frankfurt,4,0,2014-02-15T15:30:00
-FC Bayern,SC Freiburg,4,0,2014-02-15T15:30:00
-Werder Bremen,Borussia Mönchengladbach,1,1,2014-02-15T15:30:00
-TSG 1899 Hoffenheim,VfB Stuttgart,4,1,2014-02-15T15:30:00
-Eintracht Braunschweig,Hamburger SV,4,2,2014-02-15T15:30:00
-Bayer Leverkusen,FC Schalke 04,1,2,2014-02-15T18:30:00
-FC Augsburg,1. FC Nürnberg,0,1,2014-02-16T15:30:00
-Hertha BSC,VfL Wolfsburg,1,2,2014-02-16T17:30:00
-FC Schalke 04,1. FSV Mainz 05,0,0,2014-02-21T20:30:00
-Borussia Mönchengladbach,TSG 1899 Hoffenheim,2,2,2014-02-22T15:30:00
-VfB Stuttgart,Hertha BSC,1,2,2014-02-22T15:30:00
-1. FC Nürnberg,Eintracht Braunschweig,2,1,2014-02-22T15:30:00
-SC Freiburg,FC Augsburg,2,4,2014-02-22T15:30:00
-Hamburger SV,Borussia Dortmund,3,0,2014-02-22T15:30:00
-VfL Wolfsburg,Bayer Leverkusen,3,1,2014-02-22T18:30:00
-Eintracht Frankfurt,Werder Bremen,0,0,2014-02-23T15:30:00
-Hannover 96,FC Bayern,0,4,2014-02-23T17:30:00
+Energie Cottbus,SG Dynamo Dresden,2,1,2011-07-15T18:00:00
+FSV Frankfurt,1. FC Union Berlin,1,1,2011-07-15T18:00:00
+SpVgg Greuther Fürth,Eintracht Frankfurt,2,3,2011-07-15T20:30:00
+FC St. Pauli,FC Ingolstadt 04,2,0,2011-07-16T13:00:00
+Erzgebirge Aue,Alemannia Aachen,1,0,2011-07-16T13:00:00
+FC Hansa Rostock,SC Paderborn 07,1,2,2011-07-17T15:30:00
+Eintracht Braunschweig,TSV 1860 München,3,1,2011-07-17T15:30:00
+Karlsruher SC,MSV Duisburg,3,2,2011-07-17T15:30:00
+Fortuna Düsseldorf,VfL Bochum,2,0,2011-07-18T20:15:00
+VfL Bochum,FSV Frankfurt,1,0,2011-07-22T18:00:00
+FC Ingolstadt 04,Erzgebirge Aue,0,0,2011-07-22T18:00:00
+MSV Duisburg,Energie Cottbus,1,2,2011-07-22T20:30:00
+TSV 1860 München,Karlsruher SC,2,1,2011-07-23T15:30:00
+1. FC Union Berlin,SpVgg Greuther Fürth,0,4,2011-07-23T15:30:00
+Alemannia Aachen,Eintracht Braunschweig,0,2,2011-07-24T15:30:00
+SC Paderborn 07,Fortuna Düsseldorf,1,1,2011-07-24T15:30:00
+SG Dynamo Dresden,FC Hansa Rostock,1,1,2011-07-24T15:30:00
+Eintracht Frankfurt,FC St. Pauli,1,1,2011-07-25T20:15:00
+FC St. Pauli,Alemannia Aachen,3,1,2011-08-05T18:00:00
+Fortuna Düsseldorf,FC Ingolstadt 04,4,1,2011-08-05T18:00:00
+1. FC Union Berlin,SC Paderborn 07,3,0,2011-08-05T18:00:00
+SpVgg Greuther Fürth,SG Dynamo Dresden,1,0,2011-08-06T13:00:00
+Energie Cottbus,TSV 1860 München,0,5,2011-08-06T13:00:00
+Erzgebirge Aue,Karlsruher SC,0,2,2011-08-07T13:30:00
+FSV Frankfurt,MSV Duisburg,0,0,2011-08-07T13:30:00
+Eintracht Braunschweig,Eintracht Frankfurt,0,3,2011-08-07T13:30:00
+FC Hansa Rostock,VfL Bochum,0,0,2011-08-08T20:15:00
+Karlsruher SC,Eintracht Braunschweig,1,3,2011-08-12T18:00:00
+SG Dynamo Dresden,1. FC Union Berlin,4,0,2011-08-12T18:00:00
+VfL Bochum,FC St. Pauli,1,2,2011-08-12T20:30:00
+Alemannia Aachen,Energie Cottbus,0,2,2011-08-13T13:00:00
+SC Paderborn 07,SpVgg Greuther Fürth,0,1,2011-08-13T13:00:00
+MSV Duisburg,FC Hansa Rostock,0,0,2011-08-14T13:30:00
+TSV 1860 München,Erzgebirge Aue,4,0,2011-08-14T13:30:00
+FC Ingolstadt 04,FSV Frankfurt,1,1,2011-08-14T13:30:00
+Eintracht Frankfurt,Fortuna Düsseldorf,1,1,2011-08-15T20:15:00
+SpVgg Greuther Fürth,FC Ingolstadt 04,3,0,2011-08-19T18:00:00
+Fortuna Düsseldorf,TSV 1860 München,3,1,2011-08-19T18:00:00
+FC Hansa Rostock,Alemannia Aachen,0,0,2011-08-19T18:00:00
+1. FC Union Berlin,VfL Bochum,2,1,2011-08-20T13:00:00
+Eintracht Braunschweig,Erzgebirge Aue,1,1,2011-08-20T13:00:00
+Energie Cottbus,Karlsruher SC,2,0,2011-08-21T13:30:00
+FSV Frankfurt,Eintracht Frankfurt,0,4,2011-08-21T13:30:00
+SG Dynamo Dresden,SC Paderborn 07,1,2,2011-08-21T13:30:00
+FC St. Pauli,MSV Duisburg,2,1,2011-08-22T20:15:00
+VfL Bochum,SpVgg Greuther Fürth,1,4,2011-08-26T18:00:00
+MSV Duisburg,SG Dynamo Dresden,3,0,2011-08-26T18:00:00
+FC Ingolstadt 04,FC Hansa Rostock,3,1,2011-08-26T18:00:00
+Alemannia Aachen,Fortuna Düsseldorf,0,0,2011-08-27T13:00:00
+Karlsruher SC,FSV Frankfurt,0,4,2011-08-27T13:00:00
+Eintracht Frankfurt,SC Paderborn 07,0,0,2011-08-28T13:30:00
+TSV 1860 München,1. FC Union Berlin,3,1,2011-08-28T13:30:00
+Eintracht Braunschweig,FC St. Pauli,1,0,2011-08-28T13:30:00
+Erzgebirge Aue,Energie Cottbus,0,0,2011-08-29T20:15:00
+SpVgg Greuther Fürth,MSV Duisburg,2,1,2011-09-09T18:00:00
+SC Paderborn 07,Alemannia Aachen,0,0,2011-09-09T18:00:00
+FC Hansa Rostock,Eintracht Braunschweig,0,0,2011-09-09T18:00:00
+Energie Cottbus,Eintracht Frankfurt,3,3,2011-09-10T13:00:00
+Fortuna Düsseldorf,Karlsruher SC,4,2,2011-09-10T13:00:00
+FC St. Pauli,TSV 1860 München,4,2,2011-09-11T13:30:00
+1. FC Union Berlin,FC Ingolstadt 04,4,1,2011-09-11T13:30:00
+FSV Frankfurt,Erzgebirge Aue,1,1,2011-09-11T13:30:00
+SG Dynamo Dresden,VfL Bochum,2,1,2011-09-12T20:15:00
+Eintracht Frankfurt,FC Hansa Rostock,4,1,2011-09-16T18:00:00
+Erzgebirge Aue,Fortuna Düsseldorf,2,4,2011-09-16T18:00:00
+FC Ingolstadt 04,SG Dynamo Dresden,4,2,2011-09-16T18:00:00
+MSV Duisburg,1. FC Union Berlin,1,1,2011-09-17T13:00:00
+Eintracht Braunschweig,Energie Cottbus,3,1,2011-09-17T13:00:00
+VfL Bochum,SC Paderborn 07,0,4,2011-09-18T13:30:00
+TSV 1860 München,FSV Frankfurt,4,0,2011-09-18T13:30:00
+Alemannia Aachen,SpVgg Greuther Fürth,0,0,2011-09-18T13:30:00
+Karlsruher SC,FC St. Pauli,0,2,2011-09-19T20:15:00
+SC Paderborn 07,FC Ingolstadt 04,4,1,2011-09-23T18:00:00
+FSV Frankfurt,Eintracht Braunschweig,1,1,2011-09-23T18:00:00
+FC St. Pauli,Erzgebirge Aue,2,3,2011-09-23T18:00:00
+1. FC Union Berlin,Alemannia Aachen,2,0,2011-09-24T13:00:00
+Fortuna Düsseldorf,Energie Cottbus,4,2,2011-09-24T13:00:00
+FC Hansa Rostock,Karlsruher SC,1,1,2011-09-25T13:30:00
+SpVgg Greuther Fürth,TSV 1860 München,2,0,2011-09-25T13:30:00
+VfL Bochum,MSV Duisburg,2,1,2011-09-25T13:30:00
+SG Dynamo Dresden,Eintracht Frankfurt,1,4,2011-09-26T20:15:00
+Alemannia Aachen,FSV Frankfurt,1,3,2011-09-30T18:00:00
+Eintracht Frankfurt,1. FC Union Berlin,3,1,2011-09-30T18:00:00
+Erzgebirge Aue,FC Hansa Rostock,1,0,2011-09-30T18:00:00
+FC Ingolstadt 04,VfL Bochum,3,5,2011-10-01T13:00:00
+Energie Cottbus,FC St. Pauli,1,4,2011-10-01T13:00:00
+Karlsruher SC,SpVgg Greuther Fürth,2,2,2011-10-02T13:30:00
+TSV 1860 München,SG Dynamo Dresden,2,4,2011-10-02T13:30:00
+MSV Duisburg,SC Paderborn 07,0,1,2011-10-02T13:30:00
+Eintracht Braunschweig,Fortuna Düsseldorf,1,1,2011-10-03T20:15:00
+VfL Bochum,Eintracht Frankfurt,0,2,2011-10-14T18:00:00
+SC Paderborn 07,Eintracht Braunschweig,1,0,2011-10-14T18:00:00
+FC Hansa Rostock,TSV 1860 München,2,0,2011-10-14T18:00:00
+MSV Duisburg,FC Ingolstadt 04,3,1,2011-10-15T13:00:00
+1. FC Union Berlin,Karlsruher SC,2,0,2011-10-15T13:00:00
+SpVgg Greuther Fürth,Erzgebirge Aue,2,0,2011-10-16T13:30:00
+FSV Frankfurt,Energie Cottbus,0,1,2011-10-16T13:30:00
+SG Dynamo Dresden,Alemannia Aachen,1,1,2011-10-16T13:30:00
+FC St. Pauli,Fortuna Düsseldorf,1,3,2011-10-17T20:15:00
+Fortuna Düsseldorf,FC Hansa Rostock,2,0,2011-10-21T18:00:00
+TSV 1860 München,SC Paderborn 07,1,1,2011-10-21T18:00:00
+Karlsruher SC,VfL Bochum,0,0,2011-10-21T18:00:00
+Energie Cottbus,SpVgg Greuther Fürth,0,2,2011-10-22T13:00:00
+Eintracht Braunschweig,SG Dynamo Dresden,0,2,2011-10-22T13:00:00
+Eintracht Frankfurt,MSV Duisburg,3,0,2011-10-23T13:30:00
+FC St. Pauli,FSV Frankfurt,2,1,2011-10-23T13:30:00
+Erzgebirge Aue,1. FC Union Berlin,1,1,2011-10-23T13:30:00
+Alemannia Aachen,FC Ingolstadt 04,3,1,2011-10-23T13:30:00
+VfL Bochum,Alemannia Aachen,1,0,2011-10-28T18:00:00
+1. FC Union Berlin,FC St. Pauli,0,2,2011-10-28T18:00:00
+FC Hansa Rostock,Energie Cottbus,1,1,2011-10-28T18:00:00
+SC Paderborn 07,Erzgebirge Aue,1,0,2011-10-29T13:00:00
+SG Dynamo Dresden,Karlsruher SC,5,1,2011-10-29T13:00:00
+MSV Duisburg,TSV 1860 München,0,3,2011-10-30T13:30:00
+FSV Frankfurt,Fortuna Düsseldorf,2,5,2011-10-30T13:30:00
+FC Ingolstadt 04,Eintracht Frankfurt,1,1,2011-10-30T13:30:00
+SpVgg Greuther Fürth,Eintracht Braunschweig,1,3,2011-10-31T20:15:00
+Fortuna Düsseldorf,SG Dynamo Dresden,2,1,2011-11-04T18:00:00
+Karlsruher SC,FC Ingolstadt 04,3,2,2011-11-04T18:00:00
+Eintracht Braunschweig,1. FC Union Berlin,1,2,2011-11-04T18:00:00
+FC St. Pauli,SpVgg Greuther Fürth,2,2,2011-11-05T13:00:00
+TSV 1860 München,VfL Bochum,1,3,2011-11-05T13:00:00
+Energie Cottbus,SC Paderborn 07,0,2,2011-11-06T13:30:00
+Alemannia Aachen,MSV Duisburg,2,2,2011-11-06T13:30:00
+FSV Frankfurt,FC Hansa Rostock,0,0,2011-11-06T13:30:00
+Erzgebirge Aue,Eintracht Frankfurt,1,2,2011-11-07T20:15:00
+MSV Duisburg,Eintracht Braunschweig,3,0,2011-11-18T18:00:00
+SC Paderborn 07,Karlsruher SC,2,1,2011-11-18T18:00:00
+FC Ingolstadt 04,TSV 1860 München,0,1,2011-11-18T18:00:00
+1. FC Union Berlin,Fortuna Düsseldorf,0,0,2011-11-19T13:00:00
+FC Hansa Rostock,FC St. Pauli,1,3,2011-11-19T13:00:00
+Eintracht Frankfurt,Alemannia Aachen,4,3,2011-11-20T13:30:00
+SpVgg Greuther Fürth,FSV Frankfurt,4,0,2011-11-20T13:30:00
+SG Dynamo Dresden,Erzgebirge Aue,1,2,2011-11-20T13:30:00
+VfL Bochum,Energie Cottbus,0,1,2011-11-21T20:15:00
+Erzgebirge Aue,MSV Duisburg,1,2,2011-11-25T18:00:00
+FSV Frankfurt,SC Paderborn 07,2,2,2011-11-25T18:00:00
+FC Hansa Rostock,1. FC Union Berlin,2,5,2011-11-25T18:00:00
+TSV 1860 München,Eintracht Frankfurt,2,1,2011-11-26T13:00:00
+Karlsruher SC,Alemannia Aachen,0,2,2011-11-26T13:00:00
+FC St. Pauli,SG Dynamo Dresden,3,1,2011-11-27T13:30:00
+Energie Cottbus,FC Ingolstadt 04,0,0,2011-11-27T13:30:00
+Eintracht Braunschweig,VfL Bochum,4,0,2011-11-27T13:30:00
+Fortuna Düsseldorf,SpVgg Greuther Fürth,2,1,2011-11-28T20:15:00
+1. FC Union Berlin,Energie Cottbus,1,0,2011-12-02T18:00:00
+SC Paderborn 07,FC St. Pauli,1,1,2011-12-02T18:00:00
+FC Ingolstadt 04,Eintracht Braunschweig,0,1,2011-12-02T18:00:00
+Eintracht Frankfurt,Karlsruher SC,2,0,2011-12-03T13:00:00
+SpVgg Greuther Fürth,FC Hansa Rostock,3,0,2011-12-03T13:00:00
+VfL Bochum,Erzgebirge Aue,6,0,2011-12-04T13:30:00
+Alemannia Aachen,TSV 1860 München,2,2,2011-12-04T13:30:00
+SG Dynamo Dresden,FSV Frankfurt,2,2,2011-12-04T13:30:00
+MSV Duisburg,Fortuna Düsseldorf,0,2,2011-12-05T20:15:00
+MSV Duisburg,Karlsruher SC,3,1,2011-12-09T18:00:00
+TSV 1860 München,Eintracht Braunschweig,3,0,2011-12-09T18:00:00
+SC Paderborn 07,FC Hansa Rostock,2,0,2011-12-09T18:00:00
+VfL Bochum,Fortuna Düsseldorf,1,1,2011-12-10T13:00:00
+1. FC Union Berlin,FSV Frankfurt,4,0,2011-12-10T13:00:00
+Alemannia Aachen,Erzgebirge Aue,1,1,2011-12-11T13:30:00
+FC Ingolstadt 04,FC St. Pauli,1,0,2011-12-11T13:30:00
+SG Dynamo Dresden,Energie Cottbus,2,1,2011-12-11T13:30:00
+Eintracht Frankfurt,SpVgg Greuther Fürth,0,0,2011-12-12T20:15:00
+SpVgg Greuther Fürth,1. FC Union Berlin,5,0,2011-12-16T18:00:00
+Erzgebirge Aue,FC Ingolstadt 04,1,1,2011-12-16T18:00:00
+Fortuna Düsseldorf,SC Paderborn 07,2,3,2011-12-16T18:00:00
+FSV Frankfurt,VfL Bochum,0,2,2011-12-17T13:00:00
+Karlsruher SC,TSV 1860 München,1,3,2011-12-17T13:00:00
+Energie Cottbus,MSV Duisburg,1,1,2011-12-18T13:30:00
+Eintracht Braunschweig,Alemannia Aachen,1,1,2011-12-18T13:30:00
+FC Hansa Rostock,SG Dynamo Dresden,2,2,2011-12-18T13:30:00
+FC St. Pauli,Eintracht Frankfurt,2,0,2011-12-19T20:15:00
+MSV Duisburg,FSV Frankfurt,1,2,2012-02-03T18:00:00
+SC Paderborn 07,1. FC Union Berlin,3,2,2012-02-03T18:00:00
+SG Dynamo Dresden,SpVgg Greuther Fürth,3,1,2012-02-03T18:00:00
+Alemannia Aachen,FC St. Pauli,2,1,2012-02-04T13:00:00
+FC Ingolstadt 04,Fortuna Düsseldorf,1,1,2012-02-04T13:00:00
+Eintracht Frankfurt,Eintracht Braunschweig,2,1,2012-02-05T13:30:00
+VfL Bochum,FC Hansa Rostock,2,1,2012-02-05T13:30:00
+Karlsruher SC,Erzgebirge Aue,2,1,2012-02-05T13:30:00
+TSV 1860 München,Energie Cottbus,2,0,2012-02-06T20:15:00
+Energie Cottbus,Alemannia Aachen,1,1,2012-02-10T18:00:00
+FSV Frankfurt,FC Ingolstadt 04,1,1,2012-02-10T18:00:00
+1. FC Union Berlin,SG Dynamo Dresden,4,0,2012-02-11T13:00:00
+Eintracht Braunschweig,Karlsruher SC,0,0,2012-02-11T13:00:00
+FC St. Pauli,VfL Bochum,2,1,2012-02-12T13:30:00
+SpVgg Greuther Fürth,SC Paderborn 07,5,1,2012-02-12T13:30:00
+FC Hansa Rostock,MSV Duisburg,4,2,2012-02-12T13:30:00
+Fortuna Düsseldorf,Eintracht Frankfurt,1,1,2012-02-13T20:15:00
+Erzgebirge Aue,TSV 1860 München,0,0,2012-03-14T18:30:00
+MSV Duisburg,FC St. Pauli,0,1,2012-02-17T18:00:00
+SC Paderborn 07,SG Dynamo Dresden,2,2,2012-02-17T18:00:00
+Karlsruher SC,Energie Cottbus,2,0,2012-02-17T18:00:00
+Eintracht Frankfurt,FSV Frankfurt,6,1,2012-02-18T13:00:00
+VfL Bochum,1. FC Union Berlin,4,2,2012-02-18T13:00:00
+TSV 1860 München,Fortuna Düsseldorf,2,1,2012-02-19T13:30:00
+FC Ingolstadt 04,SpVgg Greuther Fürth,0,0,2012-02-19T13:30:00
+Alemannia Aachen,FC Hansa Rostock,0,0,2012-02-19T14:10:00
+Erzgebirge Aue,Eintracht Braunschweig,1,1,2012-02-20T20:15:00
+1. FC Union Berlin,TSV 1860 München,0,1,2012-02-24T18:00:00
+FC Hansa Rostock,FC Ingolstadt 04,1,2,2012-02-24T18:00:00
+SG Dynamo Dresden,MSV Duisburg,2,0,2012-02-24T18:00:00
+SpVgg Greuther Fürth,VfL Bochum,6,2,2012-02-25T13:00:00
+Energie Cottbus,Erzgebirge Aue,2,0,2012-02-25T13:00:00
+FC St. Pauli,Eintracht Braunschweig,0,0,2012-02-26T13:30:00
+SC Paderborn 07,Eintracht Frankfurt,4,2,2012-02-26T13:30:00
+FSV Frankfurt,Karlsruher SC,2,1,2012-02-26T13:30:00
+Fortuna Düsseldorf,Alemannia Aachen,0,0,2012-02-27T20:15:00
+MSV Duisburg,SpVgg Greuther Fürth,0,2,2012-03-02T18:00:00
+FC Ingolstadt 04,1. FC Union Berlin,3,3,2012-03-02T18:00:00
+VfL Bochum,SG Dynamo Dresden,0,2,2012-03-02T20:30:00
+Alemannia Aachen,SC Paderborn 07,0,3,2012-03-03T13:00:00
+Karlsruher SC,Fortuna Düsseldorf,0,5,2012-03-03T13:00:00
+Eintracht Frankfurt,Energie Cottbus,1,0,2012-03-04T13:30:00
+Erzgebirge Aue,FSV Frankfurt,4,3,2012-03-04T13:30:00
+Eintracht Braunschweig,FC Hansa Rostock,3,2,2012-03-04T13:30:00
+TSV 1860 München,FC St. Pauli,1,1,2012-03-05T20:15:00
+SpVgg Greuther Fürth,Alemannia Aachen,1,0,2012-03-09T18:00:00
+1. FC Union Berlin,MSV Duisburg,1,1,2012-03-09T18:00:00
+SC Paderborn 07,VfL Bochum,0,0,2012-03-09T18:00:00
+Fortuna Düsseldorf,Erzgebirge Aue,3,1,2012-03-10T13:00:00
+FSV Frankfurt,TSV 1860 München,3,1,2012-03-10T13:00:00
+Energie Cottbus,Eintracht Braunschweig,1,1,2012-03-11T13:30:00
+FC Hansa Rostock,Eintracht Frankfurt,1,5,2012-03-11T13:30:00
+SG Dynamo Dresden,FC Ingolstadt 04,0,0,2012-03-11T13:30:00
+FC St. Pauli,Karlsruher SC,1,0,2012-03-12T20:15:00
+Eintracht Frankfurt,SG Dynamo Dresden,3,0,2012-03-16T18:00:00
+Alemannia Aachen,1. FC Union Berlin,1,3,2012-03-16T18:00:00
+Eintracht Braunschweig,FSV Frankfurt,0,0,2012-03-16T18:00:00
+TSV 1860 München,SpVgg Greuther Fürth,1,4,2012-03-17T13:00:00
+FC Ingolstadt 04,SC Paderborn 07,4,0,2012-03-17T13:00:00
+Erzgebirge Aue,FC St. Pauli,2,1,2012-03-18T13:30:00
+MSV Duisburg,VfL Bochum,2,1,2012-03-18T13:30:00
+Karlsruher SC,FC Hansa Rostock,2,2,2012-03-18T13:30:00
+Energie Cottbus,Fortuna Düsseldorf,1,1,2012-03-19T20:15:00
+VfL Bochum,FC Ingolstadt 04,0,1,2012-03-23T18:00:00
+FSV Frankfurt,Alemannia Aachen,2,1,2012-03-23T18:00:00
+SG Dynamo Dresden,TSV 1860 München,0,1,2012-03-23T18:00:00
+SpVgg Greuther Fürth,Karlsruher SC,3,0,2012-03-24T13:00:00
+Fortuna Düsseldorf,Eintracht Braunschweig,1,1,2012-03-24T13:00:00
+FC St. Pauli,Energie Cottbus,0,0,2012-03-25T13:30:00
+SC Paderborn 07,MSV Duisburg,1,2,2012-03-25T13:30:00
+FC Hansa Rostock,Erzgebirge Aue,0,1,2012-03-25T13:30:00
+1. FC Union Berlin,Eintracht Frankfurt,0,4,2012-03-26T20:15:00
+Eintracht Frankfurt,VfL Bochum,3,0,2012-03-30T18:00:00
+Alemannia Aachen,SG Dynamo Dresden,0,1,2012-03-30T18:00:00
+Eintracht Braunschweig,SC Paderborn 07,0,0,2012-03-30T18:00:00
+Erzgebirge Aue,SpVgg Greuther Fürth,1,1,2012-03-31T13:00:00
+TSV 1860 München,FC Hansa Rostock,0,1,2012-03-31T13:00:00
+Energie Cottbus,FSV Frankfurt,1,1,2012-04-01T13:30:00
+FC Ingolstadt 04,MSV Duisburg,1,1,2012-04-01T13:30:00
+Karlsruher SC,1. FC Union Berlin,2,0,2012-04-01T13:30:00
+Fortuna Düsseldorf,FC St. Pauli,0,0,2012-04-02T20:15:00
+SpVgg Greuther Fürth,Energie Cottbus,3,0,2012-04-05T18:00:00
+1. FC Union Berlin,Erzgebirge Aue,1,0,2012-04-05T18:00:00
+FC Hansa Rostock,Fortuna Düsseldorf,2,1,2012-04-05T18:00:00
+MSV Duisburg,Eintracht Frankfurt,2,0,2012-04-07T13:00:00
+FSV Frankfurt,FC St. Pauli,3,3,2012-04-07T13:00:00
+SG Dynamo Dresden,Eintracht Braunschweig,2,2,2012-04-07T13:00:00
+VfL Bochum,Karlsruher SC,0,0,2012-04-08T13:30:00
+SC Paderborn 07,TSV 1860 München,2,2,2012-04-08T13:30:00
+FC Ingolstadt 04,Alemannia Aachen,3,3,2012-04-08T13:30:00
+FC St. Pauli,1. FC Union Berlin,2,1,2012-04-10T17:30:00
+Energie Cottbus,FC Hansa Rostock,0,1,2012-04-10T17:30:00
+Fortuna Düsseldorf,FSV Frankfurt,1,0,2012-04-10T17:30:00
+Eintracht Braunschweig,SpVgg Greuther Fürth,0,0,2012-04-10T17:30:00
+Eintracht Frankfurt,FC Ingolstadt 04,1,1,2012-04-11T17:30:00
+Erzgebirge Aue,SC Paderborn 07,0,2,2012-04-11T17:30:00
+TSV 1860 München,MSV Duisburg,2,1,2012-04-11T17:30:00
+Alemannia Aachen,VfL Bochum,2,0,2012-04-11T17:30:00
+Karlsruher SC,SG Dynamo Dresden,2,0,2012-04-11T17:30:00
+SpVgg Greuther Fürth,FC St. Pauli,2,1,2012-04-13T18:00:00
+1. FC Union Berlin,Eintracht Braunschweig,1,0,2012-04-13T18:00:00
+FC Hansa Rostock,FSV Frankfurt,0,5,2012-04-13T18:00:00
+Eintracht Frankfurt,Erzgebirge Aue,4,0,2012-04-14T13:00:00
+MSV Duisburg,Alemannia Aachen,2,0,2012-04-14T13:00:00
+VfL Bochum,TSV 1860 München,2,2,2012-04-15T13:30:00
+SC Paderborn 07,Energie Cottbus,3,1,2012-04-15T13:30:00
+FC Ingolstadt 04,Karlsruher SC,2,1,2012-04-15T13:30:00
+SG Dynamo Dresden,Fortuna Düsseldorf,2,1,2012-04-16T20:15:00
+Energie Cottbus,VfL Bochum,1,1,2012-04-20T18:00:00
+FSV Frankfurt,SpVgg Greuther Fürth,1,1,2012-04-20T18:00:00
+Eintracht Braunschweig,MSV Duisburg,0,0,2012-04-20T18:00:00
+Erzgebirge Aue,SG Dynamo Dresden,1,1,2012-04-21T13:00:00
+TSV 1860 München,FC Ingolstadt 04,4,1,2012-04-21T13:00:00
+FC St. Pauli,FC Hansa Rostock,3,0,2012-04-22T13:30:00
+Fortuna Düsseldorf,1. FC Union Berlin,2,1,2012-04-22T13:30:00
+Karlsruher SC,SC Paderborn 07,2,0,2012-04-22T13:30:00
+Alemannia Aachen,Eintracht Frankfurt,0,3,2012-04-23T20:15:00
+Eintracht Frankfurt,TSV 1860 München,0,2,2012-04-29T13:30:00
+VfL Bochum,Eintracht Braunschweig,2,0,2012-04-29T13:30:00
+SpVgg Greuther Fürth,Fortuna Düsseldorf,1,1,2012-04-29T13:30:00
+MSV Duisburg,Erzgebirge Aue,2,1,2012-04-29T13:30:00
+Alemannia Aachen,Karlsruher SC,1,0,2012-04-29T13:30:00
+1. FC Union Berlin,FC Hansa Rostock,5,4,2012-04-29T13:30:00
+SC Paderborn 07,FSV Frankfurt,1,0,2012-04-29T13:30:00
+FC Ingolstadt 04,Energie Cottbus,1,0,2012-04-29T13:30:00
+SG Dynamo Dresden,FC St. Pauli,1,0,2012-04-29T13:30:00
+FC St. Pauli,SC Paderborn 07,5,0,2012-05-06T13:30:00
+Erzgebirge Aue,VfL Bochum,2,1,2012-05-06T13:30:00
+Energie Cottbus,1. FC Union Berlin,2,1,2012-05-06T13:30:00
+Fortuna Düsseldorf,MSV Duisburg,2,2,2012-05-06T13:30:00
+TSV 1860 München,Alemannia Aachen,1,2,2012-05-06T13:30:00
+FSV Frankfurt,SG Dynamo Dresden,1,1,2012-05-06T13:30:00
+Karlsruher SC,Eintracht Frankfurt,1,0,2012-05-06T13:30:00
+Eintracht Braunschweig,FC Ingolstadt 04,3,1,2012-05-06T13:30:00
+FC Hansa Rostock,SpVgg Greuther Fürth,2,2,2012-05-06T13:30:00
+FC Ingolstadt 04,Energie Cottbus,2,2,2012-08-03T18:00:00
+FC Erzgebirge Aue,FC St. Pauli,0,0,2012-08-03T18:00:00
+Hertha BSC,SC Paderborn 07,2,2,2012-08-03T20:30:00
+TSV 1860 München,Jahn Regensburg,1,0,2012-08-04T13:00:00
+VfL Bochum,SG Dynamo Dresden,2,1,2012-08-04T15:30:00
+MSV Duisburg,VfR Aalen,1,4,2012-08-05T13:30:00
+SV Sandhausen,FSV Frankfurt,1,1,2012-08-05T13:30:00
+Eintracht Braunschweig,1. FC Köln,1,0,2012-08-05T15:30:00
+1. FC Kaiserslautern,1. FC Union Berlin,3,3,2012-08-06T20:15:00
+1. FC Köln,SV Sandhausen,1,1,2012-08-10T18:00:00
+VfR Aalen,1. FC Kaiserslautern,1,2,2012-08-10T18:00:00
+Energie Cottbus,FC Erzgebirge Aue,3,0,2012-08-10T20:30:00
+SC Paderborn 07,VfL Bochum,4,0,2012-08-11T13:00:00
+FC St. Pauli,FC Ingolstadt 04,1,1,2012-08-11T15:30:00
+1. FC Union Berlin,Eintracht Braunschweig,0,1,2012-08-12T13:30:00
+Jahn Regensburg,MSV Duisburg,2,0,2012-08-12T13:30:00
+FSV Frankfurt,Hertha BSC,3,1,2012-08-12T15:30:00
+SG Dynamo Dresden,TSV 1860 München,2,2,2012-08-13T20:15:00
+Hertha BSC,Jahn Regensburg,2,1,2012-08-24T18:00:00
+Eintracht Braunschweig,SC Paderborn 07,2,1,2012-08-24T18:00:00
+SV Sandhausen,1. FC Union Berlin,2,0,2012-08-24T18:00:00
+MSV Duisburg,SG Dynamo Dresden,1,3,2012-08-25T13:00:00
+Energie Cottbus,FC St. Pauli,2,0,2012-08-25T13:00:00
+1. FC Kaiserslautern,TSV 1860 München,0,0,2012-08-26T13:30:00
+VfL Bochum,VfR Aalen,0,1,2012-08-26T13:30:00
+FC Ingolstadt 04,FSV Frankfurt,0,2,2012-08-26T13:30:00
+FC Erzgebirge Aue,1. FC Köln,2,0,2012-08-27T20:15:00
+TSV 1860 München,MSV Duisburg,3,0,2012-08-31T18:00:00
+SG Dynamo Dresden,1. FC Kaiserslautern,1,3,2012-08-31T18:00:00
+1. FC Köln,Energie Cottbus,0,1,2012-08-31T18:15:00
+FC St. Pauli,SV Sandhausen,2,1,2012-09-01T13:00:00
+VfR Aalen,Eintracht Braunschweig,0,3,2012-09-01T13:00:00
+SC Paderborn 07,FC Ingolstadt 04,1,3,2012-09-02T13:30:00
+FSV Frankfurt,FC Erzgebirge Aue,1,0,2012-09-02T13:30:00
+Jahn Regensburg,VfL Bochum,0,1,2012-09-02T13:30:00
+1. FC Union Berlin,Hertha BSC,1,2,2012-09-03T20:15:00
+VfL Bochum,TSV 1860 München,0,0,2012-09-14T18:00:00
+FC Ingolstadt 04,1. FC Union Berlin,2,1,2012-09-14T18:00:00
+Energie Cottbus,FSV Frankfurt,2,2,2012-09-14T18:00:00
+Eintracht Braunschweig,Jahn Regensburg,1,0,2012-09-15T13:00:00
+SV Sandhausen,SG Dynamo Dresden,1,1,2012-09-15T13:00:00
+Hertha BSC,VfR Aalen,2,0,2012-09-16T13:30:00
+1. FC Kaiserslautern,MSV Duisburg,2,1,2012-09-16T13:30:00
+FC Erzgebirge Aue,SC Paderborn 07,0,1,2012-09-16T13:30:00
+1. FC Köln,FC St. Pauli,0,0,2012-09-17T20:15:00
+FSV Frankfurt,FC St. Pauli,2,1,2012-09-21T18:00:00
+1. FC Union Berlin,1. FC Köln,2,1,2012-09-21T18:00:00
+VfR Aalen,FC Erzgebirge Aue,2,0,2012-09-21T18:00:00
+1. FC Kaiserslautern,Hertha BSC,1,1,2012-09-22T13:00:00
+SC Paderborn 07,SV Sandhausen,3,0,2012-09-22T13:00:00
+Jahn Regensburg,Energie Cottbus,0,1,2012-09-22T13:00:00
+TSV 1860 München,Eintracht Braunschweig,1,1,2012-09-23T13:30:00
+SG Dynamo Dresden,FC Ingolstadt 04,0,1,2012-09-23T13:30:00
+MSV Duisburg,VfL Bochum,0,0,2012-09-23T13:30:00
+1. FC Köln,FSV Frankfurt,2,1,2012-09-25T17:30:00
+FC St. Pauli,VfR Aalen,0,1,2012-09-25T17:30:00
+Energie Cottbus,SC Paderborn 07,2,1,2012-09-25T17:30:00
+SV Sandhausen,Jahn Regensburg,1,2,2012-09-25T17:30:00
+Hertha BSC,SG Dynamo Dresden,1,0,2012-09-26T17:30:00
+Eintracht Braunschweig,MSV Duisburg,3,0,2012-09-26T17:30:00
+FC Ingolstadt 04,TSV 1860 München,0,2,2012-09-26T17:30:00
+FC Erzgebirge Aue,1. FC Union Berlin,1,1,2012-09-26T17:30:00
+VfL Bochum,1. FC Kaiserslautern,1,2,2012-09-27T20:15:00
+SC Paderborn 07,1. FC Köln,1,2,2012-09-28T18:00:00
+Jahn Regensburg,FC St. Pauli,3,0,2012-09-28T18:00:00
+VfR Aalen,FSV Frankfurt,3,0,2012-09-28T18:00:00
+TSV 1860 München,SV Sandhausen,4,0,2012-09-29T13:00:00
+1. FC Union Berlin,Energie Cottbus,3,1,2012-09-29T13:00:00
+1. FC Kaiserslautern,Eintracht Braunschweig,1,1,2012-09-30T13:30:00
+SG Dynamo Dresden,FC Erzgebirge Aue,3,1,2012-09-30T13:30:00
+VfL Bochum,FC Ingolstadt 04,1,1,2012-09-30T13:30:00
+MSV Duisburg,Hertha BSC,2,2,2012-10-01T20:15:00
+Hertha BSC,TSV 1860 München,3,0,2012-10-05T18:00:00
+FC St. Pauli,1. FC Union Berlin,2,2,2012-10-05T18:00:00
+FSV Frankfurt,SC Paderborn 07,1,1,2012-10-05T18:00:00
+Eintracht Braunschweig,VfL Bochum,3,0,2012-10-06T13:00:00
+Energie Cottbus,MSV Duisburg,0,1,2012-10-06T13:00:00
+FC Ingolstadt 04,1. FC Kaiserslautern,1,1,2012-10-07T13:30:00
+FC Erzgebirge Aue,Jahn Regensburg,3,1,2012-10-07T13:30:00
+SV Sandhausen,VfR Aalen,1,0,2012-10-07T13:30:00
+1. FC Köln,SG Dynamo Dresden,1,1,2012-10-08T20:15:00
+1. FC Kaiserslautern,SV Sandhausen,3,1,2012-10-19T18:00:00
+MSV Duisburg,FC Ingolstadt 04,0,2,2012-10-19T18:00:00
+VfL Bochum,Hertha BSC,0,2,2012-10-19T18:00:00
+SG Dynamo Dresden,Eintracht Braunschweig,0,2,2012-10-20T13:00:00
+Jahn Regensburg,1. FC Köln,2,3,2012-10-20T13:00:00
+SC Paderborn 07,FC St. Pauli,1,1,2012-10-21T13:30:00
+1. FC Union Berlin,FSV Frankfurt,1,0,2012-10-21T13:30:00
+VfR Aalen,Energie Cottbus,1,1,2012-10-21T13:30:00
+TSV 1860 München,FC Erzgebirge Aue,1,1,2012-10-22T20:15:00
+1. FC Köln,1. FC Kaiserslautern,3,3,2012-10-26T18:00:00
+FC Ingolstadt 04,VfR Aalen,2,0,2012-10-26T18:00:00
+Energie Cottbus,TSV 1860 München,1,0,2012-10-26T18:00:00
+SV Sandhausen,MSV Duisburg,0,2,2012-10-27T13:00:00
+Eintracht Braunschweig,Hertha BSC,1,1,2012-10-27T13:00:00
+FC Erzgebirge Aue,VfL Bochum,6,1,2012-10-27T13:00:00
+FC St. Pauli,SG Dynamo Dresden,3,2,2012-10-28T13:30:00
+1. FC Union Berlin,SC Paderborn 07,0,1,2012-10-28T13:30:00
+FSV Frankfurt,Jahn Regensburg,3,1,2012-10-28T13:30:00
+Hertha BSC,FC Ingolstadt 04,0,0,2012-11-02T18:00:00
+Eintracht Braunschweig,SV Sandhausen,2,1,2012-11-02T18:00:00
+Jahn Regensburg,SC Paderborn 07,0,2,2012-11-02T18:00:00
+TSV 1860 München,FC St. Pauli,0,2,2012-11-03T13:00:00
+MSV Duisburg,FSV Frankfurt,1,2,2012-11-03T13:00:00
+SG Dynamo Dresden,1. FC Union Berlin,0,2,2012-11-04T13:30:00
+VfL Bochum,Energie Cottbus,2,2,2012-11-04T13:30:00
+VfR Aalen,1. FC Köln,2,0,2012-11-04T13:30:00
+1. FC Kaiserslautern,FC Erzgebirge Aue,4,1,2012-11-05T20:15:00
+1. FC Köln,MSV Duisburg,0,0,2012-11-09T18:00:00
+FC Erzgebirge Aue,Eintracht Braunschweig,1,1,2012-11-09T18:00:00
+SV Sandhausen,Hertha BSC,1,6,2012-11-09T18:00:00
+SC Paderborn 07,1. FC Kaiserslautern,1,1,2012-11-10T13:00:00
+1. FC Union Berlin,VfR Aalen,0,0,2012-11-10T13:00:00
+FC Ingolstadt 04,Jahn Regensburg,4,2,2012-11-11T13:30:00
+FSV Frankfurt,TSV 1860 München,0,1,2012-11-11T13:30:00
+Energie Cottbus,SG Dynamo Dresden,2,0,2012-11-11T13:30:00
+FC St. Pauli,VfL Bochum,1,1,2012-11-12T20:15:00
+1. FC Kaiserslautern,Energie Cottbus,1,0,2012-11-16T18:00:00
+SG Dynamo Dresden,FSV Frankfurt,2,1,2012-11-16T18:00:00
+TSV 1860 München,1. FC Köln,0,2,2012-11-16T20:30:00
+Eintracht Braunschweig,FC Ingolstadt 04,3,0,2012-11-17T13:00:00
+VfR Aalen,SC Paderborn 07,0,1,2012-11-17T13:00:00
+MSV Duisburg,FC Erzgebirge Aue,2,1,2012-11-18T13:30:00
+VfL Bochum,SV Sandhausen,5,2,2012-11-18T13:30:00
+Jahn Regensburg,1. FC Union Berlin,3,3,2012-11-18T13:30:00
+Hertha BSC,FC St. Pauli,1,0,2012-11-19T20:15:00
+1. FC Köln,VfL Bochum,3,1,2012-11-23T18:00:00
+SC Paderborn 07,SG Dynamo Dresden,2,2,2012-11-23T18:00:00
+Jahn Regensburg,VfR Aalen,1,3,2012-11-23T18:00:00
+1. FC Union Berlin,TSV 1860 München,2,2,2012-11-24T13:00:00
+FSV Frankfurt,1. FC Kaiserslautern,0,1,2012-11-24T13:00:00
+Energie Cottbus,Eintracht Braunschweig,3,1,2012-11-24T13:00:00
+FC St. Pauli,MSV Duisburg,4,1,2012-11-25T13:30:00
+FC Ingolstadt 04,SV Sandhausen,1,1,2012-11-25T13:30:00
+FC Erzgebirge Aue,Hertha BSC,0,4,2012-11-25T13:30:00
+1. FC Kaiserslautern,Jahn Regensburg,1,1,2012-11-27T17:30:00
+TSV 1860 München,SC Paderborn 07,1,0,2012-11-27T17:30:00
+SG Dynamo Dresden,VfR Aalen,0,0,2012-11-27T17:30:00
+VfL Bochum,FSV Frankfurt,1,3,2012-11-27T17:30:00
+Eintracht Braunschweig,FC St. Pauli,1,0,2012-11-28T17:30:00
+MSV Duisburg,1. FC Union Berlin,1,2,2012-11-28T17:30:00
+FC Ingolstadt 04,FC Erzgebirge Aue,1,2,2012-11-28T17:30:00
+SV Sandhausen,Energie Cottbus,3,1,2012-11-28T17:30:00
+Hertha BSC,1. FC Köln,1,1,2012-11-29T20:15:00
+VfR Aalen,TSV 1860 München,1,1,2012-11-30T18:00:00
+Jahn Regensburg,SG Dynamo Dresden,0,0,2012-11-30T18:00:00
+FC St. Pauli,1. FC Kaiserslautern,1,0,2012-12-01T13:00:00
+1. FC Union Berlin,VfL Bochum,2,1,2012-12-01T13:00:00
+FC Erzgebirge Aue,SV Sandhausen,2,2,2012-12-01T13:00:00
+1. FC Köln,FC Ingolstadt 04,1,0,2012-12-02T13:30:00
+SC Paderborn 07,MSV Duisburg,0,2,2012-12-02T13:30:00
+FSV Frankfurt,Eintracht Braunschweig,1,2,2012-12-02T13:30:00
+Energie Cottbus,Hertha BSC,1,2,2012-12-03T20:15:00
+1. FC Union Berlin,1. FC Kaiserslautern,2,0,2012-12-07T18:00:00
+FSV Frankfurt,SV Sandhausen,3,1,2012-12-07T18:00:00
+VfR Aalen,MSV Duisburg,0,1,2012-12-07T18:00:00
+SC Paderborn 07,Hertha BSC,0,1,2012-12-08T13:00:00
+SG Dynamo Dresden,VfL Bochum,0,3,2012-12-08T13:00:00
+FC St. Pauli,FC Erzgebirge Aue,0,3,2012-12-09T13:30:00
+Energie Cottbus,FC Ingolstadt 04,1,1,2012-12-09T13:30:00
+Jahn Regensburg,TSV 1860 München,1,1,2012-12-09T13:30:00
+1. FC Köln,Eintracht Braunschweig,2,2,2012-12-10T20:15:00
+1. FC Kaiserslautern,VfR Aalen,0,1,2012-12-14T18:00:00
+FC Erzgebirge Aue,Energie Cottbus,3,0,2012-12-14T18:00:00
+SV Sandhausen,1. FC Köln,0,0,2012-12-14T18:00:00
+Hertha BSC,FSV Frankfurt,2,1,2012-12-15T13:00:00
+FC Ingolstadt 04,FC St. Pauli,0,0,2012-12-15T13:00:00
+TSV 1860 München,SG Dynamo Dresden,1,1,2012-12-16T13:30:00
+MSV Duisburg,Jahn Regensburg,4,2,2012-12-16T13:30:00
+VfL Bochum,SC Paderborn 07,4,0,2012-12-16T13:30:00
+Eintracht Braunschweig,1. FC Union Berlin,4,3,2012-12-17T20:15:00
+1. FC Union Berlin,SV Sandhausen,3,1,2013-02-01T18:00:00
+SG Dynamo Dresden,MSV Duisburg,0,0,2013-02-01T18:00:00
+VfR Aalen,VfL Bochum,2,2,2013-02-01T18:00:00
+1. FC Köln,FC Erzgebirge Aue,2,1,2013-02-02T13:00:00
+SC Paderborn 07,Eintracht Braunschweig,1,2,2013-02-02T13:00:00
+FC St. Pauli,Energie Cottbus,0,0,2013-02-03T13:30:00
+FSV Frankfurt,FC Ingolstadt 04,0,2,2013-02-03T13:30:00
+Jahn Regensburg,Hertha BSC,1,5,2013-02-03T13:30:00
+TSV 1860 München,1. FC Kaiserslautern,0,1,2013-02-04T20:15:00
+Eintracht Braunschweig,VfR Aalen,1,1,2013-02-08T18:00:00
+FC Erzgebirge Aue,FSV Frankfurt,0,2,2013-02-08T18:00:00
+1. FC Kaiserslautern,SG Dynamo Dresden,3,0,2013-02-08T20:30:00
+MSV Duisburg,TSV 1860 München,1,3,2013-02-09T13:00:00
+Energie Cottbus,1. FC Köln,0,0,2013-02-09T13:00:00
+VfL Bochum,Jahn Regensburg,0,2,2013-02-10T13:30:00
+FC Ingolstadt 04,SC Paderborn 07,1,3,2013-02-10T13:30:00
+SV Sandhausen,FC St. Pauli,4,1,2013-02-10T13:30:00
+Hertha BSC,1. FC Union Berlin,2,2,2013-02-11T20:15:00
+SC Paderborn 07,FC Erzgebirge Aue,2,0,2013-02-15T18:00:00
+TSV 1860 München,VfL Bochum,0,1,2013-02-15T18:00:00
+Jahn Regensburg,Eintracht Braunschweig,0,1,2013-02-15T18:00:00
+1. FC Union Berlin,FC Ingolstadt 04,1,1,2013-02-16T13:00:00
+VfR Aalen,Hertha BSC,0,1,2013-02-16T13:00:00
+SG Dynamo Dresden,SV Sandhausen,3,1,2013-02-17T13:30:00
+MSV Duisburg,1. FC Kaiserslautern,0,0,2013-02-17T13:30:00
+FSV Frankfurt,Energie Cottbus,1,0,2013-02-17T13:30:00
+FC St. Pauli,1. FC Köln,0,1,2013-02-18T20:15:00
+FC St. Pauli,FSV Frankfurt,3,0,2013-02-22T18:00:00
+VfL Bochum,MSV Duisburg,2,2,2013-02-22T18:00:00
+FC Erzgebirge Aue,VfR Aalen,1,1,2013-02-22T18:00:00
+1. FC Köln,1. FC Union Berlin,2,0,2013-02-23T13:00:00
+FC Ingolstadt 04,SG Dynamo Dresden,1,1,2013-02-23T13:00:00
+Eintracht Braunschweig,TSV 1860 München,1,2,2013-02-24T13:30:00
+Energie Cottbus,Jahn Regensburg,1,1,2013-02-24T13:30:00
+SV Sandhausen,SC Paderborn 07,1,3,2013-02-24T13:30:00
+Hertha BSC,1. FC Kaiserslautern,1,0,2013-02-25T20:15:00
+SC Paderborn 07,Energie Cottbus,0,1,2013-03-01T18:00:00
+1. FC Union Berlin,FC Erzgebirge Aue,3,0,2013-03-01T18:00:00
+Jahn Regensburg,SV Sandhausen,1,3,2013-03-01T18:00:00
+1. FC Kaiserslautern,VfL Bochum,0,0,2013-03-02T13:00:00
+SG Dynamo Dresden,Hertha BSC,1,0,2013-03-02T13:00:00
+TSV 1860 München,FC Ingolstadt 04,1,1,2013-03-03T13:30:00
+FSV Frankfurt,1. FC Köln,1,1,2013-03-03T13:30:00
+VfR Aalen,FC St. Pauli,0,1,2013-03-03T13:30:00
+MSV Duisburg,Eintracht Braunschweig,1,0,2013-03-04T20:15:00
+FC St. Pauli,Jahn Regensburg,3,2,2013-03-08T18:00:00
+FSV Frankfurt,VfR Aalen,6,1,2013-03-08T18:00:00
+SV Sandhausen,TSV 1860 München,0,1,2013-03-08T18:00:00
+1. FC Köln,SC Paderborn 07,3,0,2013-03-09T13:00:00
+Energie Cottbus,1. FC Union Berlin,2,1,2013-03-09T13:00:00
+Hertha BSC,MSV Duisburg,4,2,2013-03-10T13:30:00
+FC Ingolstadt 04,VfL Bochum,2,1,2013-03-10T13:30:00
+FC Erzgebirge Aue,SG Dynamo Dresden,1,0,2013-03-10T13:30:00
+Eintracht Braunschweig,1. FC Kaiserslautern,1,1,2013-03-11T20:15:00
+SC Paderborn 07,FSV Frankfurt,3,0,2013-03-15T18:00:00
+1. FC Union Berlin,FC St. Pauli,4,2,2013-03-15T18:00:00
+MSV Duisburg,Energie Cottbus,2,1,2013-03-15T18:00:00
+TSV 1860 München,Hertha BSC,0,0,2013-03-16T13:00:00
+VfL Bochum,Eintracht Braunschweig,0,1,2013-03-16T13:00:00
+1. FC Kaiserslautern,FC Ingolstadt 04,3,0,2013-03-17T13:30:00
+VfR Aalen,SV Sandhausen,2,2,2013-03-17T13:30:00
+Jahn Regensburg,FC Erzgebirge Aue,1,1,2013-03-17T13:30:00
+SG Dynamo Dresden,1. FC Köln,0,2,2013-03-18T20:15:00
+Energie Cottbus,VfR Aalen,1,1,2013-03-28T18:00:00
+FC Erzgebirge Aue,TSV 1860 München,0,1,2013-03-28T18:00:00
+Eintracht Braunschweig,SG Dynamo Dresden,2,1,2013-03-28T20:30:00
+Hertha BSC,VfL Bochum,2,0,2013-03-30T13:00:00
+FC Ingolstadt 04,MSV Duisburg,0,1,2013-03-30T13:00:00
+1. FC Köln,Jahn Regensburg,2,1,2013-03-31T13:30:00
+FSV Frankfurt,1. FC Union Berlin,3,0,2013-03-31T13:30:00
+SV Sandhausen,1. FC Kaiserslautern,1,1,2013-03-31T13:30:00
+FC St. Pauli,SC Paderborn 07,2,2,2013-04-01T20:15:00
+1. FC Kaiserslautern,1. FC Köln,3,0,2013-04-05T18:00:00
+VfL Bochum,FC Erzgebirge Aue,0,3,2013-04-05T18:00:00
+VfR Aalen,FC Ingolstadt 04,2,1,2013-04-05T18:00:00
+SG Dynamo Dresden,FC St. Pauli,3,2,2013-04-06T13:00:00
+Jahn Regensburg,FSV Frankfurt,1,4,2013-04-06T13:00:00
+SC Paderborn 07,1. FC Union Berlin,1,1,2013-04-07T13:30:00
+TSV 1860 München,Energie Cottbus,1,1,2013-04-07T13:30:00
+MSV Duisburg,SV Sandhausen,2,1,2013-04-07T13:30:00
+Hertha BSC,Eintracht Braunschweig,3,0,2013-04-08T20:15:00
+1. FC Union Berlin,SG Dynamo Dresden,0,0,2013-04-12T18:00:00
+FC Ingolstadt 04,Hertha BSC,1,1,2013-04-12T18:00:00
+SV Sandhausen,Eintracht Braunschweig,1,3,2013-04-12T18:00:00
+FC St. Pauli,TSV 1860 München,3,1,2013-04-13T13:00:00
+FSV Frankfurt,MSV Duisburg,1,1,2013-04-13T13:00:00
+1. FC Köln,VfR Aalen,1,0,2013-04-14T13:30:00
+SC Paderborn 07,Jahn Regensburg,0,0,2013-04-14T13:30:00
+Energie Cottbus,VfL Bochum,0,2,2013-04-14T13:30:00
+FC Erzgebirge Aue,1. FC Kaiserslautern,1,1,2013-04-15T20:15:00
+VfL Bochum,FC St. Pauli,3,0,2013-04-19T18:00:00
+VfR Aalen,1. FC Union Berlin,3,0,2013-04-19T18:00:00
+Jahn Regensburg,FC Ingolstadt 04,1,2,2013-04-19T18:00:00
+1. FC Kaiserslautern,SC Paderborn 07,3,0,2013-04-20T13:00:00
+TSV 1860 München,FSV Frankfurt,1,2,2013-04-20T13:00:00
+Hertha BSC,SV Sandhausen,1,0,2013-04-21T13:30:00
+Eintracht Braunschweig,FC Erzgebirge Aue,1,1,2013-04-21T13:30:00
+SG Dynamo Dresden,Energie Cottbus,1,0,2013-04-21T13:30:00
+MSV Duisburg,1. FC Köln,1,1,2013-04-22T20:15:00
+1. FC Union Berlin,Jahn Regensburg,1,0,2013-04-26T18:00:00
+FC Ingolstadt 04,Eintracht Braunschweig,0,1,2013-04-26T18:00:00
+SV Sandhausen,VfL Bochum,0,1,2013-04-26T18:00:00
+FSV Frankfurt,SG Dynamo Dresden,3,1,2013-04-27T13:00:00
+FC Erzgebirge Aue,MSV Duisburg,0,0,2013-04-27T13:00:00
+1. FC Köln,TSV 1860 München,1,1,2013-04-28T13:30:00
+FC St. Pauli,Hertha BSC,2,3,2013-04-28T13:30:00
+SC Paderborn 07,VfR Aalen,2,2,2013-04-28T13:30:00
+Energie Cottbus,1. FC Kaiserslautern,4,2,2013-04-29T20:15:00
+Hertha BSC,FC Erzgebirge Aue,3,2,2013-05-03T18:00:00
+SG Dynamo Dresden,SC Paderborn 07,2,1,2013-05-03T18:00:00
+VfR Aalen,Jahn Regensburg,2,1,2013-05-03T18:00:00
+VfL Bochum,1. FC Köln,2,1,2013-05-04T13:00:00
+SV Sandhausen,FC Ingolstadt 04,3,1,2013-05-04T13:00:00
+1. FC Kaiserslautern,FSV Frankfurt,4,1,2013-05-05T13:30:00
+TSV 1860 München,1. FC Union Berlin,3,0,2013-05-05T13:30:00
+MSV Duisburg,FC St. Pauli,0,0,2013-05-05T13:30:00
+Eintracht Braunschweig,Energie Cottbus,0,0,2013-05-06T20:15:00
+1. FC Köln,Hertha BSC,1,2,2013-05-12T13:30:00
+FC St. Pauli,Eintracht Braunschweig,5,1,2013-05-12T13:30:00
+SC Paderborn 07,TSV 1860 München,2,0,2013-05-12T13:30:00
+1. FC Union Berlin,MSV Duisburg,2,1,2013-05-12T13:30:00
+FSV Frankfurt,VfL Bochum,2,1,2013-05-12T13:30:00
+Energie Cottbus,SV Sandhausen,3,0,2013-05-12T13:30:00
+FC Erzgebirge Aue,FC Ingolstadt 04,0,1,2013-05-12T13:30:00
+VfR Aalen,SG Dynamo Dresden,3,0,2013-05-12T13:30:00
+Jahn Regensburg,1. FC Kaiserslautern,1,3,2013-05-12T13:30:00
+Hertha BSC,Energie Cottbus,1,1,2013-05-19T13:30:00
+1. FC Kaiserslautern,FC St. Pauli,1,2,2013-05-19T13:30:00
+TSV 1860 München,VfR Aalen,3,0,2013-05-19T13:30:00
+Eintracht Braunschweig,FSV Frankfurt,2,2,2013-05-19T13:30:00
+SG Dynamo Dresden,Jahn Regensburg,3,1,2013-05-19T13:30:00
+MSV Duisburg,SC Paderborn 07,3,2,2013-05-19T13:30:00
+VfL Bochum,1. FC Union Berlin,1,2,2013-05-19T13:30:00
+FC Ingolstadt 04,1. FC Köln,0,3,2013-05-19T13:30:00
+SV Sandhausen,FC Erzgebirge Aue,0,1,2013-05-19T13:30:00
+SV Sandhausen,VfR Aalen,0,0,2013-07-19T18:30:00
+FC Ingolstadt 04,FC Erzgebirge Aue,1,2,2013-07-19T18:30:00
+FC St. Pauli,TSV 1860 München,1,0,2013-07-19T20:30:00
+SC Paderborn 07,1. FC Kaiserslautern,0,1,2013-07-20T13:00:00
+SG Dynamo Dresden,1. FC Köln,1,1,2013-07-20T15:30:00
+SpVgg Greuther Fürth,Arminia Bielefeld,2,0,2013-07-21T13:30:00
+FSV Frankfurt,Karlsruher SC,0,1,2013-07-21T13:30:00
+1. FC Union Berlin,VfL Bochum,1,2,2013-07-21T15:30:00
+Fortuna Düsseldorf,Energie Cottbus,1,0,2013-07-22T20:15:00
+VfR Aalen,SpVgg Greuther Fürth,0,2,2013-07-26T18:30:00
+Arminia Bielefeld,1. FC Union Berlin,1,1,2013-07-26T18:30:00
+1. FC Kaiserslautern,FC Ingolstadt 04,3,1,2013-07-26T20:30:00
+FC Erzgebirge Aue,SV Sandhausen,1,0,2013-07-27T13:00:00
+Karlsruher SC,FC St. Pauli,0,0,2013-07-27T15:30:00
+TSV 1860 München,FSV Frankfurt,2,1,2013-07-28T13:30:00
+Energie Cottbus,SC Paderborn 07,4,0,2013-07-28T13:30:00
+1. FC Köln,Fortuna Düsseldorf,1,1,2013-07-28T15:30:00
+VfL Bochum,SG Dynamo Dresden,1,1,2013-07-29T20:15:00
+Fortuna Düsseldorf,TSV 1860 München,1,2,2013-08-09T18:30:00
+FSV Frankfurt,VfL Bochum,1,0,2013-08-09T18:30:00
+SG Dynamo Dresden,1. FC Union Berlin,1,3,2013-08-09T18:30:00
+SC Paderborn 07,1. FC Köln,1,1,2013-08-10T13:00:00
+FC Ingolstadt 04,Karlsruher SC,0,2,2013-08-10T13:00:00
+FC St. Pauli,Arminia Bielefeld,0,1,2013-08-11T13:30:00
+SV Sandhausen,Energie Cottbus,2,2,2013-08-11T13:30:00
+FC Erzgebirge Aue,VfR Aalen,0,1,2013-08-11T13:30:00
+SpVgg Greuther Fürth,1. FC Kaiserslautern,2,1,2013-08-12T20:15:00
+Karlsruher SC,SpVgg Greuther Fürth,1,2,2013-08-16T18:30:00
+Arminia Bielefeld,SC Paderborn 07,3,3,2013-08-16T18:30:00
+VfL Bochum,FC St. Pauli,2,2,2013-08-16T20:30:00
+1. FC Kaiserslautern,FC Erzgebirge Aue,2,1,2013-08-17T13:00:00
+1. FC Köln,SV Sandhausen,2,0,2013-08-17T13:00:00
+TSV 1860 München,FC Ingolstadt 04,1,0,2013-08-18T13:30:00
+Energie Cottbus,VfR Aalen,5,1,2013-08-18T13:30:00
+SG Dynamo Dresden,FSV Frankfurt,0,3,2013-08-18T13:30:00
+1. FC Union Berlin,Fortuna Düsseldorf,2,1,2013-08-19T20:15:00
+SV Sandhausen,Karlsruher SC,1,1,2013-08-23T18:30:00
+FC Ingolstadt 04,Arminia Bielefeld,3,2,2013-08-23T18:30:00
+FC Erzgebirge Aue,Energie Cottbus,2,1,2013-08-23T18:30:00
+SpVgg Greuther Fürth,1. FC Köln,0,0,2013-08-24T13:00:00
+VfR Aalen,1. FC Kaiserslautern,4,0,2013-08-24T13:00:00
+Fortuna Düsseldorf,VfL Bochum,1,0,2013-08-25T13:30:00
+FSV Frankfurt,1. FC Union Berlin,1,1,2013-08-25T13:30:00
+SC Paderborn 07,TSV 1860 München,1,0,2013-08-25T13:30:00
+FC St. Pauli,SG Dynamo Dresden,2,1,2013-08-26T20:15:00
+FSV Frankfurt,SpVgg Greuther Fürth,1,1,2013-08-30T18:30:00
+TSV 1860 München,SV Sandhausen,0,2,2013-08-30T18:30:00
+Arminia Bielefeld,Fortuna Düsseldorf,4,2,2013-08-30T18:30:00
+1. FC Union Berlin,FC St. Pauli,3,2,2013-08-31T13:00:00
+VfL Bochum,SC Paderborn 07,4,2,2013-08-31T13:00:00
+1. FC Köln,FC Erzgebirge Aue,4,1,2013-09-01T13:30:00
+SG Dynamo Dresden,FC Ingolstadt 04,1,1,2013-09-01T13:30:00
+Karlsruher SC,VfR Aalen,1,1,2013-09-01T13:30:00
+1. FC Kaiserslautern,Energie Cottbus,2,2,2013-09-02T20:15:00
+VfR Aalen,TSV 1860 München,0,0,2013-09-13T18:30:00
+SC Paderborn 07,Karlsruher SC,1,0,2013-09-13T18:30:00
+FC Erzgebirge Aue,Arminia Bielefeld,0,2,2013-09-13T18:30:00
+FC St. Pauli,FSV Frankfurt,2,1,2013-09-14T13:00:00
+SV Sandhausen,1. FC Kaiserslautern,1,0,2013-09-14T13:00:00
+Fortuna Düsseldorf,SG Dynamo Dresden,1,1,2013-09-15T13:30:00
+SpVgg Greuther Fürth,VfL Bochum,0,2,2013-09-15T13:30:00
+FC Ingolstadt 04,1. FC Union Berlin,0,1,2013-09-15T13:30:00
+Energie Cottbus,1. FC Köln,0,4,2013-09-16T20:15:00
+1. FC Köln,1. FC Kaiserslautern,0,0,2013-09-20T18:30:00
+1. FC Union Berlin,SpVgg Greuther Fürth,2,4,2013-09-20T18:30:00
+Karlsruher SC,Energie Cottbus,2,0,2013-09-20T18:30:00
+TSV 1860 München,FC Erzgebirge Aue,3,1,2013-09-21T13:00:00
+VfL Bochum,VfR Aalen,1,2,2013-09-21T13:00:00
+FSV Frankfurt,FC Ingolstadt 04,4,1,2013-09-22T13:30:00
+SG Dynamo Dresden,SC Paderborn 07,2,2,2013-09-22T13:30:00
+Arminia Bielefeld,SV Sandhausen,2,1,2013-09-22T13:30:00
+FC St. Pauli,Fortuna Düsseldorf,1,1,2013-09-23T20:15:00
+Energie Cottbus,Arminia Bielefeld,4,2,2013-09-27T18:30:00
+VfR Aalen,1. FC Köln,0,1,2013-09-27T18:30:00
+FC Erzgebirge Aue,Karlsruher SC,3,0,2013-09-27T18:30:00
+Fortuna Düsseldorf,FSV Frankfurt,0,0,2013-09-28T13:00:00
+SC Paderborn 07,1. FC Union Berlin,0,3,2013-09-28T13:00:00
+1. FC Kaiserslautern,TSV 1860 München,3,0,2013-09-29T13:30:00
+SV Sandhausen,VfL Bochum,1,0,2013-09-29T13:30:00
+FC Ingolstadt 04,FC St. Pauli,1,2,2013-09-29T13:30:00
+SpVgg Greuther Fürth,SG Dynamo Dresden,4,0,2013-09-30T20:15:00
+1. FC Union Berlin,SV Sandhausen,3,0,2013-10-04T18:30:00
+FC St. Pauli,SC Paderborn 07,1,2,2013-10-04T18:30:00
+Arminia Bielefeld,1. FC Kaiserslautern,0,3,2013-10-04T18:30:00
+SG Dynamo Dresden,VfR Aalen,2,0,2013-10-05T13:00:00
+Karlsruher SC,1. FC Köln,1,2,2013-10-05T13:00:00
+FSV Frankfurt,FC Erzgebirge Aue,3,1,2013-10-06T13:30:00
+TSV 1860 München,Energie Cottbus,0,0,2013-10-06T13:30:00
+VfL Bochum,FC Ingolstadt 04,0,1,2013-10-06T13:30:00
+Fortuna Düsseldorf,SpVgg Greuther Fürth,2,1,2013-10-07T20:15:00
+Energie Cottbus,1. FC Union Berlin,0,0,2013-10-18T18:30:00
+VfR Aalen,Arminia Bielefeld,3,0,2013-10-18T18:30:00
+SC Paderborn 07,FSV Frankfurt,4,2,2013-10-18T18:30:00
+SV Sandhausen,SG Dynamo Dresden,0,0,2013-10-19T13:00:00
+FC Erzgebirge Aue,VfL Bochum,2,1,2013-10-19T13:00:00
+SpVgg Greuther Fürth,FC St. Pauli,2,4,2013-10-20T13:30:00
+1. FC Kaiserslautern,Karlsruher SC,2,2,2013-10-20T13:30:00
+FC Ingolstadt 04,Fortuna Düsseldorf,1,2,2013-10-20T13:30:00
+1. FC Köln,TSV 1860 München,0,0,2013-10-21T20:15:00
+SpVgg Greuther Fürth,FC Ingolstadt 04,0,1,2013-10-25T18:30:00
+FC St. Pauli,SV Sandhausen,0,0,2013-10-25T18:30:00
+Arminia Bielefeld,1. FC Köln,0,1,2013-10-25T18:30:00
+Fortuna Düsseldorf,SC Paderborn 07,1,6,2013-10-26T13:00:00
+FSV Frankfurt,VfR Aalen,0,0,2013-10-26T13:00:00
+1. FC Union Berlin,FC Erzgebirge Aue,1,0,2013-10-27T13:30:00
+SG Dynamo Dresden,Energie Cottbus,1,0,2013-10-27T13:30:00
+Karlsruher SC,TSV 1860 München,2,1,2013-10-27T13:30:00
+VfL Bochum,1. FC Kaiserslautern,0,0,2013-10-28T20:15:00
+Energie Cottbus,VfL Bochum,0,1,2013-11-01T18:30:00
+VfR Aalen,Fortuna Düsseldorf,1,0,2013-11-01T18:30:00
+SC Paderborn 07,FC Ingolstadt 04,1,1,2013-11-01T18:30:00
+1. FC Kaiserslautern,FC St. Pauli,4,1,2013-11-02T13:00:00
+FC Erzgebirge Aue,SpVgg Greuther Fürth,2,6,2013-11-02T13:00:00
+TSV 1860 München,SG Dynamo Dresden,1,3,2013-11-03T13:30:00
+SV Sandhausen,FSV Frankfurt,2,0,2013-11-03T13:30:00
+Karlsruher SC,Arminia Bielefeld,3,1,2013-11-03T13:30:00
+1. FC Köln,1. FC Union Berlin,4,0,2013-11-04T20:15:00
+SpVgg Greuther Fürth,SC Paderborn 07,3,0,2013-11-08T18:30:00
+FSV Frankfurt,1. FC Kaiserslautern,0,4,2013-11-08T18:30:00
+FC Ingolstadt 04,VfR Aalen,2,0,2013-11-08T18:30:00
+1. FC Union Berlin,Karlsruher SC,0,0,2013-11-09T13:00:00
+Arminia Bielefeld,TSV 1860 München,0,1,2013-11-09T13:00:00
+Fortuna Düsseldorf,SV Sandhausen,1,0,2013-11-10T13:30:00
+VfL Bochum,1. FC Köln,1,0,2013-11-10T13:30:00
+SG Dynamo Dresden,FC Erzgebirge Aue,1,1,2013-11-10T13:30:00
+FC St. Pauli,Energie Cottbus,3,0,2013-11-11T20:15:00
+Energie Cottbus,FSV Frankfurt,1,4,2013-11-22T18:30:00
+SV Sandhausen,SC Paderborn 07,3,2,2013-11-22T18:30:00
+Arminia Bielefeld,VfL Bochum,0,2,2013-11-22T18:30:00
+1. FC Kaiserslautern,1. FC Union Berlin,3,0,2013-11-23T13:00:00
+1. FC Köln,FC Ingolstadt 04,0,1,2013-11-23T13:00:00
+VfR Aalen,FC St. Pauli,0,1,2013-11-24T13:30:00
+FC Erzgebirge Aue,Fortuna Düsseldorf,3,0,2013-11-24T13:30:00
+Karlsruher SC,SG Dynamo Dresden,3,0,2013-11-24T13:30:00
+TSV 1860 München,SpVgg Greuther Fürth,1,0,2013-11-25T20:15:00
+Fortuna Düsseldorf,Karlsruher SC,0,2,2013-11-29T18:30:00
+1. FC Union Berlin,VfR Aalen,1,3,2013-11-29T18:30:00
+FC St. Pauli,1. FC Köln,0,3,2013-11-29T18:30:00
+FC Ingolstadt 04,SV Sandhausen,0,2,2013-11-30T13:00:00
+SG Dynamo Dresden,1. FC Kaiserslautern,3,2,2013-11-30T13:00:00
+SpVgg Greuther Fürth,Energie Cottbus,1,0,2013-12-01T13:30:00
+SC Paderborn 07,FC Erzgebirge Aue,1,1,2013-12-01T13:30:00
+VfL Bochum,TSV 1860 München,1,2,2013-12-01T13:30:00
+FSV Frankfurt,Arminia Bielefeld,1,2,2013-12-02T20:15:00
+FC Erzgebirge Aue,FC St. Pauli,0,2,2013-12-06T18:30:00
+Karlsruher SC,VfL Bochum,0,0,2013-12-06T18:30:00
+Arminia Bielefeld,SG Dynamo Dresden,1,1,2013-12-06T18:30:00
+1. FC Köln,FSV Frankfurt,2,0,2013-12-07T13:00:00
+TSV 1860 München,1. FC Union Berlin,2,1,2013-12-07T13:00:00
+Energie Cottbus,FC Ingolstadt 04,1,2,2013-12-08T13:30:00
+VfR Aalen,SC Paderborn 07,2,4,2013-12-08T13:30:00
+SV Sandhausen,SpVgg Greuther Fürth,1,3,2013-12-08T13:30:00
+1. FC Kaiserslautern,Fortuna Düsseldorf,0,1,2013-12-09T15:15:00
+1. FC Kaiserslautern,SC Paderborn 07,0,1,2013-12-13T18:30:00
+1. FC Köln,SG Dynamo Dresden,3,1,2013-12-13T18:30:00
+VfR Aalen,SV Sandhausen,0,0,2013-12-13T18:30:00
+Energie Cottbus,Fortuna Düsseldorf,1,3,2013-12-14T13:00:00
+VfL Bochum,1. FC Union Berlin,0,4,2013-12-14T13:00:00
+FC Erzgebirge Aue,FC Ingolstadt 04,0,0,2013-12-15T13:30:00
+Karlsruher SC,FSV Frankfurt,3,3,2013-12-15T13:30:00
+Arminia Bielefeld,SpVgg Greuther Fürth,4,1,2013-12-15T13:30:00
+TSV 1860 München,FC St. Pauli,0,2,2013-12-16T20:15:00
+FC St. Pauli,Karlsruher SC,0,2,2013-12-20T18:30:00
+SV Sandhausen,FC Erzgebirge Aue,1,0,2013-12-20T18:30:00
+SG Dynamo Dresden,VfL Bochum,0,0,2013-12-20T18:30:00
+FSV Frankfurt,TSV 1860 München,2,2,2013-12-21T13:00:00
+1. FC Union Berlin,Arminia Bielefeld,4,2,2013-12-21T13:00:00
+SpVgg Greuther Fürth,VfR Aalen,1,0,2013-12-22T13:30:00
+SC Paderborn 07,Energie Cottbus,1,0,2013-12-22T13:30:00
+Fortuna Düsseldorf,1. FC Köln,2,3,2013-12-22T14:00:00
+FC Ingolstadt 04,1. FC Kaiserslautern,1,2,2013-12-23T20:15:00
+Energie Cottbus,SV Sandhausen,0,1,2014-02-07T18:30:00
+VfR Aalen,FC Erzgebirge Aue,2,2,2014-02-07T18:30:00
+VfL Bochum,FSV Frankfurt,1,2,2014-02-07T18:30:00
+1. FC Kaiserslautern,SpVgg Greuther Fürth,2,1,2014-02-08T13:00:00
+1. FC Union Berlin,SG Dynamo Dresden,0,0,2014-02-08T13:00:00
+1. FC Köln,SC Paderborn 07,0,1,2014-02-09T13:30:00
+Karlsruher SC,FC Ingolstadt 04,1,1,2014-02-09T13:30:00
+Arminia Bielefeld,FC St. Pauli,2,2,2014-02-09T13:30:00
+TSV 1860 München,Fortuna Düsseldorf,1,1,2014-02-10T20:15:00
+Fortuna Düsseldorf,1. FC Union Berlin,1,1,2014-02-14T18:30:00
+SpVgg Greuther Fürth,Karlsruher SC,1,1,2014-02-14T18:30:00
+FC Ingolstadt 04,TSV 1860 München,2,0,2014-02-14T18:30:00
+FSV Frankfurt,SG Dynamo Dresden,3,2,2014-02-15T13:00:00
+FC St. Pauli,VfL Bochum,0,1,2014-02-15T13:00:00
+VfR Aalen,Energie Cottbus,2,2,2014-02-16T13:30:00
+SV Sandhausen,1. FC Köln,0,1,2014-02-16T13:30:00
+SC Paderborn 07,Arminia Bielefeld,4,0,2014-02-16T13:30:00
+FC Erzgebirge Aue,1. FC Kaiserslautern,1,0,2014-02-17T20:15:00
+1. FC Union Berlin,FSV Frankfurt,2,0,2014-02-21T18:30:00
+Energie Cottbus,FC Erzgebirge Aue,2,3,2014-02-21T18:30:00
+Arminia Bielefeld,FC Ingolstadt 04,0,2,2014-02-21T18:30:00
+TSV 1860 München,SC Paderborn 07,2,2,2014-02-22T13:00:00
+Karlsruher SC,SV Sandhausen,2,1,2014-02-22T13:00:00
+1. FC Kaiserslautern,VfR Aalen,1,2,2014-02-23T13:30:00
+VfL Bochum,Fortuna Düsseldorf,0,0,2014-02-23T13:30:00
+SG Dynamo Dresden,FC St. Pauli,1,2,2014-02-23T13:30:00
+1. FC Köln,SpVgg Greuther Fürth,1,1,2014-02-24T20:15:00
+Fortuna Düsseldorf,Arminia Bielefeld,2,0,2014-02-28T18:30:00
+Energie Cottbus,1. FC Kaiserslautern,1,0,2014-02-28T18:30:00
+SC Paderborn 07,VfL Bochum,4,1,2014-02-28T18:30:00
+SV Sandhausen,TSV 1860 München,0,0,2014-03-01T13:00:00
+FC Erzgebirge Aue,1. FC Köln,2,2,2014-03-01T13:00:00
+SpVgg Greuther Fürth,FSV Frankfurt,3,2,2014-03-02T13:30:00
+VfR Aalen,Karlsruher SC,1,0,2014-03-02T13:30:00
+FC Ingolstadt 04,SG Dynamo Dresden,1,1,2014-03-02T13:30:00
+FC St. Pauli,1. FC Union Berlin,2,1,2014-03-03T20:15:00
+1. FC Kaiserslautern,SV Sandhausen,2,1,2014-03-07T18:30:00
+1. FC Köln,Energie Cottbus,2,1,2014-03-07T18:30:00
+TSV 1860 München,VfR Aalen,4,0,2014-03-07T18:30:00
+1. FC Union Berlin,FC Ingolstadt 04,1,1,2014-03-08T13:00:00
+Arminia Bielefeld,FC Erzgebirge Aue,1,0,2014-03-08T13:00:00
+FSV Frankfurt,FC St. Pauli,1,0,2014-03-09T13:30:00
+SG Dynamo Dresden,Fortuna Düsseldorf,1,1,2014-03-09T13:30:00
+Karlsruher SC,SC Paderborn 07,4,0,2014-03-09T13:30:00
+VfL Bochum,SpVgg Greuther Fürth,0,2,2014-03-10T20:15:00
+VfR Aalen,VfL Bochum,0,2,2014-03-14T18:30:00
+SC Paderborn 07,SG Dynamo Dresden,2,1,2014-03-14T18:30:00
+FC Ingolstadt 04,FSV Frankfurt,0,1,2014-03-14T18:30:00
+Energie Cottbus,Karlsruher SC,1,0,2014-03-15T13:00:00
+FC Erzgebirge Aue,TSV 1860 München,2,2,2014-03-15T13:00:00
+Fortuna Düsseldorf,FC St. Pauli,0,2,2014-03-16T13:30:00
+SpVgg Greuther Fürth,1. FC Union Berlin,1,1,2014-03-16T13:30:00
+SV Sandhausen,Arminia Bielefeld,1,0,2014-03-16T13:30:00
+1. FC Kaiserslautern,1. FC Köln,0,0,2014-03-17T20:15:00
+1. FC Union Berlin,SC Paderborn 07,1,1,2014-03-21T18:30:00
+VfL Bochum,SV Sandhausen,0,1,2014-03-21T18:30:00
+SG Dynamo Dresden,SpVgg Greuther Fürth,1,1,2014-03-21T18:30:00
+FSV Frankfurt,Fortuna Düsseldorf,0,0,2014-03-22T13:00:00
+1. FC Köln,VfR Aalen,0,0,2014-03-22T13:00:00
+FC St. Pauli,FC Ingolstadt 04,0,0,2014-03-22T13:00:00
+TSV 1860 München,1. FC Kaiserslautern,0,1,2014-03-23T13:30:00
+Karlsruher SC,FC Erzgebirge Aue,1,1,2014-03-23T13:30:00
+Arminia Bielefeld,Energie Cottbus,1,3,2014-03-23T13:30:00
+SpVgg Greuther Fürth,Fortuna Düsseldorf,4,1,2014-03-25T17:30:00
+VfR Aalen,SG Dynamo Dresden,1,1,2014-03-25T17:30:00
+SV Sandhausen,1. FC Union Berlin,2,1,2014-03-25T17:30:00
+SC Paderborn 07,FC St. Pauli,3,0,2014-03-25T17:30:00
+FC Ingolstadt 04,VfL Bochum,3,0,2014-03-25T17:30:00
+1. FC Kaiserslautern,Arminia Bielefeld,1,1,2014-03-26T17:30:00
+1. FC Köln,Karlsruher SC,2,0,2014-03-26T17:30:00
+Energie Cottbus,TSV 1860 München,1,2,2014-03-26T17:30:00
+FC Erzgebirge Aue,FSV Frankfurt,2,1,2014-03-26T17:30:00
+Fortuna Düsseldorf,FC Ingolstadt 04,0,0,2014-03-28T18:30:00
+FC St. Pauli,SpVgg Greuther Fürth,2,2,2014-03-28T18:30:00
+SG Dynamo Dresden,SV Sandhausen,0,0,2014-03-28T18:30:00
+VfL Bochum,FC Erzgebirge Aue,1,0,2014-03-29T13:00:00
+Karlsruher SC,1. FC Kaiserslautern,2,2,2014-03-29T13:00:00
+FSV Frankfurt,SC Paderborn 07,1,3,2014-03-30T13:30:00
+TSV 1860 München,1. FC Köln,0,1,2014-03-30T13:30:00
+Arminia Bielefeld,VfR Aalen,0,0,2014-03-30T13:30:00
+1. FC Union Berlin,Energie Cottbus,2,0,2014-03-31T20:15:00
+Energie Cottbus,SG Dynamo Dresden,0,0,2014-04-04T18:30:00
+VfR Aalen,FSV Frankfurt,2,1,2014-04-04T18:30:00
+SC Paderborn 07,Fortuna Düsseldorf,1,2,2014-04-04T18:30:00
+1. FC Köln,Arminia Bielefeld,2,0,2014-04-05T13:00:00
+SV Sandhausen,FC St. Pauli,2,3,2014-04-05T13:00:00
+1. FC Kaiserslautern,VfL Bochum,1,1,2014-04-06T13:30:00
+TSV 1860 München,Karlsruher SC,0,3,2014-04-06T13:30:00
+FC Erzgebirge Aue,1. FC Union Berlin,3,2,2014-04-06T13:30:00
+FC Ingolstadt 04,SpVgg Greuther Fürth,0,0,2014-04-07T20:15:00
+1. FC Union Berlin,1. FC Köln,1,2,2014-04-11T18:30:00
+FC St. Pauli,1. FC Kaiserslautern,2,3,2014-04-11T18:30:00
+FC Ingolstadt 04,SC Paderborn 07,1,2,2014-04-11T18:30:00
+SpVgg Greuther Fürth,FC Erzgebirge Aue,2,1,2014-04-12T13:00:00
+Arminia Bielefeld,Karlsruher SC,0,0,2014-04-12T13:00:00
+Fortuna Düsseldorf,VfR Aalen,3,1,2014-04-13T13:30:00
+FSV Frankfurt,SV Sandhausen,0,3,2014-04-13T13:30:00
+VfL Bochum,Energie Cottbus,2,1,2014-04-13T13:30:00
+SG Dynamo Dresden,TSV 1860 München,4,2,2014-04-14T20:15:00
+Energie Cottbus,FC St. Pauli,1,1,2014-04-17T18:30:00
+SV Sandhausen,Fortuna Düsseldorf,0,3,2014-04-17T18:30:00
+FC Erzgebirge Aue,SG Dynamo Dresden,2,0,2014-04-17T18:30:00
+TSV 1860 München,Arminia Bielefeld,2,1,2014-04-19T13:00:00
+Karlsruher SC,1. FC Union Berlin,3,2,2014-04-19T13:00:00
+1. FC Kaiserslautern,FSV Frankfurt,3,2,2014-04-20T13:30:00
+VfR Aalen,FC Ingolstadt 04,0,0,2014-04-20T13:30:00
+SC Paderborn 07,SpVgg Greuther Fürth,2,2,2014-04-20T13:30:00
+1. FC Köln,VfL Bochum,3,1,2014-04-21T20:15:00
+SpVgg Greuther Fürth,TSV 1860 München,1,2,2014-04-25T18:30:00
+FC Ingolstadt 04,1. FC Köln,1,1,2014-04-25T18:30:00
+VfL Bochum,Arminia Bielefeld,1,4,2014-04-25T18:30:00
+Fortuna Düsseldorf,FC Erzgebirge Aue,4,0,2014-04-26T13:00:00
+FSV Frankfurt,Energie Cottbus,3,1,2014-04-26T13:00:00
+FC St. Pauli,VfR Aalen,0,3,2014-04-27T13:30:00
+SC Paderborn 07,SV Sandhausen,2,0,2014-04-27T13:30:00
+SG Dynamo Dresden,Karlsruher SC,2,2,2014-04-27T13:30:00
+1. FC Union Berlin,1. FC Kaiserslautern,1,1,2014-04-28T20:15:00
+1. FC Kaiserslautern,SG Dynamo Dresden,4,0,2014-05-04T15:30:00
+1. FC Köln,FC St. Pauli,4,0,2014-05-04T15:30:00
+TSV 1860 München,VfL Bochum,2,0,2014-05-04T15:30:00
+Energie Cottbus,SpVgg Greuther Fürth,0,6,2014-05-04T15:30:00
+VfR Aalen,1. FC Union Berlin,3,0,2014-05-04T15:30:00
+SV Sandhausen,FC Ingolstadt 04,0,2,2014-05-04T15:30:00
+FC Erzgebirge Aue,SC Paderborn 07,0,2,2014-05-04T15:30:00
+Karlsruher SC,Fortuna Düsseldorf,2,2,2014-05-04T15:30:00
+Arminia Bielefeld,FSV Frankfurt,0,0,2014-05-04T15:30:00
+Fortuna Düsseldorf,1. FC Kaiserslautern,4,2,2014-05-11T15:30:00
+SpVgg Greuther Fürth,SV Sandhausen,2,0,2014-05-11T15:30:00
+FSV Frankfurt,1. FC Köln,2,0,2014-05-11T15:30:00
+1. FC Union Berlin,TSV 1860 München,1,1,2014-05-11T15:30:00
+FC St. Pauli,FC Erzgebirge Aue,2,2,2014-05-11T15:30:00
+SC Paderborn 07,VfR Aalen,2,1,2014-05-11T15:30:00
+FC Ingolstadt 04,Energie Cottbus,2,0,2014-05-11T15:30:00
+VfL Bochum,Karlsruher SC,1,0,2014-05-11T15:30:00
+SG Dynamo Dresden,Arminia Bielefeld,2,3,2014-05-11T15:30:00
+Fortuna Düsseldorf,Eintracht Braunschweig,2,2,2014-08-01T20:30:00
+RB Leipzig,VfR Aalen,0,0,2014-08-02T13:00:00
+FC St. Pauli,FC Ingolstadt 04,1,1,2014-08-02T15:30:00
+VfL Bochum,SpVgg Greuther Fürth,1,1,2014-08-02T15:30:00
+1. FC Heidenheim 1846,FSV Frankfurt,2,1,2014-08-03T13:30:00
+1. FC Nürnberg,Erzgebirge Aue,1,0,2014-08-03T15:30:00
+Karlsruher SC,1. FC Union Berlin,0,0,2014-08-03T15:30:00
+SV Darmstadt 98,SV Sandhausen,1,0,2014-08-03T15:30:00
+1. FC Kaiserslautern,TSV 1860 München,3,2,2014-08-04T20:15:00
+VfR Aalen,FC St. Pauli,2,0,2014-08-08T18:30:00
+FSV Frankfurt,Karlsruher SC,2,3,2014-08-08T18:30:00
+1. FC Union Berlin,Fortuna Düsseldorf,1,1,2014-08-08T20:30:00
+Eintracht Braunschweig,1. FC Heidenheim 1846,3,0,2014-08-09T15:30:00
+Erzgebirge Aue,VfL Bochum,1,5,2014-08-09T15:30:00
+FC Ingolstadt 04,SV Darmstadt 98,2,2,2014-08-10T13:30:00
+TSV 1860 München,RB Leipzig,0,3,2014-08-10T15:30:00
+SV Sandhausen,1. FC Kaiserslautern,1,1,2014-08-10T15:30:00
+SpVgg Greuther Fürth,1. FC Nürnberg,5,1,2014-08-11T20:15:00
+FC St. Pauli,SV Sandhausen,2,1,2014-08-22T18:30:00
+1. FC Heidenheim 1846,TSV 1860 München,2,2,2014-08-22T18:30:00
+RB Leipzig,Erzgebirge Aue,1,0,2014-08-22T18:30:00
+1. FC Nürnberg,FSV Frankfurt,0,1,2014-08-23T13:00:00
+Fortuna Düsseldorf,Karlsruher SC,0,2,2014-08-23T13:00:00
+1. FC Kaiserslautern,Eintracht Braunschweig,2,1,2014-08-24T13:30:00
+FC Ingolstadt 04,SpVgg Greuther Fürth,2,0,2014-08-24T13:30:00
+SV Darmstadt 98,VfR Aalen,2,0,2014-08-24T13:30:00
+VfL Bochum,1. FC Union Berlin,1,1,2014-08-25T20:15:00
+1. FC Union Berlin,1. FC Nürnberg,0,4,2014-08-29T18:30:00
+VfR Aalen,1. FC Kaiserslautern,2,2,2014-08-29T18:30:00
+FSV Frankfurt,RB Leipzig,0,0,2014-08-29T18:30:00
+Karlsruher SC,1. FC Heidenheim 1846,1,1,2014-08-30T13:00:00
+Erzgebirge Aue,Fortuna Düsseldorf,0,3,2014-08-30T13:00:00
+Eintracht Braunschweig,VfL Bochum,1,2,2014-08-31T13:30:00
+TSV 1860 München,SV Darmstadt 98,1,1,2014-08-31T13:30:00
+SV Sandhausen,FC Ingolstadt 04,0,3,2014-08-31T13:30:00
+SpVgg Greuther Fürth,FC St. Pauli,3,0,2014-09-01T20:15:00
+1. FC Kaiserslautern,FSV Frankfurt,1,0,2014-09-12T18:30:00
+FC Ingolstadt 04,VfR Aalen,4,1,2014-09-12T18:30:00
+VfL Bochum,Karlsruher SC,1,1,2014-09-12T18:30:00
+RB Leipzig,Eintracht Braunschweig,3,1,2014-09-13T13:00:00
+SV Darmstadt 98,Erzgebirge Aue,2,0,2014-09-13T13:00:00
+FC St. Pauli,TSV 1860 München,1,2,2014-09-14T13:30:00
+SV Sandhausen,SpVgg Greuther Fürth,1,0,2014-09-14T13:30:00
+1. FC Heidenheim 1846,1. FC Union Berlin,3,1,2014-09-14T13:30:00
+1. FC Nürnberg,Fortuna Düsseldorf,0,2,2014-09-15T20:15:00
+Eintracht Braunschweig,SV Darmstadt 98,2,0,2014-09-19T18:30:00
+VfR Aalen,SV Sandhausen,0,1,2014-09-19T18:30:00
+Erzgebirge Aue,FC St. Pauli,3,0,2014-09-19T18:30:00
+SpVgg Greuther Fürth,1. FC Kaiserslautern,2,1,2014-09-20T13:00:00
+TSV 1860 München,FC Ingolstadt 04,1,1,2014-09-20T13:00:00
+FSV Frankfurt,VfL Bochum,1,5,2014-09-20T13:00:00
+Karlsruher SC,1. FC Nürnberg,3,0,2014-09-21T13:30:00
+Fortuna Düsseldorf,1. FC Heidenheim 1846,3,2,2014-09-21T13:30:00
+1. FC Union Berlin,RB Leipzig,2,1,2014-09-21T13:30:00
+SpVgg Greuther Fürth,VfR Aalen,1,1,2014-09-23T17:30:00
+FC St. Pauli,Eintracht Braunschweig,1,0,2014-09-23T17:30:00
+FC Ingolstadt 04,Erzgebirge Aue,1,1,2014-09-23T17:30:00
+SV Sandhausen,TSV 1860 München,1,0,2014-09-23T17:30:00
+1. FC Kaiserslautern,1. FC Union Berlin,1,0,2014-09-24T17:30:00
+1. FC Heidenheim 1846,1. FC Nürnberg,3,0,2014-09-24T17:30:00
+RB Leipzig,Karlsruher SC,3,1,2014-09-24T17:30:00
+SV Darmstadt 98,FSV Frankfurt,4,0,2014-09-24T17:30:00
+VfL Bochum,Fortuna Düsseldorf,1,1,2014-09-25T20:15:00
+Eintracht Braunschweig,SV Sandhausen,2,1,2014-09-26T18:30:00
+TSV 1860 München,SpVgg Greuther Fürth,2,0,2014-09-26T18:30:00
+Erzgebirge Aue,VfR Aalen,1,0,2014-09-26T18:30:00
+Karlsruher SC,FC Ingolstadt 04,0,1,2014-09-27T13:00:00
+1. FC Union Berlin,SV Darmstadt 98,1,1,2014-09-27T13:00:00
+Fortuna Düsseldorf,RB Leipzig,2,2,2014-09-28T13:30:00
+FSV Frankfurt,FC St. Pauli,3,3,2014-09-28T13:30:00
+1. FC Heidenheim 1846,VfL Bochum,5,0,2014-09-28T13:30:00
+1. FC Nürnberg,1. FC Kaiserslautern,3,2,2014-09-29T20:15:00
+SpVgg Greuther Fürth,Erzgebirge Aue,2,0,2014-10-03T18:30:00
+VfR Aalen,TSV 1860 München,2,0,2014-10-03T18:30:00
+VfL Bochum,1. FC Nürnberg,1,1,2014-10-03T18:30:00
+1. FC Kaiserslautern,Karlsruher SC,2,0,2014-10-04T13:00:00
+FC St. Pauli,1. FC Union Berlin,3,0,2014-10-04T13:00:00
+FC Ingolstadt 04,Eintracht Braunschweig,1,0,2014-10-05T13:30:00
+SV Sandhausen,FSV Frankfurt,0,3,2014-10-05T13:30:00
+SV Darmstadt 98,Fortuna Düsseldorf,1,4,2014-10-05T13:30:00
+RB Leipzig,1. FC Heidenheim 1846,1,1,2014-10-06T20:15:00
+VfL Bochum,SV Darmstadt 98,1,1,2014-10-17T18:30:00
+1. FC Heidenheim 1846,1. FC Kaiserslautern,1,1,2014-10-17T18:30:00
+1. FC Nürnberg,RB Leipzig,1,0,2014-10-17T20:30:00
+Eintracht Braunschweig,SpVgg Greuther Fürth,2,2,2014-10-18T13:00:00
+1. FC Union Berlin,SV Sandhausen,3,1,2014-10-18T13:00:00
+Karlsruher SC,VfR Aalen,0,0,2014-10-19T13:30:00
+FSV Frankfurt,FC Ingolstadt 04,0,1,2014-10-19T13:30:00
+Erzgebirge Aue,TSV 1860 München,4,1,2014-10-19T13:30:00
+Fortuna Düsseldorf,FC St. Pauli,1,0,2014-10-20T20:15:00
+SpVgg Greuther Fürth,FSV Frankfurt,2,5,2014-10-24T18:30:00
+VfR Aalen,1. FC Union Berlin,1,2,2014-10-24T18:30:00
+RB Leipzig,VfL Bochum,2,0,2014-10-24T18:30:00
+1. FC Kaiserslautern,Fortuna Düsseldorf,1,1,2014-10-25T13:00:00
+FC St. Pauli,Karlsruher SC,0,4,2014-10-25T13:00:00
+TSV 1860 München,Eintracht Braunschweig,1,2,2014-10-26T13:30:00
+FC Ingolstadt 04,1. FC Heidenheim 1846,1,0,2014-10-26T13:30:00
+SV Sandhausen,Erzgebirge Aue,1,1,2014-10-26T13:30:00
+SV Darmstadt 98,1. FC Nürnberg,3,0,2014-10-27T20:15:00
+Karlsruher SC,SV Sandhausen,1,1,2014-10-31T18:30:00
+Fortuna Düsseldorf,FC Ingolstadt 04,0,0,2014-10-31T18:30:00
+1. FC Union Berlin,SpVgg Greuther Fürth,0,1,2014-10-31T18:30:00
+1. FC Nürnberg,FC St. Pauli,2,2,2014-11-01T13:00:00
+1. FC Heidenheim 1846,SV Darmstadt 98,1,1,2014-11-01T13:00:00
+Eintracht Braunschweig,VfR Aalen,2,1,2014-11-02T13:30:00
+FSV Frankfurt,Erzgebirge Aue,1,1,2014-11-02T13:30:00
+VfL Bochum,TSV 1860 München,0,3,2014-11-02T13:30:00
+RB Leipzig,1. FC Kaiserslautern,0,0,2014-11-03T20:15:00
+1. FC Kaiserslautern,VfL Bochum,2,2,2014-11-07T18:30:00
+VfR Aalen,FSV Frankfurt,0,1,2014-11-07T18:30:00
+SV Sandhausen,1. FC Nürnberg,2,1,2014-11-07T18:30:00
+FC St. Pauli,1. FC Heidenheim 1846,0,3,2014-11-08T13:00:00
+SV Darmstadt 98,RB Leipzig,1,0,2014-11-08T13:00:00
+SpVgg Greuther Fürth,Karlsruher SC,0,3,2014-11-09T13:30:00
+FC Ingolstadt 04,1. FC Union Berlin,3,3,2014-11-09T13:30:00
+Erzgebirge Aue,Eintracht Braunschweig,1,2,2014-11-09T13:30:00
+TSV 1860 München,Fortuna Düsseldorf,0,1,2014-11-10T20:15:00
+1. FC Heidenheim 1846,SV Sandhausen,3,0,2014-11-21T18:30:00
+VfL Bochum,VfR Aalen,4,0,2014-11-21T18:30:00
+1. FC Kaiserslautern,SV Darmstadt 98,0,0,2014-11-21T20:30:00
+1. FC Union Berlin,TSV 1860 München,1,4,2014-11-22T13:00:00
+FSV Frankfurt,Eintracht Braunschweig,0,3,2014-11-22T13:00:00
+1. FC Nürnberg,FC Ingolstadt 04,2,1,2014-11-23T13:30:00
+Karlsruher SC,Erzgebirge Aue,1,0,2014-11-23T13:30:00
+RB Leipzig,FC St. Pauli,4,1,2014-11-23T13:30:00
+Fortuna Düsseldorf,SpVgg Greuther Fürth,3,3,2014-11-24T20:15:00
+SpVgg Greuther Fürth,1. FC Heidenheim 1846,0,0,2014-11-28T18:30:00
+Erzgebirge Aue,1. FC Union Berlin,1,2,2014-11-28T18:30:00
+SV Darmstadt 98,Karlsruher SC,0,0,2014-11-28T18:30:00
+FC Ingolstadt 04,VfL Bochum,3,0,2014-11-29T13:00:00
+VfR Aalen,Fortuna Düsseldorf,2,0,2014-11-29T13:00:00
+TSV 1860 München,FSV Frankfurt,0,2,2014-11-30T13:30:00
+FC St. Pauli,1. FC Kaiserslautern,1,3,2014-11-30T13:30:00
+SV Sandhausen,RB Leipzig,0,0,2014-11-30T13:30:00
+Eintracht Braunschweig,1. FC Nürnberg,1,0,2014-12-01T20:15:00
+Fortuna Düsseldorf,SV Sandhausen,1,3,2014-12-05T18:30:00
+VfL Bochum,FC St. Pauli,3,3,2014-12-05T18:30:00
+1. FC Heidenheim 1846,VfR Aalen,0,1,2014-12-05T18:30:00
+1. FC Kaiserslautern,Erzgebirge Aue,3,0,2014-12-06T13:00:00
+SV Darmstadt 98,SpVgg Greuther Fürth,0,0,2014-12-06T13:00:00
+Karlsruher SC,Eintracht Braunschweig,1,0,2014-12-07T13:30:00
+1. FC Union Berlin,FSV Frankfurt,2,1,2014-12-07T13:30:00
+RB Leipzig,FC Ingolstadt 04,0,1,2014-12-07T13:30:00
+1. FC Nürnberg,TSV 1860 München,2,1,2014-12-08T20:15:00
+SpVgg Greuther Fürth,RB Leipzig,0,1,2014-12-12T18:30:00
+SV Sandhausen,VfL Bochum,0,0,2014-12-12T18:30:00
+Erzgebirge Aue,1. FC Heidenheim 1846,1,1,2014-12-12T18:30:00
+Eintracht Braunschweig,1. FC Union Berlin,1,1,2014-12-13T13:00:00
+TSV 1860 München,Karlsruher SC,2,3,2014-12-13T13:00:00
+FSV Frankfurt,Fortuna Düsseldorf,0,2,2014-12-13T13:00:00
+FC St. Pauli,SV Darmstadt 98,0,1,2014-12-14T13:30:00
+FC Ingolstadt 04,1. FC Kaiserslautern,2,0,2014-12-14T13:30:00
+VfR Aalen,1. FC Nürnberg,1,2,2014-12-14T13:30:00
+Eintracht Braunschweig,Fortuna Düsseldorf,2,1,2014-12-16T17:30:00
+SpVgg Greuther Fürth,VfL Bochum,0,0,2014-12-16T17:30:00
+1. FC Union Berlin,Karlsruher SC,2,0,2014-12-16T17:30:00
+FSV Frankfurt,1. FC Heidenheim 1846,2,0,2014-12-16T17:30:00
+TSV 1860 München,1. FC Kaiserslautern,1,1,2014-12-17T17:30:00
+FC Ingolstadt 04,FC St. Pauli,2,1,2014-12-17T17:30:00
+VfR Aalen,RB Leipzig,0,0,2014-12-17T17:30:00
+SV Sandhausen,SV Darmstadt 98,1,2,2014-12-17T17:30:00
+Erzgebirge Aue,1. FC Nürnberg,0,1,2014-12-17T17:30:00
+Karlsruher SC,FSV Frankfurt,4,1,2014-12-19T18:30:00
+Fortuna Düsseldorf,1. FC Union Berlin,1,0,2014-12-19T18:30:00
+1. FC Heidenheim 1846,Eintracht Braunschweig,0,1,2014-12-19T18:30:00
+1. FC Nürnberg,SpVgg Greuther Fürth,0,0,2014-12-20T13:00:00
+FC St. Pauli,VfR Aalen,3,1,2014-12-20T13:00:00
+1. FC Kaiserslautern,SV Sandhausen,1,0,2014-12-21T13:30:00
+VfL Bochum,Erzgebirge Aue,1,1,2014-12-21T13:30:00
+SV Darmstadt 98,FC Ingolstadt 04,2,2,2014-12-21T13:30:00
+RB Leipzig,TSV 1860 München,1,1,2014-12-22T20:15:00
+SpVgg Greuther Fürth,FC Ingolstadt 04,0,1,2015-02-06T18:30:00
+VfR Aalen,SV Darmstadt 98,0,0,2015-02-06T18:30:00
+Erzgebirge Aue,RB Leipzig,2,0,2015-02-06T18:30:00
+1. FC Union Berlin,VfL Bochum,2,1,2015-02-07T13:00:00
+SV Sandhausen,FC St. Pauli,0,0,2015-02-07T13:00:00
+Eintracht Braunschweig,1. FC Kaiserslautern,0,2,2015-02-08T13:30:00
+Karlsruher SC,Fortuna Düsseldorf,1,1,2015-02-08T13:30:00
+FSV Frankfurt,1. FC Nürnberg,2,1,2015-02-08T13:30:00
+TSV 1860 München,1. FC Heidenheim 1846,1,2,2015-02-09T20:15:00
+Fortuna Düsseldorf,Erzgebirge Aue,2,3,2015-02-13T18:30:00
+VfL Bochum,Eintracht Braunschweig,3,2,2015-02-13T18:30:00
+1. FC Heidenheim 1846,Karlsruher SC,0,1,2015-02-13T18:30:00
+1. FC Kaiserslautern,VfR Aalen,1,0,2015-02-14T13:00:00
+FC Ingolstadt 04,SV Sandhausen,1,3,2015-02-14T13:00:00
+1. FC Nürnberg,1. FC Union Berlin,3,1,2015-02-15T13:30:00
+RB Leipzig,FSV Frankfurt,0,1,2015-02-15T13:30:00
+SV Darmstadt 98,TSV 1860 München,1,1,2015-02-15T13:30:00
+FC St. Pauli,SpVgg Greuther Fürth,0,1,2015-02-16T20:15:00
+SpVgg Greuther Fürth,SV Sandhausen,0,0,2015-02-20T18:30:00
+VfR Aalen,FC Ingolstadt 04,1,1,2015-02-20T18:30:00
+Erzgebirge Aue,SV Darmstadt 98,0,1,2015-02-20T18:30:00
+Karlsruher SC,VfL Bochum,0,0,2015-02-21T13:00:00
+TSV 1860 München,FC St. Pauli,2,1,2015-02-21T13:00:00
+Fortuna Düsseldorf,1. FC Nürnberg,1,3,2015-02-22T13:30:00
+1. FC Union Berlin,1. FC Heidenheim 1846,3,1,2015-02-22T13:30:00
+FSV Frankfurt,1. FC Kaiserslautern,2,0,2015-02-22T13:30:00
+Eintracht Braunschweig,RB Leipzig,1,1,2015-02-23T20:15:00
+1. FC Kaiserslautern,SpVgg Greuther Fürth,2,1,2015-02-27T18:30:00
+VfL Bochum,FSV Frankfurt,3,3,2015-02-27T18:30:00
+SV Darmstadt 98,Eintracht Braunschweig,1,0,2015-02-27T18:30:00
+1. FC Nürnberg,Karlsruher SC,1,1,2015-02-28T13:00:00
+SV Sandhausen,VfR Aalen,2,0,2015-02-28T13:00:00
+FC St. Pauli,Erzgebirge Aue,0,0,2015-03-01T13:30:00
+1. FC Heidenheim 1846,Fortuna Düsseldorf,1,2,2015-03-01T13:30:00
+RB Leipzig,1. FC Union Berlin,3,2,2015-03-01T13:30:00
+FC Ingolstadt 04,TSV 1860 München,1,1,2015-03-02T20:15:00
+1. FC Nürnberg,1. FC Heidenheim 1846,0,1,2015-03-06T18:30:00
+Fortuna Düsseldorf,VfL Bochum,2,2,2015-03-06T18:30:00
+Erzgebirge Aue,FC Ingolstadt 04,0,3,2015-03-06T18:30:00
+Eintracht Braunschweig,FC St. Pauli,0,2,2015-03-07T13:00:00
+VfR Aalen,SpVgg Greuther Fürth,1,1,2015-03-07T13:00:00
+TSV 1860 München,SV Sandhausen,2,3,2015-03-08T13:30:00
+1. FC Union Berlin,1. FC Kaiserslautern,0,0,2015-03-08T13:30:00
+FSV Frankfurt,SV Darmstadt 98,1,1,2015-03-08T13:30:00
+Karlsruher SC,RB Leipzig,0,0,2015-03-09T20:15:00
+SpVgg Greuther Fürth,TSV 1860 München,0,3,2015-03-13T18:30:00
+VfL Bochum,1. FC Heidenheim 1846,4,1,2015-03-13T18:30:00
+SV Darmstadt 98,1. FC Union Berlin,5,0,2015-03-13T18:30:00
+1. FC Kaiserslautern,1. FC Nürnberg,2,1,2015-03-14T13:00:00
+FC St. Pauli,FSV Frankfurt,1,1,2015-03-14T13:00:00
+FC Ingolstadt 04,Karlsruher SC,1,3,2015-03-15T15:30:00
+VfR Aalen,Erzgebirge Aue,3,0,2015-03-15T15:30:00
+SV Sandhausen,Eintracht Braunschweig,0,1,2015-03-15T15:30:00
+RB Leipzig,Fortuna Düsseldorf,3,1,2015-03-16T20:15:00
+TSV 1860 München,VfR Aalen,1,1,2015-03-20T18:30:00
+1. FC Union Berlin,FC St. Pauli,1,0,2015-03-20T18:30:00
+FSV Frankfurt,SV Sandhausen,1,1,2015-03-20T18:30:00
+Eintracht Braunschweig,FC Ingolstadt 04,0,0,2015-03-21T13:00:00
+Fortuna Düsseldorf,SV Darmstadt 98,2,0,2015-03-21T13:00:00
+Karlsruher SC,1. FC Kaiserslautern,0,0,2015-03-22T13:30:00
+Erzgebirge Aue,SpVgg Greuther Fürth,0,0,2015-03-22T13:30:00
+1. FC Heidenheim 1846,RB Leipzig,1,0,2015-03-22T13:30:00
+1. FC Nürnberg,VfL Bochum,1,2,2015-03-23T20:15:00
+SpVgg Greuther Fürth,Eintracht Braunschweig,1,2,2015-04-04T13:00:00
+1. FC Kaiserslautern,1. FC Heidenheim 1846,4,0,2015-04-04T13:00:00
+TSV 1860 München,Erzgebirge Aue,0,1,2015-04-05T13:30:00
+FC Ingolstadt 04,FSV Frankfurt,2,0,2015-04-05T13:30:00
+VfR Aalen,Karlsruher SC,2,2,2015-04-05T13:30:00
+SV Sandhausen,1. FC Union Berlin,1,1,2015-04-05T13:30:00
+RB Leipzig,1. FC Nürnberg,2,1,2015-04-05T13:30:00
+SV Darmstadt 98,VfL Bochum,2,0,2015-04-05T13:30:00
+FC St. Pauli,Fortuna Düsseldorf,4,0,2015-04-06T20:15:00
+1. FC Nürnberg,SV Darmstadt 98,1,1,2015-04-10T18:30:00
+Karlsruher SC,FC St. Pauli,3,0,2015-04-10T18:30:00
+1. FC Heidenheim 1846,FC Ingolstadt 04,0,1,2015-04-10T18:30:00
+Eintracht Braunschweig,TSV 1860 München,2,0,2015-04-11T13:00:00
+FSV Frankfurt,SpVgg Greuther Fürth,1,1,2015-04-11T13:00:00
+1. FC Union Berlin,VfR Aalen,1,1,2015-04-12T13:30:00
+Erzgebirge Aue,SV Sandhausen,0,1,2015-04-12T13:30:00
+VfL Bochum,RB Leipzig,1,2,2015-04-12T13:30:00
+Fortuna Düsseldorf,1. FC Kaiserslautern,1,1,2015-04-13T20:15:00
+FC St. Pauli,1. FC Nürnberg,1,0,2015-04-17T18:30:00
+FC Ingolstadt 04,Fortuna Düsseldorf,3,2,2015-04-17T18:30:00
+SV Sandhausen,Karlsruher SC,0,0,2015-04-17T18:30:00
+TSV 1860 München,VfL Bochum,2,1,2015-04-18T13:00:00
+VfR Aalen,Eintracht Braunschweig,2,1,2015-04-18T13:00:00
+SpVgg Greuther Fürth,1. FC Union Berlin,2,2,2015-04-19T13:30:00
+Erzgebirge Aue,FSV Frankfurt,1,0,2015-04-19T13:30:00
+SV Darmstadt 98,1. FC Heidenheim 1846,1,1,2015-04-19T13:30:00
+1. FC Kaiserslautern,RB Leipzig,1,1,2015-04-20T20:15:00
+1. FC Nürnberg,SV Sandhausen,2,0,2015-04-24T18:30:00
+VfL Bochum,1. FC Kaiserslautern,0,2,2015-04-24T18:30:00
+RB Leipzig,SV Darmstadt 98,2,1,2015-04-24T18:30:00
+Karlsruher SC,SpVgg Greuther Fürth,2,1,2015-04-25T13:00:00
+Fortuna Düsseldorf,TSV 1860 München,1,1,2015-04-25T13:00:00
+1. FC Union Berlin,FC Ingolstadt 04,2,2,2015-04-26T13:30:00
+FSV Frankfurt,VfR Aalen,1,1,2015-04-26T13:30:00
+1. FC Heidenheim 1846,FC St. Pauli,2,1,2015-04-26T13:30:00
+Eintracht Braunschweig,Erzgebirge Aue,4,2,2015-04-27T20:15:00
+Eintracht Braunschweig,FSV Frankfurt,2,0,2015-05-02T13:00:00
+SV Darmstadt 98,1. FC Kaiserslautern,3,2,2015-05-02T13:00:00
+SpVgg Greuther Fürth,Fortuna Düsseldorf,3,0,2015-05-03T13:30:00
+TSV 1860 München,1. FC Union Berlin,0,3,2015-05-03T13:30:00
+FC St. Pauli,RB Leipzig,1,0,2015-05-03T13:30:00
+VfR Aalen,VfL Bochum,2,4,2015-05-03T13:30:00
+SV Sandhausen,1. FC Heidenheim 1846,2,2,2015-05-03T13:30:00
+Erzgebirge Aue,Karlsruher SC,3,1,2015-05-03T13:30:00
+FC Ingolstadt 04,1. FC Nürnberg,1,1,2015-05-04T20:15:00
+Fortuna Düsseldorf,VfR Aalen,0,2,2015-05-08T18:30:00
+FSV Frankfurt,TSV 1860 München,0,1,2015-05-08T18:30:00
+RB Leipzig,SV Sandhausen,0,4,2015-05-08T18:30:00
+1. FC Kaiserslautern,FC St. Pauli,0,2,2015-05-09T13:00:00
+1. FC Union Berlin,Erzgebirge Aue,1,2,2015-05-09T13:00:00
+1. FC Nürnberg,Eintracht Braunschweig,3,1,2015-05-10T13:30:00
+VfL Bochum,FC Ingolstadt 04,2,1,2015-05-10T13:30:00
+1. FC Heidenheim 1846,SpVgg Greuther Fürth,3,0,2015-05-10T13:30:00
+Karlsruher SC,SV Darmstadt 98,0,1,2015-05-11T20:15:00
+SpVgg Greuther Fürth,SV Darmstadt 98,1,0,2015-05-17T15:30:00
+Eintracht Braunschweig,Karlsruher SC,0,2,2015-05-17T15:30:00
+TSV 1860 München,1. FC Nürnberg,2,1,2015-05-17T15:30:00
+FC St. Pauli,VfL Bochum,5,1,2015-05-17T15:30:00
+FC Ingolstadt 04,RB Leipzig,2,1,2015-05-17T15:30:00
+VfR Aalen,1. FC Heidenheim 1846,2,4,2015-05-17T15:30:00
+SV Sandhausen,Fortuna Düsseldorf,0,2,2015-05-17T15:30:00
+FSV Frankfurt,1. FC Union Berlin,1,3,2015-05-17T15:30:00
+Erzgebirge Aue,1. FC Kaiserslautern,0,0,2015-05-17T15:30:00
+1. FC Nürnberg,VfR Aalen,2,1,2015-05-24T15:30:00
+1. FC Kaiserslautern,FC Ingolstadt 04,1,1,2015-05-24T15:30:00
+Karlsruher SC,TSV 1860 München,2,0,2015-05-24T15:30:00
+Fortuna Düsseldorf,FSV Frankfurt,2,3,2015-05-24T15:30:00
+1. FC Union Berlin,Eintracht Braunschweig,2,0,2015-05-24T15:30:00
+VfL Bochum,SV Sandhausen,0,0,2015-05-24T15:30:00
+1. FC Heidenheim 1846,Erzgebirge Aue,2,2,2015-05-24T15:30:00
+RB Leipzig,SpVgg Greuther Fürth,2,0,2015-05-24T15:30:00
+SV Darmstadt 98,FC St. Pauli,1,0,2015-05-24T15:30:00
+MSV Duisburg,1. FC Kaiserslautern,1,3,2015-07-24T20:30:00
+SpVgg Greuther Fürth,Karlsruher SC,1,0,2015-07-25T13:00:00
+FC St. Pauli,Arminia Bielefeld,0,0,2015-07-25T15:30:00
+FSV Frankfurt,RB Leipzig,0,1,2015-07-25T15:30:00
+SC Paderborn 07,VfL Bochum,0,1,2015-07-26T13:30:00
+Eintracht Braunschweig,SV Sandhausen,1,3,2015-07-26T15:30:00
+1. FC Union Berlin,Fortuna Düsseldorf,1,1,2015-07-26T15:30:00
+1. FC Heidenheim 1846,TSV 1860 München,1,0,2015-07-26T15:30:00
+SC Freiburg,1. FC Nürnberg,6,3,2015-07-27T20:15:00
+1. FC Nürnberg,1. FC Heidenheim 1846,3,2,2015-07-31T18:30:00
+Arminia Bielefeld,FSV Frankfurt,0,0,2015-07-31T18:30:00
+1. FC Kaiserslautern,Eintracht Braunschweig,0,0,2015-07-31T20:30:00
+VfL Bochum,MSV Duisburg,3,0,2015-08-01T13:00:00
+TSV 1860 München,SC Freiburg,0,1,2015-08-01T15:30:00
+Fortuna Düsseldorf,SC Paderborn 07,1,2,2015-08-02T13:30:00
+Karlsruher SC,FC St. Pauli,1,2,2015-08-02T15:30:00
+SV Sandhausen,1. FC Union Berlin,4,3,2015-08-02T15:30:00
+RB Leipzig,SpVgg Greuther Fürth,2,2,2015-08-03T20:15:00
+SC Paderborn 07,SV Sandhausen,0,6,2015-08-14T18:30:00
+1. FC Heidenheim 1846,Fortuna Düsseldorf,1,0,2015-08-14T18:30:00
+FSV Frankfurt,Karlsruher SC,1,2,2015-08-14T18:30:00
+SC Freiburg,VfL Bochum,1,3,2015-08-15T13:00:00
+Eintracht Braunschweig,RB Leipzig,0,2,2015-08-15T13:00:00
+1. FC Union Berlin,1. FC Kaiserslautern,2,2,2015-08-16T13:30:00
+FC St. Pauli,SpVgg Greuther Fürth,3,2,2015-08-16T13:30:00
+MSV Duisburg,Arminia Bielefeld,2,2,2015-08-16T13:30:00
+1. FC Nürnberg,TSV 1860 München,2,2,2015-08-17T20:15:00
+SpVgg Greuther Fürth,FSV Frankfurt,0,2,2015-08-21T18:30:00
+SV Sandhausen,1. FC Heidenheim 1846,0,0,2015-08-21T18:30:00
+Arminia Bielefeld,Eintracht Braunschweig,0,2,2015-08-21T18:30:00
+Karlsruher SC,MSV Duisburg,2,0,2015-08-22T13:00:00
+Fortuna Düsseldorf,SC Freiburg,1,2,2015-08-22T13:00:00
+RB Leipzig,FC St. Pauli,0,1,2015-08-23T13:30:00
+VfL Bochum,1. FC Nürnberg,2,1,2015-08-23T13:30:00
+TSV 1860 München,1. FC Union Berlin,0,0,2015-08-23T13:30:00
+1. FC Kaiserslautern,SC Paderborn 07,1,0,2015-08-24T20:15:00
+SC Freiburg,SV Sandhausen,4,1,2015-08-28T18:30:00
+1. FC Union Berlin,RB Leipzig,1,1,2015-08-28T18:30:00
+1. FC Heidenheim 1846,1. FC Kaiserslautern,3,1,2015-08-28T18:30:00
+SC Paderborn 07,Arminia Bielefeld,1,2,2015-08-29T13:00:00
+MSV Duisburg,SpVgg Greuther Fürth,2,2,2015-08-29T13:00:00
+Eintracht Braunschweig,Karlsruher SC,6,0,2015-08-30T13:30:00
+1. FC Nürnberg,Fortuna Düsseldorf,1,0,2015-08-30T13:30:00
+FSV Frankfurt,FC St. Pauli,1,0,2015-08-30T13:30:00
+VfL Bochum,TSV 1860 München,1,0,2015-08-31T20:15:00
+1. FC Kaiserslautern,SC Freiburg,0,2,2015-09-11T18:30:00
+RB Leipzig,SC Paderborn 07,2,0,2015-09-11T18:30:00
+SV Sandhausen,VfL Bochum,1,1,2015-09-11T18:30:00
+Karlsruher SC,1. FC Union Berlin,0,3,2015-09-12T13:00:00
+Arminia Bielefeld,1. FC Heidenheim 1846,0,0,2015-09-12T13:00:00
+Fortuna Düsseldorf,TSV 1860 München,3,0,2015-09-13T13:30:00
+SpVgg Greuther Fürth,1. FC Nürnberg,3,2,2015-09-13T13:30:00
+FSV Frankfurt,Eintracht Braunschweig,0,3,2015-09-13T13:30:00
+FC St. Pauli,MSV Duisburg,2,0,2015-09-14T20:15:00
+SC Freiburg,Arminia Bielefeld,2,2,2015-09-18T18:30:00
+VfL Bochum,Fortuna Düsseldorf,1,1,2015-09-18T18:30:00
+1. FC Heidenheim 1846,RB Leipzig,1,1,2015-09-18T18:30:00
+SC Paderborn 07,Karlsruher SC,2,0,2015-09-19T13:00:00
+1. FC Nürnberg,SV Sandhausen,2,0,2015-09-19T13:00:00
+TSV 1860 München,1. FC Kaiserslautern,1,1,2015-09-19T13:00:00
+Eintracht Braunschweig,FC St. Pauli,0,0,2015-09-20T13:30:00
+1. FC Union Berlin,SpVgg Greuther Fürth,1,2,2015-09-20T13:30:00
+MSV Duisburg,FSV Frankfurt,0,1,2015-09-20T13:30:00
+Karlsruher SC,Fortuna Düsseldorf,1,1,2015-09-22T17:30:00
+1. FC Kaiserslautern,1. FC Nürnberg,0,3,2015-09-22T17:30:00
+SV Sandhausen,TSV 1860 München,1,1,2015-09-22T17:30:00
+Arminia Bielefeld,VfL Bochum,1,1,2015-09-22T17:30:00
+SpVgg Greuther Fürth,SC Paderborn 07,3,0,2015-09-23T17:30:00
+FC St. Pauli,1. FC Heidenheim 1846,1,0,2015-09-23T17:30:00
+FSV Frankfurt,1. FC Union Berlin,3,2,2015-09-23T17:30:00
+MSV Duisburg,Eintracht Braunschweig,0,5,2015-09-23T17:30:00
+RB Leipzig,SC Freiburg,1,1,2015-09-24T20:15:00
+1. FC Nürnberg,Arminia Bielefeld,2,2,2015-09-25T18:30:00
+Fortuna Düsseldorf,SV Sandhausen,0,1,2015-09-25T18:30:00
+VfL Bochum,1. FC Kaiserslautern,1,2,2015-09-25T18:30:00
+SC Paderborn 07,FC St. Pauli,0,0,2015-09-26T13:00:00
+1. FC Union Berlin,MSV Duisburg,3,2,2015-09-26T13:00:00
+SC Freiburg,FSV Frankfurt,2,0,2015-09-27T13:30:00
+TSV 1860 München,RB Leipzig,2,2,2015-09-27T13:30:00
+1. FC Heidenheim 1846,Karlsruher SC,1,1,2015-09-27T13:30:00
+Eintracht Braunschweig,SpVgg Greuther Fürth,0,1,2015-09-28T20:15:00
+1. FC Kaiserslautern,Fortuna Düsseldorf,3,0,2015-10-02T18:30:00
+FSV Frankfurt,1. FC Heidenheim 1846,0,4,2015-10-02T18:30:00
+Arminia Bielefeld,TSV 1860 München,1,1,2015-10-02T18:30:00
+SpVgg Greuther Fürth,VfL Bochum,0,5,2015-10-03T13:00:00
+FC St. Pauli,SV Sandhausen,1,3,2015-10-03T13:00:00
+Karlsruher SC,SC Freiburg,1,1,2015-10-04T13:30:00
+RB Leipzig,1. FC Nürnberg,3,2,2015-10-04T13:30:00
+Eintracht Braunschweig,1. FC Union Berlin,2,1,2015-10-04T13:30:00
+MSV Duisburg,SC Paderborn 07,1,0,2015-10-05T20:15:00
+SC Paderborn 07,Eintracht Braunschweig,2,0,2015-10-16T18:30:00
+Fortuna Düsseldorf,Arminia Bielefeld,1,0,2015-10-16T18:30:00
+SV Sandhausen,1. FC Kaiserslautern,1,0,2015-10-16T18:30:00
+1. FC Nürnberg,FSV Frankfurt,1,1,2015-10-17T13:00:00
+1. FC Union Berlin,FC St. Pauli,3,3,2015-10-17T13:00:00
+SC Freiburg,SpVgg Greuther Fürth,5,2,2015-10-18T13:30:00
+VfL Bochum,RB Leipzig,0,1,2015-10-18T13:30:00
+1. FC Heidenheim 1846,MSV Duisburg,1,0,2015-10-18T13:30:00
+TSV 1860 München,Karlsruher SC,0,1,2015-10-19T20:15:00
+RB Leipzig,Fortuna Düsseldorf,2,1,2015-10-23T18:30:00
+SpVgg Greuther Fürth,TSV 1860 München,1,0,2015-10-23T18:30:00
+FSV Frankfurt,VfL Bochum,3,2,2015-10-23T18:30:00
+Karlsruher SC,1. FC Kaiserslautern,2,0,2015-10-24T13:00:00
+1. FC Union Berlin,SC Paderborn 07,0,2,2015-10-24T13:00:00
+MSV Duisburg,1. FC Nürnberg,0,0,2015-10-24T13:00:00
+Eintracht Braunschweig,1. FC Heidenheim 1846,1,0,2015-10-25T13:30:00
+FC St. Pauli,SC Freiburg,1,0,2015-10-25T13:30:00
+Arminia Bielefeld,SV Sandhausen,0,0,2015-10-25T13:30:00
+1. FC Kaiserslautern,Arminia Bielefeld,0,2,2015-10-30T18:30:00
+Fortuna Düsseldorf,SpVgg Greuther Fürth,1,0,2015-10-30T18:30:00
+VfL Bochum,FC St. Pauli,1,1,2015-10-30T18:30:00
+1. FC Heidenheim 1846,1. FC Union Berlin,0,2,2015-10-31T13:00:00
+SC Paderborn 07,FSV Frankfurt,1,1,2015-10-31T13:00:00
+SV Sandhausen,RB Leipzig,1,2,2015-11-01T13:30:00
+SC Freiburg,Eintracht Braunschweig,2,2,2015-11-01T13:30:00
+TSV 1860 München,MSV Duisburg,1,0,2015-11-01T13:30:00
+1. FC Nürnberg,Karlsruher SC,0,0,2015-11-02T20:15:00
+FSV Frankfurt,SV Sandhausen,0,1,2015-11-06T18:30:00
+Karlsruher SC,VfL Bochum,3,0,2015-11-06T18:30:00
+SpVgg Greuther Fürth,Arminia Bielefeld,0,0,2015-11-06T18:30:00
+1. FC Union Berlin,1. FC Nürnberg,3,3,2015-11-07T13:00:00
+MSV Duisburg,SC Freiburg,1,1,2015-11-07T13:00:00
+Eintracht Braunschweig,TSV 1860 München,0,0,2015-11-08T13:30:00
+RB Leipzig,1. FC Kaiserslautern,0,2,2015-11-08T13:30:00
+SC Paderborn 07,1. FC Heidenheim 1846,1,1,2015-11-08T13:30:00
+FC St. Pauli,Fortuna Düsseldorf,4,0,2015-11-09T20:15:00
+Fortuna Düsseldorf,MSV Duisburg,1,1,2015-11-20T18:30:00
+SV Sandhausen,Karlsruher SC,3,1,2015-11-20T18:30:00
+VfL Bochum,1. FC Union Berlin,1,1,2015-11-20T18:30:00
+Arminia Bielefeld,RB Leipzig,0,1,2015-11-21T13:00:00
+TSV 1860 München,FC St. Pauli,2,0,2015-11-21T13:00:00
+1. FC Heidenheim 1846,SpVgg Greuther Fürth,1,2,2015-11-22T13:30:00
+1. FC Kaiserslautern,FSV Frankfurt,1,1,2015-11-22T13:30:00
+SC Freiburg,SC Paderborn 07,4,1,2015-11-22T13:30:00
+1. FC Nürnberg,Eintracht Braunschweig,2,1,2015-11-23T20:15:00
+1. FC Heidenheim 1846,SC Freiburg,1,2,2015-11-27T18:30:00
+Eintracht Braunschweig,VfL Bochum,1,0,2015-11-27T18:30:00
+SpVgg Greuther Fürth,1. FC Kaiserslautern,2,4,2015-11-27T18:30:00
+1. FC Union Berlin,Arminia Bielefeld,1,1,2015-11-28T13:00:00
+SC Paderborn 07,TSV 1860 München,4,4,2015-11-28T13:00:00
+FC St. Pauli,1. FC Nürnberg,0,4,2015-11-29T13:30:00
+FSV Frankfurt,Fortuna Düsseldorf,1,2,2015-11-29T13:30:00
+MSV Duisburg,SV Sandhausen,3,0,2015-11-29T13:30:00
+Karlsruher SC,RB Leipzig,0,1,2015-11-30T20:15:00
+1. FC Nürnberg,SC Paderborn 07,2,1,2015-12-04T18:30:00
+SV Sandhausen,SpVgg Greuther Fürth,1,1,2015-12-04T18:30:00
+TSV 1860 München,FSV Frankfurt,0,1,2015-12-04T18:30:00
+Arminia Bielefeld,Karlsruher SC,2,1,2015-12-05T13:00:00
+SC Freiburg,1. FC Union Berlin,3,0,2015-12-05T13:00:00
+1. FC Kaiserslautern,FC St. Pauli,1,2,2015-12-06T13:30:00
+RB Leipzig,MSV Duisburg,4,2,2015-12-06T13:30:00
+VfL Bochum,1. FC Heidenheim 1846,1,1,2015-12-06T13:30:00
+Fortuna Düsseldorf,Eintracht Braunschweig,1,0,2015-12-07T20:15:00
+SV Sandhausen,Eintracht Braunschweig,0,2,2015-12-11T18:30:00
+TSV 1860 München,1. FC Heidenheim 1846,1,3,2015-12-11T18:30:00
+VfL Bochum,SC Paderborn 07,4,0,2015-12-11T18:30:00
+Fortuna Düsseldorf,1. FC Union Berlin,0,3,2015-12-12T13:00:00
+Karlsruher SC,SpVgg Greuther Fürth,1,0,2015-12-12T13:00:00
+1. FC Kaiserslautern,MSV Duisburg,2,0,2015-12-13T13:30:00
+1. FC Nürnberg,SC Freiburg,2,1,2015-12-13T13:30:00
+RB Leipzig,FSV Frankfurt,3,1,2015-12-13T13:30:00
+Arminia Bielefeld,FC St. Pauli,0,0,2015-12-14T20:15:00
+1. FC Union Berlin,SV Sandhausen,1,0,2015-12-18T18:30:00
+FC St. Pauli,Karlsruher SC,1,2,2015-12-18T18:30:00
+FSV Frankfurt,Arminia Bielefeld,1,2,2015-12-18T18:30:00
+1. FC Heidenheim 1846,1. FC Nürnberg,0,3,2015-12-19T13:00:00
+SpVgg Greuther Fürth,RB Leipzig,1,2,2015-12-19T13:00:00
+Eintracht Braunschweig,1. FC Kaiserslautern,1,1,2015-12-20T13:30:00
+MSV Duisburg,VfL Bochum,0,0,2015-12-20T13:30:00
+SC Freiburg,TSV 1860 München,3,0,2015-12-20T13:30:00
+SC Paderborn 07,Fortuna Düsseldorf,0,0,2015-12-21T20:15:00
+1. FC Kaiserslautern,1. FC Union Berlin,2,2,2016-02-05T18:30:00
+SV Sandhausen,SC Paderborn 07,1,0,2016-02-05T18:30:00
+VfL Bochum,SC Freiburg,2,0,2016-02-05T18:30:00
+Fortuna Düsseldorf,1. FC Heidenheim 1846,0,1,2016-02-06T13:00:00
+TSV 1860 München,1. FC Nürnberg,0,1,2016-02-06T13:00:00
+Karlsruher SC,FSV Frankfurt,1,1,2016-02-07T13:30:00
+RB Leipzig,Eintracht Braunschweig,2,0,2016-02-07T13:30:00
+SpVgg Greuther Fürth,FC St. Pauli,0,2,2016-02-07T13:30:00
+Arminia Bielefeld,MSV Duisburg,2,1,2016-02-08T20:15:00
+FC St. Pauli,RB Leipzig,1,0,2016-02-12T18:30:00
+FSV Frankfurt,SpVgg Greuther Fürth,1,2,2016-02-12T18:30:00
+SC Paderborn 07,1. FC Kaiserslautern,0,4,2016-02-12T18:30:00
+1. FC Heidenheim 1846,SV Sandhausen,1,1,2016-02-13T13:00:00
+MSV Duisburg,Karlsruher SC,0,1,2016-02-13T13:00:00
+1. FC Union Berlin,TSV 1860 München,3,0,2016-02-14T13:30:00
+Eintracht Braunschweig,Arminia Bielefeld,1,0,2016-02-14T13:30:00
+SC Freiburg,Fortuna Düsseldorf,1,2,2016-02-14T13:30:00
+1. FC Nürnberg,VfL Bochum,1,1,2016-02-15T20:15:00
+FC St. Pauli,FSV Frankfurt,1,3,2016-02-19T18:30:00
+RB Leipzig,1. FC Union Berlin,3,0,2016-02-19T18:30:00
+SpVgg Greuther Fürth,MSV Duisburg,1,1,2016-02-19T18:30:00
+1. FC Kaiserslautern,1. FC Heidenheim 1846,2,2,2016-02-20T13:00:00
+Karlsruher SC,Eintracht Braunschweig,2,2,2016-02-20T13:00:00
+Arminia Bielefeld,SC Paderborn 07,1,1,2016-02-21T13:30:00
+SV Sandhausen,SC Freiburg,0,2,2016-02-21T13:30:00
+TSV 1860 München,VfL Bochum,1,1,2016-02-21T13:30:00
+Fortuna Düsseldorf,1. FC Nürnberg,1,1,2016-02-22T20:15:00
+1. FC Nürnberg,SpVgg Greuther Fürth,2,1,2016-02-26T18:30:00
+1. FC Union Berlin,Karlsruher SC,2,1,2016-02-26T18:30:00
+SC Paderborn 07,RB Leipzig,0,1,2016-02-26T18:30:00
+SC Freiburg,1. FC Kaiserslautern,2,0,2016-02-27T13:00:00
+TSV 1860 München,Fortuna Düsseldorf,3,2,2016-02-27T13:00:00
+VfL Bochum,SV Sandhausen,3,2,2016-02-27T13:00:00
+1. FC Heidenheim 1846,Arminia Bielefeld,3,2,2016-02-28T13:30:00
+Eintracht Braunschweig,FSV Frankfurt,0,0,2016-02-28T13:30:00
+MSV Duisburg,FC St. Pauli,0,2,2016-02-28T13:30:00
+1. FC Kaiserslautern,TSV 1860 München,0,1,2016-03-01T17:30:00
+Fortuna Düsseldorf,VfL Bochum,1,3,2016-03-01T17:30:00
+Karlsruher SC,SC Paderborn 07,0,0,2016-03-01T17:30:00
+SV Sandhausen,1. FC Nürnberg,0,2,2016-03-01T17:30:00
+SpVgg Greuther Fürth,1. FC Union Berlin,2,0,2016-03-01T17:30:00
+Arminia Bielefeld,SC Freiburg,1,4,2016-03-02T17:30:00
+FSV Frankfurt,MSV Duisburg,3,3,2016-03-02T17:30:00
+RB Leipzig,1. FC Heidenheim 1846,3,1,2016-03-02T17:30:00
+FC St. Pauli,Eintracht Braunschweig,1,0,2016-03-03T20:15:00
+Fortuna Düsseldorf,Karlsruher SC,0,1,2016-03-04T18:30:00
+TSV 1860 München,SV Sandhausen,3,2,2016-03-04T18:30:00
+1. FC Nürnberg,1. FC Kaiserslautern,2,1,2016-03-04T20:30:00
+SC Paderborn 07,SpVgg Greuther Fürth,1,1,2016-03-05T13:00:00
+1. FC Union Berlin,FSV Frankfurt,4,0,2016-03-05T13:00:00
+Eintracht Braunschweig,MSV Duisburg,1,1,2016-03-06T13:30:00
+VfL Bochum,Arminia Bielefeld,2,2,2016-03-06T13:30:00
+1. FC Heidenheim 1846,FC St. Pauli,2,0,2016-03-06T13:30:00
+SC Freiburg,RB Leipzig,2,1,2016-03-07T20:15:00
+SpVgg Greuther Fürth,Eintracht Braunschweig,3,0,2016-03-11T18:30:00
+FC St. Pauli,SC Paderborn 07,3,4,2016-03-11T18:30:00
+Arminia Bielefeld,1. FC Nürnberg,0,4,2016-03-11T18:30:00
+SV Sandhausen,Fortuna Düsseldorf,1,0,2016-03-12T13:00:00
+MSV Duisburg,1. FC Union Berlin,2,1,2016-03-12T13:00:00
+Karlsruher SC,1. FC Heidenheim 1846,0,0,2016-03-13T13:30:00
+RB Leipzig,TSV 1860 München,2,1,2016-03-13T13:30:00
+FSV Frankfurt,SC Freiburg,1,3,2016-03-13T13:30:00
+1. FC Kaiserslautern,VfL Bochum,0,2,2016-03-14T20:15:00
+SC Paderborn 07,MSV Duisburg,0,0,2016-03-18T18:30:00
+1. FC Union Berlin,Eintracht Braunschweig,3,1,2016-03-18T18:30:00
+1. FC Heidenheim 1846,FSV Frankfurt,2,2,2016-03-18T18:30:00
+Fortuna Düsseldorf,1. FC Kaiserslautern,4,3,2016-03-19T13:00:00
+SV Sandhausen,FC St. Pauli,0,2,2016-03-19T13:00:00
+1. FC Nürnberg,RB Leipzig,3,1,2016-03-20T13:30:00
+VfL Bochum,SpVgg Greuther Fürth,2,2,2016-03-20T13:30:00
+TSV 1860 München,Arminia Bielefeld,1,1,2016-03-20T13:30:00
+SC Freiburg,Karlsruher SC,1,0,2016-03-21T20:15:00
+Eintracht Braunschweig,SC Paderborn 07,2,1,2016-04-01T18:30:00
+FC St. Pauli,1. FC Union Berlin,0,0,2016-04-01T18:30:00
+MSV Duisburg,1. FC Heidenheim 1846,0,2,2016-04-01T18:30:00
+RB Leipzig,VfL Bochum,3,1,2016-04-02T13:00:00
+Arminia Bielefeld,Fortuna Düsseldorf,0,0,2016-04-02T13:00:00
+Karlsruher SC,TSV 1860 München,3,1,2016-04-03T13:30:00
+1. FC Kaiserslautern,SV Sandhausen,2,0,2016-04-03T13:30:00
+FSV Frankfurt,1. FC Nürnberg,0,3,2016-04-03T13:30:00
+SpVgg Greuther Fürth,SC Freiburg,2,3,2016-04-04T20:15:00
+1. FC Heidenheim 1846,Eintracht Braunschweig,2,2,2016-04-08T18:30:00
+SC Paderborn 07,1. FC Union Berlin,0,4,2016-04-08T18:30:00
+TSV 1860 München,SpVgg Greuther Fürth,0,1,2016-04-08T18:30:00
+SV Sandhausen,Arminia Bielefeld,1,4,2016-04-09T13:00:00
+VfL Bochum,FSV Frankfurt,4,1,2016-04-09T13:00:00
+1. FC Kaiserslautern,Karlsruher SC,0,0,2016-04-10T13:30:00
+1. FC Nürnberg,MSV Duisburg,1,2,2016-04-10T13:30:00
+SC Freiburg,FC St. Pauli,4,3,2016-04-10T13:30:00
+Fortuna Düsseldorf,RB Leipzig,1,3,2016-04-11T20:15:00
+FSV Frankfurt,SC Paderborn 07,0,2,2016-04-15T18:30:00
+MSV Duisburg,TSV 1860 München,2,1,2016-04-15T18:30:00
+RB Leipzig,SV Sandhausen,0,1,2016-04-15T18:30:00
+FC St. Pauli,VfL Bochum,2,0,2016-04-16T13:00:00
+Karlsruher SC,1. FC Nürnberg,2,1,2016-04-16T13:00:00
+1. FC Union Berlin,1. FC Heidenheim 1846,1,0,2016-04-17T13:30:00
+Arminia Bielefeld,1. FC Kaiserslautern,0,1,2016-04-17T13:30:00
+SpVgg Greuther Fürth,Fortuna Düsseldorf,3,1,2016-04-17T13:30:00
+Eintracht Braunschweig,SC Freiburg,2,2,2016-04-18T20:15:00
+Fortuna Düsseldorf,FC St. Pauli,1,1,2016-04-22T18:30:00
+SC Freiburg,MSV Duisburg,3,0,2016-04-22T18:30:00
+VfL Bochum,Karlsruher SC,1,1,2016-04-22T18:30:00
+1. FC Heidenheim 1846,SC Paderborn 07,1,1,2016-04-23T13:00:00
+1. FC Nürnberg,1. FC Union Berlin,6,2,2016-04-23T13:00:00
+Arminia Bielefeld,SpVgg Greuther Fürth,4,2,2016-04-24T13:30:00
+SV Sandhausen,FSV Frankfurt,1,0,2016-04-24T13:30:00
+TSV 1860 München,Eintracht Braunschweig,1,0,2016-04-24T13:30:00
+1. FC Kaiserslautern,RB Leipzig,1,1,2016-04-25T20:15:00
+1. FC Union Berlin,VfL Bochum,1,0,2016-04-29T18:30:00
+FC St. Pauli,TSV 1860 München,0,2,2016-04-29T18:30:00
+FSV Frankfurt,1. FC Kaiserslautern,1,4,2016-04-29T18:30:00
+MSV Duisburg,Fortuna Düsseldorf,2,1,2016-04-29T18:30:00
+RB Leipzig,Arminia Bielefeld,1,1,2016-04-29T18:30:00
+SC Paderborn 07,SC Freiburg,1,2,2016-04-29T18:30:00
+Eintracht Braunschweig,1. FC Nürnberg,3,1,2016-04-30T13:00:00
+SpVgg Greuther Fürth,1. FC Heidenheim 1846,0,2,2016-04-30T13:00:00
+Karlsruher SC,SV Sandhausen,3,0,2016-05-02T18:30:00
+Arminia Bielefeld,1. FC Union Berlin,2,0,2016-05-08T15:30:00
+Fortuna Düsseldorf,FSV Frankfurt,1,0,2016-05-08T15:30:00
+RB Leipzig,Karlsruher SC,2,0,2016-05-08T15:30:00
+SV Sandhausen,MSV Duisburg,2,2,2016-05-08T15:30:00
+SC Freiburg,1. FC Heidenheim 1846,2,0,2016-05-08T15:30:00
+TSV 1860 München,SC Paderborn 07,1,0,2016-05-08T15:30:00
+VfL Bochum,Eintracht Braunschweig,2,3,2016-05-08T15:30:00
+1. FC Kaiserslautern,SpVgg Greuther Fürth,3,1,2016-05-08T15:30:00
+1. FC Nürnberg,FC St. Pauli,1,0,2016-05-08T15:30:00
+1. FC Heidenheim 1846,VfL Bochum,2,4,2016-05-15T15:30:00
+1. FC Union Berlin,SC Freiburg,2,1,2016-05-15T15:30:00
+Eintracht Braunschweig,Fortuna Düsseldorf,0,2,2016-05-15T15:30:00
+FC St. Pauli,1. FC Kaiserslautern,5,2,2016-05-15T15:30:00
+FSV Frankfurt,TSV 1860 München,2,1,2016-05-15T15:30:00
+Karlsruher SC,Arminia Bielefeld,1,1,2016-05-15T15:30:00
+MSV Duisburg,RB Leipzig,1,0,2016-05-15T15:30:00
+SC Paderborn 07,1. FC Nürnberg,0,1,2016-05-15T15:30:00
+SpVgg Greuther Fürth,SV Sandhausen,3,1,2016-05-15T15:30:00
+1. FC Kaiserslautern,Hannover 96,0,4,2016-08-05T20:30:00
+VfL Bochum,1. FC Union Berlin,2,1,2016-08-06T13:00:00
+SV Sandhausen,Fortuna Düsseldorf,2,2,2016-08-06T15:30:00
+SG Dynamo Dresden,1. FC Nürnberg,1,1,2016-08-06T15:30:00
+SpVgg Greuther Fürth,TSV 1860 München,1,0,2016-08-07T13:30:00
+Eintracht Braunschweig,FC Kickers Würzburg,2,1,2016-08-07T15:30:00
+1. FC Heidenheim 1846,Erzgebirge Aue,1,0,2016-08-07T15:30:00
+Arminia Bielefeld,Karlsruher SC,0,0,2016-08-07T15:30:00
+VfB Stuttgart,FC St. Pauli,2,1,2016-08-08T20:15:00
+1. FC Nürnberg,1. FC Heidenheim 1846,1,1,2016-08-12T18:30:00
+Erzgebirge Aue,SV Sandhausen,2,0,2016-08-12T18:30:00
+Fortuna Düsseldorf,VfB Stuttgart,1,0,2016-08-12T20:30:00
+Karlsruher SC,VfL Bochum,1,1,2016-08-13T13:00:00
+FC St. Pauli,Eintracht Braunschweig,0,2,2016-08-13T15:30:00
+Hannover 96,SpVgg Greuther Fürth,3,1,2016-08-14T13:30:00
+TSV 1860 München,Arminia Bielefeld,1,0,2016-08-14T15:30:00
+FC Kickers Würzburg,1. FC Kaiserslautern,1,1,2016-08-14T15:30:00
+1. FC Union Berlin,SG Dynamo Dresden,2,2,2016-08-15T20:15:00
+VfL Bochum,Hannover 96,1,1,2016-08-26T18:30:00
+1. FC Heidenheim 1846,FC Kickers Würzburg,1,2,2016-08-26T18:30:00
+SV Sandhausen,VfB Stuttgart,1,2,2016-08-26T18:30:00
+Karlsruher SC,TSV 1860 München,0,0,2016-08-27T13:00:00
+SpVgg Greuther Fürth,Erzgebirge Aue,3,2,2016-08-27T13:00:00
+Eintracht Braunschweig,1. FC Nürnberg,6,1,2016-08-28T13:30:00
+Arminia Bielefeld,1. FC Union Berlin,4,4,2016-08-28T13:30:00
+SG Dynamo Dresden,FC St. Pauli,1,0,2016-08-28T13:30:00
+1. FC Kaiserslautern,Fortuna Düsseldorf,0,0,2016-08-29T20:15:00
+VfB Stuttgart,1. FC Heidenheim 1846,1,2,2016-09-09T18:30:00
+Erzgebirge Aue,Eintracht Braunschweig,0,2,2016-09-09T18:30:00
+FC Kickers Würzburg,VfL Bochum,2,0,2016-09-09T18:30:00
+FC St. Pauli,Arminia Bielefeld,2,1,2016-09-10T13:00:00
+1. FC Union Berlin,Karlsruher SC,4,0,2016-09-10T13:00:00
+Hannover 96,SG Dynamo Dresden,0,2,2016-09-11T13:30:00
+SV Sandhausen,1. FC Kaiserslautern,2,0,2016-09-11T13:30:00
+Fortuna Düsseldorf,SpVgg Greuther Fürth,1,1,2016-09-11T13:30:00
+1. FC Nürnberg,TSV 1860 München,1,2,2016-09-12T20:15:00
+VfL Bochum,1. FC Nürnberg,5,4,2016-09-16T18:30:00
+SpVgg Greuther Fürth,FC Kickers Würzburg,0,3,2016-09-16T18:30:00
+TSV 1860 München,1. FC Union Berlin,1,2,2016-09-16T18:30:00
+Eintracht Braunschweig,SV Sandhausen,2,1,2016-09-17T13:00:00
+1. FC Kaiserslautern,VfB Stuttgart,0,1,2016-09-17T13:00:00
+1. FC Heidenheim 1846,Fortuna Düsseldorf,2,0,2016-09-17T13:00:00
+Karlsruher SC,FC St. Pauli,1,1,2016-09-18T13:30:00
+Arminia Bielefeld,Hannover 96,3,3,2016-09-18T13:30:00
+SG Dynamo Dresden,Erzgebirge Aue,0,3,2016-09-18T13:30:00
+VfB Stuttgart,Eintracht Braunschweig,2,0,2016-09-20T17:30:00
+1. FC Nürnberg,SpVgg Greuther Fürth,1,2,2016-09-20T17:30:00
+SV Sandhausen,1. FC Heidenheim 1846,0,0,2016-09-20T17:30:00
+Fortuna Düsseldorf,VfL Bochum,3,0,2016-09-20T17:30:00
+Hannover 96,Karlsruher SC,1,0,2016-09-21T17:30:00
+1. FC Kaiserslautern,SG Dynamo Dresden,3,0,2016-09-21T17:30:00
+Erzgebirge Aue,Arminia Bielefeld,1,1,2016-09-21T17:30:00
+FC Kickers Würzburg,1. FC Union Berlin,0,1,2016-09-21T17:30:00
+FC St. Pauli,TSV 1860 München,2,2,2016-09-22T20:15:00
+VfL Bochum,VfB Stuttgart,1,1,2016-09-23T18:30:00
+Eintracht Braunschweig,Fortuna Düsseldorf,2,1,2016-09-23T18:30:00
+SpVgg Greuther Fürth,SV Sandhausen,1,1,2016-09-23T18:30:00
+Karlsruher SC,Erzgebirge Aue,2,0,2016-09-24T13:00:00
+1. FC Heidenheim 1846,1. FC Kaiserslautern,3,0,2016-09-24T13:00:00
+Arminia Bielefeld,1. FC Nürnberg,1,3,2016-09-25T13:30:00
+TSV 1860 München,Hannover 96,0,2,2016-09-25T13:30:00
+SG Dynamo Dresden,FC Kickers Würzburg,2,2,2016-09-25T13:30:00
+1. FC Union Berlin,FC St. Pauli,2,0,2016-09-26T20:15:00
+1. FC Nürnberg,1. FC Union Berlin,2,0,2016-09-30T18:30:00
+SV Sandhausen,SG Dynamo Dresden,2,0,2016-09-30T18:30:00
+Erzgebirge Aue,VfL Bochum,2,4,2016-09-30T18:30:00
+Hannover 96,FC St. Pauli,2,0,2016-10-01T13:00:00
+Fortuna Düsseldorf,Karlsruher SC,1,1,2016-10-01T13:00:00
+1. FC Kaiserslautern,Arminia Bielefeld,0,0,2016-10-02T13:30:00
+1. FC Heidenheim 1846,Eintracht Braunschweig,1,1,2016-10-02T13:30:00
+FC Kickers Würzburg,TSV 1860 München,2,0,2016-10-02T13:30:00
+VfB Stuttgart,SpVgg Greuther Fürth,4,0,2016-10-03T20:15:00
+FC St. Pauli,Erzgebirge Aue,1,2,2016-10-14T18:30:00
+VfL Bochum,SV Sandhausen,2,2,2016-10-14T18:30:00
+Arminia Bielefeld,FC Kickers Würzburg,0,1,2016-10-14T18:30:00
+SpVgg Greuther Fürth,1. FC Heidenheim 1846,0,2,2016-10-15T13:00:00
+SG Dynamo Dresden,VfB Stuttgart,5,0,2016-10-15T13:00:00
+1. FC Union Berlin,Hannover 96,2,1,2016-10-16T13:30:00
+Karlsruher SC,1. FC Nürnberg,0,3,2016-10-16T13:30:00
+TSV 1860 München,Fortuna Düsseldorf,1,3,2016-10-16T13:30:00
+Eintracht Braunschweig,1. FC Kaiserslautern,1,0,2016-10-17T20:15:00
+VfB Stuttgart,TSV 1860 München,2,1,2016-10-21T18:30:00
+Fortuna Düsseldorf,Arminia Bielefeld,4,0,2016-10-21T18:30:00
+FC Kickers Würzburg,Karlsruher SC,0,2,2016-10-21T18:30:00
+1. FC Heidenheim 1846,SG Dynamo Dresden,0,0,2016-10-22T13:00:00
+SV Sandhausen,FC St. Pauli,3,0,2016-10-22T13:00:00
+1. FC Nürnberg,Hannover 96,2,0,2016-10-23T13:30:00
+Eintracht Braunschweig,SpVgg Greuther Fürth,1,0,2016-10-23T13:30:00
+Erzgebirge Aue,1. FC Union Berlin,1,3,2016-10-23T13:30:00
+1. FC Kaiserslautern,VfL Bochum,3,0,2016-10-24T20:15:00
+Arminia Bielefeld,SV Sandhausen,1,0,2016-10-28T18:30:00
+TSV 1860 München,Erzgebirge Aue,6,2,2016-10-28T18:30:00
+SG Dynamo Dresden,Eintracht Braunschweig,3,2,2016-10-28T18:30:00
+1. FC Union Berlin,Fortuna Düsseldorf,0,1,2016-10-29T13:00:00
+SpVgg Greuther Fürth,1. FC Kaiserslautern,0,1,2016-10-29T13:00:00
+Hannover 96,FC Kickers Würzburg,3,1,2016-10-30T13:30:00
+VfL Bochum,1. FC Heidenheim 1846,2,1,2016-10-30T13:30:00
+Karlsruher SC,VfB Stuttgart,1,3,2016-10-30T13:30:00
+FC St. Pauli,1. FC Nürnberg,1,1,2016-10-31T20:15:00
+1. FC Heidenheim 1846,Karlsruher SC,2,1,2016-11-04T18:30:00
+Fortuna Düsseldorf,SG Dynamo Dresden,0,3,2016-11-04T18:30:00
+Erzgebirge Aue,1. FC Nürnberg,1,2,2016-11-04T18:30:00
+SpVgg Greuther Fürth,VfL Bochum,2,1,2016-11-05T13:00:00
+1. FC Kaiserslautern,1. FC Union Berlin,1,0,2016-11-05T13:00:00
+VfB Stuttgart,Arminia Bielefeld,3,1,2016-11-06T13:30:00
+Eintracht Braunschweig,Hannover 96,2,2,2016-11-06T13:30:00
+SV Sandhausen,TSV 1860 München,3,2,2016-11-06T13:30:00
+FC Kickers Würzburg,FC St. Pauli,1,0,2016-11-07T20:15:00
+1. FC Nürnberg,FC Kickers Würzburg,2,2,2016-11-18T18:30:00
+VfL Bochum,Eintracht Braunschweig,1,1,2016-11-18T18:30:00
+Arminia Bielefeld,1. FC Heidenheim 1846,2,1,2016-11-18T18:30:00
+Hannover 96,Erzgebirge Aue,2,0,2016-11-19T13:00:00
+Karlsruher SC,SV Sandhausen,1,3,2016-11-19T13:00:00
+FC St. Pauli,Fortuna Düsseldorf,0,1,2016-11-20T13:30:00
+1. FC Union Berlin,VfB Stuttgart,1,1,2016-11-20T13:30:00
+SG Dynamo Dresden,SpVgg Greuther Fürth,2,1,2016-11-20T13:30:00
+TSV 1860 München,1. FC Kaiserslautern,1,1,2016-11-21T20:15:00
+SpVgg Greuther Fürth,Arminia Bielefeld,2,1,2016-11-25T18:30:00
+Fortuna Düsseldorf,Hannover 96,2,2,2016-11-25T18:30:00
+FC Kickers Würzburg,Erzgebirge Aue,1,1,2016-11-25T18:30:00
+1. FC Heidenheim 1846,FC St. Pauli,2,0,2016-11-26T13:00:00
+SG Dynamo Dresden,VfL Bochum,2,2,2016-11-26T13:00:00
+Eintracht Braunschweig,TSV 1860 München,2,1,2016-11-27T13:30:00
+1. FC Kaiserslautern,Karlsruher SC,0,0,2016-11-27T13:30:00
+SV Sandhausen,1. FC Union Berlin,0,1,2016-11-27T13:30:00
+VfB Stuttgart,1. FC Nürnberg,3,1,2016-11-28T20:15:00
+Hannover 96,1. FC Heidenheim 1846,3,2,2016-12-02T18:30:00
+FC St. Pauli,1. FC Kaiserslautern,0,0,2016-12-02T18:30:00
+Karlsruher SC,SpVgg Greuther Fürth,1,2,2016-12-02T18:30:00
+1. FC Nürnberg,SV Sandhausen,1,3,2016-12-03T13:00:00
+TSV 1860 München,SG Dynamo Dresden,1,0,2016-12-03T13:00:00
+Arminia Bielefeld,VfL Bochum,1,0,2016-12-04T13:30:00
+Erzgebirge Aue,VfB Stuttgart,0,4,2016-12-04T13:30:00
+FC Kickers Würzburg,Fortuna Düsseldorf,0,0,2016-12-04T13:30:00
+1. FC Union Berlin,Eintracht Braunschweig,2,0,2016-12-05T20:15:00
+1. FC Heidenheim 1846,1. FC Union Berlin,3,0,2016-12-09T18:30:00
+Fortuna Düsseldorf,1. FC Nürnberg,0,2,2016-12-09T18:30:00
+SG Dynamo Dresden,Karlsruher SC,0,0,2016-12-09T18:30:00
+VfL Bochum,TSV 1860 München,1,0,2016-12-10T13:00:00
+1. FC Kaiserslautern,Erzgebirge Aue,0,0,2016-12-10T13:00:00
+Eintracht Braunschweig,Arminia Bielefeld,3,2,2016-12-11T13:30:00
+SpVgg Greuther Fürth,FC St. Pauli,0,2,2016-12-11T13:30:00
+SV Sandhausen,FC Kickers Würzburg,0,0,2016-12-11T13:30:00
+VfB Stuttgart,Hannover 96,1,2,2016-12-12T20:15:00
+1. FC Union Berlin,SpVgg Greuther Fürth,1,1,2016-12-16T18:30:00
+TSV 1860 München,1. FC Heidenheim 1846,1,1,2016-12-16T18:30:00
+Erzgebirge Aue,Fortuna Düsseldorf,0,0,2016-12-16T18:30:00
+FC St. Pauli,VfL Bochum,1,1,2016-12-17T13:00:00
+Karlsruher SC,Eintracht Braunschweig,0,0,2016-12-17T13:00:00
+Hannover 96,SV Sandhausen,0,0,2016-12-18T13:30:00
+Arminia Bielefeld,SG Dynamo Dresden,1,2,2016-12-18T13:30:00
+FC Kickers Würzburg,VfB Stuttgart,3,0,2016-12-18T13:30:00
+1. FC Nürnberg,1. FC Kaiserslautern,2,1,2016-12-19T20:15:00
+1. FC Union Berlin,VfL Bochum,2,1,2017-01-27T18:30:00
+TSV 1860 München,SpVgg Greuther Fürth,2,1,2017-01-27T18:30:00
+Fortuna Düsseldorf,SV Sandhausen,0,3,2017-01-27T18:30:00
+FC Kickers Würzburg,Eintracht Braunschweig,1,1,2017-01-28T13:00:00
+Erzgebirge Aue,1. FC Heidenheim 1846,2,1,2017-01-28T13:00:00
+1. FC Nürnberg,SG Dynamo Dresden,1,2,2017-01-29T13:30:00
+FC St. Pauli,VfB Stuttgart,0,1,2017-01-29T13:30:00
+Karlsruher SC,Arminia Bielefeld,3,2,2017-01-29T13:30:00
+Hannover 96,1. FC Kaiserslautern,1,0,2017-01-30T20:15:00
+SpVgg Greuther Fürth,Hannover 96,4,1,2017-02-03T18:30:00
+1. FC Kaiserslautern,FC Kickers Würzburg,1,0,2017-02-03T18:30:00
+Arminia Bielefeld,TSV 1860 München,2,1,2017-02-03T18:30:00
+SV Sandhausen,Erzgebirge Aue,2,0,2017-02-04T13:00:00
+1. FC Heidenheim 1846,1. FC Nürnberg,2,3,2017-02-04T13:00:00
+Eintracht Braunschweig,FC St. Pauli,1,2,2017-02-05T13:30:00
+SG Dynamo Dresden,1. FC Union Berlin,0,0,2017-02-05T13:30:00
+VfL Bochum,Karlsruher SC,1,1,2017-02-05T13:30:00
+VfB Stuttgart,Fortuna Düsseldorf,2,0,2017-02-06T20:15:00
+1. FC Nürnberg,Eintracht Braunschweig,1,1,2017-02-10T18:30:00
+Erzgebirge Aue,SpVgg Greuther Fürth,0,0,2017-02-10T18:30:00
+Fortuna Düsseldorf,1. FC Kaiserslautern,1,1,2017-02-10T18:30:00
+TSV 1860 München,Karlsruher SC,2,1,2017-02-11T13:00:00
+FC Kickers Würzburg,1. FC Heidenheim 1846,0,2,2017-02-11T13:00:00
+1. FC Union Berlin,Arminia Bielefeld,3,1,2017-02-12T13:30:00
+VfB Stuttgart,SV Sandhausen,2,1,2017-02-12T13:30:00
+FC St. Pauli,SG Dynamo Dresden,2,0,2017-02-12T13:30:00
+Hannover 96,VfL Bochum,2,1,2017-02-13T20:15:00
+1. FC Kaiserslautern,SV Sandhausen,3,0,2017-02-17T18:30:00
+Eintracht Braunschweig,Erzgebirge Aue,1,1,2017-02-17T18:30:00
+1. FC Heidenheim 1846,VfB Stuttgart,1,2,2017-02-17T18:30:00
+SpVgg Greuther Fürth,Fortuna Düsseldorf,1,0,2017-02-18T13:00:00
+VfL Bochum,FC Kickers Würzburg,2,1,2017-02-18T13:00:00
+SG Dynamo Dresden,Hannover 96,1,2,2017-02-19T13:30:00
+Arminia Bielefeld,FC St. Pauli,1,1,2017-02-19T13:30:00
+Karlsruher SC,1. FC Union Berlin,1,2,2017-02-19T13:30:00
+TSV 1860 München,1. FC Nürnberg,2,0,2017-02-20T20:15:00
+1. FC Union Berlin,TSV 1860 München,2,0,2017-02-24T18:30:00
+SV Sandhausen,Eintracht Braunschweig,0,1,2017-02-24T18:30:00
+FC Kickers Würzburg,SpVgg Greuther Fürth,1,1,2017-02-24T18:30:00
+Fortuna Düsseldorf,1. FC Heidenheim 1846,0,0,2017-02-25T13:00:00
+Hannover 96,Arminia Bielefeld,2,2,2017-02-25T13:00:00
+VfB Stuttgart,1. FC Kaiserslautern,2,0,2017-02-26T13:30:00
+1. FC Nürnberg,VfL Bochum,0,1,2017-02-26T13:30:00
+Erzgebirge Aue,SG Dynamo Dresden,1,4,2017-02-26T13:30:00
+FC St. Pauli,Karlsruher SC,5,0,2017-02-27T20:15:00
+SG Dynamo Dresden,1. FC Kaiserslautern,3,3,2017-03-03T18:30:00
+VfL Bochum,Fortuna Düsseldorf,1,2,2017-03-03T18:30:00
+1. FC Union Berlin,FC Kickers Würzburg,2,0,2017-03-03T18:30:00
+TSV 1860 München,FC St. Pauli,1,2,2017-03-04T13:00:00
+Karlsruher SC,Hannover 96,2,0,2017-03-04T13:00:00
+1. FC Heidenheim 1846,SV Sandhausen,2,2,2017-03-05T13:30:00
+Arminia Bielefeld,Erzgebirge Aue,2,2,2017-03-05T13:30:00
+SpVgg Greuther Fürth,1. FC Nürnberg,1,0,2017-03-05T13:30:00
+Eintracht Braunschweig,VfB Stuttgart,1,1,2017-03-06T20:15:00
+FC St. Pauli,1. FC Union Berlin,1,2,2017-03-10T18:30:00
+Erzgebirge Aue,Karlsruher SC,1,0,2017-03-10T18:30:00
+VfB Stuttgart,VfL Bochum,1,1,2017-03-10T18:30:00
+Hannover 96,TSV 1860 München,1,0,2017-03-11T13:00:00
+FC Kickers Würzburg,SG Dynamo Dresden,0,2,2017-03-11T13:00:00
+SV Sandhausen,SpVgg Greuther Fürth,1,1,2017-03-12T13:30:00
+1. FC Kaiserslautern,1. FC Heidenheim 1846,1,1,2017-03-12T13:30:00
+1. FC Nürnberg,Arminia Bielefeld,1,0,2017-03-12T13:30:00
+Fortuna Düsseldorf,Eintracht Braunschweig,1,2,2017-03-13T20:15:00
+Arminia Bielefeld,1. FC Kaiserslautern,2,0,2017-03-17T18:30:00
+Eintracht Braunschweig,1. FC Heidenheim 1846,3,2,2017-03-17T18:30:00
+TSV 1860 München,FC Kickers Würzburg,2,1,2017-03-17T18:30:00
+FC St. Pauli,Hannover 96,0,0,2017-03-18T13:00:00
+SpVgg Greuther Fürth,VfB Stuttgart,1,0,2017-03-18T13:00:00
+SG Dynamo Dresden,SV Sandhausen,2,0,2017-03-19T13:30:00
+Karlsruher SC,Fortuna Düsseldorf,0,3,2017-03-19T13:30:00
+VfL Bochum,Erzgebirge Aue,1,1,2017-03-19T13:30:00
+1. FC Union Berlin,1. FC Nürnberg,1,0,2017-03-20T20:15:00
+Erzgebirge Aue,FC St. Pauli,1,0,2017-03-31T18:30:00
+1. FC Nürnberg,Karlsruher SC,2,1,2017-03-31T18:30:00
+Fortuna Düsseldorf,TSV 1860 München,0,1,2017-03-31T18:30:00
+SV Sandhausen,VfL Bochum,0,0,2017-04-01T13:00:00
+Hannover 96,1. FC Union Berlin,2,0,2017-04-01T13:00:00
+FC Kickers Würzburg,Arminia Bielefeld,1,1,2017-04-01T13:00:00
+VfB Stuttgart,SG Dynamo Dresden,3,3,2017-04-02T13:30:00
+1. FC Kaiserslautern,Eintracht Braunschweig,0,1,2017-04-02T13:30:00
+1. FC Heidenheim 1846,SpVgg Greuther Fürth,0,2,2017-04-02T13:30:00
+Karlsruher SC,FC Kickers Würzburg,1,1,2017-04-04T17:30:00
+Hannover 96,1. FC Nürnberg,1,0,2017-04-04T17:30:00
+FC St. Pauli,SV Sandhausen,0,0,2017-04-04T17:30:00
+Arminia Bielefeld,Fortuna Düsseldorf,2,1,2017-04-04T17:30:00
+1. FC Union Berlin,Erzgebirge Aue,0,1,2017-04-05T17:30:00
+TSV 1860 München,VfB Stuttgart,1,1,2017-04-05T17:30:00
+SpVgg Greuther Fürth,Eintracht Braunschweig,0,0,2017-04-05T17:30:00
+VfL Bochum,1. FC Kaiserslautern,0,0,2017-04-05T17:30:00
+SG Dynamo Dresden,1. FC Heidenheim 1846,2,1,2017-04-05T17:30:00
+SV Sandhausen,Arminia Bielefeld,1,3,2017-04-07T18:30:00
+FC Kickers Würzburg,Hannover 96,0,0,2017-04-07T18:30:00
+1. FC Nürnberg,FC St. Pauli,0,2,2017-04-07T18:30:00
+1. FC Heidenheim 1846,VfL Bochum,0,0,2017-04-08T13:00:00
+1. FC Kaiserslautern,SpVgg Greuther Fürth,2,0,2017-04-08T13:00:00
+Erzgebirge Aue,TSV 1860 München,3,0,2017-04-09T13:30:00
+Fortuna Düsseldorf,1. FC Union Berlin,2,2,2017-04-09T13:30:00
+VfB Stuttgart,Karlsruher SC,2,0,2017-04-09T13:30:00
+Eintracht Braunschweig,SG Dynamo Dresden,1,0,2017-04-10T20:15:00
+1. FC Nürnberg,Erzgebirge Aue,2,1,2017-04-15T13:00:00
+Hannover 96,Eintracht Braunschweig,1,0,2017-04-15T13:00:00
+TSV 1860 München,SV Sandhausen,1,1,2017-04-16T13:30:00
+SG Dynamo Dresden,Fortuna Düsseldorf,1,1,2017-04-16T13:30:00
+FC St. Pauli,FC Kickers Würzburg,1,0,2017-04-16T13:30:00
+VfL Bochum,SpVgg Greuther Fürth,1,0,2017-04-16T13:30:00
+1. FC Union Berlin,1. FC Kaiserslautern,3,1,2017-04-16T13:30:00
+Karlsruher SC,1. FC Heidenheim 1846,0,1,2017-04-16T13:30:00
+Arminia Bielefeld,VfB Stuttgart,2,3,2017-04-17T20:15:00
+1. FC Kaiserslautern,TSV 1860 München,1,0,2017-04-21T18:30:00
+SpVgg Greuther Fürth,SG Dynamo Dresden,1,0,2017-04-21T18:30:00
+Fortuna Düsseldorf,FC St. Pauli,1,3,2017-04-21T18:30:00
+1. FC Heidenheim 1846,Arminia Bielefeld,2,2,2017-04-22T13:00:00
+Erzgebirge Aue,Hannover 96,2,2,2017-04-22T13:00:00
+SV Sandhausen,Karlsruher SC,4,0,2017-04-23T13:30:00
+FC Kickers Würzburg,1. FC Nürnberg,1,1,2017-04-23T13:30:00
+Eintracht Braunschweig,VfL Bochum,2,0,2017-04-23T13:30:00
+VfB Stuttgart,1. FC Union Berlin,3,1,2017-04-24T20:15:00
+FC St. Pauli,1. FC Heidenheim 1846,3,0,2017-04-28T18:30:00
+1. FC Union Berlin,SV Sandhausen,2,1,2017-04-28T18:30:00
+VfL Bochum,SG Dynamo Dresden,4,2,2017-04-28T18:30:00
+Karlsruher SC,1. FC Kaiserslautern,1,3,2017-04-29T13:00:00
+1. FC Nürnberg,VfB Stuttgart,2,3,2017-04-29T13:00:00
+Arminia Bielefeld,SpVgg Greuther Fürth,1,1,2017-04-29T13:00:00
+Hannover 96,Fortuna Düsseldorf,1,0,2017-04-30T13:30:00
+Erzgebirge Aue,FC Kickers Würzburg,3,1,2017-04-30T13:30:00
+TSV 1860 München,Eintracht Braunschweig,0,1,2017-04-30T13:30:00
+1. FC Kaiserslautern,FC St. Pauli,1,2,2017-05-05T18:30:00
+SG Dynamo Dresden,TSV 1860 München,1,2,2017-05-05T18:30:00
+1. FC Heidenheim 1846,Hannover 96,0,2,2017-05-05T18:30:00
+Fortuna Düsseldorf,FC Kickers Würzburg,1,1,2017-05-06T13:00:00
+SV Sandhausen,1. FC Nürnberg,0,1,2017-05-06T13:00:00
+SpVgg Greuther Fürth,Karlsruher SC,0,1,2017-05-07T13:30:00
+VfL Bochum,Arminia Bielefeld,1,1,2017-05-07T13:30:00
+VfB Stuttgart,Erzgebirge Aue,3,0,2017-05-07T13:30:00
+Eintracht Braunschweig,1. FC Union Berlin,3,1,2017-05-08T20:15:00
+TSV 1860 München,VfL Bochum,1,2,2017-05-14T15:30:00
+Arminia Bielefeld,Eintracht Braunschweig,6,0,2017-05-14T15:30:00
+FC St. Pauli,SpVgg Greuther Fürth,1,1,2017-05-14T15:30:00
+Erzgebirge Aue,1. FC Kaiserslautern,1,0,2017-05-14T15:30:00
+1. FC Union Berlin,1. FC Heidenheim 1846,0,1,2017-05-14T15:30:00
+FC Kickers Würzburg,SV Sandhausen,0,1,2017-05-14T15:30:00
+1. FC Nürnberg,Fortuna Düsseldorf,2,3,2017-05-14T15:30:00
+Hannover 96,VfB Stuttgart,1,0,2017-05-14T15:30:00
+Karlsruher SC,SG Dynamo Dresden,3,4,2017-05-14T15:30:00
+SV Sandhausen,Hannover 96,1,1,2017-05-21T15:30:00
+VfB Stuttgart,FC Kickers Würzburg,4,1,2017-05-21T15:30:00
+1. FC Kaiserslautern,1. FC Nürnberg,1,0,2017-05-21T15:30:00
+VfL Bochum,FC St. Pauli,1,3,2017-05-21T15:30:00
+SpVgg Greuther Fürth,1. FC Union Berlin,1,2,2017-05-21T15:30:00
+Eintracht Braunschweig,Karlsruher SC,2,1,2017-05-21T15:30:00
+SG Dynamo Dresden,Arminia Bielefeld,1,1,2017-05-21T15:30:00
+1. FC Heidenheim 1846,TSV 1860 München,2,1,2017-05-21T15:30:00
+Fortuna Düsseldorf,Erzgebirge Aue,1,0,2017-05-21T15:30:00
+VfL Bochum,FC St. Pauli,0,1,2017-07-28T20:30:00
+FC Ingolstadt 04,1. FC Union Berlin,0,1,2017-07-29T13:00:00
+SV Darmstadt 98,SpVgg Greuther Fürth,1,0,2017-07-29T15:30:00
+Arminia Bielefeld,Jahn Regensburg,2,1,2017-07-29T15:30:00
+1. FC Nürnberg,1. FC Kaiserslautern,3,0,2017-07-30T13:30:00
+SG Dynamo Dresden,MSV Duisburg,1,0,2017-07-30T15:30:00
+1. FC Heidenheim 1846,Erzgebirge Aue,2,1,2017-07-30T15:30:00
+Holstein Kiel,SV Sandhausen,2,2,2017-07-30T15:30:00
+Fortuna Düsseldorf,Eintracht Braunschweig,2,2,2017-07-31T20:30:00
+1. FC Union Berlin,Holstein Kiel,4,3,2017-08-04T18:30:00
+SV Sandhausen,FC Ingolstadt 04,1,0,2017-08-04T18:30:00
+1. FC Kaiserslautern,SV Darmstadt 98,1,1,2017-08-04T20:30:00
+MSV Duisburg,VfL Bochum,1,1,2017-08-05T13:00:00
+Eintracht Braunschweig,1. FC Heidenheim 1846,2,0,2017-08-05T15:30:00
+Jahn Regensburg,1. FC Nürnberg,0,1,2017-08-06T13:30:00
+SpVgg Greuther Fürth,Arminia Bielefeld,1,2,2017-08-06T15:30:00
+Erzgebirge Aue,Fortuna Düsseldorf,0,2,2017-08-06T15:30:00
+FC St. Pauli,SG Dynamo Dresden,2,2,2017-08-07T20:30:00
+SV Darmstadt 98,FC St. Pauli,3,0,2017-08-18T18:30:00
+Eintracht Braunschweig,Erzgebirge Aue,1,1,2017-08-18T18:30:00
+SG Dynamo Dresden,SV Sandhausen,0,4,2017-08-19T13:00:00
+1. FC Heidenheim 1846,MSV Duisburg,1,2,2017-08-19T13:00:00
+Fortuna Düsseldorf,1. FC Kaiserslautern,2,0,2017-08-19T13:00:00
+FC Ingolstadt 04,Jahn Regensburg,2,4,2017-08-20T13:30:00
+1. FC Nürnberg,1. FC Union Berlin,2,2,2017-08-20T13:30:00
+Holstein Kiel,SpVgg Greuther Fürth,3,1,2017-08-20T13:30:00
+Arminia Bielefeld,VfL Bochum,2,0,2017-08-21T20:30:00
+SpVgg Greuther Fürth,FC Ingolstadt 04,0,1,2017-08-25T18:30:00
+MSV Duisburg,SV Darmstadt 98,1,2,2017-08-25T18:30:00
+FC St. Pauli,1. FC Heidenheim 1846,1,0,2017-08-26T13:00:00
+Erzgebirge Aue,1. FC Nürnberg,3,1,2017-08-26T13:00:00
+Jahn Regensburg,Holstein Kiel,1,2,2017-08-26T13:00:00
+1. FC Union Berlin,Arminia Bielefeld,1,1,2017-08-27T13:30:00
+VfL Bochum,SG Dynamo Dresden,3,2,2017-08-27T13:30:00
+SV Sandhausen,Fortuna Düsseldorf,1,2,2017-08-27T13:30:00
+1. FC Kaiserslautern,Eintracht Braunschweig,1,1,2017-08-28T20:30:00
+SG Dynamo Dresden,SpVgg Greuther Fürth,1,1,2017-09-08T18:30:00
+1. FC Heidenheim 1846,Jahn Regensburg,1,3,2017-09-08T18:30:00
+FC Ingolstadt 04,Erzgebirge Aue,1,2,2017-09-09T13:00:00
+Arminia Bielefeld,MSV Duisburg,0,4,2017-09-09T13:00:00
+Holstein Kiel,1. FC Kaiserslautern,2,1,2017-09-09T13:00:00
+SV Darmstadt 98,VfL Bochum,1,2,2017-09-10T13:30:00
+Eintracht Braunschweig,SV Sandhausen,1,1,2017-09-10T13:30:00
+Fortuna Düsseldorf,1. FC Union Berlin,3,2,2017-09-10T13:30:00
+1. FC Nürnberg,FC St. Pauli,0,1,2017-09-11T20:30:00
+1. FC Union Berlin,Eintracht Braunschweig,1,1,2017-09-15T18:30:00
+Erzgebirge Aue,Holstein Kiel,0,3,2017-09-15T18:30:00
+FC St. Pauli,FC Ingolstadt 04,0,4,2017-09-16T13:00:00
+SV Sandhausen,1. FC Kaiserslautern,1,0,2017-09-16T13:00:00
+MSV Duisburg,1. FC Nürnberg,1,6,2017-09-16T13:00:00
+SV Darmstadt 98,Arminia Bielefeld,4,3,2017-09-17T13:30:00
+SpVgg Greuther Fürth,Fortuna Düsseldorf,3,1,2017-09-17T13:30:00
+VfL Bochum,1. FC Heidenheim 1846,1,2,2017-09-17T13:30:00
+Jahn Regensburg,SG Dynamo Dresden,0,2,2017-09-17T13:30:00
+FC Ingolstadt 04,MSV Duisburg,2,2,2017-09-19T18:30:00
+SV Sandhausen,1. FC Union Berlin,1,0,2017-09-19T18:30:00
+1. FC Kaiserslautern,Erzgebirge Aue,0,2,2017-09-19T18:30:00
+Holstein Kiel,FC St. Pauli,0,1,2017-09-19T18:30:00
+Eintracht Braunschweig,SpVgg Greuther Fürth,3,0,2017-09-20T18:30:00
+SG Dynamo Dresden,Arminia Bielefeld,0,2,2017-09-20T18:30:00
+1. FC Heidenheim 1846,SV Darmstadt 98,2,2,2017-09-20T18:30:00
+Fortuna Düsseldorf,Jahn Regensburg,1,0,2017-09-20T18:30:00
+1. FC Nürnberg,VfL Bochum,3,1,2017-09-21T20:30:00
+Erzgebirge Aue,SV Sandhausen,1,0,2017-09-22T18:30:00
+MSV Duisburg,Holstein Kiel,1,3,2017-09-22T18:30:00
+FC St. Pauli,Fortuna Düsseldorf,1,2,2017-09-23T13:00:00
+Arminia Bielefeld,1. FC Heidenheim 1846,1,1,2017-09-23T13:00:00
+Jahn Regensburg,Eintracht Braunschweig,2,1,2017-09-23T13:00:00
+SV Darmstadt 98,SG Dynamo Dresden,3,3,2017-09-24T13:30:00
+SpVgg Greuther Fürth,1. FC Nürnberg,1,3,2017-09-24T13:30:00
+VfL Bochum,FC Ingolstadt 04,2,0,2017-09-24T13:30:00
+1. FC Union Berlin,1. FC Kaiserslautern,5,0,2017-09-25T20:30:00
+FC Ingolstadt 04,SV Darmstadt 98,3,0,2017-09-29T18:30:00
+1. FC Kaiserslautern,SpVgg Greuther Fürth,3,0,2017-09-29T18:30:00
+1. FC Nürnberg,Arminia Bielefeld,1,2,2017-09-30T13:00:00
+Erzgebirge Aue,1. FC Union Berlin,1,2,2017-09-30T13:00:00
+Holstein Kiel,VfL Bochum,3,0,2017-09-30T13:00:00
+Eintracht Braunschweig,FC St. Pauli,0,2,2017-10-01T13:30:00
+1. FC Heidenheim 1846,SG Dynamo Dresden,0,2,2017-10-01T13:30:00
+SV Sandhausen,Jahn Regensburg,2,0,2017-10-01T13:30:00
+Fortuna Düsseldorf,MSV Duisburg,3,1,2017-10-02T20:30:00
+FC St. Pauli,1. FC Kaiserslautern,1,1,2017-10-13T18:30:00
+MSV Duisburg,Eintracht Braunschweig,0,0,2017-10-13T18:30:00
+SG Dynamo Dresden,FC Ingolstadt 04,2,2,2017-10-14T13:00:00
+VfL Bochum,SV Sandhausen,2,0,2017-10-14T13:00:00
+Arminia Bielefeld,Fortuna Düsseldorf,0,2,2017-10-14T13:00:00
+1. FC Heidenheim 1846,Holstein Kiel,3,5,2017-10-15T13:30:00
+SpVgg Greuther Fürth,Erzgebirge Aue,2,1,2017-10-15T13:30:00
+Jahn Regensburg,1. FC Union Berlin,0,2,2017-10-15T13:30:00
+SV Darmstadt 98,1. FC Nürnberg,3,4,2017-10-16T20:30:00
+FC Ingolstadt 04,1. FC Heidenheim 1846,3,0,2017-10-20T18:30:00
+Fortuna Düsseldorf,SV Darmstadt 98,1,0,2017-10-20T18:30:00
+Eintracht Braunschweig,VfL Bochum,1,0,2017-10-21T13:00:00
+1. FC Union Berlin,SpVgg Greuther Fürth,3,1,2017-10-21T13:00:00
+Holstein Kiel,Arminia Bielefeld,2,1,2017-10-21T13:00:00
+1. FC Nürnberg,SG Dynamo Dresden,2,1,2017-10-22T13:30:00
+1. FC Kaiserslautern,MSV Duisburg,0,1,2017-10-22T13:30:00
+Erzgebirge Aue,Jahn Regensburg,1,0,2017-10-22T13:30:00
+SV Sandhausen,FC St. Pauli,1,1,2017-10-23T20:30:00
+FC St. Pauli,Erzgebirge Aue,1,1,2017-10-27T18:30:00
+Arminia Bielefeld,FC Ingolstadt 04,1,3,2017-10-27T18:30:00
+SV Darmstadt 98,Holstein Kiel,1,1,2017-10-28T13:00:00
+SpVgg Greuther Fürth,SV Sandhausen,2,1,2017-10-28T13:00:00
+Jahn Regensburg,1. FC Kaiserslautern,3,1,2017-10-28T13:00:00
+SG Dynamo Dresden,Eintracht Braunschweig,1,1,2017-10-29T13:30:00
+1. FC Heidenheim 1846,1. FC Nürnberg,1,0,2017-10-29T13:30:00
+MSV Duisburg,1. FC Union Berlin,1,1,2017-10-29T13:30:00
+VfL Bochum,Fortuna Düsseldorf,0,0,2017-10-30T20:30:00
+SV Sandhausen,MSV Duisburg,0,1,2017-11-03T18:30:00
+1. FC Kaiserslautern,VfL Bochum,0,0,2017-11-03T18:30:00
+Eintracht Braunschweig,SV Darmstadt 98,2,2,2017-11-04T13:00:00
+1. FC Union Berlin,FC St. Pauli,1,0,2017-11-04T13:00:00
+Jahn Regensburg,SpVgg Greuther Fürth,3,2,2017-11-04T13:00:00
+Fortuna Düsseldorf,1. FC Heidenheim 1846,2,2,2017-11-05T13:30:00
+Erzgebirge Aue,Arminia Bielefeld,1,1,2017-11-05T13:30:00
+Holstein Kiel,SG Dynamo Dresden,3,0,2017-11-05T13:30:00
+1. FC Nürnberg,FC Ingolstadt 04,1,2,2017-11-06T20:30:00
+SV Darmstadt 98,SV Sandhausen,1,2,2017-11-17T18:30:00
+Arminia Bielefeld,Eintracht Braunschweig,2,2,2017-11-17T18:30:00
+1. FC Heidenheim 1846,1. FC Union Berlin,4,3,2017-11-18T13:00:00
+VfL Bochum,SpVgg Greuther Fürth,1,1,2017-11-18T13:00:00
+1. FC Nürnberg,Holstein Kiel,2,2,2017-11-18T13:00:00
+FC Ingolstadt 04,Fortuna Düsseldorf,1,0,2017-11-19T13:30:00
+FC St. Pauli,Jahn Regensburg,2,2,2017-11-19T13:30:00
+MSV Duisburg,Erzgebirge Aue,3,0,2017-11-19T13:30:00
+SG Dynamo Dresden,1. FC Kaiserslautern,1,2,2017-11-20T20:30:00
+1. FC Union Berlin,SV Darmstadt 98,3,3,2017-11-24T18:30:00
+SV Sandhausen,1. FC Heidenheim 1846,1,2,2017-11-24T18:30:00
+Eintracht Braunschweig,1. FC Nürnberg,2,3,2017-11-25T13:00:00
+Holstein Kiel,FC Ingolstadt 04,0,0,2017-11-25T13:00:00
+Jahn Regensburg,MSV Duisburg,4,0,2017-11-25T13:00:00
+SpVgg Greuther Fürth,FC St. Pauli,4,0,2017-11-26T13:30:00
+1. FC Kaiserslautern,Arminia Bielefeld,0,2,2017-11-26T13:30:00
+Erzgebirge Aue,VfL Bochum,1,1,2017-11-26T13:30:00
+Fortuna Düsseldorf,SG Dynamo Dresden,1,3,2017-11-27T20:30:00
+1. FC Heidenheim 1846,1. FC Kaiserslautern,3,2,2017-12-01T18:30:00
+Arminia Bielefeld,FC St. Pauli,5,0,2017-12-01T18:30:00
+1. FC Nürnberg,SV Sandhausen,1,0,2017-12-02T13:00:00
+MSV Duisburg,SpVgg Greuther Fürth,2,0,2017-12-02T13:00:00
+Holstein Kiel,Fortuna Düsseldorf,2,2,2017-12-02T13:00:00
+SV Darmstadt 98,Jahn Regensburg,0,1,2017-12-03T13:30:00
+SG Dynamo Dresden,Erzgebirge Aue,4,0,2017-12-03T13:30:00
+VfL Bochum,1. FC Union Berlin,2,1,2017-12-03T13:30:00
+FC Ingolstadt 04,Eintracht Braunschweig,0,2,2017-12-04T20:30:00
+Eintracht Braunschweig,Holstein Kiel,0,0,2017-12-08T18:30:00
+Erzgebirge Aue,SV Darmstadt 98,1,0,2017-12-08T18:30:00
+1. FC Union Berlin,SG Dynamo Dresden,0,1,2017-12-09T13:00:00
+SpVgg Greuther Fürth,1. FC Heidenheim 1846,1,0,2017-12-09T13:00:00
+Jahn Regensburg,VfL Bochum,0,1,2017-12-09T13:00:00
+FC St. Pauli,MSV Duisburg,2,2,2017-12-10T13:30:00
+SV Sandhausen,Arminia Bielefeld,3,1,2017-12-10T13:30:00
+1. FC Kaiserslautern,FC Ingolstadt 04,1,1,2017-12-10T13:30:00
+Fortuna Düsseldorf,1. FC Nürnberg,0,2,2017-12-11T20:30:00
+Eintracht Braunschweig,Fortuna Düsseldorf,0,1,2017-12-15T18:30:00
+1. FC Union Berlin,FC Ingolstadt 04,1,2,2017-12-15T18:30:00
+1. FC Kaiserslautern,1. FC Nürnberg,1,1,2017-12-16T13:00:00
+Erzgebirge Aue,1. FC Heidenheim 1846,1,1,2017-12-16T13:00:00
+Jahn Regensburg,Arminia Bielefeld,3,2,2017-12-16T13:00:00
+SpVgg Greuther Fürth,SV Darmstadt 98,1,1,2017-12-17T13:30:00
+SV Sandhausen,Holstein Kiel,3,1,2017-12-17T13:30:00
+MSV Duisburg,SG Dynamo Dresden,2,0,2017-12-17T13:30:00
+FC St. Pauli,VfL Bochum,2,1,2017-12-18T20:30:00
+VfL Bochum,MSV Duisburg,0,2,2018-01-23T18:30:00
+FC Ingolstadt 04,SV Sandhausen,0,0,2018-01-23T20:30:00
+1. FC Nürnberg,Jahn Regensburg,2,2,2018-01-23T20:30:00
+Holstein Kiel,1. FC Union Berlin,2,2,2018-01-23T20:30:00
+SV Darmstadt 98,1. FC Kaiserslautern,1,2,2018-01-24T18:30:00
+1. FC Heidenheim 1846,Eintracht Braunschweig,2,0,2018-01-24T20:30:00
+Fortuna Düsseldorf,Erzgebirge Aue,2,1,2018-01-24T20:30:00
+Arminia Bielefeld,SpVgg Greuther Fürth,0,0,2018-01-24T20:30:00
+SG Dynamo Dresden,FC St. Pauli,1,3,2018-01-25T20:30:00
+1. FC Union Berlin,1. FC Nürnberg,0,1,2018-01-26T18:30:00
+Jahn Regensburg,FC Ingolstadt 04,3,2,2018-01-26T18:30:00
+SpVgg Greuther Fürth,Holstein Kiel,0,0,2018-01-27T13:00:00
+1. FC Kaiserslautern,Fortuna Düsseldorf,1,3,2018-01-27T13:00:00
+MSV Duisburg,1. FC Heidenheim 1846,3,3,2018-01-27T13:00:00
+FC St. Pauli,SV Darmstadt 98,0,1,2018-01-28T13:30:00
+SV Sandhausen,SG Dynamo Dresden,1,0,2018-01-28T13:30:00
+Erzgebirge Aue,Eintracht Braunschweig,1,3,2018-01-28T13:30:00
+VfL Bochum,Arminia Bielefeld,0,1,2018-01-29T20:30:00
+Fortuna Düsseldorf,SV Sandhausen,1,0,2018-02-02T18:30:00
+1. FC Nürnberg,Erzgebirge Aue,4,1,2018-02-02T18:30:00
+FC Ingolstadt 04,SpVgg Greuther Fürth,3,0,2018-02-03T13:00:00
+1. FC Heidenheim 1846,FC St. Pauli,3,1,2018-02-03T13:00:00
+Holstein Kiel,Jahn Regensburg,1,1,2018-02-03T13:00:00
+SV Darmstadt 98,MSV Duisburg,1,2,2018-02-04T13:30:00
+Eintracht Braunschweig,1. FC Kaiserslautern,1,2,2018-02-04T13:30:00
+SG Dynamo Dresden,VfL Bochum,2,0,2018-02-04T13:30:00
+Arminia Bielefeld,1. FC Union Berlin,1,1,2018-02-05T20:30:00
+VfL Bochum,SV Darmstadt 98,2,1,2018-02-09T18:30:00
+1. FC Kaiserslautern,Holstein Kiel,3,1,2018-02-09T18:30:00
+1. FC Union Berlin,Fortuna Düsseldorf,3,1,2018-02-10T13:00:00
+MSV Duisburg,Arminia Bielefeld,2,2,2018-02-10T13:00:00
+Jahn Regensburg,1. FC Heidenheim 1846,2,0,2018-02-10T13:00:00
+SpVgg Greuther Fürth,SG Dynamo Dresden,1,0,2018-02-11T13:30:00
+SV Sandhausen,Eintracht Braunschweig,0,0,2018-02-11T13:30:00
+Erzgebirge Aue,FC Ingolstadt 04,0,0,2018-02-11T13:30:00
+FC St. Pauli,1. FC Nürnberg,0,0,2018-02-12T20:30:00
+1. FC Heidenheim 1846,VfL Bochum,1,0,2018-02-16T18:30:00
+1. FC Kaiserslautern,SV Sandhausen,0,1,2018-02-16T18:30:00
+FC Ingolstadt 04,FC St. Pauli,0,1,2018-02-17T13:00:00
+Fortuna Düsseldorf,SpVgg Greuther Fürth,1,1,2018-02-17T13:00:00
+Arminia Bielefeld,SV Darmstadt 98,2,0,2018-02-17T13:00:00
+Holstein Kiel,Erzgebirge Aue,2,2,2018-02-17T13:00:00
+Eintracht Braunschweig,1. FC Union Berlin,1,0,2018-02-18T13:30:00
+SG Dynamo Dresden,Jahn Regensburg,1,0,2018-02-18T13:30:00
+1. FC Nürnberg,MSV Duisburg,3,1,2018-02-18T13:30:00
+Arminia Bielefeld,SG Dynamo Dresden,2,3,2018-02-23T18:30:00
+Jahn Regensburg,Fortuna Düsseldorf,4,3,2018-02-23T18:30:00
+1. FC Union Berlin,SV Sandhausen,2,1,2018-02-24T13:00:00
+SpVgg Greuther Fürth,Eintracht Braunschweig,2,1,2018-02-24T13:00:00
+Erzgebirge Aue,1. FC Kaiserslautern,2,1,2018-02-24T13:00:00
+MSV Duisburg,FC Ingolstadt 04,2,1,2018-02-24T13:00:00
+SV Darmstadt 98,1. FC Heidenheim 1846,1,1,2018-02-25T13:30:00
+FC St. Pauli,Holstein Kiel,3,2,2018-02-25T13:30:00
+VfL Bochum,1. FC Nürnberg,0,0,2018-02-25T13:30:00
+SG Dynamo Dresden,SV Darmstadt 98,0,2,2018-03-02T18:30:00
+1. FC Kaiserslautern,1. FC Union Berlin,4,3,2018-03-02T18:30:00
+SV Sandhausen,Erzgebirge Aue,1,1,2018-03-03T13:00:00
+1. FC Nürnberg,SpVgg Greuther Fürth,0,2,2018-03-03T13:00:00
+Holstein Kiel,MSV Duisburg,5,0,2018-03-03T13:00:00
+Eintracht Braunschweig,Jahn Regensburg,2,1,2018-03-04T13:30:00
+1. FC Heidenheim 1846,Arminia Bielefeld,2,2,2018-03-04T13:30:00
+Fortuna Düsseldorf,FC St. Pauli,2,1,2018-03-04T13:30:00
+FC Ingolstadt 04,VfL Bochum,0,1,2018-03-05T20:30:00
+SG Dynamo Dresden,1. FC Heidenheim 1846,3,2,2018-03-09T18:30:00
+Arminia Bielefeld,1. FC Nürnberg,1,0,2018-03-09T18:30:00
+SV Darmstadt 98,FC Ingolstadt 04,1,1,2018-03-10T13:00:00
+FC St. Pauli,Eintracht Braunschweig,0,0,2018-03-10T13:00:00
+SpVgg Greuther Fürth,1. FC Kaiserslautern,2,1,2018-03-10T13:00:00
+VfL Bochum,Holstein Kiel,1,1,2018-03-10T13:00:00
+1. FC Union Berlin,Erzgebirge Aue,0,0,2018-03-11T13:30:00
+MSV Duisburg,Fortuna Düsseldorf,1,2,2018-03-11T13:30:00
+Jahn Regensburg,SV Sandhausen,2,1,2018-03-11T13:30:00
+Fortuna Düsseldorf,Arminia Bielefeld,4,2,2018-03-16T18:30:00
+Holstein Kiel,1. FC Heidenheim 1846,2,1,2018-03-16T18:30:00
+1. FC Union Berlin,Jahn Regensburg,2,2,2018-03-17T13:00:00
+SV Sandhausen,VfL Bochum,2,3,2018-03-17T13:00:00
+1. FC Kaiserslautern,FC St. Pauli,1,1,2018-03-17T13:00:00
+FC Ingolstadt 04,SG Dynamo Dresden,4,2,2018-03-18T13:30:00
+Eintracht Braunschweig,MSV Duisburg,3,2,2018-03-18T13:30:00
+1. FC Nürnberg,SV Darmstadt 98,1,1,2018-03-18T13:30:00
+Erzgebirge Aue,SpVgg Greuther Fürth,2,1,2018-03-19T20:30:00
+SG Dynamo Dresden,1. FC Nürnberg,1,1,2018-03-31T13:00:00
+1. FC Heidenheim 1846,FC Ingolstadt 04,1,2,2018-03-31T13:00:00
+MSV Duisburg,1. FC Kaiserslautern,1,4,2018-03-31T13:00:00
+FC St. Pauli,SV Sandhausen,1,1,2018-04-01T13:30:00
+SpVgg Greuther Fürth,1. FC Union Berlin,2,1,2018-04-01T13:30:00
+VfL Bochum,Eintracht Braunschweig,2,0,2018-04-01T13:30:00
+Arminia Bielefeld,Holstein Kiel,1,1,2018-04-01T13:30:00
+Jahn Regensburg,Erzgebirge Aue,1,3,2018-04-01T13:30:00
+SV Darmstadt 98,Fortuna Düsseldorf,1,0,2018-04-02T20:30:00
+SV Sandhausen,SpVgg Greuther Fürth,0,0,2018-04-06T18:30:00
+Fortuna Düsseldorf,VfL Bochum,1,2,2018-04-06T18:30:00
+1. FC Union Berlin,MSV Duisburg,0,0,2018-04-07T13:00:00
+1. FC Nürnberg,1. FC Heidenheim 1846,3,2,2018-04-07T13:00:00
+Erzgebirge Aue,FC St. Pauli,2,1,2018-04-07T13:00:00
+Holstein Kiel,SV Darmstadt 98,0,0,2018-04-07T13:00:00
+FC Ingolstadt 04,Arminia Bielefeld,2,2,2018-04-08T13:30:00
+Eintracht Braunschweig,SG Dynamo Dresden,1,1,2018-04-08T13:30:00
+1. FC Kaiserslautern,Jahn Regensburg,1,1,2018-04-08T13:30:00
+SpVgg Greuther Fürth,Jahn Regensburg,1,2,2018-04-13T18:30:00
+VfL Bochum,1. FC Kaiserslautern,3,2,2018-04-13T18:30:00
+SG Dynamo Dresden,Holstein Kiel,0,4,2018-04-14T13:00:00
+FC St. Pauli,1. FC Union Berlin,0,1,2018-04-14T13:00:00
+Arminia Bielefeld,Erzgebirge Aue,2,0,2018-04-14T13:00:00
+MSV Duisburg,SV Sandhausen,0,2,2018-04-14T13:00:00
+FC Ingolstadt 04,1. FC Nürnberg,1,1,2018-04-15T13:30:00
+SV Darmstadt 98,Eintracht Braunschweig,1,1,2018-04-15T13:30:00
+1. FC Heidenheim 1846,Fortuna Düsseldorf,3,1,2018-04-15T13:30:00
+Eintracht Braunschweig,Arminia Bielefeld,0,0,2018-04-20T18:30:00
+SpVgg Greuther Fürth,VfL Bochum,1,1,2018-04-20T18:30:00
+1. FC Union Berlin,1. FC Heidenheim 1846,1,1,2018-04-21T13:00:00
+SV Sandhausen,SV Darmstadt 98,1,1,2018-04-21T13:00:00
+Jahn Regensburg,FC St. Pauli,3,1,2018-04-21T13:00:00
+Fortuna Düsseldorf,FC Ingolstadt 04,3,0,2018-04-22T13:30:00
+1. FC Kaiserslautern,SG Dynamo Dresden,0,1,2018-04-22T13:30:00
+Erzgebirge Aue,MSV Duisburg,1,3,2018-04-22T13:30:00
+Holstein Kiel,1. FC Nürnberg,1,3,2018-04-23T20:30:00
+VfL Bochum,Erzgebirge Aue,2,1,2018-04-27T18:30:00
+Arminia Bielefeld,1. FC Kaiserslautern,3,2,2018-04-27T18:30:00
+SV Darmstadt 98,1. FC Union Berlin,3,1,2018-04-28T13:00:00
+SG Dynamo Dresden,Fortuna Düsseldorf,1,2,2018-04-28T13:00:00
+FC St. Pauli,SpVgg Greuther Fürth,3,0,2018-04-28T13:00:00
+FC Ingolstadt 04,Holstein Kiel,1,5,2018-04-29T13:30:00
+1. FC Heidenheim 1846,SV Sandhausen,2,0,2018-04-29T13:30:00
+MSV Duisburg,Jahn Regensburg,4,1,2018-04-29T13:30:00
+1. FC Nürnberg,Eintracht Braunschweig,2,0,2018-04-30T20:30:00
+Eintracht Braunschweig,FC Ingolstadt 04,0,2,2018-05-06T15:30:00
+1. FC Union Berlin,VfL Bochum,3,1,2018-05-06T15:30:00
+FC St. Pauli,Arminia Bielefeld,1,0,2018-05-06T15:30:00
+SpVgg Greuther Fürth,MSV Duisburg,2,2,2018-05-06T15:30:00
+SV Sandhausen,1. FC Nürnberg,0,2,2018-05-06T15:30:00
+Fortuna Düsseldorf,Holstein Kiel,1,1,2018-05-06T15:30:00
+1. FC Kaiserslautern,1. FC Heidenheim 1846,1,0,2018-05-06T15:30:00
+Erzgebirge Aue,SG Dynamo Dresden,0,0,2018-05-06T15:30:00
+Jahn Regensburg,SV Darmstadt 98,0,3,2018-05-06T15:30:00
+FC Ingolstadt 04,1. FC Kaiserslautern,1,3,2018-05-13T15:30:00
+SV Darmstadt 98,Erzgebirge Aue,1,0,2018-05-13T15:30:00
+SG Dynamo Dresden,1. FC Union Berlin,0,1,2018-05-13T15:30:00
+1. FC Heidenheim 1846,SpVgg Greuther Fürth,1,1,2018-05-13T15:30:00
+VfL Bochum,Jahn Regensburg,1,1,2018-05-13T15:30:00
+1. FC Nürnberg,Fortuna Düsseldorf,2,3,2018-05-13T15:30:00
+Arminia Bielefeld,SV Sandhausen,0,0,2018-05-13T15:30:00
+MSV Duisburg,FC St. Pauli,2,0,2018-05-13T15:30:00
+Holstein Kiel,Eintracht Braunschweig,6,2,2018-05-13T15:30:00
+Hamburger SV,Holstein Kiel,0,3,2018-08-03T20:30:00
+VfL Bochum,1. FC Köln,0,2,2018-08-04T13:00:00
+Jahn Regensburg,FC Ingolstadt 04,2,1,2018-08-04T15:30:00
+SpVgg Greuther Fürth,SV Sandhausen,3,1,2018-08-04T15:30:00
+1. FC Magdeburg,FC St. Pauli,1,2,2018-08-05T13:30:00
+1. FC Union Berlin,Erzgebirge Aue,1,0,2018-08-05T15:30:00
+SV Darmstadt 98,SC Paderborn 07,1,0,2018-08-05T15:30:00
+1. FC Heidenheim 1846,Arminia Bielefeld,1,1,2018-08-05T15:30:00
+SG Dynamo Dresden,MSV Duisburg,1,0,2018-08-06T20:30:00
+FC Ingolstadt 04,SpVgg Greuther Fürth,1,1,2018-08-10T18:30:00
+SC Paderborn 07,Jahn Regensburg,2,0,2018-08-10T18:30:00
+FC St. Pauli,SV Darmstadt 98,2,0,2018-08-10T20:30:00
+MSV Duisburg,VfL Bochum,0,2,2018-08-11T13:00:00
+Arminia Bielefeld,SG Dynamo Dresden,2,1,2018-08-11T15:30:00
+SV Sandhausen,Hamburger SV,0,3,2018-08-12T13:30:00
+Holstein Kiel,1. FC Heidenheim 1846,1,1,2018-08-12T15:30:00
+Erzgebirge Aue,1. FC Magdeburg,0,0,2018-08-12T15:30:00
+1. FC Köln,1. FC Union Berlin,1,1,2018-08-13T20:30:00
+VfL Bochum,SV Sandhausen,1,0,2018-08-24T18:30:00
+SV Darmstadt 98,MSV Duisburg,3,0,2018-08-24T18:30:00
+1. FC Köln,Erzgebirge Aue,3,1,2018-08-25T13:00:00
+SpVgg Greuther Fürth,SC Paderborn 07,2,2,2018-08-25T13:00:00
+1. FC Magdeburg,FC Ingolstadt 04,1,1,2018-08-25T13:00:00
+Jahn Regensburg,Holstein Kiel,0,0,2018-08-26T13:30:00
+1. FC Union Berlin,FC St. Pauli,4,1,2018-08-26T13:30:00
+SG Dynamo Dresden,1. FC Heidenheim 1846,1,3,2018-08-26T13:30:00
+Hamburger SV,Arminia Bielefeld,3,0,2018-08-27T20:30:00
+FC Ingolstadt 04,Erzgebirge Aue,3,2,2018-08-31T18:30:00
+SC Paderborn 07,VfL Bochum,2,2,2018-08-31T18:30:00
+Arminia Bielefeld,Jahn Regensburg,5,3,2018-09-01T13:00:00
+MSV Duisburg,SpVgg Greuther Fürth,0,1,2018-09-01T13:00:00
+SV Sandhausen,1. FC Union Berlin,0,0,2018-09-02T13:30:00
+FC St. Pauli,1. FC Köln,3,5,2018-09-02T13:30:00
+1. FC Heidenheim 1846,SV Darmstadt 98,0,1,2018-09-02T13:30:00
+Holstein Kiel,1. FC Magdeburg,2,1,2018-09-03T20:30:00
+SG Dynamo Dresden,Hamburger SV,0,1,2018-09-18T18:30:00
+Jahn Regensburg,SG Dynamo Dresden,0,2,2018-09-14T18:30:00
+1. FC Union Berlin,MSV Duisburg,2,2,2018-09-14T18:30:00
+Hamburger SV,1. FC Heidenheim 1846,3,2,2018-09-15T13:00:00
+SV Darmstadt 98,SV Sandhausen,1,1,2018-09-15T13:00:00
+SpVgg Greuther Fürth,Holstein Kiel,4,1,2018-09-15T13:00:00
+1. FC Köln,SC Paderborn 07,3,5,2018-09-16T13:30:00
+VfL Bochum,FC Ingolstadt 04,6,0,2018-09-16T13:30:00
+Erzgebirge Aue,FC St. Pauli,3,1,2018-09-16T13:30:00
+1. FC Magdeburg,Arminia Bielefeld,0,0,2018-09-17T20:30:00
+FC Ingolstadt 04,FC St. Pauli,0,1,2018-09-21T18:30:00
+SV Sandhausen,1. FC Köln,0,2,2018-09-21T18:30:00
+Holstein Kiel,VfL Bochum,2,2,2018-09-22T13:00:00
+Arminia Bielefeld,1. FC Union Berlin,1,1,2018-09-22T13:00:00
+SG Dynamo Dresden,SV Darmstadt 98,4,1,2018-09-22T13:00:00
+Hamburger SV,Jahn Regensburg,0,5,2018-09-23T13:30:00
+MSV Duisburg,Erzgebirge Aue,1,2,2018-09-23T13:30:00
+1. FC Heidenheim 1846,SpVgg Greuther Fürth,2,0,2018-09-23T13:30:00
+SC Paderborn 07,1. FC Magdeburg,4,4,2018-09-23T13:30:00
+1. FC Köln,FC Ingolstadt 04,2,1,2018-09-25T18:30:00
+VfL Bochum,SG Dynamo Dresden,0,1,2018-09-25T18:30:00
+1. FC Union Berlin,Holstein Kiel,2,0,2018-09-25T18:30:00
+SV Darmstadt 98,Arminia Bielefeld,1,2,2018-09-25T18:30:00
+Jahn Regensburg,1. FC Heidenheim 1846,2,1,2018-09-26T18:30:00
+FC St. Pauli,SC Paderborn 07,2,1,2018-09-26T18:30:00
+Erzgebirge Aue,SV Sandhausen,0,2,2018-09-26T18:30:00
+1. FC Magdeburg,MSV Duisburg,3,3,2018-09-26T18:30:00
+SpVgg Greuther Fürth,Hamburger SV,0,0,2018-09-27T20:30:00
+Holstein Kiel,SV Darmstadt 98,4,2,2018-09-28T18:30:00
+Arminia Bielefeld,1. FC Köln,1,3,2018-09-28T18:30:00
+MSV Duisburg,Jahn Regensburg,1,3,2018-09-29T13:00:00
+1. FC Heidenheim 1846,VfL Bochum,3,2,2018-09-29T13:00:00
+SC Paderborn 07,Erzgebirge Aue,1,0,2018-09-29T13:00:00
+Hamburger SV,FC St. Pauli,0,0,2018-09-30T13:30:00
+SV Sandhausen,1. FC Magdeburg,0,1,2018-09-30T13:30:00
+SG Dynamo Dresden,SpVgg Greuther Fürth,0,1,2018-09-30T13:30:00
+FC Ingolstadt 04,1. FC Union Berlin,1,2,2018-10-01T20:30:00
+VfL Bochum,Arminia Bielefeld,1,0,2018-10-05T18:30:00
+SV Darmstadt 98,Hamburger SV,1,2,2018-10-05T18:30:00
+SpVgg Greuther Fürth,Jahn Regensburg,1,1,2018-10-06T13:00:00
+Erzgebirge Aue,Holstein Kiel,2,1,2018-10-06T13:00:00
+1. FC Magdeburg,SG Dynamo Dresden,2,2,2018-10-06T13:00:00
+1. FC Union Berlin,1. FC Heidenheim 1846,1,1,2018-10-07T13:30:00
+FC Ingolstadt 04,SC Paderborn 07,1,2,2018-10-07T13:30:00
+FC St. Pauli,SV Sandhausen,3,1,2018-10-07T13:30:00
+1. FC Köln,MSV Duisburg,1,2,2018-10-08T20:30:00
+SV Sandhausen,FC Ingolstadt 04,4,0,2018-10-19T18:30:00
+SG Dynamo Dresden,Erzgebirge Aue,1,1,2018-10-19T18:30:00
+Holstein Kiel,1. FC Köln,1,1,2018-10-20T13:00:00
+Arminia Bielefeld,SpVgg Greuther Fürth,2,3,2018-10-20T13:00:00
+1. FC Heidenheim 1846,1. FC Magdeburg,3,0,2018-10-20T13:00:00
+Hamburger SV,VfL Bochum,0,0,2018-10-21T13:30:00
+Jahn Regensburg,SV Darmstadt 98,1,1,2018-10-21T13:30:00
+SC Paderborn 07,1. FC Union Berlin,0,0,2018-10-21T13:30:00
+MSV Duisburg,FC St. Pauli,0,1,2018-10-22T20:30:00
+SV Darmstadt 98,SpVgg Greuther Fürth,2,0,2018-10-26T18:30:00
+1. FC Magdeburg,Hamburger SV,0,1,2018-10-26T18:30:00
+1. FC Köln,1. FC Heidenheim 1846,1,1,2018-10-27T13:00:00
+Erzgebirge Aue,Arminia Bielefeld,1,0,2018-10-27T13:00:00
+SC Paderborn 07,SV Sandhausen,3,3,2018-10-27T13:00:00
+1. FC Union Berlin,SG Dynamo Dresden,0,0,2018-10-28T13:30:00
+FC Ingolstadt 04,MSV Duisburg,1,1,2018-10-28T13:30:00
+FC St. Pauli,Holstein Kiel,0,1,2018-10-28T13:30:00
+VfL Bochum,Jahn Regensburg,3,3,2018-10-29T20:30:00
+SG Dynamo Dresden,SV Sandhausen,3,1,2018-11-02T18:30:00
+SpVgg Greuther Fürth,VfL Bochum,2,2,2018-11-02T18:30:00
+Holstein Kiel,FC Ingolstadt 04,2,2,2018-11-03T13:00:00
+MSV Duisburg,SC Paderborn 07,2,0,2018-11-03T13:00:00
+SV Darmstadt 98,1. FC Magdeburg,3,1,2018-11-03T13:00:00
+Arminia Bielefeld,FC St. Pauli,1,2,2018-11-04T13:30:00
+Jahn Regensburg,1. FC Union Berlin,1,1,2018-11-04T13:30:00
+1. FC Heidenheim 1846,Erzgebirge Aue,1,0,2018-11-04T13:30:00
+Hamburger SV,1. FC Köln,1,0,2018-11-05T20:30:00
+SV Sandhausen,MSV Duisburg,0,0,2018-11-09T18:30:00
+SC Paderborn 07,Holstein Kiel,4,4,2018-11-09T18:30:00
+1. FC Köln,SG Dynamo Dresden,8,1,2018-11-10T13:00:00
+FC St. Pauli,1. FC Heidenheim 1846,1,1,2018-11-10T13:00:00
+Erzgebirge Aue,Hamburger SV,1,3,2018-11-10T13:00:00
+1. FC Union Berlin,SpVgg Greuther Fürth,4,0,2018-11-11T13:30:00
+FC Ingolstadt 04,Arminia Bielefeld,1,1,2018-11-11T13:30:00
+1. FC Magdeburg,Jahn Regensburg,2,3,2018-11-11T13:30:00
+VfL Bochum,SV Darmstadt 98,1,0,2018-11-12T20:30:00
+Arminia Bielefeld,MSV Duisburg,0,1,2018-11-23T18:30:00
+SpVgg Greuther Fürth,1. FC Magdeburg,3,2,2018-11-23T18:30:00
+Holstein Kiel,SV Sandhausen,2,1,2018-11-24T13:00:00
+VfL Bochum,Erzgebirge Aue,2,1,2018-11-24T13:00:00
+SV Darmstadt 98,1. FC Köln,0,3,2018-11-24T13:00:00
+Jahn Regensburg,FC St. Pauli,1,1,2018-11-25T13:30:00
+1. FC Heidenheim 1846,SC Paderborn 07,1,5,2018-11-25T13:30:00
+SG Dynamo Dresden,FC Ingolstadt 04,2,0,2018-11-25T13:30:00
+Hamburger SV,1. FC Union Berlin,2,2,2018-11-26T20:30:00
+Erzgebirge Aue,Jahn Regensburg,1,1,2018-11-30T18:30:00
+SC Paderborn 07,Arminia Bielefeld,2,2,2018-11-30T18:30:00
+1. FC Köln,SpVgg Greuther Fürth,4,0,2018-12-01T13:00:00
+1. FC Union Berlin,SV Darmstadt 98,3,1,2018-12-01T13:00:00
+FC Ingolstadt 04,Hamburger SV,1,2,2018-12-01T13:00:00
+FC St. Pauli,SG Dynamo Dresden,1,1,2018-12-01T13:00:00
+MSV Duisburg,Holstein Kiel,0,4,2018-12-02T13:30:00
+SV Sandhausen,1. FC Heidenheim 1846,1,2,2018-12-02T13:30:00
+1. FC Magdeburg,VfL Bochum,0,0,2018-12-02T13:30:00
+Hamburger SV,SC Paderborn 07,1,0,2018-12-07T18:30:00
+Jahn Regensburg,1. FC Köln,1,3,2018-12-07T18:30:00
+SV Darmstadt 98,FC Ingolstadt 04,1,1,2018-12-08T13:00:00
+1. FC Heidenheim 1846,MSV Duisburg,4,1,2018-12-08T13:00:00
+SpVgg Greuther Fürth,Erzgebirge Aue,0,5,2018-12-08T13:00:00
+Arminia Bielefeld,SV Sandhausen,1,1,2018-12-09T13:30:00
+SG Dynamo Dresden,Holstein Kiel,0,2,2018-12-09T13:30:00
+1. FC Magdeburg,1. FC Union Berlin,1,1,2018-12-09T13:30:00
+VfL Bochum,FC St. Pauli,1,3,2018-12-10T20:30:00
+Holstein Kiel,Arminia Bielefeld,1,2,2018-12-14T18:30:00
+MSV Duisburg,Hamburger SV,1,2,2018-12-14T18:30:00
+1. FC Union Berlin,VfL Bochum,2,0,2018-12-15T13:00:00
+FC St. Pauli,SpVgg Greuther Fürth,2,0,2018-12-15T13:00:00
+SC Paderborn 07,SG Dynamo Dresden,3,0,2018-12-15T13:00:00
+FC Ingolstadt 04,1. FC Heidenheim 1846,1,1,2018-12-16T13:30:00
+SV Sandhausen,Jahn Regensburg,2,2,2018-12-16T13:30:00
+Erzgebirge Aue,SV Darmstadt 98,2,2,2018-12-16T13:30:00
+1. FC Köln,1. FC Magdeburg,3,0,2018-12-17T20:30:00
+1. FC Köln,VfL Bochum,2,3,2018-12-21T18:30:00
+SV Sandhausen,SpVgg Greuther Fürth,0,0,2018-12-21T18:30:00
+Arminia Bielefeld,1. FC Heidenheim 1846,1,2,2018-12-22T13:00:00
+FC Ingolstadt 04,Jahn Regensburg,1,2,2018-12-22T13:00:00
+FC St. Pauli,1. FC Magdeburg,4,1,2018-12-22T13:00:00
+Holstein Kiel,Hamburger SV,3,1,2018-12-23T13:30:00
+MSV Duisburg,SG Dynamo Dresden,1,3,2018-12-23T13:30:00
+Erzgebirge Aue,1. FC Union Berlin,3,0,2018-12-23T13:30:00
+SC Paderborn 07,SV Darmstadt 98,6,2,2018-12-23T13:30:00
+VfL Bochum,MSV Duisburg,2,1,2019-01-29T18:30:00
+SV Darmstadt 98,FC St. Pauli,2,1,2019-01-29T20:30:00
+SpVgg Greuther Fürth,FC Ingolstadt 04,0,1,2019-01-29T20:30:00
+1. FC Magdeburg,Erzgebirge Aue,1,0,2019-01-29T20:30:00
+Jahn Regensburg,SC Paderborn 07,2,0,2019-01-30T18:30:00
+Hamburger SV,SV Sandhausen,2,1,2019-01-30T20:30:00
+1. FC Heidenheim 1846,Holstein Kiel,2,2,2019-01-30T20:30:00
+SG Dynamo Dresden,Arminia Bielefeld,3,4,2019-01-30T20:30:00
+1. FC Union Berlin,1. FC Köln,2,0,2019-01-31T20:30:00
+MSV Duisburg,SV Darmstadt 98,3,2,2019-02-01T18:30:00
+FC Ingolstadt 04,1. FC Magdeburg,0,1,2019-02-01T18:30:00
+Arminia Bielefeld,Hamburger SV,2,0,2019-02-02T13:00:00
+1. FC Heidenheim 1846,SG Dynamo Dresden,1,0,2019-02-02T13:00:00
+SC Paderborn 07,SpVgg Greuther Fürth,6,0,2019-02-02T13:00:00
+Holstein Kiel,Jahn Regensburg,2,0,2019-02-03T13:30:00
+SV Sandhausen,VfL Bochum,3,0,2019-02-03T13:30:00
+FC St. Pauli,1. FC Union Berlin,3,2,2019-02-04T20:30:00
+Erzgebirge Aue,1. FC Köln,0,1,2019-02-27T19:00:00
+1. FC Köln,FC St. Pauli,4,1,2019-02-08T18:30:00
+Jahn Regensburg,Arminia Bielefeld,0,3,2019-02-08T18:30:00
+VfL Bochum,SC Paderborn 07,1,2,2019-02-09T13:00:00
+1. FC Union Berlin,SV Sandhausen,2,0,2019-02-09T13:00:00
+SpVgg Greuther Fürth,MSV Duisburg,1,0,2019-02-09T13:00:00
+SV Darmstadt 98,1. FC Heidenheim 1846,1,2,2019-02-10T13:30:00
+Erzgebirge Aue,FC Ingolstadt 04,0,3,2019-02-10T13:30:00
+1. FC Magdeburg,Holstein Kiel,1,1,2019-02-10T13:30:00
+Hamburger SV,SG Dynamo Dresden,1,0,2019-02-11T20:30:00
+SV Sandhausen,SV Darmstadt 98,1,1,2019-02-15T18:30:00
+SC Paderborn 07,1. FC Köln,3,2,2019-02-15T18:30:00
+MSV Duisburg,1. FC Union Berlin,2,3,2019-02-16T13:00:00
+FC Ingolstadt 04,VfL Bochum,2,1,2019-02-16T13:00:00
+FC St. Pauli,Erzgebirge Aue,1,2,2019-02-16T13:00:00
+1. FC Heidenheim 1846,Hamburger SV,2,2,2019-02-16T13:00:00
+Holstein Kiel,SpVgg Greuther Fürth,2,2,2019-02-17T13:30:00
+Arminia Bielefeld,1. FC Magdeburg,1,3,2019-02-17T13:30:00
+SG Dynamo Dresden,Jahn Regensburg,0,0,2019-02-17T13:30:00
