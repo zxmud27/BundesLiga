@@ -1,9 +1,16 @@
 from tkinter import *
 import tkinter as tk
+import teamproject.crawler 
+
 #from teamproject.algorithm import algo
 #from Crawler import CrawlerX
 #test GUI aufrufen
 # Hello Tutorial
+
+variable = teamproject.crawler.DataCrawler()
+teamnames = variable.getNamelist(2019,"b2") 
+print(teamnames)
+
 root = tk.Tk()
 root.title("Bundesliga Vorhersage")
 canvas = tk.Canvas(root, height=600, width=1200)

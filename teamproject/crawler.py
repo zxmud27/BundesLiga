@@ -63,7 +63,7 @@ class DataCrawler():
             "," +
             "win"+
             "\n")
-        if league == "b1" or league == "b2" or league == "b3":
+        if league == "b1" or league == "b2" or league == "b3" or league == "hbl":
             for i in range(FirstSeason, (LastSeason + 1)):
                 counter = 0
                 startday_counter = 0
@@ -97,6 +97,8 @@ class DataCrawler():
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl2/{i}').text)
                 elif league == "b3":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl3/{i}').text)
+                elif league == "hbl":
+                    game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/hbl/{i}').text)
 
 
                 for game in game_data:
@@ -179,22 +181,33 @@ class DataCrawler():
         startday_counter = 0
         name_list = []
         counter = 0
-        if league == "b1" or league == "b2" or league == "b3":
+        exception_year = False
+        if league == "b1" or league == "b2" or league == "b3" or league == "hbl":
             for i in range(year, (year + 1)):
                 if league == "b1":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl1/{i}').text)
+                    endcounter = 9
                 elif league == "b2":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl2/{i}').text)
+                    endcounter = 9
                 elif league == "b3":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl3/{i}').text)
+                    endcounter = 9
+                elif league == "hbl":
+                    game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/hbl/{i}').text)
+                    if year == 2014:
+                        endcounter = 10
+                        exception_year = True
+                    else:
+                        endcounter = 9
 
                 for game in game_data:
                     startday_counter += 1
-                    if startday_counter <= 9:
-
-                        Team1 = game['Team1']
-                        name_list.append(Team1['TeamName'])
-
+                    if startday_counter <= endcounter:
+                        if not exception_year or not startday_counter == 10:
+                            Team1 = game['Team1']
+                            name_list.append(Team1['TeamName'])
+                        
                         Team2 = game['Team2']
                         name_list.append(Team2['TeamName'])
                         counter += 1
@@ -205,6 +218,7 @@ class DataCrawler():
 
 
 
-BLCrawler = DataCrawler()
-BLCrawler.getSeasons(1,2011,22,2018,"b1")
-#print(BLCrawler.getNamelist(2019,"b2"))
+#BLCrawler = DataCrawler()
+#BLCrawler.getSeasons(1,2011,22,2018,"b1")
+#print(BLCrawler.getNamelist(2011,"hbl"))
+# handball von 2011 bis 2016 in ligadb
