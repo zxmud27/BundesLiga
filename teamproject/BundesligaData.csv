@@ -2339,3 +2339,417 @@ Hertha BSC,Werder Bremen,1,1,2019-02-16T18:30:00,d
 Eintracht Frankfurt,Borussia Mönchengladbach,1,1,2019-02-17T15:30:00,d
 Bayer Leverkusen,Fortuna Düsseldorf,2,0,2019-02-17T18:00:00,h
 1. FC Nürnberg,Borussia Dortmund,0,0,2019-02-18T20:30:00,d
+Werder Bremen,VfB Stuttgart,1,1,2019-02-22T20:30:00,d
+FC Bayern,Hertha BSC,1,0,2019-02-23T15:30:00,h
+Borussia Mönchengladbach,VfL Wolfsburg,0,3,2019-02-23T15:30:00,a
+SC Freiburg,FC Augsburg,5,1,2019-02-23T15:30:00,h
+1. FSV Mainz 05,FC Schalke 04,3,0,2019-02-23T15:30:00,h
+Fortuna Düsseldorf,1. FC Nürnberg,2,1,2019-02-23T18:30:00,h
+Hannover 96,Eintracht Frankfurt,0,3,2019-02-24T15:30:00,a
+Borussia Dortmund,Bayer Leverkusen,3,2,2019-02-24T18:00:00,h
+RB Leipzig,TSG 1899 Hoffenheim,1,1,2019-02-25T20:30:00,d
+FC Augsburg,Borussia Dortmund,2,1,2019-03-01T20:30:00,h
+FC Schalke 04,Fortuna Düsseldorf,0,4,2019-03-02T15:30:00,a
+Bayer Leverkusen,SC Freiburg,2,0,2019-03-02T15:30:00,h
+Eintracht Frankfurt,TSG 1899 Hoffenheim,3,2,2019-03-02T15:30:00,h
+Hertha BSC,1. FSV Mainz 05,2,1,2019-03-02T15:30:00,h
+1. FC Nürnberg,RB Leipzig,0,1,2019-03-02T15:30:00,a
+Borussia Mönchengladbach,FC Bayern,1,5,2019-03-02T18:30:00,a
+VfB Stuttgart,Hannover 96,5,1,2019-03-03T15:30:00,h
+VfL Wolfsburg,Werder Bremen,1,1,2019-03-03T18:00:00,d
+Werder Bremen,FC Schalke 04,4,2,2019-03-08T20:30:00,h
+FC Bayern,VfL Wolfsburg,6,0,2019-03-09T15:30:00,h
+Borussia Dortmund,VfB Stuttgart,3,1,2019-03-09T15:30:00,h
+RB Leipzig,FC Augsburg,0,0,2019-03-09T15:30:00,d
+SC Freiburg,Hertha BSC,2,1,2019-03-09T15:30:00,h
+1. FSV Mainz 05,Borussia Mönchengladbach,0,1,2019-03-09T18:30:00,a
+TSG 1899 Hoffenheim,1. FC Nürnberg,2,1,2019-03-10T15:30:00,h
+Hannover 96,Bayer Leverkusen,2,3,2019-03-10T18:00:00,a
+Fortuna Düsseldorf,Eintracht Frankfurt,0,3,2019-03-11T20:30:00,a
+Borussia Mönchengladbach,SC Freiburg,1,1,2019-03-15T20:30:00,d
+FC Schalke 04,RB Leipzig,0,1,2019-03-16T15:30:00,a
+VfB Stuttgart,TSG 1899 Hoffenheim,1,1,2019-03-16T15:30:00,d
+FC Augsburg,Hannover 96,3,1,2019-03-16T15:30:00,h
+VfL Wolfsburg,Fortuna Düsseldorf,5,2,2019-03-16T15:30:00,h
+Hertha BSC,Borussia Dortmund,2,3,2019-03-16T18:30:00,a
+Bayer Leverkusen,Werder Bremen,1,3,2019-03-17T13:30:00,a
+Eintracht Frankfurt,1. FC Nürnberg,1,0,2019-03-17T15:30:00,h
+FC Bayern,1. FSV Mainz 05,6,0,2019-03-17T18:00:00,h
+TSG 1899 Hoffenheim,Bayer Leverkusen,4,1,2019-03-29T20:30:00,h
+Borussia Dortmund,VfL Wolfsburg,2,0,2019-03-30T15:30:00,h
+Werder Bremen,1. FSV Mainz 05,3,1,2019-03-30T15:30:00,h
+SC Freiburg,FC Bayern,1,1,2019-03-30T15:30:00,d
+Fortuna Düsseldorf,Borussia Mönchengladbach,3,1,2019-03-30T15:30:00,h
+1. FC Nürnberg,FC Augsburg,3,0,2019-03-30T15:30:00,h
+RB Leipzig,Hertha BSC,5,0,2019-03-30T18:30:00,h
+Hannover 96,FC Schalke 04,0,1,2019-03-31T15:30:00,a
+Eintracht Frankfurt,VfB Stuttgart,3,0,2019-03-31T18:00:00,h
+1. FSV Mainz 05,SC Freiburg,5,0,2019-04-05T20:30:00,h
+FC Schalke 04,Eintracht Frankfurt,1,2,2019-04-06T15:30:00,a
+Bayer Leverkusen,RB Leipzig,2,4,2019-04-06T15:30:00,a
+VfB Stuttgart,1. FC Nürnberg,1,1,2019-04-06T15:30:00,d
+Hertha BSC,Fortuna Düsseldorf,1,2,2019-04-06T15:30:00,a
+VfL Wolfsburg,Hannover 96,3,1,2019-04-06T15:30:00,h
+FC Bayern,Borussia Dortmund,5,0,2019-04-06T18:30:00,h
+FC Augsburg,TSG 1899 Hoffenheim,0,4,2019-04-07T15:30:00,a
+Borussia Mönchengladbach,Werder Bremen,1,1,2019-04-07T18:00:00,d
+1. FC Nürnberg,FC Schalke 04,1,1,2019-04-12T20:30:00,d
+RB Leipzig,VfL Wolfsburg,2,0,2019-04-13T15:30:00,h
+VfB Stuttgart,Bayer Leverkusen,0,1,2019-04-13T15:30:00,a
+Werder Bremen,SC Freiburg,2,1,2019-04-13T15:30:00,h
+Hannover 96,Borussia Mönchengladbach,0,1,2019-04-13T15:30:00,a
+Borussia Dortmund,1. FSV Mainz 05,2,1,2019-04-13T18:30:00,h
+TSG 1899 Hoffenheim,Hertha BSC,2,0,2019-04-14T13:30:00,h
+Fortuna Düsseldorf,FC Bayern,1,4,2019-04-14T15:30:00,a
+Eintracht Frankfurt,FC Augsburg,1,3,2019-04-14T18:00:00,a
+FC Bayern,Werder Bremen,1,0,2019-04-20T15:30:00,h
+Bayer Leverkusen,1. FC Nürnberg,2,0,2019-04-20T15:30:00,h
+FC Augsburg,VfB Stuttgart,6,0,2019-04-20T15:30:00,h
+1. FSV Mainz 05,Fortuna Düsseldorf,3,1,2019-04-20T15:30:00,h
+Borussia Mönchengladbach,RB Leipzig,1,2,2019-04-20T18:30:00,a
+FC Schalke 04,TSG 1899 Hoffenheim,2,5,2019-04-20T20:30:00,a
+SC Freiburg,Borussia Dortmund,0,4,2019-04-21T15:30:00,a
+Hertha BSC,Hannover 96,0,0,2019-04-21T18:00:00,d
+VfL Wolfsburg,Eintracht Frankfurt,1,1,2019-04-22T20:30:00,d
+FC Augsburg,Bayer Leverkusen,1,4,2019-04-26T20:30:00,a
+Borussia Dortmund,FC Schalke 04,2,4,2019-04-27T15:30:00,a
+RB Leipzig,SC Freiburg,2,1,2019-04-27T15:30:00,h
+Eintracht Frankfurt,Hertha BSC,0,0,2019-04-27T15:30:00,d
+Hannover 96,1. FSV Mainz 05,1,0,2019-04-27T15:30:00,h
+Fortuna Düsseldorf,Werder Bremen,4,1,2019-04-27T15:30:00,h
+VfB Stuttgart,Borussia Mönchengladbach,1,0,2019-04-27T18:30:00,h
+TSG 1899 Hoffenheim,VfL Wolfsburg,1,4,2019-04-28T15:30:00,a
+1. FC Nürnberg,FC Bayern,1,1,2019-04-28T18:00:00,d
+1. FSV Mainz 05,RB Leipzig,3,3,2019-05-03T20:30:00,d
+FC Bayern,Hannover 96,3,1,2019-05-04T15:30:00,h
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,2,2,2019-05-04T15:30:00,d
+Hertha BSC,VfB Stuttgart,3,1,2019-05-04T15:30:00,h
+VfL Wolfsburg,1. FC Nürnberg,2,0,2019-05-04T15:30:00,h
+Werder Bremen,Borussia Dortmund,2,2,2019-05-04T18:30:00,d
+FC Schalke 04,FC Augsburg,0,0,2019-05-05T13:30:00,d
+SC Freiburg,Fortuna Düsseldorf,1,1,2019-05-05T15:30:00,d
+Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05T18:00:00,h
+TSG 1899 Hoffenheim,Werder Bremen,0,1,2019-05-11T15:30:00,a
+Borussia Dortmund,Fortuna Düsseldorf,3,2,2019-05-11T15:30:00,h
+Bayer Leverkusen,FC Schalke 04,1,1,2019-05-11T15:30:00,d
+RB Leipzig,FC Bayern,0,0,2019-05-11T15:30:00,d
+VfB Stuttgart,VfL Wolfsburg,3,0,2019-05-11T15:30:00,h
+FC Augsburg,Hertha BSC,3,4,2019-05-11T15:30:00,a
+Hannover 96,SC Freiburg,3,0,2019-05-11T15:30:00,h
+1. FC Nürnberg,Borussia Mönchengladbach,0,4,2019-05-11T15:30:00,a
+Eintracht Frankfurt,1. FSV Mainz 05,0,2,2019-05-12T18:00:00,a
+FC Bayern,Eintracht Frankfurt,5,1,2019-05-18T15:30:00,h
+FC Schalke 04,VfB Stuttgart,0,0,2019-05-18T15:30:00,d
+Borussia Mönchengladbach,Borussia Dortmund,0,2,2019-05-18T15:30:00,a
+Hertha BSC,Bayer Leverkusen,1,5,2019-05-18T15:30:00,a
+Werder Bremen,RB Leipzig,2,1,2019-05-18T15:30:00,h
+SC Freiburg,1. FC Nürnberg,5,1,2019-05-18T15:30:00,h
+1. FSV Mainz 05,TSG 1899 Hoffenheim,4,2,2019-05-18T15:30:00,h
+VfL Wolfsburg,FC Augsburg,8,1,2019-05-18T15:30:00,h
+Fortuna Düsseldorf,Hannover 96,2,1,2019-05-18T15:30:00,h
+FC Bayern,Hertha BSC,2,2,2019-08-16T20:30:00,d
+Borussia Dortmund,FC Augsburg,5,1,2019-08-17T15:30:00,h
+Bayer Leverkusen,SC Paderborn 07,3,2,2019-08-17T15:30:00,h
+VfL Wolfsburg,1. FC Köln,2,1,2019-08-17T15:30:00,h
+Werder Bremen,Fortuna Düsseldorf,1,3,2019-08-17T15:30:00,a
+SC Freiburg,1. FSV Mainz 05,3,0,2019-08-17T15:30:00,h
+Borussia Mönchengladbach,FC Schalke 04,0,0,2019-08-17T18:30:00,d
+Eintracht Frankfurt,TSG 1899 Hoffenheim,1,0,2019-08-18T15:30:00,h
+1. FC Union Berlin,RB Leipzig,0,4,2019-08-18T18:00:00,a
+1. FC Köln,Borussia Dortmund,1,3,2019-08-23T20:30:00,a
+TSG 1899 Hoffenheim,Werder Bremen,3,2,2019-08-24T15:30:00,h
+Fortuna Düsseldorf,Bayer Leverkusen,1,3,2019-08-24T15:30:00,a
+1. FSV Mainz 05,Borussia Mönchengladbach,1,3,2019-08-24T15:30:00,a
+FC Augsburg,1. FC Union Berlin,1,1,2019-08-24T15:30:00,d
+SC Paderborn 07,SC Freiburg,1,3,2019-08-24T15:30:00,a
+FC Schalke 04,FC Bayern,0,3,2019-08-24T18:30:00,a
+RB Leipzig,Eintracht Frankfurt,2,1,2019-08-25T15:30:00,h
+Hertha BSC,VfL Wolfsburg,0,3,2019-08-25T18:00:00,a
+Borussia Mönchengladbach,RB Leipzig,1,3,2019-08-30T20:30:00,a
+FC Bayern,1. FSV Mainz 05,6,1,2019-08-31T15:30:00,h
+Bayer Leverkusen,TSG 1899 Hoffenheim,0,0,2019-08-31T15:30:00,d
+VfL Wolfsburg,SC Paderborn 07,1,1,2019-08-31T15:30:00,d
+SC Freiburg,1. FC Köln,1,2,2019-08-31T15:30:00,a
+FC Schalke 04,Hertha BSC,3,0,2019-08-31T15:30:00,h
+1. FC Union Berlin,Borussia Dortmund,3,1,2019-08-31T18:30:00,h
+Werder Bremen,FC Augsburg,3,2,2019-09-01T15:30:00,h
+Eintracht Frankfurt,Fortuna Düsseldorf,2,1,2019-09-01T18:00:00,h
+Fortuna Düsseldorf,VfL Wolfsburg,1,1,2019-09-13T20:30:00,d
+Borussia Dortmund,Bayer Leverkusen,4,0,2019-09-14T15:30:00,h
+1. FSV Mainz 05,Hertha BSC,2,1,2019-09-14T15:30:00,h
+FC Augsburg,Eintracht Frankfurt,2,1,2019-09-14T15:30:00,h
+1. FC Köln,Borussia Mönchengladbach,0,1,2019-09-14T15:30:00,a
+1. FC Union Berlin,Werder Bremen,1,2,2019-09-14T15:30:00,a
+RB Leipzig,FC Bayern,1,1,2019-09-14T18:30:00,d
+TSG 1899 Hoffenheim,SC Freiburg,0,3,2019-09-15T15:30:00,a
+SC Paderborn 07,FC Schalke 04,1,5,2019-09-15T18:00:00,a
+FC Schalke 04,1. FSV Mainz 05,2,1,2019-09-20T20:30:00,h
+FC Bayern,1. FC Köln,4,0,2019-09-21T15:30:00,h
+Bayer Leverkusen,1. FC Union Berlin,2,0,2019-09-21T15:30:00,h
+Hertha BSC,SC Paderborn 07,2,1,2019-09-21T15:30:00,h
+SC Freiburg,FC Augsburg,1,1,2019-09-21T15:30:00,d
+Werder Bremen,RB Leipzig,0,3,2019-09-21T18:30:00,a
+Borussia Mönchengladbach,Fortuna Düsseldorf,2,1,2019-09-22T15:30:00,h
+Eintracht Frankfurt,Borussia Dortmund,2,2,2019-09-22T18:00:00,d
+VfL Wolfsburg,TSG 1899 Hoffenheim,1,1,2019-09-23T20:30:00,d
+1. FC Union Berlin,Eintracht Frankfurt,1,2,2019-09-27T20:30:00,a
+RB Leipzig,FC Schalke 04,1,3,2019-09-28T15:30:00,a
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,0,3,2019-09-28T15:30:00,a
+1. FSV Mainz 05,VfL Wolfsburg,0,1,2019-09-28T15:30:00,a
+FC Augsburg,Bayer Leverkusen,0,3,2019-09-28T15:30:00,a
+SC Paderborn 07,FC Bayern,2,3,2019-09-28T15:30:00,a
+Borussia Dortmund,Werder Bremen,2,2,2019-09-28T18:30:00,d
+Fortuna Düsseldorf,SC Freiburg,1,2,2019-09-29T15:30:00,a
+1. FC Köln,Hertha BSC,0,4,2019-09-29T18:00:00,a
+Hertha BSC,Fortuna Düsseldorf,3,1,2019-10-04T20:30:00,h
+FC Bayern,TSG 1899 Hoffenheim,1,2,2019-10-05T15:30:00,a
+Bayer Leverkusen,RB Leipzig,1,1,2019-10-05T15:30:00,d
+SC Freiburg,Borussia Dortmund,2,2,2019-10-05T15:30:00,d
+SC Paderborn 07,1. FSV Mainz 05,1,2,2019-10-05T15:30:00,a
+FC Schalke 04,1. FC Köln,1,1,2019-10-05T18:30:00,d
+Borussia Mönchengladbach,FC Augsburg,5,1,2019-10-06T13:30:00,h
+VfL Wolfsburg,1. FC Union Berlin,1,0,2019-10-06T15:30:00,h
+Eintracht Frankfurt,Werder Bremen,2,2,2019-10-06T18:00:00,d
+Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18T20:30:00,h
+RB Leipzig,VfL Wolfsburg,1,1,2019-10-19T15:30:00,d
+Werder Bremen,Hertha BSC,1,1,2019-10-19T15:30:00,d
+Fortuna Düsseldorf,1. FSV Mainz 05,1,0,2019-10-19T15:30:00,h
+FC Augsburg,FC Bayern,2,2,2019-10-19T15:30:00,d
+1. FC Union Berlin,SC Freiburg,2,0,2019-10-19T15:30:00,h
+Borussia Dortmund,Borussia Mönchengladbach,1,0,2019-10-19T18:30:00,h
+1. FC Köln,SC Paderborn 07,3,0,2019-10-20T15:30:00,h
+TSG 1899 Hoffenheim,FC Schalke 04,2,0,2019-10-20T18:00:00,h
+1. FSV Mainz 05,1. FC Köln,3,1,2019-10-25T20:30:00,h
+FC Bayern,1. FC Union Berlin,2,1,2019-10-26T15:30:00,h
+Hertha BSC,TSG 1899 Hoffenheim,2,3,2019-10-26T15:30:00,a
+SC Freiburg,RB Leipzig,2,1,2019-10-26T15:30:00,h
+FC Schalke 04,Borussia Dortmund,0,0,2019-10-26T15:30:00,d
+SC Paderborn 07,Fortuna Düsseldorf,2,0,2019-10-26T15:30:00,h
+Bayer Leverkusen,Werder Bremen,2,2,2019-10-26T18:30:00,d
+VfL Wolfsburg,FC Augsburg,0,0,2019-10-27T15:30:00,d
+Borussia Mönchengladbach,Eintracht Frankfurt,4,2,2019-10-27T18:00:00,h
+TSG 1899 Hoffenheim,SC Paderborn 07,3,0,2019-11-01T20:30:00,h
+Borussia Dortmund,VfL Wolfsburg,3,0,2019-11-02T15:30:00,h
+RB Leipzig,1. FSV Mainz 05,8,0,2019-11-02T15:30:00,h
+Bayer Leverkusen,Borussia Mönchengladbach,1,2,2019-11-02T15:30:00,a
+Eintracht Frankfurt,FC Bayern,5,1,2019-11-02T15:30:00,h
+Werder Bremen,SC Freiburg,2,2,2019-11-02T15:30:00,d
+1. FC Union Berlin,Hertha BSC,1,0,2019-11-02T18:30:00,h
+Fortuna Düsseldorf,1. FC Köln,2,0,2019-11-03T15:30:00,h
+FC Augsburg,FC Schalke 04,2,3,2019-11-03T18:00:00,a
+1. FC Köln,TSG 1899 Hoffenheim,1,2,2019-11-08T20:30:00,a
+Hertha BSC,RB Leipzig,2,4,2019-11-09T15:30:00,a
+1. FSV Mainz 05,1. FC Union Berlin,2,3,2019-11-09T15:30:00,a
+FC Schalke 04,Fortuna Düsseldorf,3,3,2019-11-09T15:30:00,d
+SC Paderborn 07,FC Augsburg,0,1,2019-11-09T15:30:00,a
+FC Bayern,Borussia Dortmund,4,0,2019-11-09T18:30:00,h
+Borussia Mönchengladbach,Werder Bremen,3,1,2019-11-10T13:30:00,h
+VfL Wolfsburg,Bayer Leverkusen,0,2,2019-11-10T15:30:00,a
+SC Freiburg,Eintracht Frankfurt,1,0,2019-11-10T18:00:00,h
+Borussia Dortmund,SC Paderborn 07,3,3,2019-11-22T20:30:00,d
+Bayer Leverkusen,SC Freiburg,1,1,2019-11-23T15:30:00,d
+Eintracht Frankfurt,VfL Wolfsburg,0,2,2019-11-23T15:30:00,a
+Werder Bremen,FC Schalke 04,1,2,2019-11-23T15:30:00,a
+Fortuna Düsseldorf,FC Bayern,0,4,2019-11-23T15:30:00,a
+1. FC Union Berlin,Borussia Mönchengladbach,2,0,2019-11-23T15:30:00,h
+RB Leipzig,1. FC Köln,4,1,2019-11-23T18:30:00,h
+FC Augsburg,Hertha BSC,4,0,2019-11-24T15:30:00,h
+TSG 1899 Hoffenheim,1. FSV Mainz 05,1,5,2019-11-24T18:00:00,a
+FC Schalke 04,1. FC Union Berlin,2,1,2019-11-29T20:30:00,h
+TSG 1899 Hoffenheim,Fortuna Düsseldorf,1,1,2019-11-30T15:30:00,d
+Hertha BSC,Borussia Dortmund,1,2,2019-11-30T15:30:00,a
+1. FC Köln,FC Augsburg,1,1,2019-11-30T15:30:00,d
+SC Paderborn 07,RB Leipzig,2,3,2019-11-30T15:30:00,a
+FC Bayern,Bayer Leverkusen,1,2,2019-11-30T18:30:00,a
+Borussia Mönchengladbach,SC Freiburg,4,2,2019-12-01T15:30:00,h
+VfL Wolfsburg,Werder Bremen,2,3,2019-12-01T18:00:00,a
+1. FSV Mainz 05,Eintracht Frankfurt,2,1,2019-12-02T20:30:00,h
+Eintracht Frankfurt,Hertha BSC,2,2,2019-12-06T20:30:00,d
+Borussia Dortmund,Fortuna Düsseldorf,5,0,2019-12-07T15:30:00,h
+RB Leipzig,TSG 1899 Hoffenheim,3,1,2019-12-07T15:30:00,h
+Borussia Mönchengladbach,FC Bayern,2,1,2019-12-07T15:30:00,h
+SC Freiburg,VfL Wolfsburg,1,0,2019-12-07T15:30:00,h
+FC Augsburg,1. FSV Mainz 05,2,1,2019-12-07T15:30:00,h
+Bayer Leverkusen,FC Schalke 04,2,1,2019-12-07T18:30:00,h
+1. FC Union Berlin,1. FC Köln,2,0,2019-12-08T15:30:00,h
+Werder Bremen,SC Paderborn 07,0,1,2019-12-08T18:00:00,a
+TSG 1899 Hoffenheim,FC Augsburg,2,4,2019-12-13T20:30:00,a
+FC Bayern,Werder Bremen,6,1,2019-12-14T15:30:00,h
+Hertha BSC,SC Freiburg,1,0,2019-12-14T15:30:00,h
+1. FSV Mainz 05,Borussia Dortmund,0,4,2019-12-14T15:30:00,a
+1. FC Köln,Bayer Leverkusen,2,0,2019-12-14T15:30:00,h
+SC Paderborn 07,1. FC Union Berlin,1,1,2019-12-14T15:30:00,d
+Fortuna Düsseldorf,RB Leipzig,0,3,2019-12-14T18:30:00,a
+VfL Wolfsburg,Borussia Mönchengladbach,2,1,2019-12-15T15:30:00,h
+FC Schalke 04,Eintracht Frankfurt,1,0,2019-12-15T18:00:00,h
+Werder Bremen,1. FSV Mainz 05,0,5,2019-12-17T18:30:00,a
+Borussia Dortmund,RB Leipzig,3,3,2019-12-17T20:30:00,d
+FC Augsburg,Fortuna Düsseldorf,3,0,2019-12-17T20:30:00,h
+1. FC Union Berlin,TSG 1899 Hoffenheim,0,2,2019-12-17T20:30:00,a
+Bayer Leverkusen,Hertha BSC,0,1,2019-12-18T18:30:00,a
+Borussia Mönchengladbach,SC Paderborn 07,2,0,2019-12-18T20:30:00,h
+VfL Wolfsburg,FC Schalke 04,1,1,2019-12-18T20:30:00,d
+Eintracht Frankfurt,1. FC Köln,2,4,2019-12-18T20:30:00,a
+SC Freiburg,FC Bayern,1,3,2019-12-18T20:30:00,a
+TSG 1899 Hoffenheim,Borussia Dortmund,2,1,2019-12-20T20:30:00,h
+FC Bayern,VfL Wolfsburg,2,0,2019-12-21T15:30:00,h
+RB Leipzig,FC Augsburg,3,1,2019-12-21T15:30:00,h
+1. FSV Mainz 05,Bayer Leverkusen,0,1,2019-12-21T15:30:00,a
+FC Schalke 04,SC Freiburg,2,2,2019-12-21T15:30:00,d
+1. FC Köln,Werder Bremen,1,0,2019-12-21T15:30:00,h
+Hertha BSC,Borussia Mönchengladbach,0,0,2019-12-21T18:30:00,d
+Fortuna Düsseldorf,1. FC Union Berlin,2,1,2019-12-22T15:30:00,h
+SC Paderborn 07,Eintracht Frankfurt,2,1,2019-12-22T18:00:00,h
+FC Schalke 04,Borussia Mönchengladbach,2,0,2020-01-17T20:30:00,h
+TSG 1899 Hoffenheim,Eintracht Frankfurt,1,2,2020-01-18T15:30:00,a
+Fortuna Düsseldorf,Werder Bremen,0,1,2020-01-18T15:30:00,a
+1. FSV Mainz 05,SC Freiburg,1,2,2020-01-18T15:30:00,a
+FC Augsburg,Borussia Dortmund,3,5,2020-01-18T15:30:00,a
+1. FC Köln,VfL Wolfsburg,3,1,2020-01-18T15:30:00,h
+RB Leipzig,1. FC Union Berlin,3,1,2020-01-18T18:30:00,h
+Hertha BSC,FC Bayern,0,4,2020-01-19T15:30:00,a
+SC Paderborn 07,Bayer Leverkusen,1,4,2020-01-19T18:00:00,a
+Borussia Dortmund,1. FC Köln,5,1,2020-01-24T20:30:00,h
+Borussia Mönchengladbach,1. FSV Mainz 05,3,1,2020-01-25T15:30:00,h
+VfL Wolfsburg,Hertha BSC,1,2,2020-01-25T15:30:00,a
+Eintracht Frankfurt,RB Leipzig,2,0,2020-01-25T15:30:00,h
+SC Freiburg,SC Paderborn 07,0,2,2020-01-25T15:30:00,a
+1. FC Union Berlin,FC Augsburg,2,0,2020-01-25T15:30:00,h
+FC Bayern,FC Schalke 04,5,0,2020-01-25T18:30:00,h
+Werder Bremen,TSG 1899 Hoffenheim,0,3,2020-01-26T15:30:00,a
+Bayer Leverkusen,Fortuna Düsseldorf,3,0,2020-01-26T18:00:00,h
+Hertha BSC,FC Schalke 04,0,0,2020-01-31T20:30:00,d
+Borussia Dortmund,1. FC Union Berlin,5,0,2020-02-01T15:30:00,h
+TSG 1899 Hoffenheim,Bayer Leverkusen,2,1,2020-02-01T15:30:00,h
+Fortuna Düsseldorf,Eintracht Frankfurt,1,1,2020-02-01T15:30:00,d
+1. FSV Mainz 05,FC Bayern,1,3,2020-02-01T15:30:00,a
+FC Augsburg,Werder Bremen,2,1,2020-02-01T15:30:00,h
+RB Leipzig,Borussia Mönchengladbach,2,2,2020-02-01T18:30:00,d
+1. FC Köln,SC Freiburg,4,0,2020-02-02T15:30:00,h
+SC Paderborn 07,VfL Wolfsburg,2,4,2020-02-02T18:00:00,a
+Eintracht Frankfurt,FC Augsburg,5,0,2020-02-07T20:30:00,h
+VfL Wolfsburg,Fortuna Düsseldorf,1,1,2020-02-08T15:30:00,d
+Werder Bremen,1. FC Union Berlin,0,2,2020-02-08T15:30:00,a
+Hertha BSC,1. FSV Mainz 05,1,3,2020-02-08T15:30:00,a
+SC Freiburg,TSG 1899 Hoffenheim,1,0,2020-02-08T15:30:00,h
+FC Schalke 04,SC Paderborn 07,1,1,2020-02-08T15:30:00,d
+Bayer Leverkusen,Borussia Dortmund,4,3,2020-02-08T18:30:00,h
+FC Bayern,RB Leipzig,0,0,2020-02-09T18:00:00,d
+Borussia Mönchengladbach,1. FC Köln,2,1,2020-03-11T18:30:00,h
+Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14T20:30:00,h
+RB Leipzig,Werder Bremen,3,0,2020-02-15T15:30:00,h
+TSG 1899 Hoffenheim,VfL Wolfsburg,2,3,2020-02-15T15:30:00,a
+FC Augsburg,SC Freiburg,1,1,2020-02-15T15:30:00,d
+SC Paderborn 07,Hertha BSC,1,2,2020-02-15T15:30:00,a
+1. FC Union Berlin,Bayer Leverkusen,2,3,2020-02-15T15:30:00,a
+Fortuna Düsseldorf,Borussia Mönchengladbach,1,4,2020-02-15T18:30:00,a
+1. FC Köln,FC Bayern,1,4,2020-02-16T15:30:00,a
+1. FSV Mainz 05,FC Schalke 04,0,0,2020-02-16T18:00:00,d
+FC Bayern,SC Paderborn 07,3,2,2020-02-21T20:30:00,h
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,1,1,2020-02-22T15:30:00,d
+Werder Bremen,Borussia Dortmund,0,2,2020-02-22T15:30:00,a
+Hertha BSC,1. FC Köln,0,5,2020-02-22T15:30:00,a
+SC Freiburg,Fortuna Düsseldorf,0,2,2020-02-22T15:30:00,a
+FC Schalke 04,RB Leipzig,0,5,2020-02-22T18:30:00,a
+Bayer Leverkusen,FC Augsburg,2,0,2020-02-23T15:30:00,h
+VfL Wolfsburg,1. FSV Mainz 05,4,0,2020-02-23T18:00:00,h
+Eintracht Frankfurt,1. FC Union Berlin,1,2,2020-02-24T20:30:00,a
+Fortuna Düsseldorf,Hertha BSC,3,3,2020-02-28T20:30:00,d
+Borussia Dortmund,SC Freiburg,1,0,2020-02-29T15:30:00,h
+TSG 1899 Hoffenheim,FC Bayern,0,6,2020-02-29T15:30:00,a
+1. FSV Mainz 05,SC Paderborn 07,2,0,2020-02-29T15:30:00,h
+FC Augsburg,Borussia Mönchengladbach,2,3,2020-02-29T15:30:00,a
+1. FC Köln,FC Schalke 04,3,0,2020-02-29T18:30:00,h
+1. FC Union Berlin,VfL Wolfsburg,2,2,2020-03-01T13:30:00,d
+RB Leipzig,Bayer Leverkusen,1,1,2020-03-01T15:30:00,d
+Werder Bremen,Eintracht Frankfurt,0,3,2020-06-03T20:30:00,a
+SC Paderborn 07,1. FC Köln,1,2,2020-03-06T20:00:00,a
+Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07T15:30:00,h
+VfL Wolfsburg,RB Leipzig,0,0,2020-03-07T15:30:00,d
+Hertha BSC,Werder Bremen,2,2,2020-03-07T15:30:00,d
+SC Freiburg,1. FC Union Berlin,3,1,2020-03-07T15:30:00,h
+FC Schalke 04,TSG 1899 Hoffenheim,1,1,2020-03-07T15:30:00,d
+Borussia Mönchengladbach,Borussia Dortmund,1,2,2020-03-07T18:30:00,a
+FC Bayern,FC Augsburg,2,0,2020-03-08T15:30:00,h
+1. FSV Mainz 05,Fortuna Düsseldorf,1,1,2020-03-08T18:00:00,d
+Borussia Dortmund,FC Schalke 04,4,0,2020-05-16T15:30:00,h
+RB Leipzig,SC Freiburg,1,1,2020-05-16T15:30:00,d
+TSG 1899 Hoffenheim,Hertha BSC,0,3,2020-05-16T15:30:00,a
+Fortuna Düsseldorf,SC Paderborn 07,0,0,2020-05-16T15:30:00,d
+FC Augsburg,VfL Wolfsburg,1,2,2020-05-16T15:30:00,a
+Eintracht Frankfurt,Borussia Mönchengladbach,1,3,2020-05-16T18:30:00,a
+1. FC Köln,1. FSV Mainz 05,2,2,2020-05-17T15:30:00,d
+1. FC Union Berlin,FC Bayern,0,2,2020-05-17T18:00:00,a
+Werder Bremen,Bayer Leverkusen,1,4,2020-05-18T20:30:00,a
+Hertha BSC,1. FC Union Berlin,4,0,2020-05-22T20:30:00,h
+Borussia Mönchengladbach,Bayer Leverkusen,1,3,2020-05-23T15:30:00,a
+VfL Wolfsburg,Borussia Dortmund,0,2,2020-05-23T15:30:00,a
+SC Freiburg,Werder Bremen,0,1,2020-05-23T15:30:00,a
+SC Paderborn 07,TSG 1899 Hoffenheim,1,1,2020-05-23T15:30:00,d
+FC Bayern,Eintracht Frankfurt,5,2,2020-05-23T18:30:00,h
+FC Schalke 04,FC Augsburg,0,3,2020-05-24T13:30:00,a
+1. FSV Mainz 05,RB Leipzig,0,5,2020-05-24T15:30:00,a
+1. FC Köln,Fortuna Düsseldorf,2,2,2020-05-24T18:00:00,d
+Borussia Dortmund,FC Bayern,0,1,2020-05-26T18:30:00,a
+Bayer Leverkusen,VfL Wolfsburg,1,4,2020-05-26T20:30:00,a
+Eintracht Frankfurt,SC Freiburg,3,3,2020-05-26T20:30:00,d
+Werder Bremen,Borussia Mönchengladbach,0,0,2020-05-26T20:30:00,d
+RB Leipzig,Hertha BSC,2,2,2020-05-27T18:30:00,d
+TSG 1899 Hoffenheim,1. FC Köln,3,1,2020-05-27T20:30:00,h
+Fortuna Düsseldorf,FC Schalke 04,2,1,2020-05-27T20:30:00,h
+FC Augsburg,SC Paderborn 07,0,0,2020-05-27T20:30:00,d
+1. FC Union Berlin,1. FSV Mainz 05,1,1,2020-05-27T20:30:00,d
+SC Freiburg,Bayer Leverkusen,0,1,2020-05-29T20:30:00,a
+VfL Wolfsburg,Eintracht Frankfurt,1,2,2020-05-30T15:30:00,a
+Hertha BSC,FC Augsburg,2,0,2020-05-30T15:30:00,h
+1. FSV Mainz 05,TSG 1899 Hoffenheim,0,1,2020-05-30T15:30:00,a
+FC Schalke 04,Werder Bremen,0,1,2020-05-30T15:30:00,a
+FC Bayern,Fortuna Düsseldorf,5,0,2020-05-30T18:30:00,h
+Borussia Mönchengladbach,1. FC Union Berlin,4,1,2020-05-31T15:30:00,h
+SC Paderborn 07,Borussia Dortmund,1,6,2020-05-31T18:00:00,a
+1. FC Köln,RB Leipzig,2,4,2020-06-01T20:30:00,a
+SC Freiburg,Borussia Mönchengladbach,1,0,2020-06-05T20:30:00,h
+RB Leipzig,SC Paderborn 07,1,1,2020-06-06T15:30:00,d
+Bayer Leverkusen,FC Bayern,2,4,2020-06-06T15:30:00,a
+Eintracht Frankfurt,1. FSV Mainz 05,0,2,2020-06-06T15:30:00,a
+Fortuna Düsseldorf,TSG 1899 Hoffenheim,2,2,2020-06-06T15:30:00,d
+Borussia Dortmund,Hertha BSC,1,0,2020-06-06T18:30:00,h
+Werder Bremen,VfL Wolfsburg,0,1,2020-06-07T13:30:00,a
+1. FC Union Berlin,FC Schalke 04,1,1,2020-06-07T15:30:00,d
+FC Augsburg,1. FC Köln,1,1,2020-06-07T18:00:00,d
+TSG 1899 Hoffenheim,RB Leipzig,0,2,2020-06-12T20:30:00,a
+VfL Wolfsburg,SC Freiburg,2,2,2020-06-13T15:30:00,d
+Fortuna Düsseldorf,Borussia Dortmund,0,1,2020-06-13T15:30:00,a
+Hertha BSC,Eintracht Frankfurt,1,4,2020-06-13T15:30:00,a
+1. FC Köln,1. FC Union Berlin,1,2,2020-06-13T15:30:00,a
+SC Paderborn 07,Werder Bremen,1,5,2020-06-13T15:30:00,a
+FC Bayern,Borussia Mönchengladbach,2,1,2020-06-13T18:30:00,h
+1. FSV Mainz 05,FC Augsburg,0,1,2020-06-14T15:30:00,a
+FC Schalke 04,Bayer Leverkusen,1,1,2020-06-14T18:00:00,d
+Borussia Mönchengladbach,VfL Wolfsburg,3,0,2020-06-16T18:30:00,h
+Werder Bremen,FC Bayern,0,1,2020-06-16T20:30:00,a
+SC Freiburg,Hertha BSC,2,1,2020-06-16T20:30:00,h
+1. FC Union Berlin,SC Paderborn 07,1,0,2020-06-16T20:30:00,h
+Eintracht Frankfurt,FC Schalke 04,2,1,2020-06-17T18:30:00,h
+Borussia Dortmund,1. FSV Mainz 05,0,2,2020-06-17T20:30:00,a
+RB Leipzig,Fortuna Düsseldorf,2,2,2020-06-17T20:30:00,d
+Bayer Leverkusen,1. FC Köln,3,1,2020-06-17T20:30:00,h
+FC Augsburg,TSG 1899 Hoffenheim,1,3,2020-06-17T20:30:00,a
+FC Bayern,SC Freiburg,3,1,2020-06-20T15:30:00,h
+RB Leipzig,Borussia Dortmund,0,2,2020-06-20T15:30:00,a
+TSG 1899 Hoffenheim,1. FC Union Berlin,4,0,2020-06-20T15:30:00,h
+Fortuna Düsseldorf,FC Augsburg,1,1,2020-06-20T15:30:00,d
+Hertha BSC,Bayer Leverkusen,2,0,2020-06-20T15:30:00,h
+1. FSV Mainz 05,Werder Bremen,3,1,2020-06-20T15:30:00,h
+FC Schalke 04,VfL Wolfsburg,1,4,2020-06-20T15:30:00,a
+1. FC Köln,Eintracht Frankfurt,1,1,2020-06-20T15:30:00,d
+SC Paderborn 07,Borussia Mönchengladbach,1,3,2020-06-20T15:30:00,a
+Borussia Dortmund,TSG 1899 Hoffenheim,0,4,2020-06-27T15:30:00,a
+Bayer Leverkusen,1. FSV Mainz 05,1,0,2020-06-27T15:30:00,h
+Borussia Mönchengladbach,Hertha BSC,2,1,2020-06-27T15:30:00,h
+VfL Wolfsburg,FC Bayern,0,4,2020-06-27T15:30:00,a
+Eintracht Frankfurt,SC Paderborn 07,3,2,2020-06-27T15:30:00,h
+Werder Bremen,1. FC Köln,6,1,2020-06-27T15:30:00,h
+SC Freiburg,FC Schalke 04,4,0,2020-06-27T15:30:00,h
+FC Augsburg,RB Leipzig,1,2,2020-06-27T15:30:00,a
+1. FC Union Berlin,Fortuna Düsseldorf,3,0,2020-06-27T15:30:00,h

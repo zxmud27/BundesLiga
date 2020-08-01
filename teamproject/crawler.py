@@ -39,7 +39,7 @@ class DataCrawler():
     
         league : string
             selection of the league:
-                input can only be "b1" , "b2" or "b3"
+                input can only be "1. Bundesliga" , "2. Bundesliga", "3. Bundesliga", "1. Handball Bundesliga"
 
         -------
         Return:
@@ -63,7 +63,8 @@ class DataCrawler():
             "," +
             "win"+
             "\n")
-        if league == "b1" or league == "b2" or league == "b3" or league == "hbl":
+
+        if league == "1. Bundesliga" or league == "2. Bundesliga" or league == "3. Bundesliga" or league == "1. Handball Bundesliga":
             for i in range(FirstSeason, (LastSeason + 1)):
                 counter = 0
                 startday_counter = 0
@@ -91,13 +92,13 @@ class DataCrawler():
                     start_season_day = 1
                     end_season_day = 34
 
-                if league == "b1":
+                if league == "1. Bundesliga":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl1/{i}').text)
-                elif league == "b2":
+                elif league == "2. Bundesliga":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl2/{i}').text)
-                elif league == "b3":
+                elif league == "3. Bundesliga":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl3/{i}').text)
-                elif league == "hbl":
+                elif league == "1. Handball Bundesliga":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/hbl/{i}').text)
 
 
@@ -165,8 +166,8 @@ class DataCrawler():
             match year
 
         league : string
-            selection of the league
-                input can only be "b1" , "b2" or "b3"
+            selection of the league:
+                input can only be "1. Bundesliga" , "2. Bundesliga", "3. Bundesliga", "1. Handball Bundesliga"
 
         -------
         Return:
@@ -182,18 +183,18 @@ class DataCrawler():
         name_list = []
         counter = 0
         exception_year = False
-        if league == "b1" or league == "b2" or league == "b3" or league == "hbl":
+        if league == "1. Bundesliga" or league == "2. Bundesliga" or league == "3. Bundesliga" or league == "1. Handball Bundesliga":
             for i in range(year, (year + 1)):
-                if league == "b1":
+                if league == "1. Bundesliga":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl1/{i}').text)
                     endcounter = 9
-                elif league == "b2":
+                elif league == "2. Bundesliga":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl2/{i}').text)
                     endcounter = 9
-                elif league == "b3":
+                elif league == "3. Bundesliga":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/bl3/{i}').text)
                     endcounter = 9
-                elif league == "hbl":
+                elif league == "1. Handball Bundesliga":
                     game_data = json.loads(requests.get(f'http://www.openligadb.de/api/getmatchdata/hbl/{i}').text)
                     if year == 2014:
                         endcounter = 10
@@ -219,6 +220,6 @@ class DataCrawler():
 
 
 #BLCrawler = DataCrawler()
-#BLCrawler.getSeasons(1,2011,22,2018,"b1")
+#BLCrawler.getSeasons(1,2011,22,2018,"1. Bundesliga")
 #print(BLCrawler.getNamelist(2011,"hbl"))
 # handball von 2011 bis 2016 in ligadb
