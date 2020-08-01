@@ -60,6 +60,8 @@ class DataCrawler():
             "AwayGoals" +
             "," +
             "Date" +
+            "," +
+            "win"+
             "\n")
         if league == "b1" or league == "b2" or league == "b3":
             for i in range(FirstSeason, (LastSeason + 1)):
@@ -73,6 +75,8 @@ class DataCrawler():
                 AwayTeam = {}
                 GoalsHome = {}
                 GoalsAway = {}
+
+                win_team = {}
 
                 if FirstSeason == LastSeason:
                     start_season_day = FirstDay
@@ -123,11 +127,24 @@ class DataCrawler():
                         if TeamA_half + TeamB_half > TeamA + TeamB:
                             GoalsHome[counter] = TeamA_half
                             GoalsAway[counter] = TeamB_half
+                            if TeamA_half > TeamB_half:
+                                win_team[counter] = "h"
+                            elif TeamA_half < TeamB_half:
+                                win_team[counter] = "a"
+                            elif TeamA_half == TeamB_half:
+                                win_team[counter] = "d"
+
                         else:
                             GoalsHome[counter] = TeamA
                             GoalsAway[counter] = TeamB
+                            if TeamA_half > TeamB_half:
+                                win_team[counter] = "h"
+                            elif TeamA_half < TeamB_half:
+                                win_team[counter] = "a"
+                            elif TeamA_half == TeamB_half:
+                                win_team[counter] = "d"
 
-                        match = HomeTeam[counter] + "," + AwayTeam[counter] + "," + str(GoalsHome[counter]) + "," + str(GoalsAway[counter]) + "," + Date[counter] + "\n"
+                        match = HomeTeam[counter] + "," + AwayTeam[counter] + "," + str(GoalsHome[counter]) + "," + str(GoalsAway[counter]) + "," + Date[counter] + "," + win_team[counter] + "\n"
                         csv.write(match)
                         counter += 1
         else:
@@ -188,6 +205,6 @@ class DataCrawler():
 
 
 
-#BLCrawler = DataCrawler()
-#BLCrawler.getSeasons(1,2011,22,2018,"b2")
+BLCrawler = DataCrawler()
+BLCrawler.getSeasons(1,2011,22,2018,"b1")
 #print(BLCrawler.getNamelist(2019,"b2"))
