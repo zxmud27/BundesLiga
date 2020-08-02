@@ -253,12 +253,24 @@ class GUI:
 
 
     def algorithm_load(self):
-        if self.click_algo_dropdown == "Minimaler Algorithmus":
+        if self.click_algo_dropdown.get() == "Minimal Algorithm   ":
             algo_m = teamproject.minimal_algorithm.minimal_class()
-            algo_m.get_minimal_probabilities(self.click_teams1_dropdown.get(),self.click_teams2_dropdown.get())
-        elif self.click_algo_dropdown == "Poisson Algorithmus":
+            stats = algo_m.get_minimal_probabilities(self.click_teams1_dropdown.get(),self.click_teams2_dropdown.get())
+            pWH = tk.Label(self.master, text=str(stats[0]) + "%", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8) 
+            pWH.place(relx=0.1, rely=0.65)
+            pDraw = tk.Label(self.master, text=str(stats[1]) + "%", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8)
+            pDraw.place(relx=0.25, rely=0.65)
+            pWA = tk.Label(self.master, text=str(stats[2]) + "%", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8)
+            pWA.place(relx=0.4, rely=0.65)
+        elif self.click_algo_dropdown.get() == "Poisson Algorithm    ":
             algo_p = teamproject.poisson_algorithm.poisson_class()
-            algo_p.get_probabilities(self.click_teams1_dropdown.get(),self.click_teams2_dropdown.get())
+            stats = algo_p.get_probabilities(self.click_teams1_dropdown.get(),self.click_teams2_dropdown.get())
+            pWH = tk.Label(self.master, text=str(stats[0]) + "%", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8) 
+            pWH.place(relx=0.1, rely=0.65)
+            pDraw = tk.Label(self.master, text=str(stats[1]) + "%", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8)
+            pDraw.place(relx=0.25, rely=0.65)
+            pWA = tk.Label(self.master, text=str(stats[2]) + "%", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8)
+            pWA.place(relx=0.4, rely=0.65)
 
 
         """
