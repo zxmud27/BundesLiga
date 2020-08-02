@@ -174,7 +174,7 @@ class DataCrawler():
         -------
     
         name_list: list of strings
-            Teamnames in the list are saved to work with
+            Teamnames in the list are saved for later use
 
         """
 

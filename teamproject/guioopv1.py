@@ -213,6 +213,7 @@ class GUI:
             command = lambda: self.algorithm_load())
         startButton.place(relx=0.202, rely=0.5)
 
+
     def algorithm_load(self):
         if self.click_algo_dropdown == "Minimaler Algorithmus":
             algo_m = teamproject.minimal_algorithm.minimal_class()
@@ -222,6 +223,22 @@ class GUI:
             algo_p.get_probabilities(self.click_teams1_dropdown.get(),self.click_teams2_dropdown.get())
 
 
+        """
+
+        starts the crawler and creates dropdown menu for selecting the teams
+
+        -----------
+        Parameters:
+        -----------
+
+
+        -------
+        Return:
+        -------
+        match history in the given time period
+        crawled teams in dropdownmenus
+        
+        """
     def crawler_load(self):
         teams1_list = []
         teams2_list = []
