@@ -4,89 +4,108 @@ import teamproject.minimal_algorithm
 import teamproject.poisson_algorithm
 
 class GUI:
-    def __init__(self, master):
+    global buttoncolor
+    global backgroundcolor
+    global fontcolor
+    global mode
+
+    def __init__(self, master,mode):
+        self.mode = mode
         self.master = master
         master.title("Bundesliga Vorhersage")
-        master.config(bg="black")
+        
         master.geometry("1200x600")
+        #lightmode
+        if(self.mode == 1):
+            self.buttoncolor= "gray38"
+            self.backgroundcolor="white"
+            self.fontcolor="black"
+            
+        #darkmode  
+        elif(self.mode == 0):
+            self.buttoncolor= "brown4"
+            self.backgroundcolor= "black"
+            self.fontcolor= "white"
+            
+        master.config(bg=self.backgroundcolor)
 
         
         #Labels for the next upcoming matchday
        
-        nextMatchDay = tk.Label(master,text="Next matchday", bg='black',fg='white',font='bold')
+        nextMatchDay = tk.Label(master,text="Next matchday", bg=self.backgroundcolor,fg=self.fontcolor,font='bold')
         nextMatchDay.place(relx=0.75,rely=0.18)
-        matchdayTeam1 = tk.Label(master,text="Team 1", bg='black',fg='white', font='bold') 
+        matchdayTeam1 = tk.Label(master,text="Team 1", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam1.place(relx=0.73,rely=0.25)
-        firstMatchVs = tk.Label(master,text="V.S.", bg='black',fg='white', font='bold') 
+        firstMatchVs = tk.Label(master,text="V.S.", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         firstMatchVs.place(relx=0.79,rely=0.25)
-        matchdayTeam2 = tk.Label(master,text="Team 2", bg='black',fg='white', font='bold') 
+        matchdayTeam2 = tk.Label(master,text="Team 2", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam2.place(relx=0.83,rely=0.25)
-        matchdayTeam3 = tk.Label(master,text="Team 3", bg='black',fg='white', font='bold') 
+        matchdayTeam3 = tk.Label(master,text="Team 3", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam3.place(relx=0.73,rely=0.3)
-        secondMatchVs = tk.Label(master,text="V.S.", bg='black',fg='white', font='bold') 
+        secondMatchVs = tk.Label(master,text="V.S.", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         secondMatchVs.place(relx=0.79,rely=0.3)
-        matchdayTeam4 = tk.Label(master,text="Team 4", bg='black',fg='white', font='bold') 
+        matchdayTeam4 = tk.Label(master,text="Team 4", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam4.place(relx=0.83,rely=0.3)
-        matchdayTeam5 = tk.Label(master,text="Team 5", bg='black',fg='white', font='bold') 
+        matchdayTeam5 = tk.Label(master,text="Team 5", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam5.place(relx=0.73,rely=0.35)
-        thirdMatchVs = tk.Label(master,text="V.S.", bg='black',fg='white', font='bold') 
+        thirdMatchVs = tk.Label(master,text="V.S.", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         thirdMatchVs.place(relx=0.79,rely=0.35)
-        matchdayTeam6 = tk.Label(master,text="Team 6", bg='black',fg='white', font='bold') 
+        matchdayTeam6 = tk.Label(master,text="Team 6", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam6.place(relx=0.83,rely=0.35)
-        matchdayTeam7 = tk.Label(master,text="Team 7", bg='black',fg='white', font='bold') 
+        matchdayTeam7 = tk.Label(master,text="Team 7", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam7.place(relx=0.73,rely=0.4)
-        fourthMatchVs = tk.Label(master,text="V.S.", bg='black',fg='white', font='bold') 
+        fourthMatchVs = tk.Label(master,text="V.S.", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         fourthMatchVs.place(relx=0.79,rely=0.4)
-        matchdayTeam8 = tk.Label(master,text="Team 8", bg='black',fg='white', font='bold') 
+        matchdayTeam8 = tk.Label(master,text="Team 8", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam8.place(relx=0.83,rely=0.4)
-        matchdayTeam9 = tk.Label(master,text="Team 9", bg='black',fg='white', font='bold') 
+        matchdayTeam9 = tk.Label(master,text="Team 9", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam9.place(relx=0.73,rely=0.45)
-        fifthMatchVs = tk.Label(master,text="V.S.", bg='black',fg='white', font='bold') 
+        fifthMatchVs = tk.Label(master,text="V.S.", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         fifthMatchVs.place(relx=0.79,rely=0.45)
-        matchdayTeam10 = tk.Label(master,text="Team 10", bg='black',fg='white', font='bold') 
+        matchdayTeam10 = tk.Label(master,text="Team 10", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam10.place(relx=0.83,rely=0.45)
-        matchdayTeam11 = tk.Label(master,text="Team 11", bg='black',fg='white', font='bold') 
+        matchdayTeam11 = tk.Label(master,text="Team 11", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam11.place(relx=0.73,rely=0.5)
-        sixthMatchVs = tk.Label(master,text="V.S.", bg='black',fg='white', font='bold') 
+        sixthMatchVs = tk.Label(master,text="V.S.", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         sixthMatchVs.place(relx=0.79,rely=0.5)
-        matchdayTeam12 = tk.Label(master,text="Team 12", bg='black',fg='white', font='bold') 
+        matchdayTeam12 = tk.Label(master,text="Team 12", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam12.place(relx=0.83,rely=0.5)
-        matchdayTeam13 = tk.Label(master,text="Team 13", bg='black',fg='white', font='bold') 
+        matchdayTeam13 = tk.Label(master,text="Team 13", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam13.place(relx=0.73,rely=0.55)
-        seventhMatchVs = tk.Label(master,text="V.S.", bg='black',fg='white', font='bold') 
+        seventhMatchVs = tk.Label(master,text="V.S.", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         seventhMatchVs.place(relx=0.79,rely=0.55)
-        matchdayTeam14 = tk.Label(master,text="Team 14", bg='black',fg='white', font='bold') 
+        matchdayTeam14 = tk.Label(master,text="Team 14", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam14.place(relx=0.83,rely=0.55)
-        matchdayTeam15 = tk.Label(master,text="Team 15", bg='black',fg='white', font='bold') 
+        matchdayTeam15 = tk.Label(master,text="Team 15", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam15.place(relx=0.73,rely=0.6)
-        eightMatchVs = tk.Label(master,text="V.S.", bg='black',fg='white', font='bold') 
+        eightMatchVs = tk.Label(master,text="V.S.", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         eightMatchVs.place(relx=0.79,rely=0.6)
-        matchdayTeam16 = tk.Label(master,text="Team 16", bg='black',fg='white', font='bold') 
+        matchdayTeam16 = tk.Label(master,text="Team 16", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam16.place(relx=0.83,rely=0.6)
-        matchdayTeam17 = tk.Label(master,text="Team 17", bg='black',fg='white', font='bold') 
+        matchdayTeam17 = tk.Label(master,text="Team 17", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam17.place(relx=0.73,rely=0.65)
-        ninthMatchVs = tk.Label(master,text="V.S.", bg='black',fg='white', font='bold') 
+        ninthMatchVs = tk.Label(master,text="V.S.", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         ninthMatchVs.place(relx=0.79,rely=0.65)
-        matchdayTeam18 = tk.Label(master,text="Team 18", bg='black',fg='white', font='bold') 
+        matchdayTeam18 = tk.Label(master,text="Team 18", bg=self.backgroundcolor,fg=self.fontcolor, font='bold') 
         matchdayTeam18.place(relx=0.83,rely=0.65)
 
         #labes for the win/lose/draw percentages
-        winHome = tk.Label(master, text="Win Home:", bg='black', fg='white',height=3,width=8)
+        winHome = tk.Label(master, text="Win Home:", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8)
         winHome.place(relx=0.1, rely=0.6)
-        pWH = tk.Label(master, text="PercentWH", bg='black', fg='white',height=3,width=8) 
+        pWH = tk.Label(master, text="%", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8) 
         pWH.place(relx=0.1, rely=0.65)
-        draw = tk.Label(master, text="Draw:", bg='black', fg='white',height=3,width=8)
+        draw = tk.Label(master, text="Draw:", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8)
         draw.place(relx=0.25, rely=0.6)
-        pDraw = tk.Label(master, text="PercDRAW", bg='black', fg='white',height=3,width=8)
+        pDraw = tk.Label(master, text="%", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8)
         pDraw.place(relx=0.25, rely=0.65)
-        winAway = tk.Label(master, text="Win Away:", bg='black', fg='white',height=3,width=8)
+        winAway = tk.Label(master, text="Win Away:", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8)
         winAway.place(relx=0.4, rely=0.6)
-        pWA = tk.Label(master, text="PercentWA", bg='black', fg='white',height=3,width=8)
+        pWA = tk.Label(master, text="%", bg=self.backgroundcolor, fg=self.fontcolor,height=3,width=8)
         pWA.place(relx=0.4, rely=0.65)
 
         #Label for the season input field 
         self.searched = tk.StringVar()
-        selectionofseasonText = tk.Label(master,text="Season selection", bg='black', fg='white' )
+        selectionofseasonText = tk.Label(master,text="Season selection", bg=self.backgroundcolor, fg=self.fontcolor )
         selectionofseasonText.place(relx=0.8,rely=0.01,relwidth=0.2,relheight=0.015)
         selectionofseason= tk.Entry(master, textvariable=self.searched)
         selectionofseason.place(relx=0.87,rely=0.03,relwidth=0.061)
@@ -95,10 +114,10 @@ class GUI:
         vsLabel = tk.Label(
             master,
             text="V.S.",
-            bg='black',
-            fg='white', width=3, height=1, font='bold')
+            bg=self.backgroundcolor,
+            fg=self.fontcolor, width=3, height=1, font='bold')
         vsLabel.place(relx=0.26, rely=0.27)
-        untilLabel = tk.Label(master, text="until", bg='black', fg='white',height=2,width=3, font='bold')
+        untilLabel = tk.Label(master, text="until", bg=self.backgroundcolor, fg=self.fontcolor,height=2,width=3, font='bold')
         untilLabel.place(relx=0.33, rely=0.009)
 
         """dropdown lists for selecting seasons and matchdays for the crawler
@@ -175,8 +194,8 @@ class GUI:
 
         #list with all algorithms
         algo_dropdown=[
-        "Minimal Algorithm",
-        "Poisson Algorithm"
+        "Minimal Algorithm   ",
+        "Poisson Algorithm    "
         ]
 
         #dropdown list for selecting an algorithm
@@ -197,8 +216,8 @@ class GUI:
             text="Start Crawler",
             width=25,
             height=2,
-            fg="white",
-            bg='brown4',
+            fg=self.fontcolor,
+            bg=self.buttoncolor,
             command = lambda: self.crawler_load())
         CrawlerButton.place(relx=0.20, rely=0.15)
 
@@ -208,10 +227,29 @@ class GUI:
             text="Start prediction",
             width=25,
             height=2,
-            fg="white",
-            bg='brown4',
+            fg=self.fontcolor,
+            bg=self.buttoncolor,
             command = lambda: self.algorithm_load())
         startButton.place(relx=0.202, rely=0.5)
+
+        changeModeButton = tk.Button(master, text="Change Mode", width=20, height=2, fg=self.fontcolor, bg=self.buttoncolor,command=lambda: self.changemode())
+        changeModeButton.place(relx=0.01, rely=0.01)
+
+        
+        #Methode außerhalb vom Konstruktor
+        
+
+        # Die jeweiligen Buttons mit der Variable buttoncolor, backgroundcolor und fontcolor ersetzen. Über die Farben kann man noch sprechen
+
+
+    def changemode(self):
+        if(self.mode == 0) :
+            GUI(root,1)
+        elif(self.mode == 1):
+            GUI(root,0)
+
+        
+        
 
 
     def algorithm_load(self):
@@ -260,24 +298,9 @@ class GUI:
                                                 int(self.clicked_season_End.get()), 
                                                 self.click_liga_dropdown.get())
     
-    
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
         
 root = tk.Tk()
-GUI(root)
+GUI(root,0)
 root.mainloop()        
 
 
