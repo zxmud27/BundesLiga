@@ -178,7 +178,7 @@ class GUI:
         "2. Bundesliga",
         "3. Bundesliga",
         "1. Handball Bundesliga"
-                                                          ]
+        ]
 
         self.click_liga_dropdown = tk.StringVar()
         self.click_liga_dropdown.set(liga_dropdown[0])
