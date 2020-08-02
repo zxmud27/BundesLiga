@@ -78,8 +78,7 @@ def staticGUI():
         fg="white",
         bg='brown4')
     CrawlerButton.place(relx=0.20, rely=0.15)
-    changeModeButton = tk.Button(frame, text="Lightmode", width=20, height=2, fg="white", bg="brown4")# , command =lambda: changemode()
-    changeModeButton.place(relx=0.01, rely=0.01)
+    
     startButton = tk.Button(
         frame,
         text="Starte Vorhersage",
