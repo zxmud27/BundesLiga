@@ -147,13 +147,13 @@ def seasonTextfield():
      #selectionofseason.insert(1, "Saisonauswahl")
      selectionofseason.place(relx=0.87,rely=0.03,relwidth=0.061) # Auslesen von Wert mit StartCrawler Buttón
 def teamDropdown(teams_dropdown): #Array -> also die Dropdownliste vom Crawler mit den teams
-    click_teams1_dropdown = StringVar()
-    click_teams1_dropdown.set("Wähle das Team")
-    team1_menu = tk.OptionMenu(frame, click_teams1_dropdown, *teams_dropdown)
+    click_teams_dropdown = StringVar()
+    click_teams_dropdown.set("Wähle das Team")
+    team1_menu = tk.OptionMenu(frame, click_teams_dropdown, *teams_dropdown)
     team1_menu.place(relx=0.12, rely=0.265)
-    click_teams2_dropdown = StringVar()
-    click_teams2_dropdown.set("Wähle das Team")
-    team2_menu = tk.OptionMenu(frame, click_teams2_dropdown, *teams_dropdown)
+    click_teams_dropdown = StringVar()
+    click_teams_dropdown.set("Wähle das Team")
+    team2_menu = tk.OptionMenu(frame, click_teams_dropdown, *teams_dropdown)
     team2_menu.place(relx=0.315, rely=0.265)
 def algoDropdownR(registryPatterninput): #using when registrypattern is implemented
     click_registryPatterninput_dropdown = StringVar()
