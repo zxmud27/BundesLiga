@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
+import pickle
 from scipy.stats import poisson, skellam
 from scipy.optimize import minimize
 
@@ -11,7 +12,7 @@ import statsmodels.formula.api as smf
 
 
 class dc_class():
-    filename = pd.read_csv("teamproject/BundesligaData.csv", encoding='unicode_escape')
+    filename = pd.read_csv("BundesligaData.csv", encoding='unicode_escape')
     filename['Date'] = filename['Date'].str.replace("T", " ")
     filename['Date'] = pd.to_datetime(filename['Date'], format='%Y-%m-%d %H:%M:%S')
     filename['time_diff'] = (max(filename['Date']) - filename['Date']).dt.days
@@ -52,10 +53,10 @@ class dc_class():
 
     """finding coefficients that maximise the log-likelihood function"""
 
-    def solve_parameters_decay(self, dataset, xi=0.001, debug=False, init_vals=None, options={'disp': True, 'maxiter': 100},
+    def solve_parameters_decay(self, dataset, xi=0.001, debug=True, init_vals=None, options={'disp': True, 'maxiter': 100},
                                constraints=[{'type': 'eq', 'fun': lambda x: sum(x[:20]) - 20}], **kwargs):
-        teams = np.sort(dataset['HomeTeam'].unique())
-        away_teams = np.sort(dataset['AwayTeam'].unique())
+        teams = np.sort(dataset('HomeTeam').unique())
+        away_teams = np.sort(dataset('AwayTeam').unique())
         if not np.array_equal(teams, away_teams):
             raise ValueError("something not right")
         n_teams = len(teams)
@@ -88,9 +89,10 @@ class dc_class():
                         ['rho', 'home_adv'],
                         opt_output.x))
 
-    #params_xi = solve_parameters_decay(filename)
 
-    #params_xi
+    params_xi = solve_parameters_decay(filename)
+
+    params_xi
 
     """Now we greate match score matrices"""
 
@@ -107,3 +109,24 @@ class dc_class():
                                       for home_goals in range(2)])
         output_matrix[:2, :2] = output_matrix[:2, :2] * correction_matrix
         return output_matrix
+
+    def get_1x2_probs(self, match_score_matrix):
+        return dict({"H": np.sum(np.tril(match_score_matrix, -1)),
+                     "A": np.sum(np.triu(match_score_matrix, 1)), "D": np.sum(np.diag(match_score_matrix))})
+
+    def build_temp_model(self, dataset, time_diff, xi=0.000, init_params=None):
+        test_dataset = dataset[((dataset['time_diff'] <= time_diff) & (dataset['time_diff'] >= (time_diff - 2)))]
+        if len(test_dataset) == 0:
+            return 0
+        train_dataset = dataset[dataset['time_diff'] > time_diff]
+        train_dataset['time_diff'] = train_dataset['time_diff'] - time_diff
+        params = self.solve_parameters_decay(train_dataset, xi=xi, init_vals=init_params)
+        predictive_score = sum([np.log(self.get_1x2_probs(self.dixon_coles_simulate_match(
+            params, row.HomeTeam, row.AwayTeam))[row.FTR]) for row in test_dataset.itertuples()])
+        return predictive_score
+
+    def get_total_score_xi(self, xi):
+        xi_result = [self.build_temp_model(self.filename, day, xi=xi) for day in range(99, -1, -3)]
+        with open('find_xi_1season_{}.txt'.format(str(xi)[2:]), 'wb') as thefile:
+            pickle.dump(xi_result, thefile)
+
