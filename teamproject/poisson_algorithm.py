@@ -64,4 +64,4 @@ class poisson_class():
         return [round(prob_win_home*100, 1),round(prob_draw*100, 1),round(prob_win_away*100, 1)]
 
 
-#print(poisson_class().get_probabilities('FC Bayern', "Borussia Dortmund"))
+print(poisson_class().get_probabilities('FC Bayern', "Borussia Dortmund"))

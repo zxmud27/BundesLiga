@@ -59,6 +59,6 @@ class minimal_class():
             draw_ratio = draw / played_games * 100
             lose_ratio = home_lose / played_games * 100
 
-        return [round(win_ratio, 1), round(draw_ratio, 4), round(lose_ratio, 1)]
+        return [round(win_ratio, 1), round(draw_ratio, 1), round(lose_ratio, 1)]
 
 #print(minimal_class().get_minimal_probabilities('FC Bayern','Borussia Dortmund'))

@@ -9,12 +9,12 @@ def test_bayvsBVB():
     lose= 5
     all = win + draw + lose
 
-    my_win_ratio = round(win/all * 100,4) 
-    my_draw_ratio = round(draw/all * 100,4)
-    my_lose_ratio = round(lose/all * 100,4)
+    my_win_ratio = round(win/all * 100,1) 
+    my_draw_ratio = round(draw/all * 100,1)
+    my_lose_ratio = round(lose/all * 100,1)
 
     match_crawl = teamproject.crawler.DataCrawler()
-    match_crawl.getSeasons(1,2011,34,2018)
+    match_crawl.getSeasons(1,2011,34,2018,"1. Bundesliga")
 
     match =  teamproject.minimal_algorithm.minimal_class()
     my_result = match.get_minimal_probabilities('FC Bayern', "Borussia Dortmund")
@@ -28,12 +28,12 @@ def test_bremvsFCK():
     lose=0
     all = win + draw + lose
 
-    my_win_ratio = round(win/all * 100,4) 
-    my_draw_ratio = round(draw/all * 100,4)
-    my_lose_ratio = round(lose/all * 100,4)
+    my_win_ratio = round(win/all * 100,1) 
+    my_draw_ratio = round(draw/all * 100,1)
+    my_lose_ratio = round(lose/all * 100,1)
 
     match_crawl = teamproject.crawler.DataCrawler()
-    match_crawl.getSeasons(1,2011,34,2018)
+    match_crawl.getSeasons(1,2011,34,2018,"1. Bundesliga")
 
     match =  teamproject.minimal_algorithm.minimal_class()
     my_result = match.get_minimal_probabilities('Werder Bremen', "1. FC Kaiserslautern")
@@ -47,13 +47,13 @@ def test_StuttvsSChalk():
     lose=4
     all = win + draw + lose
     
-    my_win_ratio = round(win/all * 100,4) 
-    my_draw_ratio = round(draw/all * 100,4)
-    my_lose_ratio = round(lose/all * 100,4)
+    my_win_ratio = round(win/all * 100,1) 
+    my_draw_ratio = round(draw/all * 100,1)
+    my_lose_ratio = round(lose/all * 100,1)
    
         
     match_crawl = teamproject.crawler.DataCrawler()
-    match_crawl.getSeasons(1,2013,34,2020)
+    match_crawl.getSeasons(1,2013,34,2020,"1. Bundesliga")
 
     match =  teamproject.minimal_algorithm.minimal_class()
     my_result = match.get_minimal_probabilities('SC Freiburg', "FC Schalke 04")
