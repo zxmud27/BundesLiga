@@ -1,19 +1,33 @@
 import requests
 import json
 import csv
+from datetime import datetime
+import pandas as pd
 
 class DataCrawler():
+
+    def check_date(self, input_filepath):
+        output = []
+        today = datetime.now()
+        with open("teamproject/BundesligaData.csv", "r") as csv_file:
+            reader = csv.reader(csv_file)
+            for row in reader:
+                string_date = row[5]
+                csv_date = datetime.strptime(string_date, '%Y-%m-%d')
+                if csv_date <= today:
+                    output.append(column)
+            return output
 
     def clear(self):
         """
             delete all values in the csv file
         """
-        open("teamproject/BundesligaData.csv", "w")
+        open("BundesligaData.csv", "w")
 
     def getSeasons(self, FirstDay, FirstSeason, LastDay,LastSeason, league):
         """
 
-        crawling data from Website and saving 
+        crawling data from Website and saving
            - hometeam,
            - awayteam,
            - homegoals,
@@ -36,7 +50,7 @@ class DataCrawler():
 
         LastSeason : int
             till this season the data get crawled
-    
+
         league : string
             selection of the league:
                 input can only be "1. Bundesliga" , "2. Bundesliga", "3. Bundesliga", "1. Handball Bundesliga"
@@ -44,12 +58,12 @@ class DataCrawler():
         -------
         Return:
         -------
-    
+
         saving data into csv file
 
         """
         self.clear()
-        csv = open("teamproject/BundesligaData.csv", "w")
+        csv = open("BundesligaData.csv", "w")
         csv.write(
             "HomeTeam" +
             "," +
@@ -154,31 +168,6 @@ class DataCrawler():
             print('Wrong string for crawling a certain league')
 
     def getNamelist(self, year,league):
-        """
-
-        crawling teamnames of the the year variable
-
-        -----------
-        Parameters:
-        -----------
-
-        year : int
-            match year
-
-        league : string
-            selection of the league:
-                input can only be "1. Bundesliga" , "2. Bundesliga", "3. Bundesliga", "1. Handball Bundesliga"
-
-        -------
-        Return:
-        -------
-    
-        name_list: list of strings
-            Teamnames in the list are saved for later use
-
-        """
-
-
         startday_counter = 0
         name_list = []
         counter = 0
@@ -218,8 +207,13 @@ class DataCrawler():
             print('Wrong string for crawling a certain league')
 
 
+output = DataCrawler().check_date("BundesligaData.csv")
+with open("Date.csv", "w") as output_file:
+    writer = csv.writer(output_file)
+    writer.writerows(output)
 
+#print(DataCrawler().check_date("BundesligaData.csv"))
 #BLCrawler = DataCrawler()
 #BLCrawler.getSeasons(1,2011,22,2018,"1. Bundesliga")
-#print(BLCrawler.getNamelist(2011,"hbl"))
+#print(BLCrawler.getNamelist(2011,"1. Handball Bundesliga"))
 # handball von 2011 bis 2016 in ligadb
