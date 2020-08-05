@@ -53,3 +53,21 @@ def test_SCFvsS04():
             bool_result = False
 
     assert bool_result
+
+def test_GWD_TSV_Hannover():
+    
+    match_crawl = teamproject.crawler.DataCrawler()
+    match_crawl.getSeasons(1,2011,34,2014,"1. Handball Bundesliga")
+
+    match =  teamproject.poisson_algorithm.poisson_class()
+    my_result = match.get_probabilities('GWD Minden', "TSV Hannover")
+    my_result[0] = np.float(my_result[0])
+    my_result[1] = np.float(my_result[1])
+    my_result[2] = np.float(my_result[2])
+    result = [47.6, 5.3, 47.1]
+    bool_result = True
+    for i in range(0,3):
+        if not result[i] == my_result[i]:
+            bool_result = False
+
+    assert bool_result

@@ -1,1225 +1,181 @@
 HomeTeam,AwayTeam,HomeGoals,AwayGoals,Date,win
-TSV Hannover,Füchse Berlin,28,31,2011-09-03T19:00:00,a
-SC Magdeburg,FA Göppingen,25,22,2011-09-03T19:00:00,h
-HBW Balingen,Gummersbach,36,28,2011-09-03T19:00:00,h
-HSG Wetzlar,Hildesheim,30,28,2011-09-03T19:00:00,h
-HSV Hamburg,TuS N-Lübbecke,28,22,2011-09-03T19:00:00,h
-MT Melsungen,TV Hüttenberg,28,21,2011-09-04T17:30:00,h
-THW Kiel,SG Flensburg,35,21,2011-09-04T17:30:00,h
-TV Grosswallstadt,Rhein-Neckar Löwen,24,27,2011-09-07T20:15:00,a
-TBV Lemgo,Bergischer HC 06,34,28,2011-09-07T20:15:00,h
-Gummersbach,TV Grosswallstadt,35,30,2011-09-10T19:00:00,h
-SG Flensburg,TBV Lemgo,32,26,2011-09-10T19:00:00,h
-Rhein-Neckar Löwen,HBW Balingen,29,22,2011-09-10T19:00:00,h
-TuS N-Lübbecke,SC Magdeburg,26,33,2011-09-10T19:00:00,a
-FA Göppingen,HSG Wetzlar,32,27,2011-09-10T20:15:00,h
-TV Hüttenberg,THW Kiel,20,38,2011-09-10T20:15:00,a
-Bergischer HC 06,TSV Hannover,29,28,2011-09-11T17:30:00,h
-Hildesheim,MT Melsungen,35,36,2011-09-11T17:30:00,a
-Füchse Berlin,HSV Hamburg,26,25,2011-09-11T17:30:00,h
-SC Magdeburg,Füchse Berlin,27,29,2011-09-06T20:15:00,a
-TV Grosswallstadt,HBW Balingen,26,24,2011-09-14T20:15:00,h
-HSG Wetzlar,TV Hüttenberg,28,20,2011-09-16T20:15:00,h
-TBV Lemgo,TuS N-Lübbecke,112,13,2011-09-17T19:00:00,h
-TSV Hannover,Rhein-Neckar Löwen,33,32,2011-09-17T19:00:00,h
-MT Melsungen,Gummersbach,33,26,2011-09-17T19:00:00,h
-FA Göppingen,SG Flensburg,23,25,2011-09-17T20:15:00,a
-HSV Hamburg,Hildesheim,34,28,2011-09-18T15:00:00,h
-THW Kiel,Bergischer HC 06,34,18,2011-09-18T17:30:00,h
-Rhein-Neckar Löwen,THW Kiel,27,30,2011-09-24T15:00:00,a
-Gummersbach,HSV Hamburg,31,32,2011-09-24T19:00:00,a
-HBW Balingen,TSV Hannover,32,29,2011-09-24T19:00:00,h
-SG Flensburg,MT Melsungen,28,25,2011-09-24T19:00:00,h
-TuS N-Lübbecke,FA Göppingen,31,27,2011-09-24T19:00:00,h
-Bergischer HC 06,TV Grosswallstadt,25,29,2011-09-24T19:00:00,a
-TV Hüttenberg,TBV Lemgo,27,29,2011-09-24T20:15:00,a
-Hildesheim,SC Magdeburg,25,30,2011-09-25T17:30:00,a
-Füchse Berlin,HSG Wetzlar,25,23,2011-09-25T17:30:00,h
-TBV Lemgo,Rhein-Neckar Löwen,25,26,2011-09-27T20:15:00,a
-FA Göppingen,Füchse Berlin,26,24,2011-09-28T20:15:00,h
-THW Kiel,TSV Hannover,34,19,2011-09-28T20:15:00,h
-TV Grosswallstadt,SG Flensburg,20,21,2011-09-30T19:45:00,a
-HSV Hamburg,TV Hüttenberg,35,26,2011-10-01T19:00:00,h
-MT Melsungen,HBW Balingen,28,19,2011-10-01T19:00:00,h
-TuS N-Lübbecke,Hildesheim,33,27,2011-10-01T19:00:00,h
-SC Magdeburg,Gummersbach,33,27,2011-10-02T17:30:00,h
-HSG Wetzlar,Bergischer HC 06,33,28,2011-10-02T17:30:00,h
-HBW Balingen,THW Kiel,21,31,2011-10-05T20:15:00,a
-Füchse Berlin,TuS N-Lübbecke,33,26,2011-10-05T20:15:00,h
-TSV Hannover,TV Grosswallstadt,34,27,2011-10-07T19:45:00,h
-Rhein-Neckar Löwen,MT Melsungen,30,30,2011-10-08T19:00:00,d
-SG Flensburg,HSG Wetzlar,36,30,2011-10-08T19:00:00,h
-TV Hüttenberg,SC Magdeburg,22,33,2011-10-08T20:15:00,a
-Bergischer HC 06,HSV Hamburg,25,29,2011-10-09T15:00:00,a
-Gummersbach,TBV Lemgo,23,32,2011-10-09T17:30:00,a
-Hildesheim,FA Göppingen,30,26,2011-10-09T17:30:00,h
-HSV Hamburg,SG Flensburg,27,19,2011-10-11T20:15:00,h
-HSG Wetzlar,HBW Balingen,23,23,2011-10-12T20:15:00,d
-TV Grosswallstadt,THW Kiel,25,32,2011-10-12T20:15:00,a
-Hildesheim,Füchse Berlin,27,31,2011-10-12T20:15:00,a
-SC Magdeburg,Rhein-Neckar Löwen,24,29,2011-10-14T19:45:00,a
-TuS N-Lübbecke,Gummersbach,40,25,2011-10-15T15:00:00,h
-FA Göppingen,TV Hüttenberg,26,25,2011-10-15T20:15:00,h
-TBV Lemgo,TSV Hannover,37,34,2011-10-16T17:30:00,h
-MT Melsungen,Bergischer HC 06,33,29,2011-10-16T18:00:00,h
-TSV Hannover,HSV Hamburg,34,37,2011-10-18T20:15:00,a
-THW Kiel,MT Melsungen,28,23,2011-10-19T20:15:00,h
-Gummersbach,Füchse Berlin,28,28,2011-10-19T20:15:00,d
-Rhein-Neckar Löwen,FA Göppingen,30,25,2011-10-22T15:00:00,h
-Bergischer HC 06,SC Magdeburg,40,31,2011-10-22T19:00:00,h
-SG Flensburg,TuS N-Lübbecke,33,28,2011-10-22T19:00:00,h
-TV Hüttenberg,Hildesheim,29,23,2011-10-22T20:15:00,h
-HBW Balingen,TBV Lemgo,32,28,2011-10-23T15:00:00,h
-TV Grosswallstadt,HSG Wetzlar,28,23,2011-10-23T17:30:00,h
-HSG Wetzlar,Rhein-Neckar Löwen,27,33,2011-10-28T19:45:00,a
-SC Magdeburg,SG Flensburg,28,31,2011-10-29T15:00:00,a
-TuS N-Lübbecke,TV Hüttenberg,35,28,2011-10-29T19:00:00,h
-HSV Hamburg,HBW Balingen,36,22,2011-10-29T20:15:00,h
-FA Göppingen,Bergischer HC 06,32,31,2011-10-29T20:15:00,h
-Füchse Berlin,THW Kiel,32,33,2011-10-30T17:30:00,a
-MT Melsungen,TSV Hannover,31,36,2011-10-30T17:30:00,a
-Hildesheim,Gummersbach,31,34,2011-10-30T17:30:00,a
-TBV Lemgo,TV Grosswallstadt,19,18,2011-10-30T17:30:00,h
-Bergischer HC 06,TuS N-Lübbecke,30,31,2011-11-11T19:30:00,a
-TV Grosswallstadt,MT Melsungen,28,28,2011-11-11T19:45:00,d
-THW Kiel,TBV Lemgo,35,26,2011-11-12T18:30:00,h
-TSV Hannover,HSG Wetzlar,30,24,2011-11-12T19:00:00,h
-SG Flensburg,Hildesheim,36,20,2011-11-12T19:00:00,h
-TV Hüttenberg,Füchse Berlin,20,30,2011-11-12T20:15:00,a
-Gummersbach,FA Göppingen,28,29,2011-11-13T15:00:00,a
-Rhein-Neckar Löwen,HSV Hamburg,33,29,2011-11-14T19:00:00,h
-HBW Balingen,SC Magdeburg,23,28,2011-12-14T19:00:00,a
-Füchse Berlin,SG Flensburg,33,30,2011-11-08T20:15:00,h
-FA Göppingen,HBW Balingen,22,21,2011-11-15T20:15:00,h
-HSG Wetzlar,THW Kiel,24,28,2011-11-16T20:15:00,a
-HSV Hamburg,TV Grosswallstadt,31,22,2011-11-16T20:15:00,h
-TuS N-Lübbecke,Rhein-Neckar Löwen,32,31,2011-11-19T15:00:00,h
-SC Magdeburg,TSV Hannover,41,26,2011-11-19T15:00:00,h
-TBV Lemgo,MT Melsungen,34,30,2011-11-19T19:00:00,h
-Gummersbach,TV Hüttenberg,35,32,2011-11-19T19:00:00,h
-Hildesheim,Bergischer HC 06,29,34,2011-11-20T17:30:00,a
-THW Kiel,FA Göppingen,28,20,2011-09-14T20:15:00,h
-SG Flensburg,Gummersbach,43,27,2011-11-22T20:15:00,h
-Bergischer HC 06,Füchse Berlin,29,32,2011-11-23T20:15:00,a
-TV Grosswallstadt,SC Magdeburg,32,28,2011-11-23T20:15:00,h
-TBV Lemgo,HSV Hamburg,28,36,2011-11-23T20:15:00,a
-Rhein-Neckar Löwen,Hildesheim,39,29,2011-11-26T19:00:00,h
-HBW Balingen,TuS N-Lübbecke,25,24,2011-11-26T19:00:00,h
-TSV Hannover,TV Hüttenberg,30,30,2011-11-27T17:30:00,d
-MT Melsungen,HSG Wetzlar,30,30,2011-11-27T18:00:00,d
-Füchse Berlin,Rhein-Neckar Löwen,35,28,2011-11-29T19:00:00,h
-SC Magdeburg,THW Kiel,26,33,2011-11-29T20:45:00,a
-FA Göppingen,TSV Hannover,34,24,2011-11-30T20:15:00,h
-TV Hüttenberg,SG Flensburg,26,29,2011-11-30T20:15:00,a
-Gummersbach,Bergischer HC 06,29,31,2011-11-30T20:15:00,a
-TuS N-Lübbecke,TV Grosswallstadt,32,27,2011-12-03T19:00:00,h
-HSV Hamburg,MT Melsungen,35,28,2011-12-03T20:15:00,h
-Hildesheim,HBW Balingen,24,26,2011-12-04T17:30:00,h
-HSG Wetzlar,TBV Lemgo,32,29,2011-12-04T17:30:00,h
-MT Melsungen,SC Magdeburg,29,35,2011-11-16T20:15:00,a
-TSV Hannover,Hildesheim,31,24,2011-12-09T19:45:00,h
-Gummersbach,Rhein-Neckar Löwen,27,35,2011-12-11T15:00:00,a
-TBV Lemgo,FA Göppingen,26,20,2011-12-11T17:30:00,h
-HBW Balingen,TV Hüttenberg,27,28,2011-12-11T17:30:00,a
-TV Grosswallstadt,Füchse Berlin,26,29,2011-12-11T17:30:00,a
-THW Kiel,HSV Hamburg,30,25,2011-12-11T17:30:00,h
-Bergischer HC 06,SG Flensburg,25,36,2011-12-11T17:30:00,a
-HSG Wetzlar,TuS N-Lübbecke,24,28,2011-12-13T20:15:00,a
-TuS N-Lübbecke,THW Kiel,22,32,2011-11-09T20:15:00,a
-HSV Hamburg,HSG Wetzlar,25,24,2011-12-17T15:00:00,h
-SG Flensburg,Rhein-Neckar Löwen,37,34,2011-12-17T15:00:00,h
-SC Magdeburg,TBV Lemgo,35,29,2011-12-17T19:00:00,h
-TV Hüttenberg,Bergischer HC 06,32,33,2011-12-17T20:15:00,a
-FA Göppingen,MT Melsungen,36,29,2011-12-17T20:15:00,h
-Gummersbach,TSV Hannover,33,33,2011-12-17T20:15:00,d
-Hildesheim,TV Grosswallstadt,26,29,2011-12-18T17:30:00,a
-Füchse Berlin,HBW Balingen,28,20,2011-12-18T17:30:00,h
-TBV Lemgo,Füchse Berlin,27,31,2011-12-20T20:15:00,a
-HSV Hamburg,SC Magdeburg,32,23,2011-12-21T19:00:00,h
-TV Grosswallstadt,FA Göppingen,23,21,2011-12-21T20:15:00,h
-HSG Wetzlar,Gummersbach,35,27,2011-12-21T20:15:00,h
-Rhein-Neckar Löwen,TV Hüttenberg,30,26,2011-12-21T20:15:00,h
-MT Melsungen,TuS N-Lübbecke,24,24,2011-12-21T20:15:00,d
-THW Kiel,Hildesheim,31,22,2011-12-21T20:15:00,h
-TSV Hannover,SG Flensburg,29,31,2011-12-21T20:15:00,a
-HBW Balingen,Bergischer HC 06,23,22,2011-12-22T20:15:00,h
-Bergischer HC 06,Rhein-Neckar Löwen,25,34,2011-12-26T17:30:00,a
-Hildesheim,TBV Lemgo,24,29,2011-12-26T17:30:00,a
-Gummersbach,THW Kiel,25,28,2011-12-26T18:30:00,a
-Füchse Berlin,MT Melsungen,33,21,2011-12-26T20:15:00,h
-HSV Hamburg,FA Göppingen,34,29,2011-12-27T19:00:00,h
-TV Hüttenberg,TV Grosswallstadt,29,32,2011-12-27T19:00:00,a
-SG Flensburg,HBW Balingen,35,22,2011-12-27T20:15:00,h
-SC Magdeburg,HSG Wetzlar,31,25,2011-12-27T20:15:00,h
-TuS N-Lübbecke,TSV Hannover,26,30,2011-12-27T20:15:00,a
-FA Göppingen,SC Magdeburg,29,30,2011-12-06T19:00:00,a
-SG Flensburg,THW Kiel,27,32,2011-12-06T20:15:00,a
-Rhein-Neckar Löwen,TV Grosswallstadt,30,23,2011-12-07T20:15:00,h
-Füchse Berlin,TSV Hannover,28,25,2011-12-07T20:15:00,h
-TuS N-Lübbecke,HSV Hamburg,32,31,2011-12-07T20:15:00,h
-Gummersbach,HBW Balingen,27,31,2011-12-07T20:15:00,a
-TV Hüttenberg,MT Melsungen,27,26,2011-12-07T20:15:00,h
-Bergischer HC 06,TBV Lemgo,32,33,2011-12-07T20:15:00,a
-Hildesheim,HSG Wetzlar,23,24,2011-12-07T20:15:00,a
-TBV Lemgo,SG Flensburg,31,29,2012-02-07T20:15:00,h
-TV Grosswallstadt,Gummersbach,32,33,2012-02-08T20:15:00,a
-HBW Balingen,Rhein-Neckar Löwen,24,30,2012-02-08T20:15:00,a
-SC Magdeburg,TuS N-Lübbecke,28,25,2012-02-08T20:15:00,h
-HSG Wetzlar,FA Göppingen,0,0,2012-02-08T20:15:00,d
-HSV Hamburg,Füchse Berlin,24,23,2012-02-08T20:15:00,h
-TSV Hannover,Bergischer HC 06,31,35,2012-02-11T15:00:00,a
-THW Kiel,TV Hüttenberg,31,20,2012-02-12T17:30:00,h
-MT Melsungen,Hildesheim,27,23,2012-02-12T17:30:00,h
-Füchse Berlin,SC Magdeburg,24,20,2012-02-15T19:30:00,h
-Bergischer HC 06,THW Kiel,21,34,2012-02-15T20:15:00,a
-Gummersbach,MT Melsungen,32,29,2012-02-15T20:15:00,h
-SG Flensburg,FA Göppingen,32,28,2012-02-15T20:15:00,h
-Rhein-Neckar Löwen,TSV Hannover,35,27,2012-02-15T20:30:00,h
-TV Hüttenberg,HSG Wetzlar,22,26,2012-02-17T19:45:00,a
-TuS N-Lübbecke,TBV Lemgo,25,29,2012-02-18T15:00:00,a
-HBW Balingen,TV Grosswallstadt,27,20,2012-02-18T19:00:00,h
-Hildesheim,HSV Hamburg,31,40,2012-02-19T17:30:00,a
-THW Kiel,Rhein-Neckar Löwen,33,25,2012-02-22T19:30:00,h
-TV Grosswallstadt,Bergischer HC 06,24,23,2012-02-22T20:15:00,h
-HSG Wetzlar,Füchse Berlin,26,29,2012-02-22T20:15:00,a
-TSV Hannover,HBW Balingen,30,24,2012-02-24T19:45:00,h
-TBV Lemgo,TV Hüttenberg,27,27,2012-02-25T19:00:00,d
-FA Göppingen,TuS N-Lübbecke,27,25,2012-02-25T19:00:00,h
-SC Magdeburg,Hildesheim,36,25,2012-02-26T17:30:00,h
-MT Melsungen,SG Flensburg,32,32,2012-02-26T17:30:00,d
-HSV Hamburg,Gummersbach,37,30,2012-05-16T20:15:00,h
-Gummersbach,SC Magdeburg,25,21,2012-03-03T15:00:00,h
-Bergischer HC 06,HSG Wetzlar,23,22,2012-03-03T19:00:00,h
-HBW Balingen,MT Melsungen,28,29,2012-03-03T19:00:00,a
-SG Flensburg,TV Grosswallstadt,32,25,2012-03-03T19:00:00,h
-TV Hüttenberg,HSV Hamburg,26,26,2012-03-04T17:30:00,d
-Füchse Berlin,FA Göppingen,30,30,2012-03-04T17:30:00,d
-Hildesheim,TuS N-Lübbecke,25,31,2012-03-04T17:30:00,a
-TSV Hannover,THW Kiel,24,43,2012-03-04T17:30:00,a
-Rhein-Neckar Löwen,TBV Lemgo,30,30,2012-04-24T20:15:00,d
-TuS N-Lübbecke,Füchse Berlin,24,31,2012-03-06T19:00:00,a
-HSG Wetzlar,SG Flensburg,24,26,2012-03-07T20:15:00,a
-MT Melsungen,Rhein-Neckar Löwen,28,35,2012-03-07T20:15:00,a
-SC Magdeburg,TV Hüttenberg,32,25,2012-03-07T20:15:00,h
-TBV Lemgo,Gummersbach,32,34,2012-03-07T20:15:00,a
-TV Grosswallstadt,TSV Hannover,26,31,2012-03-07T20:15:00,a
-FA Göppingen,Hildesheim,32,25,2012-03-07T20:15:00,h
-HSV Hamburg,Bergischer HC 06,32,27,2012-03-07T20:15:00,h
-THW Kiel,HBW Balingen,35,21,2012-03-07T20:15:00,h
-Rhein-Neckar Löwen,SC Magdeburg,30,27,2012-03-09T19:45:00,h
-SG Flensburg,HSV Hamburg,36,30,2012-03-10T15:00:00,h
-TSV Hannover,TBV Lemgo,28,28,2012-03-10T19:00:00,d
-Gummersbach,TuS N-Lübbecke,31,30,2012-03-10T19:00:00,h
-THW Kiel,TV Grosswallstadt,28,15,2012-03-10T19:00:00,h
-TV Hüttenberg,FA Göppingen,18,19,2012-03-10T20:15:00,a
-Füchse Berlin,Hildesheim,36,18,2012-03-11T17:30:00,h
-HBW Balingen,HSG Wetzlar,28,25,2012-03-11T17:30:00,h
-Bergischer HC 06,MT Melsungen,25,27,2012-03-11T17:30:00,a
-HSG Wetzlar,TV Grosswallstadt,19,20,2012-03-16T19:45:00,a
-TBV Lemgo,HBW Balingen,31,29,2012-03-17T15:00:00,h
-Hildesheim,TV Hüttenberg,22,24,2012-03-18T15:00:00,a
-FA Göppingen,Rhein-Neckar Löwen,29,30,2012-03-20T20:15:00,a
-Füchse Berlin,Gummersbach,27,24,2012-03-20T20:15:00,h
-HSV Hamburg,TSV Hannover,34,30,2012-03-21T20:15:00,h
-SC Magdeburg,Bergischer HC 06,37,27,2012-03-21T20:15:00,h
-TuS N-Lübbecke,SG Flensburg,21,25,2012-03-21T20:15:00,a
-MT Melsungen,THW Kiel,19,27,2012-03-21T20:15:00,a
-TV Grosswallstadt,TBV Lemgo,21,21,2012-03-23T19:45:00,d
-TV Hüttenberg,TuS N-Lübbecke,32,27,2012-03-24T20:15:00,h
-TSV Hannover,MT Melsungen,29,31,2012-03-25T17:30:00,a
-SG Flensburg,SC Magdeburg,32,21,2012-03-27T20:15:00,h
-Rhein-Neckar Löwen,HSG Wetzlar,28,25,2012-03-27T20:15:00,h
-Bergischer HC 06,FA Göppingen,27,27,2012-03-28T20:15:00,d
-HBW Balingen,HSV Hamburg,21,26,2012-03-28T20:15:00,a
-Gummersbach,Hildesheim,36,31,2012-03-28T20:15:00,h
-THW Kiel,Füchse Berlin,36,28,2012-03-28T20:15:00,h
-HSV Hamburg,Rhein-Neckar Löwen,28,24,2012-04-10T19:00:00,h
-HSG Wetzlar,TSV Hannover,20,19,2012-04-10T20:15:00,h
-TBV Lemgo,THW Kiel,25,31,2012-04-11T19:00:00,a
-Hildesheim,SG Flensburg,24,32,2012-04-11T20:15:00,a
-Füchse Berlin,TV Hüttenberg,36,28,2012-04-11T20:15:00,h
-MT Melsungen,TV Grosswallstadt,24,23,2012-04-11T20:15:00,h
-SC Magdeburg,HBW Balingen,26,26,2012-04-11T20:15:00,d
-TuS N-Lübbecke,Bergischer HC 06,26,20,2012-04-11T20:15:00,h
-FA Göppingen,Gummersbach,30,38,2012-04-11T20:15:00,a
-SG Flensburg,Füchse Berlin,28,25,2012-04-14T15:00:00,h
-Bergischer HC 06,Hildesheim,28,29,2012-04-14T19:00:00,a
-TV Grosswallstadt,HSV Hamburg,26,34,2012-04-14T19:00:00,a
-Rhein-Neckar Löwen,TuS N-Lübbecke,30,24,2012-04-14T19:00:00,h
-TV Hüttenberg,Gummersbach,28,28,2012-04-14T20:15:00,d
-HBW Balingen,FA Göppingen,27,31,2012-04-15T17:30:00,a
-MT Melsungen,TBV Lemgo,28,29,2012-04-15T17:30:00,a
-TSV Hannover,SC Magdeburg,22,29,2012-04-15T17:30:00,a
-THW Kiel,HSG Wetzlar,33,27,2012-05-16T20:15:00,h
-HSV Hamburg,TBV Lemgo,31,30,2012-04-17T20:15:00,h
-FA Göppingen,THW Kiel,23,33,2012-04-18T20:15:00,a
-Gummersbach,SG Flensburg,30,32,2012-04-18T20:15:00,a
-SC Magdeburg,TV Grosswallstadt,27,21,2012-04-18T20:15:00,h
-Füchse Berlin,Bergischer HC 06,35,27,2012-04-18T20:15:00,h
-Hildesheim,Rhein-Neckar Löwen,25,38,2012-04-18T20:15:00,a
-HSG Wetzlar,MT Melsungen,25,26,2012-04-21T15:00:00,a
-TuS N-Lübbecke,HBW Balingen,30,21,2012-04-21T20:15:00,h
-TV Hüttenberg,TSV Hannover,29,29,2012-04-21T20:15:00,d
-TV Grosswallstadt,TuS N-Lübbecke,28,24,2012-04-27T19:45:00,h
-TBV Lemgo,HSG Wetzlar,32,24,2012-04-28T19:00:00,h
-HBW Balingen,Hildesheim,27,21,2012-04-28T19:00:00,h
-THW Kiel,SC Magdeburg,32,27,2012-05-01T20:15:00,h
-TSV Hannover,FA Göppingen,25,23,2012-05-02T20:15:00,h
-SG Flensburg,TV Hüttenberg,37,27,2012-05-02T20:15:00,h
-Bergischer HC 06,Gummersbach,26,29,2012-05-02T20:15:00,a
-Rhein-Neckar Löwen,Füchse Berlin,31,29,2012-05-02T20:15:00,h
-MT Melsungen,HSV Hamburg,30,29,2012-05-02T20:15:00,h
-Rhein-Neckar Löwen,Gummersbach,32,33,2012-05-04T20:15:00,a
-SC Magdeburg,MT Melsungen,28,25,2012-05-11T19:45:00,h
-FA Göppingen,TBV Lemgo,34,31,2012-05-12T18:30:00,h
-TuS N-Lübbecke,HSG Wetzlar,25,25,2012-05-12T19:00:00,d
-SG Flensburg,Bergischer HC 06,37,20,2012-05-12T19:00:00,h
-TV Hüttenberg,HBW Balingen,31,29,2012-05-12T20:15:00,h
-HSV Hamburg,THW Kiel,34,38,2012-05-13T13:10:00,a
-Hildesheim,TSV Hannover,24,29,2012-05-13T17:30:00,a
-Füchse Berlin,TV Grosswallstadt,35,19,2012-05-13T18:15:00,h
-TBV Lemgo,SC Magdeburg,37,29,2012-05-16T20:15:00,h
-MT Melsungen,FA Göppingen,24,32,2012-05-16T20:15:00,a
-Rhein-Neckar Löwen,SG Flensburg,27,34,2012-05-16T20:45:00,a
-HBW Balingen,Füchse Berlin,21,26,2012-05-18T19:45:00,a
-TV Grosswallstadt,Hildesheim,35,20,2012-05-18T19:45:00,h
-Bergischer HC 06,TV Hüttenberg,28,25,2012-05-19T19:00:00,h
-HSG Wetzlar,HSV Hamburg,26,28,2012-05-19T19:00:00,a
-THW Kiel,TuS N-Lübbecke,27,24,2012-05-20T17:30:00,h
-TSV Hannover,Gummersbach,35,37,2012-05-23T20:15:00,a
-SC Magdeburg,HSV Hamburg,27,23,2012-03-31T15:00:00,h
-TuS N-Lübbecke,MT Melsungen,34,28,2012-05-26T19:00:00,h
-Bergischer HC 06,HBW Balingen,22,30,2012-05-26T19:00:00,a
-Füchse Berlin,TBV Lemgo,36,24,2012-05-27T15:00:00,h
-Gummersbach,HSG Wetzlar,24,25,2012-05-30T20:15:00,a
-SG Flensburg,TSV Hannover,39,27,2012-05-30T20:15:00,h
-FA Göppingen,TV Grosswallstadt,29,29,2012-05-30T20:15:00,d
-TV Hüttenberg,Rhein-Neckar Löwen,26,32,2012-05-30T20:15:00,a
-Hildesheim,THW Kiel,24,35,2012-05-30T20:15:00,a
-MT Melsungen,Füchse Berlin,28,28,2012-06-02T16:30:00,d
-TSV Hannover,TuS N-Lübbecke,31,32,2012-06-02T16:30:00,a
-TBV Lemgo,Hildesheim,33,23,2012-06-02T16:30:00,h
-HSG Wetzlar,SC Magdeburg,32,29,2012-06-02T16:30:00,h
-TV Grosswallstadt,TV Hüttenberg,32,27,2012-06-02T16:30:00,h
-Rhein-Neckar Löwen,Bergischer HC 06,30,28,2012-06-02T16:30:00,h
-FA Göppingen,HSV Hamburg,28,29,2012-06-02T16:30:00,a
-THW Kiel,Gummersbach,39,29,2012-06-02T16:30:00,h
-HBW Balingen,SG Flensburg,25,27,2012-06-02T16:30:00,a
-TV Grosswallstadt,MT Melsungen,23,23,2012-08-24T19:45:00,d
-Gummersbach,THW Kiel,25,34,2012-08-25T15:00:00,a
-SG Flensburg,TUSEM Essen,40,20,2012-08-25T19:00:00,h
-TBV Lemgo,TuS N-Lübbecke,29,32,2012-08-25T19:00:00,a
-HSG Wetzlar,HSV Hamburg,33,26,2012-08-25T19:00:00,h
-TSV Hannover,HBW Balingen,25,20,2012-08-25T19:00:00,h
-FA Göppingen,Rhein-Neckar Löwen,25,30,2012-08-26T17:30:00,a
-Füchse Berlin,GWD Minden,29,25,2012-08-26T17:30:00,h
-SC Magdeburg,TV Neuhausen,35,24,2012-08-26T17:30:00,h
-TUSEM Essen,SC Magdeburg,26,32,2012-08-31T19:45:00,a
-GWD Minden,Gummersbach,27,31,2012-08-31T19:45:00,a
-HSV Hamburg,TV Grosswallstadt,29,19,2012-09-01T19:00:00,h
-TuS N-Lübbecke,TSV Hannover,36,28,2012-09-01T19:00:00,h
-MT Melsungen,Rhein-Neckar Löwen,23,26,2012-09-01T19:00:00,a
-HBW Balingen,HSG Wetzlar,26,28,2012-09-01T19:00:00,a
-FA Göppingen,TBV Lemgo,33,28,2012-09-01T20:15:00,h
-TV Neuhausen,Füchse Berlin,22,29,2012-09-01T20:15:00,a
-THW Kiel,SG Flensburg,34,27,2012-11-07T19:30:00,h
-SC Magdeburg,HSV Hamburg,28,29,2012-09-05T19:00:00,a
-HSG Wetzlar,TV Grosswallstadt,26,25,2012-09-05T19:00:00,h
-GWD Minden,TV Neuhausen,28,23,2012-09-05T19:00:00,h
-SG Flensburg,HBW Balingen,39,24,2012-09-05T19:00:00,h
-Rhein-Neckar Löwen,TuS N-Lübbecke,24,19,2012-09-05T19:00:00,h
-Füchse Berlin,FA Göppingen,29,26,2012-09-05T19:00:00,h
-TBV Lemgo,MT Melsungen,31,28,2012-09-05T19:00:00,h
-Gummersbach,TUSEM Essen,29,27,2012-09-05T19:00:00,h
-TSV Hannover,THW Kiel,30,36,2012-09-05T19:00:00,a
-TV Grosswallstadt,Rhein-Neckar Löwen,24,30,2012-09-07T19:45:00,a
-THW Kiel,GWD Minden,37,26,2012-09-08T19:00:00,h
-MT Melsungen,HSG Wetzlar,28,25,2012-09-08T19:00:00,h
-HBW Balingen,TBV Lemgo,29,27,2012-09-08T19:00:00,h
-FA Göppingen,Gummersbach,29,32,2012-09-08T19:00:00,a
-TV Neuhausen,TSV Hannover,31,32,2012-09-08T19:00:00,a
-TUSEM Essen,Füchse Berlin,24,31,2012-09-09T17:30:00,a
-HSV Hamburg,SG Flensburg,25,25,2012-09-12T20:15:00,d
-TuS N-Lübbecke,SC Magdeburg,29,24,2012-09-12T20:15:00,h
-Rhein-Neckar Löwen,HSG Wetzlar,31,29,2012-09-15T19:00:00,h
-Gummersbach,TuS N-Lübbecke,24,32,2012-09-15T19:00:00,a
-TSV Hannover,HSV Hamburg,26,30,2012-09-15T19:00:00,a
-GWD Minden,TUSEM Essen,30,26,2012-09-15T19:00:00,h
-TV Neuhausen,FA Göppingen,24,28,2012-09-15T19:00:00,a
-Füchse Berlin,THW Kiel,26,26,2012-09-16T17:30:00,d
-SC Magdeburg,HBW Balingen,36,30,2012-09-16T17:30:00,h
-TBV Lemgo,TV Grosswallstadt,33,28,2012-09-16T17:30:00,h
-SG Flensburg,MT Melsungen,35,29,2012-12-05T20:15:00,h
-THW Kiel,SC Magdeburg,33,30,2012-09-26T20:15:00,h
-TuS N-Lübbecke,Füchse Berlin,29,33,2012-09-26T20:15:00,a
-TUSEM Essen,TV Neuhausen,27,28,2012-09-28T19:45:00,a
-HSG Wetzlar,TBV Lemgo,31,28,2012-09-29T19:00:00,h
-HBW Balingen,Gummersbach,29,25,2012-09-29T19:00:00,h
-FA Göppingen,GWD Minden,28,28,2012-09-29T20:15:00,d
-TV Grosswallstadt,SG Flensburg,23,29,2012-09-30T17:30:00,a
-MT Melsungen,TSV Hannover,26,26,2012-09-30T17:30:00,d
-HSV Hamburg,Rhein-Neckar Löwen,23,30,2012-11-07T20:15:00,a
-Gummersbach,HSV Hamburg,31,35,2012-10-02T19:30:00,a
-TV Neuhausen,THW Kiel,20,39,2012-10-02T20:15:00,a
-HSG Wetzlar,SG Flensburg,31,31,2012-10-03T17:30:00,d
-Füchse Berlin,HBW Balingen,27,26,2012-10-03T17:30:00,h
-GWD Minden,TuS N-Lübbecke,32,31,2012-10-05T19:45:00,h
-Rhein-Neckar Löwen,TBV Lemgo,31,26,2012-10-06T19:00:00,h
-TSV Hannover,TV Grosswallstadt,31,27,2012-10-06T19:00:00,h
-FA Göppingen,TUSEM Essen,35,19,2012-10-06T20:15:00,h
-SC Magdeburg,MT Melsungen,34,30,2012-10-07T17:30:00,h
-GWD Minden,HSV Hamburg,22,34,2012-10-10T19:00:00,a
-Rhein-Neckar Löwen,SG Flensburg,30,27,2012-10-10T20:15:00,h
-TV Grosswallstadt,Füchse Berlin,18,25,2012-10-12T19:45:00,a
-TuS N-Lübbecke,TV Neuhausen,29,26,2012-10-13T19:00:00,h
-HSG Wetzlar,TSV Hannover,27,31,2012-10-13T19:00:00,a
-MT Melsungen,Gummersbach,32,27,2012-10-13T19:00:00,h
-HBW Balingen,TUSEM Essen,29,23,2012-10-13T19:00:00,h
-THW Kiel,FA Göppingen,36,25,2012-10-14T17:30:00,h
-TBV Lemgo,SC Magdeburg,26,28,2012-10-14T17:30:00,a
-Füchse Berlin,MT Melsungen,27,27,2012-09-12T19:00:00,d
-SG Flensburg,TBV Lemgo,33,22,2012-10-16T20:15:00,h
-SC Magdeburg,HSG Wetzlar,24,26,2012-10-17T19:00:00,a
-TV Neuhausen,HSV Hamburg,28,28,2012-10-17T19:45:00,d
-Gummersbach,TV Grosswallstadt,25,24,2012-10-20T19:00:00,h
-GWD Minden,HBW Balingen,31,31,2012-10-20T19:00:00,d
-FA Göppingen,TuS N-Lübbecke,29,22,2012-10-20T20:15:00,h
-TUSEM Essen,THW Kiel,25,37,2012-10-21T15:00:00,a
-TSV Hannover,Rhein-Neckar Löwen,26,32,2012-10-21T17:30:00,a
-TV Grosswallstadt,GWD Minden,35,22,2012-10-26T19:45:00,h
-HSV Hamburg,THW Kiel,30,33,2012-10-27T15:00:00,a
-TuS N-Lübbecke,TUSEM Essen,34,27,2012-10-27T19:00:00,h
-HSG Wetzlar,Gummersbach,38,32,2012-10-27T19:00:00,h
-HBW Balingen,FA Göppingen,29,25,2012-10-27T19:00:00,h
-MT Melsungen,TV Neuhausen,36,25,2012-10-27T20:15:00,h
-Rhein-Neckar Löwen,SC Magdeburg,30,22,2012-10-28T15:00:00,h
-SG Flensburg,Füchse Berlin,29,18,2012-10-28T17:30:00,h
-TBV Lemgo,TSV Hannover,30,32,2012-10-28T17:30:00,a
-TV Neuhausen,HBW Balingen,34,29,2012-11-09T19:45:00,h
-Gummersbach,Rhein-Neckar Löwen,28,30,2012-11-10T15:00:00,a
-TSV Hannover,SG Flensburg,29,28,2012-11-10T19:00:00,h
-MT Melsungen,GWD Minden,26,21,2012-11-10T20:15:00,h
-FA Göppingen,HSG Wetzlar,23,27,2012-11-10T20:15:00,a
-THW Kiel,TuS N-Lübbecke,30,23,2012-11-11T15:00:00,h
-TUSEM Essen,HSV Hamburg,26,34,2012-11-11T17:30:00,a
-Füchse Berlin,TBV Lemgo,21,19,2012-11-11T17:30:00,h
-SC Magdeburg,TV Grosswallstadt,33,25,2012-11-11T18:00:00,h
-SG Flensburg,SC Magdeburg,30,24,2012-11-13T20:15:00,h
-HBW Balingen,THW Kiel,22,34,2012-11-14T20:15:00,a
-TuS N-Lübbecke,HSV Hamburg,32,33,2012-11-14T20:15:00,a
-TV Grosswallstadt,TUSEM Essen,28,20,2012-11-16T19:45:00,h
-HSG Wetzlar,TV Neuhausen,35,25,2012-11-17T19:00:00,h
-MT Melsungen,FA Göppingen,28,25,2012-11-17T19:00:00,h
-Rhein-Neckar Löwen,Füchse Berlin,25,23,2012-11-17T20:15:00,h
-TBV Lemgo,GWD Minden,32,25,2012-11-18T17:30:00,h
-TSV Hannover,Gummersbach,33,28,2012-11-18T17:30:00,h
-SC Magdeburg,TSV Hannover,34,31,2012-11-20T19:00:00,h
-GWD Minden,Rhein-Neckar Löwen,23,26,2012-11-20T19:00:00,a
-FA Göppingen,HSV Hamburg,34,26,2012-11-20T20:30:00,h
-Füchse Berlin,HSG Wetzlar,27,28,2012-11-21T19:00:00,a
-Gummersbach,SG Flensburg,21,31,2012-11-21T20:15:00,a
-TUSEM Essen,MT Melsungen,29,31,2012-11-23T19:45:00,a
-TV Neuhausen,TV Grosswallstadt,32,27,2012-11-23T19:45:00,h
-TuS N-Lübbecke,HBW Balingen,30,31,2012-11-24T19:00:00,a
-THW Kiel,TBV Lemgo,36,24,2012-11-25T17:30:00,h
-SC Magdeburg,Füchse Berlin,31,33,2012-11-27T19:00:00,a
-TV Grosswallstadt,FA Göppingen,27,28,2012-11-28T19:45:00,a
-SG Flensburg,TV Neuhausen,37,26,2012-11-28T20:15:00,h
-Rhein-Neckar Löwen,THW Kiel,17,28,2012-11-28T20:15:00,a
-TBV Lemgo,Gummersbach,30,25,2012-12-01T19:00:00,h
-HSG Wetzlar,TUSEM Essen,33,33,2012-12-01T19:00:00,d
-MT Melsungen,TuS N-Lübbecke,32,28,2012-12-01T19:00:00,h
-HSV Hamburg,HBW Balingen,32,19,2012-12-02T15:00:00,h
-TSV Hannover,GWD Minden,33,26,2012-12-02T17:30:00,h
-Füchse Berlin,HSV Hamburg,37,27,2012-12-05T19:00:00,h
-HBW Balingen,TV Grosswallstadt,30,24,2012-12-07T19:45:00,h
-TUSEM Essen,Rhein-Neckar Löwen,20,30,2012-12-07T19:45:00,a
-TV Neuhausen,TBV Lemgo,21,23,2012-12-07T19:45:00,a
-TuS N-Lübbecke,HSG Wetzlar,29,30,2012-12-08T19:00:00,a
-Gummersbach,SC Magdeburg,24,37,2012-12-08T19:00:00,a
-FA Göppingen,TSV Hannover,28,31,2012-12-08T20:15:00,a
-GWD Minden,SG Flensburg,29,30,2012-12-09T15:00:00,a
-THW Kiel,MT Melsungen,25,29,2012-12-09T17:30:00,a
-Rhein-Neckar Löwen,TV Neuhausen,30,25,2012-12-14T19:45:00,h
-SC Magdeburg,GWD Minden,26,18,2012-12-14T19:45:00,h
-MT Melsungen,HBW Balingen,31,29,2012-12-15T19:00:00,h
-SG Flensburg,FA Göppingen,29,25,2012-12-15T19:00:00,h
-Gummersbach,Füchse Berlin,23,28,2012-12-15T19:00:00,a
-TSV Hannover,TUSEM Essen,34,24,2012-12-15T19:00:00,h
-TV Grosswallstadt,TuS N-Lübbecke,23,24,2012-12-16T15:00:00,a
-TBV Lemgo,HSV Hamburg,29,35,2012-12-16T15:00:00,a
-HSG Wetzlar,THW Kiel,26,27,2012-12-16T17:30:00,a
-TUSEM Essen,TBV Lemgo,21,30,2012-12-19T19:00:00,a
-GWD Minden,HSG Wetzlar,35,26,2012-12-19T19:00:00,h
-HSV Hamburg,MT Melsungen,38,27,2012-12-19T19:00:00,h
-THW Kiel,TV Grosswallstadt,34,23,2012-12-19T20:15:00,h
-Füchse Berlin,TSV Hannover,27,28,2012-12-19T20:15:00,a
-FA Göppingen,SC Magdeburg,28,26,2012-12-19T20:15:00,h
-TuS N-Lübbecke,SG Flensburg,24,33,2012-12-19T20:15:00,a
-HBW Balingen,Rhein-Neckar Löwen,33,34,2012-12-19T20:15:00,a
-TV Neuhausen,Gummersbach,29,26,2012-12-19T20:15:00,h
-TV Neuhausen,SC Magdeburg,26,32,2012-12-21T19:45:00,a
-MT Melsungen,TV Grosswallstadt,32,24,2012-12-22T19:00:00,h
-TuS N-Lübbecke,TBV Lemgo,23,25,2012-12-22T19:00:00,a
-HSV Hamburg,HSG Wetzlar,30,29,2012-12-22T19:00:00,h
-Rhein-Neckar Löwen,FA Göppingen,26,26,2012-12-22T20:15:00,d
-HBW Balingen,TSV Hannover,33,35,2012-12-23T15:00:00,a
-THW Kiel,Gummersbach,36,19,2012-12-23T15:30:00,h
-GWD Minden,Füchse Berlin,27,31,2012-12-23T17:30:00,a
-TUSEM Essen,SG Flensburg,24,27,2012-12-23T17:30:00,a
-HSG Wetzlar,HBW Balingen,29,32,2012-12-26T15:00:00,a
-Rhein-Neckar Löwen,MT Melsungen,27,22,2012-12-26T16:45:00,h
-SC Magdeburg,TUSEM Essen,35,25,2012-12-26T17:30:00,h
-Gummersbach,GWD Minden,25,25,2012-12-26T17:30:00,d
-TV Grosswallstadt,HSV Hamburg,30,31,2012-12-26T17:30:00,a
-TSV Hannover,TuS N-Lübbecke,37,31,2012-12-26T17:30:00,h
-Füchse Berlin,TV Neuhausen,36,25,2012-12-26T17:30:00,h
-SG Flensburg,THW Kiel,35,29,2012-12-26T18:30:00,h
-TBV Lemgo,FA Göppingen,25,22,2012-12-26T20:15:00,h
-FA Göppingen,Füchse Berlin,32,34,2013-02-06T20:15:00,a
-TV Grosswallstadt,HSG Wetzlar,28,26,2013-02-08T19:45:00,h
-TUSEM Essen,Gummersbach,28,28,2013-02-08T19:45:00,d
-MT Melsungen,TBV Lemgo,29,34,2013-02-09T19:00:00,a
-TV Neuhausen,GWD Minden,34,28,2013-02-10T17:30:00,h
-HBW Balingen,SG Flensburg,29,30,2013-02-10T17:30:00,a
-HSV Hamburg,SC Magdeburg,31,19,2013-02-12T20:15:00,h
-TuS N-Lübbecke,Rhein-Neckar Löwen,24,24,2013-02-13T20:15:00,d
-THW Kiel,TSV Hannover,39,29,2013-02-13T20:15:00,h
-TSV Hannover,TV Neuhausen,33,29,2013-02-16T19:00:00,h
-HSG Wetzlar,MT Melsungen,29,26,2013-02-17T17:30:00,h
-TBV Lemgo,HBW Balingen,27,26,2013-02-17T17:30:00,h
-Füchse Berlin,TUSEM Essen,32,25,2013-02-17T17:30:00,h
-Gummersbach,FA Göppingen,27,26,2013-02-20T20:15:00,h
-SC Magdeburg,TuS N-Lübbecke,29,29,2013-02-20T20:15:00,d
-GWD Minden,THW Kiel,32,36,2013-02-24T17:30:00,a
-Rhein-Neckar Löwen,TV Grosswallstadt,26,21,2013-02-27T20:15:00,h
-SG Flensburg,HSV Hamburg,23,23,2013-04-09T20:15:00,d
-HSG Wetzlar,Rhein-Neckar Löwen,23,29,2013-02-20T20:15:00,a
-TUSEM Essen,GWD Minden,28,22,2013-02-22T19:45:00,h
-TV Grosswallstadt,TBV Lemgo,21,26,2013-02-22T19:45:00,a
-TuS N-Lübbecke,Gummersbach,29,26,2013-02-23T19:00:00,h
-THW Kiel,Füchse Berlin,40,33,2013-02-26T20:15:00,h
-MT Melsungen,SG Flensburg,26,26,2013-02-27T20:15:00,d
-HSV Hamburg,TSV Hannover,26,26,2013-02-27T20:15:00,d
-FA Göppingen,TV Neuhausen,32,26,2013-02-27T20:15:00,h
-HBW Balingen,SC Magdeburg,33,27,2013-02-27T20:15:00,h
-TBV Lemgo,HSG Wetzlar,30,27,2013-03-01T19:45:00,h
-Rhein-Neckar Löwen,HSV Hamburg,28,34,2013-03-02T15:00:00,a
-Gummersbach,HBW Balingen,26,30,2013-03-02T19:00:00,a
-GWD Minden,FA Göppingen,26,32,2013-03-02T19:00:00,a
-TV Neuhausen,TUSEM Essen,24,32,2013-03-02T20:15:00,a
-Füchse Berlin,TuS N-Lübbecke,35,25,2013-03-03T15:00:00,h
-SG Flensburg,TV Grosswallstadt,26,20,2013-03-03T15:00:00,h
-SC Magdeburg,THW Kiel,23,32,2013-03-03T17:30:00,a
-TSV Hannover,MT Melsungen,29,25,2013-03-03T17:30:00,h
-TUSEM Essen,FA Göppingen,25,37,2013-03-13T19:00:00,a
-HSV Hamburg,Gummersbach,32,21,2013-03-13T20:15:00,h
-SG Flensburg,HSG Wetzlar,36,27,2013-03-13T20:15:00,h
-HBW Balingen,Füchse Berlin,29,29,2013-03-13T20:15:00,d
-TBV Lemgo,Rhein-Neckar Löwen,27,27,2013-03-13T20:15:00,d
-MT Melsungen,SC Magdeburg,26,31,2013-03-13T20:15:00,a
-THW Kiel,TV Neuhausen,29,21,2013-03-16T17:30:00,h
-TuS N-Lübbecke,GWD Minden,34,23,2013-03-16T19:00:00,h
-TV Grosswallstadt,TSV Hannover,26,31,2013-03-17T15:00:00,a
-Füchse Berlin,TV Grosswallstadt,30,21,2013-03-20T19:00:00,h
-SC Magdeburg,TBV Lemgo,27,24,2013-03-20T19:00:00,h
-FA Göppingen,THW Kiel,33,29,2013-03-20T20:15:00,h
-SG Flensburg,Rhein-Neckar Löwen,30,27,2013-03-20T20:15:00,h
-TUSEM Essen,HBW Balingen,30,28,2013-03-22T19:00:00,h
-Gummersbach,MT Melsungen,26,25,2013-03-23T19:00:00,h
-HSV Hamburg,GWD Minden,33,21,2013-03-24T15:00:00,h
-TV Neuhausen,TuS N-Lübbecke,27,28,2013-03-24T17:30:00,a
-TSV Hannover,HSG Wetzlar,29,29,2013-03-24T17:30:00,d
-TV Grosswallstadt,Gummersbach,22,22,2013-03-26T20:15:00,d
-HSG Wetzlar,SC Magdeburg,27,28,2013-03-27T19:00:00,a
-THW Kiel,TUSEM Essen,33,23,2013-03-27T20:15:00,h
-TBV Lemgo,SG Flensburg,27,22,2013-03-27T20:15:00,h
-HSV Hamburg,TV Neuhausen,30,27,2013-03-27T20:15:00,h
-MT Melsungen,Füchse Berlin,24,30,2013-03-27T20:15:00,a
-Rhein-Neckar Löwen,TSV Hannover,39,28,2013-03-27T20:15:00,h
-HBW Balingen,GWD Minden,33,33,2013-03-27T20:15:00,d
-TuS N-Lübbecke,FA Göppingen,24,34,2013-03-27T20:15:00,a
-THW Kiel,HSV Hamburg,30,27,2013-03-30T15:00:00,h
-Gummersbach,HSG Wetzlar,30,35,2013-03-30T15:00:00,a
-TSV Hannover,TBV Lemgo,28,28,2013-03-30T19:00:00,d
-FA Göppingen,HBW Balingen,33,22,2013-03-30T20:15:00,h
-Füchse Berlin,SG Flensburg,16,27,2013-03-31T15:45:00,a
-GWD Minden,TV Grosswallstadt,26,24,2013-03-31T17:30:00,h
-SC Magdeburg,Rhein-Neckar Löwen,20,20,2013-03-31T17:30:00,d
-TUSEM Essen,TuS N-Lübbecke,30,35,2013-03-31T17:30:00,a
-TV Neuhausen,MT Melsungen,26,29,2013-03-31T17:30:00,a
-HSG Wetzlar,FA Göppingen,30,27,2013-04-12T19:45:00,h
-HSV Hamburg,TUSEM Essen,41,34,2013-04-17T20:15:00,h
-Rhein-Neckar Löwen,Gummersbach,27,22,2013-04-17T20:15:00,h
-TuS N-Lübbecke,THW Kiel,29,33,2013-04-17T20:15:00,a
-TBV Lemgo,Füchse Berlin,21,27,2013-04-17T20:15:00,a
-TV Grosswallstadt,SC Magdeburg,25,25,2013-04-17T20:15:00,d
-SG Flensburg,TSV Hannover,32,26,2013-04-17T20:45:00,h
-HBW Balingen,TV Neuhausen,32,26,2013-04-20T19:00:00,h
-GWD Minden,MT Melsungen,26,24,2013-04-20T19:00:00,h
-TUSEM Essen,TV Grosswallstadt,22,27,2013-04-26T19:45:00,a
-Gummersbach,TSV Hannover,29,30,2013-04-27T19:00:00,a
-TV Neuhausen,HSG Wetzlar,23,31,2013-04-27T20:15:00,a
-HSV Hamburg,TuS N-Lübbecke,26,31,2013-04-28T17:30:00,a
-Füchse Berlin,Rhein-Neckar Löwen,32,26,2013-04-30T19:00:00,h
-SC Magdeburg,SG Flensburg,34,32,2013-05-01T15:00:00,h
-THW Kiel,HBW Balingen,33,25,2013-05-01T16:45:00,h
-FA Göppingen,MT Melsungen,20,27,2013-05-01T19:00:00,a
-GWD Minden,TBV Lemgo,21,21,2013-05-01T19:00:00,d
-HSG Wetzlar,Füchse Berlin,25,27,2013-05-07T19:00:00,a
-TV Grosswallstadt,TV Neuhausen,26,28,2013-05-08T20:15:00,a
-HBW Balingen,TuS N-Lübbecke,33,24,2013-05-10T19:45:00,h
-HSV Hamburg,FA Göppingen,30,29,2013-05-11T15:00:00,h
-TSV Hannover,SC Magdeburg,30,28,2013-05-11T19:00:00,h
-SG Flensburg,Gummersbach,25,20,2013-05-11T19:00:00,h
-MT Melsungen,TUSEM Essen,27,25,2013-05-11T19:00:00,h
-Rhein-Neckar Löwen,GWD Minden,32,22,2013-05-11T19:00:00,h
-TBV Lemgo,THW Kiel,28,31,2013-05-12T15:00:00,a
-Füchse Berlin,SC Magdeburg,29,26,2013-05-14T19:00:00,h
-THW Kiel,Rhein-Neckar Löwen,31,25,2013-05-14T20:15:00,h
-TV Neuhausen,SG Flensburg,26,37,2013-05-17T19:45:00,a
-TUSEM Essen,HSG Wetzlar,26,36,2013-05-17T19:45:00,a
-GWD Minden,TSV Hannover,27,30,2013-05-17T19:45:00,a
-Gummersbach,TBV Lemgo,25,25,2013-05-18T19:00:00,d
-TuS N-Lübbecke,MT Melsungen,28,24,2013-05-18T19:00:00,h
-HBW Balingen,HSV Hamburg,31,35,2013-05-18T19:00:00,a
-FA Göppingen,TV Grosswallstadt,38,20,2013-05-28T20:15:00,h
-Rhein-Neckar Löwen,TUSEM Essen,29,21,2013-05-08T20:15:00,h
-HSV Hamburg,Füchse Berlin,28,25,2013-05-21T20:15:00,h
-TV Grosswallstadt,HBW Balingen,28,23,2013-05-24T19:45:00,h
-HSG Wetzlar,TuS N-Lübbecke,31,28,2013-05-25T19:00:00,h
-SG Flensburg,GWD Minden,30,19,2013-05-25T19:00:00,h
-TBV Lemgo,TV Neuhausen,31,25,2013-05-25T19:45:00,h
-MT Melsungen,THW Kiel,29,33,2013-05-26T15:00:00,a
-SC Magdeburg,Gummersbach,41,31,2013-05-26T17:30:00,h
-TSV Hannover,FA Göppingen,31,28,2013-05-26T17:30:00,h
-TV Neuhausen,Rhein-Neckar Löwen,21,32,2013-05-28T20:15:00,a
-TUSEM Essen,TSV Hannover,32,33,2013-05-31T19:45:00,a
-HBW Balingen,MT Melsungen,29,34,2013-06-01T15:00:00,a
-TuS N-Lübbecke,TV Grosswallstadt,28,33,2013-06-01T19:00:00,a
-GWD Minden,SC Magdeburg,26,26,2013-06-02T17:30:00,d
-FA Göppingen,SG Flensburg,27,32,2013-06-02T17:30:00,a
-Füchse Berlin,Gummersbach,29,28,2013-06-02T17:30:00,h
-HSV Hamburg,TBV Lemgo,34,31,2013-06-05T19:00:00,h
-THW Kiel,HSG Wetzlar,37,31,2013-06-05T20:15:00,h
-TBV Lemgo,TUSEM Essen,24,23,2013-06-08T16:30:00,h
-HSG Wetzlar,GWD Minden,32,28,2013-06-08T16:30:00,h
-MT Melsungen,HSV Hamburg,30,30,2013-06-08T16:30:00,d
-TV Grosswallstadt,THW Kiel,29,32,2013-06-08T16:30:00,a
-TSV Hannover,Füchse Berlin,30,31,2013-06-08T16:30:00,a
-SC Magdeburg,FA Göppingen,0,0,2013-06-08T16:30:00,d
-SG Flensburg,TuS N-Lübbecke,30,28,2013-06-08T16:30:00,h
-Rhein-Neckar Löwen,HBW Balingen,35,22,2013-06-08T16:30:00,h
-Gummersbach,TV Neuhausen,26,28,2013-06-08T16:30:00,a
-THW Kiel,Bergischer HC,34,24,2013-08-24T19:00:00,h
-Gummersbach,TV Emsdetten ,27,23,2013-08-24T19:00:00,h
-HBW Balingen,Rhein-Neckar Löwen,22,30,2013-08-24T19:00:00,a
-GWD Minden,SG Flensburg,18,23,2013-08-24T19:00:00,a
-ThSV Eisenach,TSV Hannover,28,29,2013-08-24T19:00:00,a
-Frisch Auf Göppingen,SC Magdeburg,29,31,2013-08-25T15:00:00,a
-HSG Wetzlar,TBV Lemgo,26,28,2013-08-25T17:30:00,a
-MT Melsungen,Füchse Berlin,28,23,2013-08-28T20:15:00,h
-HSV Hamburg,TuS N-Lübbecke,32,27,2013-11-24T17:15:00,h
-SG Flensburg,Frisch Auf Göppingen,25,24,2013-08-28T20:15:00,h
-TBV Lemgo,Gummersbach,28,27,2013-08-31T19:00:00,h
-TV Emsdetten ,THW Kiel,25,40,2013-08-31T19:00:00,a
-TSV Hannover,GWD Minden,27,27,2013-08-31T19:00:00,d
-Rhein-Neckar Löwen,HSG Wetzlar,34,23,2013-09-01T15:00:00,h
-Füchse Berlin,ThSV Eisenach,34,20,2013-09-01T17:30:00,h
-SC Magdeburg,HBW Balingen,38,31,2013-09-01T17:30:00,h
-TuS N-Lübbecke,MT Melsungen,32,22,2013-09-01T17:30:00,h
-Bergischer HC,HSV Hamburg,34,27,2013-09-04T19:30:00,h
-HBW Balingen,Füchse Berlin,25,33,2013-09-04T20:15:00,a
-SC Magdeburg,SG Flensburg,29,27,2013-09-06T19:45:00,h
-GWD Minden,Rhein-Neckar Löwen,20,30,2013-09-06T19:45:00,a
-HSV Hamburg,THW Kiel,26,32,2013-09-07T15:00:00,a
-MT Melsungen,TV Emsdetten ,31,24,2013-09-07T19:00:00,h
-Gummersbach,Bergischer HC,25,30,2013-09-07T19:00:00,a
-ThSV Eisenach,TBV Lemgo,32,32,2013-09-07T19:00:00,d
-Frisch Auf Göppingen,TSV Hannover,28,32,2013-09-07T20:15:00,a
-HSG Wetzlar,TuS N-Lübbecke,31,21,2013-09-08T17:30:00,h
-Füchse Berlin,Frisch Auf Göppingen,28,23,2013-09-10T20:15:00,h
-TV Emsdetten ,GWD Minden,24,23,2013-09-11T19:00:00,h
-Bergischer HC,ThSV Eisenach,34,26,2013-09-11T19:00:00,h
-THW Kiel,Gummersbach,31,30,2013-09-11T20:15:00,h
-HSV Hamburg,HSG Wetzlar,35,26,2013-09-11T20:15:00,h
-Rhein-Neckar Löwen,SG Flensburg,29,22,2013-09-11T20:15:00,h
-TBV Lemgo,MT Melsungen,33,38,2013-09-11T20:15:00,a
-TuS N-Lübbecke,HBW Balingen,26,30,2013-09-11T20:15:00,a
-TSV Hannover,SC Magdeburg,27,25,2013-09-11T20:15:00,h
-SG Flensburg,TSV Hannover,27,22,2013-09-03T20:15:00,h
-HBW Balingen,TV Emsdetten ,32,21,2013-09-14T19:00:00,h
-ThSV Eisenach,THW Kiel,23,29,2013-09-14T19:00:00,a
-Frisch Auf Göppingen,Rhein-Neckar Löwen,23,23,2013-09-14T20:15:00,d
-MT Melsungen,HSV Hamburg,33,35,2013-09-15T15:00:00,a
-SC Magdeburg,Füchse Berlin,23,25,2013-09-15T17:15:00,a
-Gummersbach,TuS N-Lübbecke,26,33,2013-09-15T17:15:00,a
-HSG Wetzlar,Bergischer HC,24,25,2013-09-15T17:15:00,a
-GWD Minden,TBV Lemgo,31,31,2013-09-15T17:15:00,d
-Füchse Berlin,GWD Minden,32,25,2013-09-18T19:00:00,h
-TuS N-Lübbecke,SG Flensburg,25,29,2013-09-18T19:00:00,a
-THW Kiel,HSG Wetzlar,26,25,2013-09-18T20:15:00,h
-HSV Hamburg,Gummersbach,34,29,2013-09-18T20:15:00,h
-TBV Lemgo,Frisch Auf Göppingen,32,34,2013-09-18T20:15:00,a
-TV Emsdetten ,ThSV Eisenach,24,25,2013-09-21T19:00:00,a
-TSV Hannover,HBW Balingen,33,30,2013-09-21T19:00:00,h
-Bergischer HC,MT Melsungen,30,31,2013-09-21T19:00:00,a
-SC Magdeburg,Rhein-Neckar Löwen,31,31,2013-09-22T17:15:00,d
-THW Kiel,MT Melsungen,32,29,2013-09-25T20:15:00,h
-TSV Hannover,Rhein-Neckar Löwen,26,38,2013-09-25T20:15:00,a
-Frisch Auf Göppingen,TV Emsdetten ,41,31,2013-09-28T20:15:00,h
-ThSV Eisenach,TuS N-Lübbecke,29,32,2013-09-28T20:15:00,a
-HBW Balingen,HSV Hamburg,29,34,2013-09-29T15:00:00,a
-SG Flensburg,Füchse Berlin,26,26,2013-09-29T17:15:00,d
-SC Magdeburg,TBV Lemgo,33,34,2013-09-29T17:15:00,a
-Gummersbach,HSG Wetzlar,20,20,2013-09-29T17:15:00,d
-GWD Minden,Bergischer HC,29,29,2013-09-29T17:15:00,d
-TBV Lemgo,SG Flensburg,30,34,2013-10-04T19:45:00,a
-THW Kiel,GWD Minden,34,25,2013-10-05T19:00:00,h
-HSV Hamburg,Frisch Auf Göppingen,31,29,2013-10-05T19:00:00,h
-TuS N-Lübbecke,TSV Hannover,28,28,2013-10-05T19:00:00,d
-Gummersbach,ThSV Eisenach,30,24,2013-10-05T19:00:00,h
-TV Emsdetten ,SC Magdeburg,25,36,2013-10-05T19:00:00,a
-Bergischer HC,HBW Balingen,29,29,2013-10-05T19:00:00,d
-Füchse Berlin,Rhein-Neckar Löwen,21,21,2013-10-06T15:00:00,d
-HSG Wetzlar,MT Melsungen,25,30,2013-10-06T17:15:00,a
-MT Melsungen,Gummersbach,30,32,2013-09-04T20:15:00,a
-SG Flensburg,TV Emsdetten ,33,26,2013-10-09T20:15:00,h
-ThSV Eisenach,HSV Hamburg,32,39,2013-10-09T20:15:00,a
-Rhein-Neckar Löwen,TBV Lemgo,35,27,2013-10-09T20:15:00,h
-SC Magdeburg,THW Kiel,34,31,2013-10-09T20:15:00,h
-GWD Minden,TuS N-Lübbecke,28,29,2013-10-11T19:45:00,a
-HBW Balingen,HSG Wetzlar,18,31,2013-10-12T19:00:00,a
-Frisch Auf Göppingen,Bergischer HC,29,29,2013-10-12T20:15:00,d
-TSV Hannover,Füchse Berlin,33,35,2013-10-13T17:15:00,a
-THW Kiel,HBW Balingen,35,24,2013-10-16T20:15:00,h
-Gummersbach,SG Flensburg,24,32,2013-10-16T20:15:00,a
-HSG Wetzlar,ThSV Eisenach,28,23,2013-10-18T19:45:00,h
-HSV Hamburg,GWD Minden,35,30,2013-10-19T19:00:00,h
-TuS N-Lübbecke,Rhein-Neckar Löwen,23,22,2013-10-19T19:00:00,h
-MT Melsungen,Frisch Auf Göppingen,33,31,2013-10-19T19:00:00,h
-TV Emsdetten ,TSV Hannover,28,31,2013-10-19T19:00:00,a
-Bergischer HC,SC Magdeburg,31,27,2013-10-19T19:00:00,h
-TBV Lemgo,Füchse Berlin,26,33,2013-10-20T15:00:00,a
-SC Magdeburg,TuS N-Lübbecke,30,26,2013-10-15T20:15:00,h
-Bergischer HC,SG Flensburg,28,30,2013-10-26T19:00:00,a
-Rhein-Neckar Löwen,TV Emsdetten ,39,24,2013-10-26T19:00:00,h
-HBW Balingen,Gummersbach,25,25,2013-10-26T19:00:00,d
-GWD Minden,HSG Wetzlar,24,24,2013-10-26T19:00:00,d
-ThSV Eisenach,MT Melsungen,27,31,2013-10-26T19:00:00,a
-Frisch Auf Göppingen,THW Kiel,31,35,2013-10-27T15:00:00,a
-Füchse Berlin,HSV Hamburg,32,33,2013-10-27T17:15:00,a
-TSV Hannover,TBV Lemgo,33,26,2013-10-27T17:15:00,h
-HSV Hamburg,SC Magdeburg,32,24,2013-11-06T19:00:00,h
-TuS N-Lübbecke,Frisch Auf Göppingen,27,27,2013-11-06T19:00:00,d
-HSG Wetzlar,SG Flensburg,25,29,2013-11-06T19:00:00,a
-TV Emsdetten ,TBV Lemgo,23,33,2013-11-06T19:00:00,a
-Bergischer HC,TSV Hannover,25,26,2013-11-06T19:00:00,a
-ThSV Eisenach,HBW Balingen,29,24,2013-11-06T19:00:00,h
-THW Kiel,Rhein-Neckar Löwen,31,28,2013-11-06T20:15:00,h
-MT Melsungen,GWD Minden,28,23,2013-11-06T20:15:00,h
-Gummersbach,Füchse Berlin,21,35,2013-11-06T20:15:00,a
-Füchse Berlin,TV Emsdetten ,34,19,2013-11-09T19:00:00,h
-HBW Balingen,MT Melsungen,28,28,2013-11-09T19:00:00,d
-Frisch Auf Göppingen,ThSV Eisenach,35,23,2013-11-09T20:15:00,h
-Rhein-Neckar Löwen,Bergischer HC,35,28,2013-11-10T15:00:00,h
-TSV Hannover,THW Kiel,24,30,2013-11-10T15:00:00,a
-SC Magdeburg,HSG Wetzlar,27,28,2013-11-10T17:15:00,a
-GWD Minden,Gummersbach,27,24,2013-11-10T17:15:00,h
-SG Flensburg,HSV Hamburg,31,29,2013-11-10T20:15:00,h
-TBV Lemgo,TuS N-Lübbecke,31,32,2013-11-13T19:00:00,a
-MT Melsungen,SG Flensburg,25,30,2013-11-14T20:15:00,a
-Gummersbach,SC Magdeburg,22,23,2013-11-16T15:00:00,d
-TuS N-Lübbecke,Füchse Berlin,28,29,2013-11-16T19:00:00,a
-HSG Wetzlar,TSV Hannover,30,27,2013-11-16T19:00:00,h
-HBW Balingen,Frisch Auf Göppingen,31,32,2013-11-16T19:00:00,a
-Bergischer HC,TV Emsdetten ,33,27,2013-11-16T19:00:00,h
-ThSV Eisenach,GWD Minden,28,26,2013-11-16T19:00:00,h
-HSV Hamburg,Rhein-Neckar Löwen,38,25,2013-12-14T15:00:00,h
-THW Kiel,TBV Lemgo,38,25,2013-12-18T19:00:00,h
-SC Magdeburg,MT Melsungen,19,29,2013-11-19T20:15:00,a
-Rhein-Neckar Löwen,ThSV Eisenach,30,27,2013-11-20T20:15:00,h
-TV Emsdetten ,TuS N-Lübbecke,27,23,2013-11-20T20:15:00,h
-TBV Lemgo,Bergischer HC,29,27,2013-11-22T19:45:00,h
-GWD Minden,HBW Balingen,26,24,2013-11-23T19:00:00,h
-Frisch Auf Göppingen,Gummersbach,31,33,2013-11-23T20:15:00,a
-SG Flensburg,THW Kiel,34,30,2013-11-24T15:00:00,h
-Füchse Berlin,HSG Wetzlar,27,23,2013-11-24T17:15:00,h
-TSV Hannover,HSV Hamburg,26,34,2013-12-04T20:15:00,a
-Bergischer HC,Füchse Berlin,25,36,2013-11-26T20:15:00,a
-THW Kiel,TuS N-Lübbecke,37,30,2013-11-27T20:15:00,h
-Gummersbach,TSV Hannover,21,25,2013-11-27T20:15:00,a
-HBW Balingen,SG Flensburg,24,32,2013-11-27T20:15:00,a
-HSG Wetzlar,TV Emsdetten ,24,19,2013-11-29T19:00:00,h
-ThSV Eisenach,SC Magdeburg,23,31,2013-11-30T14:30:00,a
-HSV Hamburg,TBV Lemgo,35,35,2013-11-30T19:00:00,d
-MT Melsungen,Rhein-Neckar Löwen,27,30,2013-12-01T15:00:00,a
-GWD Minden,Frisch Auf Göppingen,31,28,2013-12-01T17:15:00,h
-Rhein-Neckar Löwen,Gummersbach,36,22,2013-12-06T19:15:00,h
-SC Magdeburg,GWD Minden,30,24,2013-12-07T15:00:00,h
-TBV Lemgo,HBW Balingen,33,27,2013-12-07T19:00:00,h
-TuS N-Lübbecke,Bergischer HC,38,30,2013-12-07T19:00:00,h
-TV Emsdetten ,HSV Hamburg,31,37,2013-12-07T19:00:00,a
-Frisch Auf Göppingen,HSG Wetzlar,24,24,2013-12-07T20:15:00,d
-SG Flensburg,ThSV Eisenach,43,24,2013-12-08T15:00:00,h
-Füchse Berlin,THW Kiel,29,33,2013-12-08T15:00:00,a
-TSV Hannover,MT Melsungen,28,34,2013-12-08T17:15:00,a
-SG Flensburg,GWD Minden,35,28,2013-12-14T15:00:00,h
-TBV Lemgo,HSG Wetzlar,27,24,2013-12-14T19:00:00,h
-TSV Hannover,ThSV Eisenach,33,24,2013-12-14T19:00:00,h
-Bergischer HC,THW Kiel,25,31,2013-12-14T19:00:00,a
-Füchse Berlin,MT Melsungen,24,22,2013-12-15T17:15:00,h
-SC Magdeburg,Frisch Auf Göppingen,31,34,2013-12-15T17:15:00,a
-TV Emsdetten ,Gummersbach,25,27,2013-12-15T17:15:00,a
-TuS N-Lübbecke,HSV Hamburg,28,34,2013-12-18T19:00:00,a
-Rhein-Neckar Löwen,HBW Balingen,37,30,2013-12-18T20:15:00,h
-Frisch Auf Göppingen,SG Flensburg,28,28,2013-12-17T20:15:00,d
-THW Kiel,TV Emsdetten ,35,28,2013-12-21T19:00:00,h
-MT Melsungen,TuS N-Lübbecke,28,28,2013-12-21T19:00:00,d
-Gummersbach,TBV Lemgo,33,32,2013-12-21T19:00:00,h
-GWD Minden,TSV Hannover,29,25,2013-12-21T19:00:00,h
-ThSV Eisenach,Füchse Berlin,23,22,2013-12-21T19:00:00,h
-HSV Hamburg,Bergischer HC,29,24,2013-12-22T15:00:00,h
-HSG Wetzlar,Rhein-Neckar Löwen,27,37,2013-12-22T15:00:00,a
-HBW Balingen,SC Magdeburg,26,26,2013-12-22T15:00:00,d
-SG Flensburg,SC Magdeburg,38,28,2013-12-26T15:00:00,h
-THW Kiel,HSV Hamburg,35,24,2013-12-26T17:15:00,h
-Füchse Berlin,HBW Balingen,30,29,2013-12-26T17:15:00,h
-Rhein-Neckar Löwen,GWD Minden,33,29,2013-12-26T17:15:00,h
-TBV Lemgo,ThSV Eisenach,40,22,2013-12-26T17:15:00,h
-TV Emsdetten ,MT Melsungen,27,34,2013-12-26T17:15:00,a
-TuS N-Lübbecke,HSG Wetzlar,34,29,2013-12-26T19:00:00,h
-Bergischer HC,Gummersbach,27,34,2013-12-26T19:00:00,a
-TSV Hannover,Frisch Auf Göppingen,30,29,2013-12-27T19:00:00,h
-Gummersbach,THW Kiel,24,29,2014-02-04T20:15:00,a
-SC Magdeburg,TSV Hannover,32,25,2014-02-05T20:15:00,h
-Frisch Auf Göppingen,Füchse Berlin,24,26,2014-02-05T20:15:00,a
-SG Flensburg,Rhein-Neckar Löwen,23,27,2014-02-05T20:15:00,a
-ThSV Eisenach,Bergischer HC,33,26,2014-02-08T19:00:00,h
-GWD Minden,TV Emsdetten ,34,27,2014-02-08T19:00:00,h
-HBW Balingen,TuS N-Lübbecke,31,26,2014-02-08T19:00:00,h
-HSG Wetzlar,HSV Hamburg,23,26,2014-02-08T19:00:00,a
-MT Melsungen,TBV Lemgo,33,32,2014-02-08T19:00:00,h
-TBV Lemgo,GWD Minden,29,25,2014-02-12T20:15:00,h
-Rhein-Neckar Löwen,Frisch Auf Göppingen,42,31,2014-02-12T20:15:00,h
-Füchse Berlin,SC Magdeburg,27,24,2014-02-12T20:15:00,h
-THW Kiel,ThSV Eisenach,30,21,2014-02-12T20:15:00,h
-HSV Hamburg,MT Melsungen,37,31,2014-02-13T20:15:00,h
-TV Emsdetten ,HBW Balingen,25,25,2014-02-15T19:00:00,d
-TuS N-Lübbecke,Gummersbach,23,22,2014-02-15T19:00:00,h
-Bergischer HC,HSG Wetzlar,27,28,2014-02-15T19:00:00,a
-TSV Hannover,SG Flensburg,27,26,2014-02-16T17:15:00,h
-GWD Minden,Füchse Berlin,30,28,2014-02-19T19:00:00,h
-SG Flensburg,TuS N-Lübbecke,31,20,2014-02-19T19:00:00,h
-HBW Balingen,TSV Hannover,28,27,2014-02-19T20:15:00,h
-Gummersbach,HSV Hamburg,25,31,2014-02-19T20:15:00,a
-ThSV Eisenach,TV Emsdetten ,26,28,2014-02-22T19:00:00,a
-MT Melsungen,Bergischer HC,34,29,2014-02-22T19:00:00,h
-Frisch Auf Göppingen,TBV Lemgo,32,33,2014-02-22T20:15:00,a
-HSG Wetzlar,THW Kiel,24,35,2014-02-23T15:00:00,a
-Rhein-Neckar Löwen,SC Magdeburg,32,26,2014-02-23T20:15:00,h
-TV Emsdetten ,Frisch Auf Göppingen,27,32,2014-03-01T19:00:00,a
-TuS N-Lübbecke,ThSV Eisenach,24,21,2014-03-01T19:00:00,h
-TBV Lemgo,SC Magdeburg,26,29,2014-03-01T19:00:00,a
-Rhein-Neckar Löwen,TSV Hannover,37,19,2014-03-01T19:00:00,h
-Bergischer HC,GWD Minden,20,24,2014-03-01T19:00:00,a
-MT Melsungen,THW Kiel,30,29,2014-03-01T20:15:00,h
-HSV Hamburg,HBW Balingen,26,26,2014-03-02T17:15:00,d
-Füchse Berlin,SG Flensburg,20,31,2014-03-02T17:15:00,a
-HSG Wetzlar,Gummersbach,31,25,2014-04-11T19:45:00,h
-Rhein-Neckar Löwen,Füchse Berlin,31,27,2014-03-08T15:00:00,h
-ThSV Eisenach,Gummersbach,26,30,2014-03-08T19:00:00,a
-HBW Balingen,Bergischer HC,27,29,2014-03-08T19:00:00,a
-TSV Hannover,TuS N-Lübbecke,24,29,2014-03-08T19:00:00,a
-MT Melsungen,HSG Wetzlar,24,32,2014-03-08T20:15:00,a
-SG Flensburg,TBV Lemgo,39,26,2014-03-09T15:00:00,h
-GWD Minden,THW Kiel,22,32,2014-03-09T17:15:00,a
-SC Magdeburg,TV Emsdetten ,34,24,2014-03-09T17:15:00,h
-Frisch Auf Göppingen,HSV Hamburg,32,34,2014-03-09T17:15:00,a
-Füchse Berlin,TSV Hannover,26,21,2014-03-12T20:15:00,h
-TV Emsdetten ,SG Flensburg,22,29,2014-03-15T19:00:00,a
-TuS N-Lübbecke,GWD Minden,30,29,2014-03-15T19:00:00,h
-TBV Lemgo,Rhein-Neckar Löwen,24,35,2014-03-15T19:00:00,a
-HSV Hamburg,ThSV Eisenach,27,23,2014-03-15T19:00:00,h
-Bergischer HC,Frisch Auf Göppingen,28,30,2014-03-15T19:00:00,a
-HSG Wetzlar,HBW Balingen,30,28,2014-03-16T17:15:00,h
-Gummersbach,MT Melsungen,25,30,2014-03-16T17:15:00,a
-THW Kiel,SC Magdeburg,27,27,2014-03-16T17:15:00,d
-SC Magdeburg,Bergischer HC,31,20,2014-03-12T20:15:00,h
-TSV Hannover,TV Emsdetten ,28,27,2014-03-18T20:15:00,h
-SG Flensburg,Gummersbach,35,23,2014-03-19T19:00:00,h
-Füchse Berlin,TBV Lemgo,26,22,2014-03-19T20:15:00,h
-Frisch Auf Göppingen,MT Melsungen,29,26,2014-03-22T12:30:00,h
-HBW Balingen,THW Kiel,25,28,2014-03-22T19:00:00,a
-Rhein-Neckar Löwen,TuS N-Lübbecke,37,24,2014-03-22T19:00:00,h
-ThSV Eisenach,HSG Wetzlar,27,28,2014-03-25T19:00:00,a
-GWD Minden,HSV Hamburg,28,34,2014-04-09T20:15:00,a
-MT Melsungen,ThSV Eisenach,29,23,2014-03-21T19:45:00,h
-SG Flensburg,Bergischer HC,34,15,2014-03-26T19:00:00,h
-TV Emsdetten ,Rhein-Neckar Löwen,32,44,2014-03-26T19:00:00,a
-TBV Lemgo,TSV Hannover,29,27,2014-03-26T20:15:00,h
-THW Kiel,Frisch Auf Göppingen,31,20,2014-03-26T20:15:00,h
-HSV Hamburg,Füchse Berlin,39,32,2014-03-27T20:15:00,h
-HSG Wetzlar,GWD Minden,23,26,2014-03-29T19:00:00,a
-Gummersbach,HBW Balingen,25,24,2014-03-29T19:00:00,h
-TuS N-Lübbecke,SC Magdeburg,24,30,2014-03-29T19:00:00,a
-SC Magdeburg,HSV Hamburg,33,25,2014-04-15T20:15:00,h
-SG Flensburg,HSG Wetzlar,23,19,2014-04-16T19:00:00,h
-TSV Hannover,Bergischer HC,29,28,2014-04-16T20:15:00,h
-Rhein-Neckar Löwen,THW Kiel,29,26,2014-04-16T20:15:00,h
-HBW Balingen,ThSV Eisenach,29,22,2014-04-19T19:00:00,h
-TBV Lemgo,TV Emsdetten ,38,29,2014-04-19T19:00:00,h
-Füchse Berlin,Gummersbach,27,22,2014-04-20T17:15:00,h
-GWD Minden,MT Melsungen,28,28,2014-04-21T17:15:00,d
-Frisch Auf Göppingen,TuS N-Lübbecke,23,23,2014-04-21T17:15:00,d
-ThSV Eisenach,Frisch Auf Göppingen,25,23,2014-04-26T19:00:00,h
-TV Emsdetten ,Füchse Berlin,22,28,2014-04-26T19:00:00,a
-HSG Wetzlar,SC Magdeburg,28,24,2014-04-26T19:00:00,h
-MT Melsungen,HBW Balingen,24,22,2014-04-26T19:00:00,h
-TuS N-Lübbecke,TBV Lemgo,24,25,2014-04-26T19:00:00,a
-Gummersbach,GWD Minden,33,25,2014-04-27T17:15:00,h
-Bergischer HC,Rhein-Neckar Löwen,26,34,2014-04-30T19:00:00,a
-THW Kiel,TSV Hannover,37,20,2014-04-30T20:15:00,h
-HSV Hamburg,SG Flensburg,29,26,2014-05-01T17:00:00,h
-SC Magdeburg,Gummersbach,25,25,2014-05-03T15:00:00,d
-TSV Hannover,HSG Wetzlar,25,24,2014-05-03T19:00:00,h
-TV Emsdetten ,Bergischer HC,22,34,2014-05-03T19:00:00,a
-Frisch Auf Göppingen,HBW Balingen,25,25,2014-05-03T20:15:00,d
-TBV Lemgo,THW Kiel,24,46,2014-05-04T16:00:00,a
-GWD Minden,ThSV Eisenach,25,23,2014-05-04T17:15:00,h
-Füchse Berlin,TuS N-Lübbecke,25,23,2014-05-04T17:15:00,h
-SG Flensburg,MT Melsungen,35,23,2014-05-04T17:15:00,h
-Rhein-Neckar Löwen,HSV Hamburg,32,31,2014-05-04T20:15:00,h
-Bergischer HC,TBV Lemgo,34,34,2014-05-10T19:00:00,d
-ThSV Eisenach,Rhein-Neckar Löwen,19,42,2014-05-10T19:00:00,a
-HBW Balingen,GWD Minden,26,26,2014-05-10T19:00:00,d
-Gummersbach,Frisch Auf Göppingen,26,22,2014-05-10T19:00:00,h
-MT Melsungen,SC Magdeburg,31,31,2014-05-10T19:00:00,d
-TuS N-Lübbecke,TV Emsdetten ,27,35,2014-05-10T19:00:00,a
-HSV Hamburg,TSV Hannover,25,25,2014-05-10T19:00:00,d
-THW Kiel,SG Flensburg,33,25,2014-05-11T15:15:00,h
-HSG Wetzlar,Füchse Berlin,24,25,2014-05-11T17:15:00,a
-Rhein-Neckar Löwen,MT Melsungen,41,28,2014-05-14T20:15:00,h
-TV Emsdetten ,HSG Wetzlar,25,25,2014-05-17T19:00:00,d
-TBV Lemgo,HSV Hamburg,27,35,2014-05-17T19:00:00,a
-SG Flensburg,HBW Balingen,30,22,2014-05-18T15:00:00,h
-TuS N-Lübbecke,THW Kiel,21,35,2014-05-18T15:30:00,a
-TSV Hannover,Gummersbach,30,30,2014-05-18T17:15:00,d
-SC Magdeburg,ThSV Eisenach,35,20,2014-05-18T17:15:00,h
-Frisch Auf Göppingen,GWD Minden,32,28,2014-05-18T17:15:00,h
-Füchse Berlin,Bergischer HC,25,26,2014-05-21T19:00:00,a
-GWD Minden,SC Magdeburg,32,38,2014-05-24T16:00:00,a
-Bergischer HC,TuS N-Lübbecke,25,29,2014-05-24T16:00:00,a
-HBW Balingen,TBV Lemgo,29,29,2014-05-24T16:00:00,d
-HSG Wetzlar,Frisch Auf Göppingen,27,27,2014-05-24T16:00:00,d
-Gummersbach,Rhein-Neckar Löwen,35,40,2014-05-24T16:00:00,a
-MT Melsungen,TSV Hannover,32,26,2014-05-24T16:00:00,h
-HSV Hamburg,TV Emsdetten ,30,23,2014-05-24T16:00:00,h
-THW Kiel,Füchse Berlin,37,23,2014-05-24T16:00:00,h
-ThSV Eisenach,SG Flensburg,20,26,2014-05-24T16:00:00,a
-SG Flensburg,TSG Friesenheim,29,23,2014-08-23T19:00:00,h
-TSV Hannover,MT Melsungen,22,26,2014-08-23T19:00:00,a
-Bergischer HC,SG Bietigheim,33,27,2014-08-23T19:00:00,h
-TBV Lemgo,THW Kiel,27,21,2014-08-23T19:00:00,h
-HC Erlangen,TuS N-Lübbecke,25,30,2014-08-23T20:15:00,a
-FA Göppingen,Füchse Berlin,29,27,2014-08-23T20:15:00,h
-Gummersbach,HSV Hamburg,27,27,2014-08-24T15:00:00,d
-GWD Minden,HSG Wetzlar,24,30,2014-08-24T17:15:00,a
-Rhein-Neckar Löwen,SC Magdeburg,24,23,2014-08-24T17:15:00,h
-MT Melsungen,HBW Balingen,31,20,2014-08-26T20:15:00,h
-THW Kiel,SG Flensburg,30,26,2014-08-26T20:15:00,h
-SG Bietigheim,Rhein-Neckar Löwen,22,32,2014-08-27T20:15:00,a
-HSG Wetzlar,TBV Lemgo,32,25,2014-08-29T19:45:00,h
-TSG Friesenheim,FA Göppingen,23,29,2014-08-29T19:45:00,a
-HSV Hamburg,TSV Hannover,23,23,2014-08-29T19:45:00,d
-Füchse Berlin,Bergischer HC,32,23,2014-08-29T19:45:00,h
-MT Melsungen,Gummersbach,26,27,2014-08-29T19:45:00,a
-SC Magdeburg,HC Erlangen,31,26,2014-08-29T19:45:00,h
-TuS N-Lübbecke,GWD Minden,23,26,2014-08-29T19:45:00,a
-SG Flensburg,HBW Balingen,32,18,2014-12-26T15:00:00,h
-HBW Balingen,GWD Minden,28,25,2014-08-31T15:00:00,h
-SG Flensburg,MT Melsungen,29,22,2014-08-31T15:00:00,h
-HSV Hamburg,THW Kiel,19,20,2014-08-31T17:15:00,a
-TSV Hannover,TuS N-Lübbecke,35,28,2014-08-31T17:15:00,h
-Bergischer HC,SC Magdeburg,24,25,2014-08-31T17:15:00,a
-Gummersbach,TSG Friesenheim,30,24,2014-08-31T17:15:00,h
-TBV Lemgo,SG Bietigheim,37,30,2014-08-31T17:15:00,h
-FA Göppingen,HSG Wetzlar,23,22,2014-08-31T17:15:00,h
-Rhein-Neckar Löwen,HC Erlangen,35,18,2014-08-31T17:15:00,h
-GWD Minden,Füchse Berlin,30,21,2014-09-24T20:15:00,h
-TuS N-Lübbecke,SG Flensburg,26,31,2014-09-03T19:45:00,a
-HSG Wetzlar,THW Kiel,29,32,2014-09-05T19:45:00,a
-Rhein-Neckar Löwen,HSV Hamburg,28,26,2014-09-06T18:30:00,h
-HC Erlangen,Bergischer HC,25,25,2014-09-06T19:00:00,d
-SG Bietigheim,GWD Minden,27,23,2014-09-06T20:15:00,h
-HBW Balingen,TuS N-Lübbecke,23,23,2014-09-07T15:00:00,d
-Füchse Berlin,Gummersbach,30,27,2014-09-07T15:00:00,h
-MT Melsungen,TBV Lemgo,30,25,2014-09-07T17:15:00,h
-SC Magdeburg,FA Göppingen,32,32,2014-09-07T17:15:00,d
-TSG Friesenheim,TSV Hannover,27,24,2014-09-07T17:15:00,h
-HSV Hamburg,HSG Wetzlar,28,31,2014-09-13T15:00:00,a
-Bergischer HC,Rhein-Neckar Löwen,24,23,2014-09-13T19:00:00,h
-Gummersbach,SG Bietigheim,35,29,2014-09-13T19:00:00,h
-TBV Lemgo,TuS N-Lübbecke,27,35,2014-09-13T19:00:00,a
-FA Göppingen,HC Erlangen,25,21,2014-09-13T20:15:00,h
-TSV Hannover,SC Magdeburg,24,28,2014-09-14T15:00:00,a
-Füchse Berlin,HBW Balingen,30,23,2014-09-14T17:15:00,h
-GWD Minden,TSG Friesenheim,33,26,2014-09-14T17:15:00,h
-THW Kiel,MT Melsungen,32,23,2014-09-14T17:15:00,h
-SG Flensburg,Füchse Berlin,36,27,2014-12-10T20:30:00,h
-Rhein-Neckar Löwen,FA Göppingen,26,20,2014-09-24T19:00:00,h
-SG Bietigheim,THW Kiel,25,37,2014-09-24T20:15:00,a
-SC Magdeburg,SG Flensburg,29,26,2014-09-24T20:15:00,h
-MT Melsungen,HSG Wetzlar,28,28,2014-09-27T15:00:00,d
-Bergischer HC,GWD Minden,32,30,2014-09-27T19:00:00,h
-TuS N-Lübbecke,HSV Hamburg,28,34,2014-09-27T19:00:00,a
-HC Erlangen,Gummersbach,25,24,2014-09-27T19:00:00,h
-SG Bietigheim,HBW Balingen,25,29,2014-09-28T17:15:00,a
-Füchse Berlin,TSV Hannover,28,29,2014-09-28T17:15:00,a
-TSG Friesenheim,TBV Lemgo,25,24,2014-12-10T19:00:00,h
-HSG Wetzlar,TuS N-Lübbecke,22,28,2014-10-01T19:00:00,a
-SG Flensburg,HC Erlangen,27,17,2014-10-01T19:00:00,h
-TBV Lemgo,Füchse Berlin,28,29,2014-10-01T20:15:00,a
-GWD Minden,Rhein-Neckar Löwen,25,37,2014-10-01T20:15:00,a
-HSV Hamburg,MT Melsungen,31,30,2014-10-04T19:00:00,h
-TSV Hannover,SG Bietigheim,36,29,2014-10-04T19:00:00,h
-FA Göppingen,Bergischer HC,31,27,2014-10-04T19:00:00,h
-HBW Balingen,HC Erlangen,31,22,2014-10-05T15:00:00,h
-Gummersbach,SC Magdeburg,28,27,2014-10-05T15:00:00,h
-THW Kiel,TSG Friesenheim,29,21,2014-10-05T17:15:00,h
-SC Magdeburg,HSV Hamburg,25,26,2014-10-08T19:00:00,a
-Rhein-Neckar Löwen,TSV Hannover,32,20,2014-10-08T19:00:00,h
-Füchse Berlin,THW Kiel,27,38,2014-10-11T19:00:00,a
-TSV Hannover,HBW Balingen,29,23,2014-10-11T19:00:00,h
-HC Erlangen,TBV Lemgo,31,25,2014-10-11T19:00:00,h
-TuS N-Lübbecke,MT Melsungen,28,28,2014-10-11T19:00:00,d
-FA Göppingen,GWD Minden,29,28,2014-10-11T20:15:00,h
-SG Bietigheim,SG Flensburg,30,38,2014-10-11T20:15:00,a
-Bergischer HC,Gummersbach,28,26,2014-10-12T15:00:00,h
-TSG Friesenheim,HSG Wetzlar,23,29,2014-11-12T19:00:00,a
-Gummersbach,Rhein-Neckar Löwen,27,32,2014-09-10T20:15:00,a
-HSV Hamburg,TSG Friesenheim,33,25,2014-10-15T19:00:00,h
-HBW Balingen,Rhein-Neckar Löwen,27,32,2014-10-15T20:15:00,a
-MT Melsungen,SG Bietigheim,33,25,2014-10-15T20:15:00,h
-THW Kiel,TuS N-Lübbecke,24,21,2014-10-15T20:15:00,h
-HSG Wetzlar,Füchse Berlin,24,24,2014-10-17T19:45:00,d
-TBV Lemgo,SC Magdeburg,23,30,2014-10-18T19:00:00,a
-SG Flensburg,Bergischer HC,40,27,2014-10-19T15:00:00,h
-TSV Hannover,FA Göppingen,29,29,2014-10-19T17:15:00,d
-GWD Minden,HC Erlangen,29,25,2014-10-19T17:15:00,h
-HBW Balingen,THW Kiel,22,21,2014-09-03T20:15:00,h
-Rhein-Neckar Löwen,THW Kiel,28,29,2014-10-25T16:15:00,a
-Bergischer HC,TBV Lemgo,31,30,2014-10-25T16:15:00,h
-HC Erlangen,TSV Hannover,32,29,2014-10-25T19:00:00,h
-FA Göppingen,SG Flensburg,26,34,2014-10-25T20:15:00,a
-SG Bietigheim,HSV Hamburg,28,34,2014-10-26T17:15:00,a
-GWD Minden,Gummersbach,25,28,2014-10-26T17:15:00,a
-Füchse Berlin,MT Melsungen,27,24,2014-10-26T17:15:00,h
-SC Magdeburg,HSG Wetzlar,33,30,2014-10-26T17:15:00,h
-TSG Friesenheim,TuS N-Lübbecke,25,40,2014-10-26T17:15:00,a
-HBW Balingen,HSV Hamburg,22,21,2014-09-10T20:15:00,h
-HSG Wetzlar,SG Bietigheim,26,29,2014-11-05T19:00:00,a
-Gummersbach,FA Göppingen,27,31,2014-11-05T19:00:00,a
-TBV Lemgo,GWD Minden,38,21,2014-11-05T19:00:00,h
-TuS N-Lübbecke,Füchse Berlin,26,35,2014-11-05T19:00:00,a
-THW Kiel,SC Magdeburg,34,22,2014-11-05T19:00:00,h
-MT Melsungen,TSG Friesenheim,31,25,2014-11-05T20:15:00,h
-HSV Hamburg,HC Erlangen,34,24,2014-11-05T20:15:00,h
-TSV Hannover,Bergischer HC,39,31,2014-11-05T20:15:00,h
-SG Flensburg,Rhein-Neckar Löwen,26,29,2014-11-05T20:15:00,a
-GWD Minden,SG Flensburg,22,31,2014-11-08T19:00:00,a
-HC Erlangen,HSG Wetzlar,22,20,2014-11-08T19:00:00,h
-Rhein-Neckar Löwen,TBV Lemgo,35,34,2014-11-08T19:00:00,h
-Bergischer HC,THW Kiel,20,32,2014-11-08T19:00:00,a
-SG Bietigheim,TuS N-Lübbecke,24,32,2014-11-08T19:00:00,a
-FA Göppingen,HSV Hamburg,26,23,2014-11-09T15:00:00,h
-Gummersbach,TSV Hannover,29,29,2014-11-09T17:15:00,d
-Füchse Berlin,TSG Friesenheim,30,24,2014-11-09T17:15:00,h
-SC Magdeburg,MT Melsungen,37,33,2014-11-09T17:15:00,h
-Bergischer HC,HBW Balingen,22,18,2014-11-12T20:15:00,h
-SG Flensburg,Gummersbach,32,26,2014-11-12T19:00:00,h
-TBV Lemgo,FA Göppingen,22,26,2014-11-12T19:00:00,a
-HSV Hamburg,Füchse Berlin,33,25,2014-11-12T20:15:00,h
-THW Kiel,HC Erlangen,23,22,2014-11-12T20:15:00,h
-HSG Wetzlar,Bergischer HC,25,18,2014-11-15T19:00:00,h
-TuS N-Lübbecke,SC Magdeburg,29,25,2014-11-15T19:00:00,h
-MT Melsungen,Rhein-Neckar Löwen,28,31,2014-11-15T19:00:00,a
-Gummersbach,HBW Balingen,31,25,2014-11-16T17:15:00,h
-TSV Hannover,GWD Minden,26,20,2014-11-16T17:15:00,h
-TSG Friesenheim,SG Bietigheim,26,20,2014-11-19T19:00:00,h
-Rhein-Neckar Löwen,HSG Wetzlar,27,20,2014-11-19T19:00:00,h
-SG Flensburg,TSV Hannover,32,26,2014-11-19T19:00:00,h
-FA Göppingen,THW Kiel,25,29,2014-11-19T20:15:00,a
-HC Erlangen,MT Melsungen,28,31,2014-11-19T20:15:00,a
-SC Magdeburg,TSG Friesenheim,36,28,2014-11-22T15:00:00,h
-Bergischer HC,TuS N-Lübbecke,28,27,2014-11-22T19:00:00,h
-Gummersbach,TBV Lemgo,29,28,2014-11-22T19:00:00,h
-HBW Balingen,HSG Wetzlar,22,24,2014-11-23T15:00:00,a
-GWD Minden,HSV Hamburg,36,30,2014-11-23T18:00:00,h
-SG Bietigheim,Füchse Berlin,22,24,2014-11-26T20:15:00,a
-Füchse Berlin,HC Erlangen,26,26,2014-10-14T19:00:00,d
-TSG Friesenheim,Rhein-Neckar Löwen,22,30,2014-11-26T19:00:00,a
-TBV Lemgo,SG Flensburg,26,30,2014-11-26T20:15:00,a
-MT Melsungen,GWD Minden,35,25,2014-11-26T20:15:00,h
-HSV Hamburg,Bergischer HC,21,20,2014-11-26T20:15:00,h
-HSG Wetzlar,TSV Hannover,29,27,2014-11-28T19:45:00,h
-HBW Balingen,TBV Lemgo,33,28,2014-11-29T19:00:00,h
-TuS N-Lübbecke,FA Göppingen,29,27,2014-11-29T19:00:00,h
-SG Bietigheim,SC Magdeburg,23,30,2014-11-29T20:15:00,a
-THW Kiel,Gummersbach,33,27,2014-11-30T15:00:00,h
-Rhein-Neckar Löwen,TuS N-Lübbecke,35,25,2014-12-03T19:00:00,h
-SC Magdeburg,Füchse Berlin,30,26,2014-12-03T20:15:00,h
-SC Magdeburg,HBW Balingen,27,19,2014-12-06T19:00:00,h
-TSV Hannover,TBV Lemgo,31,27,2014-12-06T19:00:00,h
-Bergischer HC,TSG Friesenheim,27,30,2014-12-06T19:00:00,a
-Gummersbach,HSG Wetzlar,23,21,2014-12-06T19:00:00,h
-HC Erlangen,SG Bietigheim,24,24,2014-12-06T20:15:00,d
-FA Göppingen,MT Melsungen,26,31,2014-12-06T20:15:00,a
-GWD Minden,THW Kiel,23,32,2014-12-07T17:15:00,a
-SG Flensburg,HSV Hamburg,29,24,2014-12-07T20:15:00,h
-HBW Balingen,FA Göppingen,24,30,2014-12-10T20:15:00,a
-TSG Friesenheim,HC Erlangen,27,26,2014-12-13T19:00:00,h
-MT Melsungen,Bergischer HC,40,28,2014-12-13T19:00:00,h
-TuS N-Lübbecke,Gummersbach,29,31,2014-12-13T19:00:00,a
-SG Bietigheim,FA Göppingen,29,25,2014-12-13T20:15:00,h
-HSG Wetzlar,SG Flensburg,22,22,2014-12-14T15:00:00,d
-SC Magdeburg,GWD Minden,28,22,2014-12-14T17:15:00,h
-THW Kiel,TSV Hannover,34,25,2014-12-14T17:15:00,h
-HSV Hamburg,TBV Lemgo,28,32,2014-12-14T17:15:00,a
-Füchse Berlin,Rhein-Neckar Löwen,20,30,2014-12-14T17:15:00,a
-TSG Friesenheim,HBW Balingen,28,27,2014-10-01T19:00:00,h
-SG Flensburg,THW Kiel,26,22,2014-12-20T19:00:00,h
-TSV Hannover,HSV Hamburg,30,36,2014-12-20T19:00:00,a
-Bergischer HC,Füchse Berlin,30,25,2014-12-20T19:00:00,h
-Gummersbach,MT Melsungen,26,32,2014-12-20T19:00:00,a
-TBV Lemgo,HSG Wetzlar,26,26,2014-12-20T19:00:00,d
-GWD Minden,TuS N-Lübbecke,29,27,2014-12-20T19:00:00,h
-HC Erlangen,SC Magdeburg,19,28,2014-12-20T19:00:00,a
-FA Göppingen,TSG Friesenheim,33,25,2014-12-20T20:15:00,h
-Rhein-Neckar Löwen,SG Bietigheim,35,25,2015-02-24T19:00:00,h
-HSV Hamburg,HBW Balingen,26,28,2014-12-03T19:00:00,a
-HC Erlangen,Rhein-Neckar Löwen,27,25,2014-12-09T20:15:00,h
-SG Bietigheim,TSV Hannover,24,28,2014-12-23T19:00:00,a
-TSG Friesenheim,Gummersbach,26,24,2014-12-23T19:00:00,h
-SC Magdeburg,Bergischer HC,38,32,2014-12-23T19:00:00,h
-TuS N-Lübbecke,TBV Lemgo,35,35,2014-12-23T19:00:00,d
-Füchse Berlin,FA Göppingen,24,22,2014-12-23T19:00:00,h
-THW Kiel,HSV Hamburg,29,19,2014-12-23T19:00:00,h
-HSG Wetzlar,GWD Minden,27,25,2014-12-23T20:15:00,h
-MT Melsungen,SG Flensburg,22,22,2014-12-23T20:15:00,d
-HBW Balingen,SG Bietigheim,25,24,2014-12-20T19:00:00,h
-THW Kiel,HSG Wetzlar,32,25,2014-12-26T17:15:00,h
-Bergischer HC,HC Erlangen,32,27,2014-12-26T17:15:00,h
-Gummersbach,Füchse Berlin,27,26,2014-12-26T17:15:00,h
-TBV Lemgo,MT Melsungen,33,30,2014-12-26T17:15:00,h
-FA Göppingen,SC Magdeburg,33,36,2014-12-26T17:15:00,a
-HSV Hamburg,Rhein-Neckar Löwen,25,26,2014-12-27T15:00:00,a
-TSV Hannover,TSG Friesenheim,27,19,2014-12-27T19:00:00,h
-GWD Minden,SG Bietigheim,35,27,2014-12-27T19:00:00,h
-SG Flensburg,TuS N-Lübbecke,25,21,2015-02-25T19:00:00,h
-Rhein-Neckar Löwen,Bergischer HC,30,24,2015-02-11T19:00:00,h
-Füchse Berlin,GWD Minden,32,23,2015-02-11T19:00:00,h
-HBW Balingen,TSV Hannover,31,27,2015-02-11T20:15:00,h
-MT Melsungen,THW Kiel,32,41,2015-02-11T20:15:00,a
-HSG Wetzlar,HSV Hamburg,32,25,2015-02-14T19:00:00,h
-TSG Friesenheim,SG Flensburg,23,27,2015-02-14T19:00:00,a
-HC Erlangen,FA Göppingen,24,29,2015-02-14T19:00:00,a
-TuS N-Lübbecke,TSV Hannover,25,25,2015-02-14T20:15:00,d
-SC Magdeburg,Gummersbach,33,28,2015-02-15T17:15:00,h
-SG Bietigheim,TBV Lemgo,22,34,2015-02-15T17:15:00,a
-TBV Lemgo,HBW Balingen,21,21,2015-02-18T19:00:00,d
-SG Flensburg,SC Magdeburg,26,30,2015-02-18T19:00:00,a
-TSV Hannover,Füchse Berlin,26,31,2015-02-18T19:00:00,a
-HSG Wetzlar,MT Melsungen,29,31,2015-02-18T20:15:00,a
-FA Göppingen,Rhein-Neckar Löwen,22,33,2015-02-18T20:15:00,a
-HSV Hamburg,TuS N-Lübbecke,34,26,2015-02-21T15:00:00,h
-Gummersbach,HC Erlangen,24,21,2015-02-21T19:00:00,h
-TBV Lemgo,TSG Friesenheim,32,32,2015-02-21T19:00:00,d
-GWD Minden,Bergischer HC,28,30,2015-02-21T19:00:00,a
-THW Kiel,SG Bietigheim,40,27,2015-02-22T15:00:00,h
-THW Kiel,HBW Balingen,37,18,2015-02-25T20:15:00,h
-MT Melsungen,HSV Hamburg,23,26,2015-02-25T20:15:00,a
-Füchse Berlin,TBV Lemgo,30,27,2015-02-26T19:00:00,h
-Rhein-Neckar Löwen,SG Flensburg,23,20,2015-02-28T17:00:00,h
-TuS N-Lübbecke,HSG Wetzlar,27,26,2015-02-28T19:00:00,h
-Bergischer HC,FA Göppingen,28,28,2015-02-28T19:00:00,d
-HC Erlangen,GWD Minden,19,23,2015-02-28T19:00:00,a
-SG Bietigheim,Gummersbach,23,21,2015-02-28T20:15:00,h
-SC Magdeburg,TSV Hannover,34,28,2015-03-01T17:15:00,h
-TSG Friesenheim,THW Kiel,20,33,2015-03-01T17:15:00,a
-HC Erlangen,HBW Balingen,28,27,2015-02-08T17:15:00,h
-Gummersbach,Bergischer HC,31,28,2015-03-07T19:00:00,h
-HSG Wetzlar,TSG Friesenheim,32,27,2015-03-07T19:00:00,h
-GWD Minden,FA Göppingen,24,26,2015-03-07T19:00:00,a
-SG Flensburg,SG Bietigheim,31,25,2015-03-08T15:00:00,h
-TBV Lemgo,HC Erlangen,29,23,2015-03-08T17:15:00,h
-TSV Hannover,Rhein-Neckar Löwen,23,31,2015-03-08T17:15:00,a
-HSV Hamburg,SC Magdeburg,33,29,2015-03-10T20:15:00,h
-MT Melsungen,TuS N-Lübbecke,32,23,2015-03-11T19:00:00,h
-THW Kiel,Füchse Berlin,32,18,2015-03-12T19:00:00,h
-TSG Friesenheim,HSV Hamburg,30,23,2015-03-04T19:00:00,h
-Bergischer HC,TSV Hannover,31,31,2015-03-14T19:00:00,d
-FA Göppingen,Gummersbach,23,23,2015-03-15T15:00:00,d
-HC Erlangen,SG Flensburg,22,22,2015-03-18T19:00:00,d
-SC Magdeburg,TBV Lemgo,36,24,2015-03-18T19:00:00,h
-Füchse Berlin,HSG Wetzlar,32,24,2015-03-18T19:00:00,h
-Rhein-Neckar Löwen,GWD Minden,28,23,2015-03-18T19:00:00,h
-TuS N-Lübbecke,THW Kiel,24,31,2015-03-18T20:15:00,a
-SG Bietigheim,MT Melsungen,23,35,2015-03-18T20:15:00,a
-GWD Minden,HBW Balingen,31,24,2015-04-08T19:00:00,h
-HBW Balingen,Bergischer HC,25,24,2015-03-18T20:15:00,h
-Gummersbach,GWD Minden,27,32,2015-03-21T19:00:00,a
-HSG Wetzlar,SC Magdeburg,31,31,2015-03-21T19:00:00,d
-TuS N-Lübbecke,TSG Friesenheim,24,26,2015-03-21T19:00:00,a
-TSV Hannover,HC Erlangen,35,33,2015-03-21T19:00:00,h
-MT Melsungen,Füchse Berlin,31,24,2015-03-25T19:00:00,h
-HSV Hamburg,SG Bietigheim,28,23,2015-03-25T19:00:00,h
-TBV Lemgo,Rhein-Neckar Löwen,28,39,2015-03-25T19:00:00,a
-SG Flensburg,FA Göppingen,34,26,2015-03-25T20:15:00,h
-THW Kiel,Bergischer HC,32,17,2015-04-01T20:15:00,h
-FA Göppingen,HBW Balingen,32,28,2015-03-22T17:15:00,h
-GWD Minden,TSV Hannover,31,22,2015-03-27T19:45:00,h
-Rhein-Neckar Löwen,Gummersbach,29,24,2015-03-28T15:45:00,h
-TSG Friesenheim,MT Melsungen,29,35,2015-03-28T19:00:00,a
-Bergischer HC,SG Flensburg,36,31,2015-03-28T19:00:00,h
-FA Göppingen,TBV Lemgo,28,27,2015-03-28T20:15:00,h
-HC Erlangen,THW Kiel,22,36,2015-03-29T15:00:00,a
-SG Bietigheim,HSG Wetzlar,28,25,2015-03-29T17:15:00,h
-SC Magdeburg,TuS N-Lübbecke,26,32,2015-03-29T17:15:00,a
-Füchse Berlin,HSV Hamburg,28,25,2015-04-01T19:00:00,h
-HBW Balingen,SG Flensburg,20,20,2015-04-01T20:45:00,d
-TSV Hannover,Gummersbach,26,26,2015-04-02T19:00:00,d
-TuS N-Lübbecke,SG Bietigheim,32,24,2015-04-04T19:00:00,h
-HSG Wetzlar,HC Erlangen,28,26,2015-04-04T19:00:00,h
-TBV Lemgo,Bergischer HC,34,26,2015-04-04T19:00:00,h
-TSG Friesenheim,Füchse Berlin,26,31,2015-04-04T19:00:00,a
-SG Flensburg,GWD Minden,27,24,2015-04-05T15:00:00,h
-HSV Hamburg,FA Göppingen,30,29,2015-04-05T17:15:00,h
-THW Kiel,Rhein-Neckar Löwen,23,23,2015-04-05T17:15:00,d
-MT Melsungen,SC Magdeburg,26,28,2015-04-15T20:15:00,a
-HBW Balingen,Gummersbach,29,28,2015-03-11T20:15:00,h
-Rhein-Neckar Löwen,MT Melsungen,32,26,2015-04-07T19:00:00,h
-Füchse Berlin,TuS N-Lübbecke,30,30,2015-04-08T19:00:00,d
-SC Magdeburg,THW Kiel,26,32,2015-04-08T20:15:00,a
-Bergischer HC,HSG Wetzlar,28,28,2015-04-11T19:00:00,d
-FA Göppingen,TSV Hannover,25,22,2015-04-11T20:15:00,h
-SG Bietigheim,TSG Friesenheim,24,26,2015-04-11T20:15:00,a
-GWD Minden,TBV Lemgo,23,30,2015-04-12T17:15:00,a
-Gummersbach,SG Flensburg,24,32,2015-04-12T17:15:00,a
-HC Erlangen,HSV Hamburg,34,31,2015-04-15T19:00:00,h
-HBW Balingen,TSG Friesenheim,33,30,2015-04-15T20:15:00,h
-HSG Wetzlar,Rhein-Neckar Löwen,31,27,2015-04-17T19:45:00,h
-TSG Friesenheim,SC Magdeburg,24,32,2015-04-18T19:00:00,a
-TuS N-Lübbecke,Bergischer HC,34,31,2015-04-18T19:00:00,h
-TBV Lemgo,Gummersbach,26,28,2015-04-19T15:00:00,a
-TSV Hannover,SG Flensburg,25,25,2015-04-19T17:15:00,d
-Füchse Berlin,SG Bietigheim,33,32,2015-04-21T19:00:00,h
-HSV Hamburg,GWD Minden,28,25,2015-04-22T19:00:00,h
-THW Kiel,FA Göppingen,28,21,2015-04-22T20:15:00,h
-MT Melsungen,HC Erlangen,37,23,2015-05-13T20:15:00,h
-GWD Minden,MT Melsungen,25,25,2015-05-08T19:45:00,d
-HBW Balingen,SC Magdeburg,25,32,2015-05-13T18:00:00,a
-Gummersbach,THW Kiel,26,32,2015-05-15T20:15:00,a
-HC Erlangen,TSG Friesenheim,37,26,2015-05-16T19:00:00,h
-SG Flensburg,TBV Lemgo,24,24,2015-05-16T19:00:00,d
-FA Göppingen,TuS N-Lübbecke,27,19,2015-05-16T20:15:00,h
+Borussia Dortmund,Werder Bremen,1,0,2013-08-23T20:30:00,h
+FC Bayern,1. FC Nürnberg,2,0,2013-08-24T15:30:00,h
+Bayer Leverkusen,Borussia Mönchengladbach,4,2,2013-08-24T15:30:00,h
+Hannover 96,FC Schalke 04,2,1,2013-08-24T15:30:00,h
+TSG 1899 Hoffenheim,SC Freiburg,3,3,2013-08-24T15:30:00,d
+1. FSV Mainz 05,VfL Wolfsburg,2,0,2013-08-24T15:30:00,h
+Hertha BSC,Hamburger SV,1,0,2013-08-24T18:30:00,h
+Eintracht Braunschweig,Eintracht Frankfurt,0,2,2013-08-25T15:30:00,a
+FC Augsburg,VfB Stuttgart,2,1,2013-08-25T17:30:00,h
+SC Freiburg,FC Bayern,1,1,2013-08-27T18:30:00,d
+Borussia Mönchengladbach,Werder Bremen,4,1,2013-08-31T15:30:00,h
+Hannover 96,1. FSV Mainz 05,4,1,2013-08-31T15:30:00,h
+VfL Wolfsburg,Hertha BSC,2,0,2013-08-31T15:30:00,h
+1. FC Nürnberg,FC Augsburg,0,1,2013-08-31T15:30:00,a
+Hamburger SV,Eintracht Braunschweig,4,0,2013-08-31T15:30:00,h
+FC Schalke 04,Bayer Leverkusen,2,0,2013-08-31T18:30:00,h
+VfB Stuttgart,TSG 1899 Hoffenheim,6,2,2013-09-01T15:30:00,h
+Eintracht Frankfurt,Borussia Dortmund,1,2,2013-09-01T17:30:00,a
+Hertha BSC,VfB Stuttgart,0,1,2013-09-13T20:30:00,a
+FC Bayern,Hannover 96,2,0,2013-09-14T15:30:00,h
+Bayer Leverkusen,VfL Wolfsburg,3,1,2013-09-14T15:30:00,h
+Werder Bremen,Eintracht Frankfurt,0,3,2013-09-14T15:30:00,a
+1. FSV Mainz 05,FC Schalke 04,0,1,2013-09-14T15:30:00,a
+FC Augsburg,SC Freiburg,2,1,2013-09-14T15:30:00,h
+Borussia Dortmund,Hamburger SV,6,2,2013-09-14T18:30:00,h
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,2,1,2013-09-15T15:30:00,h
+Eintracht Braunschweig,1. FC Nürnberg,1,1,2013-09-15T17:30:00,d
+Borussia Mönchengladbach,Eintracht Braunschweig,4,1,2013-09-20T20:30:00,h
+Hannover 96,FC Augsburg,2,1,2013-09-21T15:30:00,h
+VfL Wolfsburg,TSG 1899 Hoffenheim,2,1,2013-09-21T15:30:00,h
+1. FC Nürnberg,Borussia Dortmund,1,1,2013-09-21T15:30:00,d
+1. FSV Mainz 05,Bayer Leverkusen,1,4,2013-09-21T15:30:00,a
+Hamburger SV,Werder Bremen,0,2,2013-09-21T15:30:00,a
+FC Schalke 04,FC Bayern,0,4,2013-09-21T18:30:00,a
+SC Freiburg,Hertha BSC,1,1,2013-09-22T15:30:00,d
+VfB Stuttgart,Eintracht Frankfurt,1,1,2013-09-22T17:30:00,d
+FC Augsburg,Borussia Mönchengladbach,2,2,2013-09-27T20:30:00,d
+Borussia Dortmund,SC Freiburg,5,0,2013-09-28T15:30:00,h
+FC Bayern,VfL Wolfsburg,1,0,2013-09-28T15:30:00,d
+Bayer Leverkusen,Hannover 96,2,0,2013-09-28T15:30:00,h
+TSG 1899 Hoffenheim,FC Schalke 04,3,3,2013-09-28T15:30:00,d
+Hertha BSC,1. FSV Mainz 05,3,1,2013-09-28T15:30:00,a
+Eintracht Frankfurt,Hamburger SV,2,2,2013-09-28T18:30:00,d
+Werder Bremen,1. FC Nürnberg,3,3,2013-09-29T15:30:00,h
+Eintracht Braunschweig,VfB Stuttgart,0,4,2013-09-29T17:30:00,a
+Hannover 96,Hertha BSC,1,1,2013-10-04T20:30:00,h
+FC Schalke 04,FC Augsburg,4,1,2013-10-05T15:30:00,h
+Borussia Mönchengladbach,Borussia Dortmund,2,0,2013-10-05T15:30:00,h
+VfB Stuttgart,Werder Bremen,1,1,2013-10-05T15:30:00,d
+VfL Wolfsburg,Eintracht Braunschweig,0,2,2013-10-05T15:30:00,a
+1. FSV Mainz 05,TSG 1899 Hoffenheim,2,2,2013-10-05T15:30:00,d
+Bayer Leverkusen,FC Bayern,1,1,2013-10-05T18:30:00,d
+1. FC Nürnberg,Hamburger SV,0,5,2013-10-06T15:30:00,a
+SC Freiburg,Eintracht Frankfurt,1,1,2013-10-06T17:30:00,d
+TSG 1899 Hoffenheim,Bayer Leverkusen,1,2,2013-10-18T20:30:00,a
+Borussia Dortmund,Hannover 96,1,0,2013-10-19T15:30:00,h
+FC Bayern,1. FSV Mainz 05,4,1,2013-10-19T15:30:00,h
+Werder Bremen,SC Freiburg,0,0,2013-10-19T15:30:00,d
+Eintracht Braunschweig,FC Schalke 04,2,3,2013-10-19T15:30:00,a
+Eintracht Frankfurt,1. FC Nürnberg,1,1,2013-10-19T15:30:00,d
+Hertha BSC,Borussia Mönchengladbach,1,0,2013-10-19T18:30:00,h
+Hamburger SV,VfB Stuttgart,3,3,2013-10-20T15:30:00,d
+FC Augsburg,VfL Wolfsburg,1,2,2013-10-20T17:30:00,a
+VfB Stuttgart,1. FC Nürnberg,1,1,2013-10-25T20:30:00,d
+FC Bayern,Hertha BSC,3,2,2013-10-26T15:30:00,h
+FC Schalke 04,Borussia Dortmund,1,3,2013-10-26T15:30:00,a
+Bayer Leverkusen,FC Augsburg,2,1,2013-10-26T15:30:00,h
+Hannover 96,TSG 1899 Hoffenheim,1,4,2013-10-26T15:30:00,a
+1. FSV Mainz 05,Eintracht Braunschweig,2,0,2013-10-26T15:30:00,h
+VfL Wolfsburg,Werder Bremen,3,0,2013-10-26T18:30:00,h
+SC Freiburg,Hamburger SV,0,3,2013-10-27T15:30:00,a
+Borussia Mönchengladbach,Eintracht Frankfurt,4,1,2013-10-27T17:30:00,h
+Borussia Dortmund,VfB Stuttgart,6,1,2013-11-01T20:30:00,h
+1. FC Nürnberg,SC Freiburg,0,3,2013-11-02T15:30:00,a
+TSG 1899 Hoffenheim,FC Bayern,1,2,2013-11-02T15:30:00,a
+Hamburger SV,Borussia Mönchengladbach,0,2,2013-11-02T15:30:00,a
+Eintracht Braunschweig,Bayer Leverkusen,1,0,2013-11-02T15:30:00,h
+Hertha BSC,FC Schalke 04,0,2,2013-11-02T15:30:00,a
+Eintracht Frankfurt,VfL Wolfsburg,1,2,2013-11-02T18:30:00,a
+FC Augsburg,1. FSV Mainz 05,2,1,2013-11-03T15:30:00,h
+Werder Bremen,Hannover 96,3,2,2013-11-03T17:30:00,h
+Hannover 96,Eintracht Braunschweig,0,0,2013-11-08T20:30:00,d
+FC Bayern,FC Augsburg,3,0,2013-11-09T15:30:00,h
+FC Schalke 04,Werder Bremen,3,1,2013-11-09T15:30:00,h
+Bayer Leverkusen,Hamburger SV,5,3,2013-11-09T15:30:00,h
+VfL Wolfsburg,Borussia Dortmund,2,1,2013-11-09T15:30:00,h
+TSG 1899 Hoffenheim,Hertha BSC,2,3,2013-11-09T15:30:00,a
+Borussia Mönchengladbach,1. FC Nürnberg,3,1,2013-11-09T18:30:00,h
+1. FSV Mainz 05,Eintracht Frankfurt,1,0,2013-11-10T15:30:00,h
+SC Freiburg,VfB Stuttgart,1,3,2013-11-10T17:30:00,a
+VfB Stuttgart,Borussia Mönchengladbach,0,2,2013-11-22T20:30:00,a
+1. FC Nürnberg,VfL Wolfsburg,1,1,2013-11-23T15:30:00,a
+FC Augsburg,TSG 1899 Hoffenheim,2,0,2013-11-23T15:30:00,h
+Eintracht Braunschweig,SC Freiburg,0,1,2013-11-23T15:30:00,a
+Eintracht Frankfurt,FC Schalke 04,3,3,2013-11-23T15:30:00,d
+Hertha BSC,Bayer Leverkusen,0,1,2013-11-23T15:30:00,a
+Borussia Dortmund,FC Bayern,0,3,2013-11-23T18:30:00,a
+Hamburger SV,Hannover 96,3,1,2013-11-24T15:30:00,h
+Werder Bremen,1. FSV Mainz 05,2,3,2013-11-24T17:30:00,a
+VfL Wolfsburg,Hamburger SV,1,1,2013-11-29T20:30:00,d
+FC Bayern,Eintracht Braunschweig,2,0,2013-11-30T15:30:00,h
+Bayer Leverkusen,1. FC Nürnberg,3,0,2013-11-30T15:30:00,h
+TSG 1899 Hoffenheim,Werder Bremen,4,4,2013-11-30T15:30:00,d
+1. FSV Mainz 05,Borussia Dortmund,1,3,2013-11-30T15:30:00,a
+Hertha BSC,FC Augsburg,0,0,2013-11-30T15:30:00,d
+FC Schalke 04,VfB Stuttgart,3,0,2013-11-30T18:30:00,h
+Hannover 96,Eintracht Frankfurt,2,0,2013-12-01T15:30:00,h
+Borussia Mönchengladbach,SC Freiburg,1,0,2013-12-01T17:30:00,h
+1. FC Nürnberg,1. FSV Mainz 05,1,1,2013-12-06T20:30:00,d
+Borussia Mönchengladbach,FC Schalke 04,2,1,2013-12-07T15:30:00,h
+VfB Stuttgart,Hannover 96,4,2,2013-12-07T15:30:00,d
+Werder Bremen,FC Bayern,0,7,2013-12-07T15:30:00,a
+Hamburger SV,FC Augsburg,0,1,2013-12-07T15:30:00,a
+Eintracht Frankfurt,TSG 1899 Hoffenheim,1,2,2013-12-07T15:30:00,a
+Borussia Dortmund,Bayer Leverkusen,0,1,2013-12-07T18:30:00,a
+SC Freiburg,VfL Wolfsburg,0,3,2013-12-08T15:30:00,a
+Eintracht Braunschweig,Hertha BSC,0,2,2013-12-08T17:30:00,a
+Hertha BSC,Werder Bremen,3,2,2013-12-13T20:30:00,h
+FC Bayern,Hamburger SV,3,1,2013-12-14T15:30:00,h
+Hannover 96,1. FC Nürnberg,3,3,2013-12-14T15:30:00,d
+TSG 1899 Hoffenheim,Borussia Dortmund,2,2,2013-12-14T15:30:00,h
+1. FSV Mainz 05,Borussia Mönchengladbach,0,0,2013-12-14T15:30:00,d
+FC Augsburg,Eintracht Braunschweig,4,1,2013-12-14T15:30:00,h
+VfL Wolfsburg,VfB Stuttgart,3,1,2013-12-14T18:30:00,h
+FC Schalke 04,SC Freiburg,2,0,2013-12-15T15:30:00,h
+Bayer Leverkusen,Eintracht Frankfurt,0,1,2013-12-15T17:30:00,a
+Eintracht Frankfurt,FC Augsburg,1,1,2013-12-20T20:30:00,d
+Borussia Dortmund,Hertha BSC,1,2,2013-12-21T15:30:00,a
+Werder Bremen,Bayer Leverkusen,1,0,2013-12-21T15:30:00,h
+SC Freiburg,Hannover 96,2,1,2013-12-21T15:30:00,h
+Hamburger SV,1. FSV Mainz 05,2,3,2013-12-21T15:30:00,a
+Eintracht Braunschweig,TSG 1899 Hoffenheim,1,0,2013-12-21T15:30:00,h
+1. FC Nürnberg,FC Schalke 04,0,0,2013-12-21T18:30:00,d
+Borussia Mönchengladbach,VfL Wolfsburg,2,2,2013-12-22T15:30:00,d
+VfB Stuttgart,FC Bayern,1,2,2014-01-29T20:00:00,a
+Borussia Mönchengladbach,FC Bayern,0,2,2014-01-24T20:30:00,a
+Borussia Dortmund,FC Augsburg,2,2,2014-01-25T15:30:00,d
+VfB Stuttgart,1. FSV Mainz 05,1,2,2014-01-25T15:30:00,a
+VfL Wolfsburg,Hannover 96,1,3,2014-01-25T15:30:00,a
+1. FC Nürnberg,TSG 1899 Hoffenheim,4,0,2014-01-25T15:30:00,h
+SC Freiburg,Bayer Leverkusen,3,2,2014-01-25T15:30:00,h
+Eintracht Frankfurt,Hertha BSC,1,0,2014-01-25T18:30:00,h
+Werder Bremen,Eintracht Braunschweig,0,0,2014-01-26T15:30:00,d
+Hamburger SV,FC Schalke 04,0,3,2014-01-26T17:30:00,a
+Eintracht Braunschweig,Borussia Dortmund,1,2,2014-01-31T20:30:00,a
+FC Schalke 04,VfL Wolfsburg,2,1,2014-02-01T15:30:00,h
+Bayer Leverkusen,VfB Stuttgart,2,1,2014-02-01T15:30:00,h
+TSG 1899 Hoffenheim,Hamburger SV,3,0,2014-02-01T15:30:00,h
+1. FSV Mainz 05,SC Freiburg,2,0,2014-02-01T15:30:00,h
+FC Augsburg,Werder Bremen,3,1,2014-02-01T15:30:00,h
+Hannover 96,Borussia Mönchengladbach,3,1,2014-02-01T18:30:00,h
+Hertha BSC,1. FC Nürnberg,1,3,2014-02-02T15:30:00,a
+FC Bayern,Eintracht Frankfurt,5,0,2014-02-02T17:30:00,h
+Borussia Mönchengladbach,Bayer Leverkusen,0,1,2014-02-07T20:30:00,a
+VfL Wolfsburg,1. FSV Mainz 05,3,0,2014-02-08T15:30:00,h
+Werder Bremen,Borussia Dortmund,1,5,2014-02-08T15:30:00,a
+1. FC Nürnberg,FC Bayern,0,2,2014-02-08T15:30:00,a
+SC Freiburg,TSG 1899 Hoffenheim,1,1,2014-02-08T15:30:00,d
+Eintracht Frankfurt,Eintracht Braunschweig,3,0,2014-02-08T15:30:00,h
+Hamburger SV,Hertha BSC,0,3,2014-02-08T18:30:00,a
+VfB Stuttgart,FC Augsburg,1,4,2014-02-09T15:30:00,a
+FC Schalke 04,Hannover 96,2,0,2014-02-09T17:30:00,h
+1. FSV Mainz 05,Hannover 96,2,0,2014-02-14T20:30:00,h
+Borussia Dortmund,Eintracht Frankfurt,4,0,2014-02-15T15:30:00,h
+FC Bayern,SC Freiburg,4,0,2014-02-15T15:30:00,h
+Werder Bremen,Borussia Mönchengladbach,1,1,2014-02-15T15:30:00,d
+TSG 1899 Hoffenheim,VfB Stuttgart,4,1,2014-02-15T15:30:00,h
+Eintracht Braunschweig,Hamburger SV,4,2,2014-02-15T15:30:00,h
+Bayer Leverkusen,FC Schalke 04,1,2,2014-02-15T18:30:00,a
+FC Augsburg,1. FC Nürnberg,0,1,2014-02-16T15:30:00,a
+Hertha BSC,VfL Wolfsburg,1,2,2014-02-16T17:30:00,a
+FC Schalke 04,1. FSV Mainz 05,0,0,2014-02-21T20:30:00,d
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,2,2,2014-02-22T15:30:00,d
+VfB Stuttgart,Hertha BSC,1,2,2014-02-22T15:30:00,a
+1. FC Nürnberg,Eintracht Braunschweig,2,1,2014-02-22T15:30:00,h
+SC Freiburg,FC Augsburg,2,4,2014-02-22T15:30:00,d
+Hamburger SV,Borussia Dortmund,3,0,2014-02-22T15:30:00,h
+VfL Wolfsburg,Bayer Leverkusen,3,1,2014-02-22T18:30:00,d
+Eintracht Frankfurt,Werder Bremen,0,0,2014-02-23T15:30:00,d
+Hannover 96,FC Bayern,0,4,2014-02-23T17:30:00,a
