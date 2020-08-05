@@ -196,7 +196,7 @@ class GUI:
             command = lambda: self.crawler_load())
         self.CrawlerButton.place(relx=0.20, rely=0.15)
 
-        
+
         # Button for changing the Color Mode between dark and light mode
         changeModeButton = tk.Button(
             master,
@@ -206,6 +206,7 @@ class GUI:
             bg=self.buttoncolor,
             command=lambda: self.changemode())
         changeModeButton.place(relx=0.01, rely=0.01)
+        
  
     #Function for changeModeButton for switching bewteen dark and light mode
     def changemode(self):
@@ -217,7 +218,7 @@ class GUI:
     
 
     def algorithm_load(self):
-          """
+        """
 
         function which depending on which algorithm gets chosen starts this algorithm
 
@@ -267,8 +268,8 @@ class GUI:
         self.pDraw.destroy()
         self.pWA.destroy()
 
-        self.teams1_list = []
-        self.teams2_list = []
+        teams1_list = []
+        teams2_list = []
         teams1_list = teamproject.crawler.DataCrawler().getNamelist(int(self.searched.get()),self.click_liga_dropdown.get())
         teams2_list = teamproject.crawler.DataCrawler().getNamelist(int(self.searched.get()),self.click_liga_dropdown.get())
         self.click_teams1_dropdown = tk.StringVar()
@@ -323,14 +324,13 @@ class GUI:
         
 
     def crawler_load(self):
-          """
+        """
 
         starts the crawler and creates dropdown menu for selecting the teams
 
         -----------
         Parameters:
         -----------
-
 
         -------
         Return:
@@ -339,8 +339,8 @@ class GUI:
         crawled teams in dropdownmenus
         
         """
-        self.teams1_list = []
-        self.teams2_list = []
+        teams1_list = []
+        teams2_list = []
         teams1_list = teamproject.crawler.DataCrawler().getNamelist(int(self.searched.get()),self.click_liga_dropdown.get())
         teams2_list = teamproject.crawler.DataCrawler().getNamelist(int(self.searched.get()),self.click_liga_dropdown.get())
         self.click_teams1_dropdown = tk.StringVar()
@@ -382,11 +382,7 @@ class GUI:
         self.startButton.place(relx=0.202, rely=0.5)
         self.CrawlerButton.destroy()
         self.crawler_load_second_time()
-
-        
-
-    
-        
+   
 root = tk.Tk()
 GUI(root,0)
 root.mainloop()        
