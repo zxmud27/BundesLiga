@@ -6,16 +6,16 @@ import pandas as pd
 
 class DataCrawler():
 
-    def check_date(self, input_filepath):
+    def check_date(self):
         output = []
         today = datetime.now()
         with open("teamproject/BundesligaData.csv", "r") as csv_file:
             reader = csv.reader(csv_file)
             for row in reader:
-                string_date = row[5]
+                string_date = row[4]
                 csv_date = datetime.strptime(string_date, '%Y-%m-%d')
                 if csv_date <= today:
-                    output.append(column)
+                    output.append(row)
             return output
 
     def clear(self):
@@ -228,5 +228,3 @@ class DataCrawler():
                 return name_list
         else:
             print('Wrong string for crawling a certain league')
-
-

@@ -54,6 +54,7 @@ class minimal_class():
                 home_lose += 1
             played_games += 1
 
+        
         if not played_games == 0:
             win_ratio = home_win / played_games * 100
             draw_ratio = draw / played_games * 100
