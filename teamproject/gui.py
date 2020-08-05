@@ -185,23 +185,7 @@ class GUI:
         liga_menu = tk.OptionMenu(master, self.click_liga_dropdown, *liga_dropdown)
         liga_menu.place(relx=0.6, rely=0.015)
 
-        #Lists which get filled with teams by the crawler
-        
-        
-
-        #dropdown lists for selecting the teams
-        
-
-        #list with all algorithms
-           
-
-        #dropdown list for choosing the algorithm
-        #click_registryPatterninput_dropdown = tk.StringVar()
-        #click_registryPatterninput_dropdown.set("Choose an algorithm")
-        #algo_menu = tk.OptionMenu(master, click_registryPatterninput_dropdown, *registryPatterninput)
-        #algo_menu.place(relx=0.01, rely=0.3)
-
-        #button for starting the crawler
+        #Button for starting the crawler
         self.CrawlerButton = tk.Button(
             master,
             text="Start Crawler",
@@ -213,17 +197,17 @@ class GUI:
         self.CrawlerButton.place(relx=0.20, rely=0.15)
 
         
-
-        changeModeButton = tk.Button(master, text="Change Mode", width=20, height=2, fg=self.fontcolor, bg=self.buttoncolor,command=lambda: self.changemode())
+        # Button for changing the Color Mode between dark and light mode
+        changeModeButton = tk.Button(
+            master,
+            text="Change Mode",
+            width=20, height=2,
+            fg=self.fontcolor,
+            bg=self.buttoncolor,
+            command=lambda: self.changemode())
         changeModeButton.place(relx=0.01, rely=0.01)
-
-        
-        #Methode außerhalb vom Konstruktor
-        
-
-        # Die jeweiligen Buttons mit der Variable buttoncolor, backgroundcolor und fontcolor ersetzen. Über die Farben kann man noch sprechen
-
-
+ 
+    #Function for changeModeButton for switching bewteen dark and light mode
     def changemode(self):
         if(self.mode == 0) :
             GUI(root,1)
@@ -233,6 +217,23 @@ class GUI:
     
 
     def algorithm_load(self):
+          """
+
+        function which depending on which algorithm gets chosen starts this algorithm
+
+        -----------
+        Parameters:
+        -----------
+        -Minimal Algorithm
+        -Poisson Algorithm
+
+        -------
+        Return:
+        -------
+        Probabilites for winning, losing and draw matches
+        
+        """
+      
         if self.click_algo_dropdown.get() == "Minimal Algorithm   ":
             algo_m = teamproject.minimal_algorithm.minimal_class()
             stats = algo_m.get_minimal_probabilities(self.click_teams1_dropdown.get(),self.click_teams2_dropdown.get())
@@ -253,23 +254,11 @@ class GUI:
             self.pWA.place(relx=0.4, rely=0.65)
 
 
-        """
-
-        starts the crawler and creates dropdown menu for selecting the teams
-
-        -----------
-        Parameters:
-        -----------
-
-
-        -------
-        Return:
-        -------
-        match history in the given time period
-        crawled teams in dropdownmenus
-        
-        """
+      
     def destroy_for_rebuild(self):
+        """
+        Destroys and replaces all Buttons and team dropdown menues after crawling to prevent overlapping dropdown menues
+        """
         self.team1_menu.destroy()
         self.team2_menu.destroy()                
         self.algo_menu.destroy()
@@ -298,6 +287,7 @@ class GUI:
                                                 int(self.clicked_season_End.get()), 
                                                 self.click_liga_dropdown.get())
 
+
         algo_dropdown=[
         "Minimal Algorithm   ",
         "Poisson Algorithm    "
@@ -308,7 +298,7 @@ class GUI:
         self.click_algo_dropdown.set("Choose an algorithm")
         self.algo_menu = tk.OptionMenu(self.master, self.click_algo_dropdown, *algo_dropdown)
         self.algo_menu.place(relx=0.21, rely=0.4)
-
+        
         self.startButton = tk.Button(
             self.master,
             text="Start prediction",
@@ -333,6 +323,22 @@ class GUI:
         
 
     def crawler_load(self):
+          """
+
+        starts the crawler and creates dropdown menu for selecting the teams
+
+        -----------
+        Parameters:
+        -----------
+
+
+        -------
+        Return:
+        -------
+        match history in the given time period
+        crawled teams in dropdownmenus
+        
+        """
         self.teams1_list = []
         self.teams2_list = []
         teams1_list = teamproject.crawler.DataCrawler().getNamelist(int(self.searched.get()),self.click_liga_dropdown.get())
@@ -363,6 +369,7 @@ class GUI:
         self.click_algo_dropdown.set("Choose an algorithm")
         self.algo_menu = tk.OptionMenu(self.master, self.click_algo_dropdown, *algo_dropdown)
         self.algo_menu.place(relx=0.21, rely=0.4)
+
         #Button for starting the prediction
         self.startButton = tk.Button(
             self.master,
