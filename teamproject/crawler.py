@@ -168,6 +168,29 @@ class DataCrawler():
             print('Wrong string for crawling a certain league')
 
     def getNamelist(self, year,league):
+
+        """
+
+        crawling data from Website and return teamnames
+
+        -----------
+        Parameters:
+        -----------
+
+        year : int
+            year for getting the teams
+
+        league : string
+            selection of the league:
+                input can only be "1. Bundesliga" , "2. Bundesliga", "3. Bundesliga", "1. Handball Bundesliga"
+
+        -------
+        Return:
+        -------
+
+        array with the searched teamnames
+
+        """
         startday_counter = 0
         name_list = []
         counter = 0
