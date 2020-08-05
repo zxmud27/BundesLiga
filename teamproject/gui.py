@@ -268,8 +268,8 @@ class GUI:
         self.pDraw.destroy()
         self.pWA.destroy()
 
-        teams1_list = []
-        teams2_list = []
+        self.teams1_list = []
+        self.teams2_list = []
         teams1_list = teamproject.crawler.DataCrawler().getNamelist(int(self.searched.get()),self.click_liga_dropdown.get())
         teams2_list = teamproject.crawler.DataCrawler().getNamelist(int(self.searched.get()),self.click_liga_dropdown.get())
         self.click_teams1_dropdown = tk.StringVar()
@@ -339,8 +339,8 @@ class GUI:
         crawled teams in dropdownmenus
         
         """
-        teams1_list = []
-        teams2_list = []
+        self.teams1_list = []
+        self.teams2_list = []
         teams1_list = teamproject.crawler.DataCrawler().getNamelist(int(self.searched.get()),self.click_liga_dropdown.get())
         teams2_list = teamproject.crawler.DataCrawler().getNamelist(int(self.searched.get()),self.click_liga_dropdown.get())
         self.click_teams1_dropdown = tk.StringVar()
