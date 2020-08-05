@@ -61,4 +61,3 @@ class minimal_class():
 
         return [round(win_ratio, 1), round(draw_ratio, 1), round(lose_ratio, 1)]
 
-#print(minimal_class().get_minimal_probabilities('FC Bayern','Borussia Dortmund'))

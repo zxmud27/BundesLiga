@@ -62,6 +62,3 @@ class poisson_class():
         prob_draw = np.sum(np.diag(teams_goal_prob_matrix))
         
         return [round(prob_win_home*100, 1),round(prob_draw*100, 1),round(prob_win_away*100, 1)]
-
-
-print(poisson_class().get_probabilities('FC Bayern', "Borussia Dortmund"))

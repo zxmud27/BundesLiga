@@ -129,4 +129,3 @@ class dc_class():
         xi_result = [self.build_temp_model(self.filename, day, xi=xi) for day in range(99, -1, -3)]
         with open('find_xi_1season_{}.txt'.format(str(xi)[2:]), 'wb') as thefile:
             pickle.dump(xi_result, thefile)
-

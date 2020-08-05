@@ -207,14 +207,3 @@ class DataCrawler():
             print('Wrong string for crawling a certain league')
 
 
-#output = DataCrawler().check_date("teamproject/BundesligaData.csv")
-#with open("Date.csv", "w") as output_file:
-#    writer = csv.writer(output_file)
-#    writer.writerows(output)
-
-#print(DataCrawler().check_date("BundesligaData.csv"))
-BLCrawler = DataCrawler()
-#BLCrawler.getSeasons(1,2011,22,2018,"1. Bundesliga")
-#print(BLCrawler.getNamelist(2011,"1. Handball Bundesliga"))
-# handball von 2011 bis 2016 in ligadb
-BLCrawler.getSeasons(1,2011,34,2018,"1. Bundesliga")

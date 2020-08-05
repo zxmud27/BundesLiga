@@ -1,4 +1,616 @@
 HomeTeam,AwayTeam,HomeGoals,AwayGoals,Date,win
+Borussia Dortmund,Hamburger SV,3,1,2011-08-05T20:30:00,h
+Werder Bremen,1. FC Kaiserslautern,2,0,2011-08-06T15:30:00,h
+VfB Stuttgart,FC Schalke 04,3,0,2011-08-06T15:30:00,h
+1. FC Köln,VfL Wolfsburg,0,3,2011-08-06T15:30:00,a
+FC Augsburg,SC Freiburg,2,2,2011-08-06T15:30:00,d
+Hannover 96,TSG 1899 Hoffenheim,2,1,2011-08-06T15:30:00,h
+Hertha BSC,1. FC Nürnberg,0,1,2011-08-06T18:30:00,a
+1. FSV Mainz 05,Bayer Leverkusen,2,0,2011-08-07T15:30:00,h
+FC Bayern,Borussia Mönchengladbach,0,1,2011-08-07T17:30:00,a
+FC Schalke 04,1. FC Köln,5,1,2011-08-13T15:30:00,h
+Hamburger SV,Hertha BSC,2,2,2011-08-13T15:30:00,d
+1. FC Nürnberg,Hannover 96,1,2,2011-08-13T15:30:00,a
+SC Freiburg,1. FSV Mainz 05,1,2,2011-08-13T15:30:00,a
+TSG 1899 Hoffenheim,Borussia Dortmund,1,0,2011-08-13T15:30:00,h
+VfL Wolfsburg,FC Bayern,0,1,2011-08-13T15:30:00,a
+Borussia Mönchengladbach,VfB Stuttgart,1,1,2011-08-13T18:30:00,d
+1. FC Kaiserslautern,FC Augsburg,1,1,2011-08-14T15:30:00,d
+Bayer Leverkusen,Werder Bremen,1,0,2011-08-14T17:30:00,h
+Borussia Mönchengladbach,VfL Wolfsburg,4,1,2011-08-19T20:30:00,h
+Borussia Dortmund,1. FC Nürnberg,2,0,2011-08-20T15:30:00,d
+FC Bayern,Hamburger SV,5,0,2011-08-20T15:30:00,h
+Werder Bremen,SC Freiburg,5,3,2011-08-20T15:30:00,h
+VfB Stuttgart,Bayer Leverkusen,0,1,2011-08-20T15:30:00,a
+FC Augsburg,TSG 1899 Hoffenheim,0,2,2011-08-20T15:30:00,a
+1. FC Köln,1. FC Kaiserslautern,1,1,2011-08-20T18:30:00,d
+1. FSV Mainz 05,FC Schalke 04,2,4,2011-08-21T15:30:00,a
+Hannover 96,Hertha BSC,1,1,2011-08-21T17:30:00,d
+Hertha BSC,VfB Stuttgart,1,0,2011-08-26T20:30:00,h
+Hamburger SV,1. FC Köln,3,4,2011-08-27T15:30:00,a
+1. FC Nürnberg,FC Augsburg,1,0,2011-08-27T15:30:00,h
+SC Freiburg,VfL Wolfsburg,3,0,2011-08-27T15:30:00,h
+1. FC Kaiserslautern,FC Bayern,0,3,2011-08-27T15:30:00,a
+TSG 1899 Hoffenheim,Werder Bremen,1,2,2011-08-27T15:30:00,a
+Bayer Leverkusen,Borussia Dortmund,0,0,2011-08-27T18:30:00,d
+Hannover 96,1. FSV Mainz 05,1,1,2011-08-28T15:30:00,d
+FC Schalke 04,Borussia Mönchengladbach,1,0,2011-08-28T17:30:00,h
+FC Augsburg,Bayer Leverkusen,1,4,2011-09-09T20:30:00,a
+Borussia Dortmund,Hertha BSC,1,2,2011-09-10T15:30:00,a
+FC Bayern,SC Freiburg,7,0,2011-09-10T15:30:00,h
+1. FSV Mainz 05,TSG 1899 Hoffenheim,0,4,2011-09-10T15:30:00,a
+VfB Stuttgart,Hannover 96,3,0,2011-09-10T15:30:00,h
+Borussia Mönchengladbach,1. FC Kaiserslautern,1,0,2011-09-10T15:30:00,h
+Werder Bremen,Hamburger SV,2,0,2011-09-10T18:30:00,h
+1. FC Köln,1. FC Nürnberg,1,2,2011-09-11T15:30:00,a
+VfL Wolfsburg,FC Schalke 04,2,1,2011-09-11T17:30:00,h
+SC Freiburg,VfB Stuttgart,1,2,2011-09-16T20:30:00,a
+Bayer Leverkusen,1. FC Köln,1,4,2011-09-17T15:30:00,a
+Hamburger SV,Borussia Mönchengladbach,0,1,2011-09-17T15:30:00,a
+1. FC Nürnberg,Werder Bremen,1,1,2011-09-17T15:30:00,a
+TSG 1899 Hoffenheim,VfL Wolfsburg,3,1,2011-09-17T15:30:00,h
+Hertha BSC,FC Augsburg,2,2,2011-09-17T15:30:00,d
+1. FC Kaiserslautern,1. FSV Mainz 05,3,1,2011-09-17T18:30:00,h
+Hannover 96,Borussia Dortmund,2,1,2011-09-18T15:30:00,h
+FC Schalke 04,FC Bayern,0,2,2011-09-18T17:30:00,a
+VfB Stuttgart,Hamburger SV,1,2,2011-09-23T20:40:00,a
+FC Schalke 04,SC Freiburg,4,2,2011-09-24T15:30:00,h
+1. FSV Mainz 05,Borussia Dortmund,1,2,2011-09-24T15:30:00,a
+VfL Wolfsburg,1. FC Kaiserslautern,1,0,2011-09-24T15:30:00,h
+Borussia Mönchengladbach,1. FC Nürnberg,1,0,2011-09-24T15:30:00,h
+FC Augsburg,Hannover 96,0,0,2011-09-24T15:30:00,d
+FC Bayern,Bayer Leverkusen,3,0,2011-09-24T18:30:00,h
+1. FC Köln,TSG 1899 Hoffenheim,2,0,2011-09-25T15:30:00,h
+Werder Bremen,Hertha BSC,2,1,2011-09-25T17:30:00,d
+1. FC Kaiserslautern,VfB Stuttgart,0,2,2011-09-30T20:30:00,a
+Borussia Dortmund,FC Augsburg,4,0,2011-10-01T15:30:00,h
+Bayer Leverkusen,VfL Wolfsburg,3,1,2011-10-01T15:30:00,h
+1. FC Nürnberg,1. FSV Mainz 05,3,3,2011-10-01T15:30:00,d
+SC Freiburg,Borussia Mönchengladbach,1,0,2011-10-01T15:30:00,h
+TSG 1899 Hoffenheim,FC Bayern,0,0,2011-10-01T15:30:00,d
+Hertha BSC,1. FC Köln,3,0,2011-10-01T18:30:00,h
+Hannover 96,Werder Bremen,3,2,2011-10-02T15:30:00,h
+Hamburger SV,FC Schalke 04,1,2,2011-10-02T17:30:00,a
+Werder Bremen,Borussia Dortmund,0,2,2011-10-14T20:30:00,a
+FC Bayern,Hertha BSC,4,0,2011-10-15T15:30:00,h
+1. FSV Mainz 05,FC Augsburg,0,1,2011-10-15T15:30:00,d
+VfB Stuttgart,TSG 1899 Hoffenheim,2,0,2011-10-15T15:30:00,h
+VfL Wolfsburg,1. FC Nürnberg,2,1,2011-10-15T15:30:00,h
+Borussia Mönchengladbach,Bayer Leverkusen,2,2,2011-10-15T15:30:00,d
+FC Schalke 04,1. FC Kaiserslautern,1,2,2011-10-15T18:30:00,a
+SC Freiburg,Hamburger SV,1,2,2011-10-16T15:30:00,a
+1. FC Köln,Hannover 96,2,0,2011-10-16T17:30:00,h
+FC Augsburg,Werder Bremen,1,1,2011-10-21T20:30:00,d
+Borussia Dortmund,1. FC Köln,5,0,2011-10-22T15:30:00,h
+1. FC Nürnberg,VfB Stuttgart,2,2,2011-10-22T15:30:00,d
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,1,0,2011-10-22T15:30:00,h
+Hertha BSC,1. FSV Mainz 05,0,0,2011-10-22T15:30:00,d
+1. FC Kaiserslautern,SC Freiburg,1,0,2011-10-22T15:30:00,h
+Hamburger SV,VfL Wolfsburg,1,1,2011-10-22T18:30:00,d
+Bayer Leverkusen,FC Schalke 04,0,1,2011-10-23T15:30:00,a
+Hannover 96,FC Bayern,2,1,2011-10-23T17:30:00,h
+SC Freiburg,Bayer Leverkusen,0,1,2011-10-28T20:30:00,a
+FC Bayern,1. FC Nürnberg,4,0,2011-10-29T15:30:00,h
+FC Schalke 04,TSG 1899 Hoffenheim,3,1,2011-10-29T15:30:00,h
+VfB Stuttgart,Borussia Dortmund,1,1,2011-10-29T15:30:00,d
+VfL Wolfsburg,Hertha BSC,2,3,2011-10-29T15:30:00,a
+Borussia Mönchengladbach,Hannover 96,2,1,2011-10-29T15:30:00,h
+1. FSV Mainz 05,Werder Bremen,1,3,2011-10-29T18:30:00,d
+1. FC Köln,FC Augsburg,3,0,2011-10-30T15:30:00,h
+Hamburger SV,1. FC Kaiserslautern,1,1,2011-10-30T17:30:00,d
+1. FSV Mainz 05,VfB Stuttgart,3,1,2011-11-04T20:30:00,h
+Borussia Dortmund,VfL Wolfsburg,5,1,2011-11-05T15:30:00,h
+Werder Bremen,1. FC Köln,3,2,2011-11-05T15:30:00,a
+1. FC Nürnberg,SC Freiburg,1,2,2011-11-05T15:30:00,a
+TSG 1899 Hoffenheim,1. FC Kaiserslautern,1,1,2011-11-05T15:30:00,d
+Hertha BSC,Borussia Mönchengladbach,1,2,2011-11-05T15:30:00,a
+Bayer Leverkusen,Hamburger SV,2,2,2011-11-05T18:30:00,d
+Hannover 96,FC Schalke 04,2,2,2011-11-06T15:30:00,d
+FC Augsburg,FC Bayern,1,2,2011-11-06T17:30:00,a
+1. FC Kaiserslautern,Bayer Leverkusen,0,2,2011-11-18T20:30:00,a
+FC Schalke 04,1. FC Nürnberg,4,0,2011-11-19T15:30:00,h
+SC Freiburg,Hertha BSC,2,2,2011-11-19T15:30:00,d
+VfL Wolfsburg,Hannover 96,4,1,2011-11-19T15:30:00,h
+Borussia Mönchengladbach,Werder Bremen,5,0,2011-11-19T15:30:00,h
+FC Bayern,Borussia Dortmund,0,1,2011-11-19T18:30:00,a
+VfB Stuttgart,FC Augsburg,2,1,2011-11-20T15:30:00,h
+Hamburger SV,TSG 1899 Hoffenheim,2,0,2011-11-20T17:30:00,h
+1. FC Köln,1. FSV Mainz 05,1,1,2011-12-13T20:30:00,d
+1. FC Köln,Borussia Mönchengladbach,0,3,2011-11-25T20:30:00,a
+Borussia Dortmund,FC Schalke 04,2,0,2011-11-26T15:30:00,h
+1. FC Nürnberg,1. FC Kaiserslautern,1,0,2011-11-26T15:30:00,h
+TSG 1899 Hoffenheim,SC Freiburg,1,1,2011-11-26T15:30:00,d
+FC Augsburg,VfL Wolfsburg,2,0,2011-11-26T15:30:00,d
+Hertha BSC,Bayer Leverkusen,3,3,2011-11-26T15:30:00,h
+Hannover 96,Hamburger SV,1,1,2011-11-26T18:30:00,d
+Werder Bremen,VfB Stuttgart,2,0,2011-11-27T15:30:00,d
+1. FSV Mainz 05,FC Bayern,3,2,2011-11-27T17:30:00,h
+Bayer Leverkusen,TSG 1899 Hoffenheim,2,0,2011-12-02T20:30:00,h
+FC Bayern,Werder Bremen,4,1,2011-12-03T15:30:00,h
+SC Freiburg,Hannover 96,1,1,2011-12-03T15:30:00,d
+1. FC Kaiserslautern,Hertha BSC,1,1,2011-12-03T15:30:00,d
+VfL Wolfsburg,1. FSV Mainz 05,2,2,2011-12-03T15:30:00,d
+Borussia Mönchengladbach,Borussia Dortmund,1,1,2011-12-03T15:30:00,d
+VfB Stuttgart,1. FC Köln,2,2,2011-12-03T18:30:00,d
+Hamburger SV,1. FC Nürnberg,2,0,2011-12-04T15:30:00,h
+FC Schalke 04,FC Augsburg,3,1,2011-12-04T17:30:00,h
+Hertha BSC,FC Schalke 04,1,2,2011-12-09T20:30:00,a
+Werder Bremen,VfL Wolfsburg,4,1,2011-12-10T15:30:00,h
+1. FSV Mainz 05,Hamburger SV,0,0,2011-12-10T15:30:00,d
+1. FC Nürnberg,TSG 1899 Hoffenheim,0,2,2011-12-10T15:30:00,a
+1. FC Köln,SC Freiburg,4,0,2011-12-10T15:30:00,h
+FC Augsburg,Borussia Mönchengladbach,1,0,2011-12-10T15:30:00,h
+Hannover 96,Bayer Leverkusen,0,0,2011-12-10T18:30:00,d
+Borussia Dortmund,1. FC Kaiserslautern,1,1,2011-12-11T15:30:00,d
+VfB Stuttgart,FC Bayern,1,2,2011-12-11T17:30:00,a
+FC Bayern,1. FC Köln,3,0,2011-12-16T20:30:00,h
+Bayer Leverkusen,1. FC Nürnberg,0,3,2011-12-17T15:30:00,a
+Hamburger SV,FC Augsburg,1,1,2011-12-17T15:30:00,d
+SC Freiburg,Borussia Dortmund,1,4,2011-12-17T15:30:00,a
+TSG 1899 Hoffenheim,Hertha BSC,1,1,2011-12-17T15:30:00,d
+VfL Wolfsburg,VfB Stuttgart,1,0,2011-12-17T15:30:00,h
+FC Schalke 04,Werder Bremen,5,0,2011-12-17T18:30:00,h
+1. FC Kaiserslautern,Hannover 96,1,1,2011-12-18T15:30:00,d
+Borussia Mönchengladbach,1. FSV Mainz 05,1,0,2011-12-18T17:30:00,h
+Borussia Mönchengladbach,FC Bayern,3,1,2012-01-20T20:30:00,h
+FC Schalke 04,VfB Stuttgart,3,1,2012-01-21T15:30:00,h
+1. FC Nürnberg,Hertha BSC,2,0,2012-01-21T15:30:00,h
+SC Freiburg,FC Augsburg,1,0,2012-01-21T15:30:00,h
+TSG 1899 Hoffenheim,Hannover 96,0,0,2012-01-21T15:30:00,d
+VfL Wolfsburg,1. FC Köln,1,0,2012-01-21T15:30:00,h
+1. FC Kaiserslautern,Werder Bremen,0,0,2012-01-21T18:30:00,d
+Hamburger SV,Borussia Dortmund,1,5,2012-01-22T15:30:00,a
+Bayer Leverkusen,1. FSV Mainz 05,3,2,2012-01-22T17:30:00,h
+Hannover 96,1. FC Nürnberg,1,0,2012-01-27T20:30:00,h
+Werder Bremen,Bayer Leverkusen,1,1,2012-01-28T15:30:00,d
+Hertha BSC,Hamburger SV,1,2,2012-01-28T15:30:00,a
+FC Augsburg,1. FC Kaiserslautern,2,2,2012-01-28T15:30:00,d
+Borussia Dortmund,TSG 1899 Hoffenheim,3,1,2012-01-28T15:30:00,h
+FC Bayern,VfL Wolfsburg,2,0,2012-01-28T15:30:00,h
+1. FC Köln,FC Schalke 04,1,4,2012-01-28T18:30:00,h
+1. FSV Mainz 05,SC Freiburg,3,1,2012-01-29T15:30:00,h
+VfB Stuttgart,Borussia Mönchengladbach,0,3,2012-01-29T17:30:00,a
+1. FC Nürnberg,Borussia Dortmund,0,2,2012-02-03T20:30:00,a
+Hertha BSC,Hannover 96,0,1,2012-02-04T15:30:00,a
+FC Schalke 04,1. FSV Mainz 05,1,1,2012-02-04T15:30:00,d
+Bayer Leverkusen,VfB Stuttgart,2,2,2012-02-04T15:30:00,d
+VfL Wolfsburg,Borussia Mönchengladbach,0,0,2012-02-04T15:30:00,d
+TSG 1899 Hoffenheim,FC Augsburg,2,2,2012-02-04T15:30:00,d
+Hamburger SV,FC Bayern,1,1,2012-02-04T18:30:00,d
+SC Freiburg,Werder Bremen,2,2,2012-02-05T15:30:00,d
+1. FC Kaiserslautern,1. FC Köln,0,1,2012-02-05T17:30:00,a
+VfL Wolfsburg,SC Freiburg,3,2,2012-02-10T20:30:00,h
+Borussia Dortmund,Bayer Leverkusen,1,0,2012-02-11T15:30:00,h
+1. FSV Mainz 05,Hannover 96,1,1,2012-02-11T15:30:00,d
+FC Bayern,1. FC Kaiserslautern,2,0,2012-02-11T15:30:00,h
+Werder Bremen,TSG 1899 Hoffenheim,1,1,2012-02-11T15:30:00,d
+VfB Stuttgart,Hertha BSC,5,0,2012-02-11T15:30:00,h
+Borussia Mönchengladbach,FC Schalke 04,3,0,2012-02-11T18:30:00,h
+FC Augsburg,1. FC Nürnberg,0,0,2012-02-12T15:30:00,d
+1. FC Köln,Hamburger SV,0,1,2012-02-12T17:30:00,a
+TSG 1899 Hoffenheim,1. FSV Mainz 05,1,1,2012-02-17T20:30:00,d
+Hertha BSC,Borussia Dortmund,0,1,2012-02-18T15:30:00,a
+Hamburger SV,Werder Bremen,1,3,2012-02-18T15:30:00,a
+1. FC Nürnberg,1. FC Köln,2,1,2012-02-18T15:30:00,h
+1. FC Kaiserslautern,Borussia Mönchengladbach,1,2,2012-02-18T15:30:00,a
+Bayer Leverkusen,FC Augsburg,4,1,2012-02-18T15:30:00,h
+SC Freiburg,FC Bayern,0,0,2012-02-18T18:30:00,d
+FC Schalke 04,VfL Wolfsburg,4,0,2012-02-19T15:30:00,h
+Hannover 96,VfB Stuttgart,4,2,2012-02-19T17:30:00,h
+Borussia Mönchengladbach,Hamburger SV,1,1,2012-02-24T20:30:00,d
+1. FC Köln,Bayer Leverkusen,0,2,2012-02-25T15:30:00,a
+VfB Stuttgart,SC Freiburg,4,1,2012-02-25T15:30:00,h
+1. FSV Mainz 05,1. FC Kaiserslautern,4,0,2012-02-25T15:30:00,h
+VfL Wolfsburg,TSG 1899 Hoffenheim,1,2,2012-02-25T15:30:00,a
+FC Augsburg,Hertha BSC,3,0,2012-02-25T15:30:00,h
+Werder Bremen,1. FC Nürnberg,0,1,2012-02-25T18:30:00,a
+FC Bayern,FC Schalke 04,2,0,2012-02-26T15:30:00,h
+Borussia Dortmund,Hannover 96,3,1,2012-02-26T17:30:00,h
+Bayer Leverkusen,FC Bayern,2,0,2012-03-03T15:30:00,h
+SC Freiburg,FC Schalke 04,2,1,2012-03-03T15:30:00,h
+Hertha BSC,Werder Bremen,1,0,2012-03-03T15:30:00,h
+Hamburger SV,VfB Stuttgart,0,4,2012-03-03T15:30:00,a
+1. FC Kaiserslautern,VfL Wolfsburg,0,0,2012-03-03T15:30:00,d
+Hannover 96,FC Augsburg,2,2,2012-03-03T15:30:00,d
+Borussia Dortmund,1. FSV Mainz 05,2,1,2012-03-03T18:30:00,h
+1. FC Nürnberg,Borussia Mönchengladbach,1,0,2012-03-04T15:30:00,h
+TSG 1899 Hoffenheim,1. FC Köln,1,1,2012-03-04T17:30:00,d
+VfB Stuttgart,1. FC Kaiserslautern,0,0,2012-03-09T20:30:00,d
+VfL Wolfsburg,Bayer Leverkusen,3,2,2012-03-10T15:30:00,h
+1. FSV Mainz 05,1. FC Nürnberg,2,1,2012-03-10T15:30:00,h
+Borussia Mönchengladbach,SC Freiburg,0,0,2012-03-10T15:30:00,d
+FC Bayern,TSG 1899 Hoffenheim,7,1,2012-03-10T15:30:00,h
+1. FC Köln,Hertha BSC,1,0,2012-03-10T15:30:00,h
+FC Augsburg,Borussia Dortmund,0,0,2012-03-10T18:30:00,d
+Werder Bremen,Hannover 96,3,0,2012-03-11T15:30:00,h
+FC Schalke 04,Hamburger SV,3,1,2012-03-11T17:30:00,h
+TSG 1899 Hoffenheim,VfB Stuttgart,1,2,2012-03-16T20:30:00,a
+Borussia Dortmund,Werder Bremen,1,0,2012-03-17T15:30:00,h
+FC Augsburg,1. FSV Mainz 05,2,1,2012-03-17T15:30:00,h
+Hamburger SV,SC Freiburg,1,3,2012-03-17T15:30:00,a
+1. FC Nürnberg,VfL Wolfsburg,1,3,2012-03-17T15:30:00,a
+Bayer Leverkusen,Borussia Mönchengladbach,1,2,2012-03-17T15:30:00,a
+Hertha BSC,FC Bayern,0,6,2012-03-17T18:30:00,a
+1. FC Kaiserslautern,FC Schalke 04,1,4,2012-03-18T15:30:00,a
+Hannover 96,1. FC Köln,4,1,2012-03-18T17:30:00,h
+VfL Wolfsburg,Hamburger SV,2,1,2012-03-23T20:30:00,d
+FC Bayern,Hannover 96,2,1,2012-03-24T15:30:00,h
+SC Freiburg,1. FC Kaiserslautern,2,0,2012-03-24T15:30:00,h
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,1,2,2012-03-24T15:30:00,a
+Werder Bremen,FC Augsburg,1,1,2012-03-24T15:30:00,d
+1. FSV Mainz 05,Hertha BSC,1,3,2012-03-24T15:30:00,a
+FC Schalke 04,Bayer Leverkusen,2,0,2012-03-24T18:30:00,h
+VfB Stuttgart,1. FC Nürnberg,1,0,2012-03-25T15:30:00,h
+1. FC Köln,Borussia Dortmund,1,6,2012-03-25T17:30:00,a
+Borussia Dortmund,VfB Stuttgart,4,4,2012-03-30T20:30:00,d
+1. FC Nürnberg,FC Bayern,0,1,2012-03-31T15:30:00,a
+1. FC Kaiserslautern,Hamburger SV,0,1,2012-03-31T15:30:00,a
+Werder Bremen,1. FSV Mainz 05,0,3,2012-03-31T15:30:00,a
+Bayer Leverkusen,SC Freiburg,0,2,2012-03-31T15:30:00,a
+FC Augsburg,1. FC Köln,2,1,2012-03-31T15:30:00,h
+Hertha BSC,VfL Wolfsburg,1,4,2012-03-31T18:30:00,a
+Hannover 96,Borussia Mönchengladbach,2,1,2012-04-01T15:30:00,h
+TSG 1899 Hoffenheim,FC Schalke 04,1,1,2012-04-01T17:30:00,d
+VfL Wolfsburg,Borussia Dortmund,1,3,2012-04-07T15:30:00,a
+1. FC Köln,Werder Bremen,1,1,2012-04-07T15:30:00,d
+VfB Stuttgart,1. FSV Mainz 05,4,1,2012-04-07T15:30:00,h
+SC Freiburg,1. FC Nürnberg,2,2,2012-04-07T15:30:00,d
+1. FC Kaiserslautern,TSG 1899 Hoffenheim,1,2,2012-04-07T15:30:00,a
+FC Bayern,FC Augsburg,2,1,2012-04-07T15:30:00,h
+Borussia Mönchengladbach,Hertha BSC,0,0,2012-04-07T18:30:00,d
+FC Schalke 04,Hannover 96,3,0,2012-04-08T15:30:00,h
+Hamburger SV,Bayer Leverkusen,1,1,2012-04-08T17:30:00,d
+Hertha BSC,SC Freiburg,1,2,2012-04-10T20:00:00,a
+FC Augsburg,VfB Stuttgart,1,3,2012-04-10T20:00:00,a
+1. FSV Mainz 05,1. FC Köln,4,0,2012-04-10T20:00:00,h
+Werder Bremen,Borussia Mönchengladbach,2,2,2012-04-10T20:00:00,d
+Borussia Dortmund,FC Bayern,1,0,2012-04-11T20:00:00,h
+1. FC Nürnberg,FC Schalke 04,4,1,2012-04-11T20:00:00,h
+TSG 1899 Hoffenheim,Hamburger SV,4,0,2012-04-11T20:00:00,h
+Bayer Leverkusen,1. FC Kaiserslautern,3,1,2012-04-11T20:00:00,h
+Hannover 96,VfL Wolfsburg,2,0,2012-04-11T20:00:00,h
+VfB Stuttgart,Werder Bremen,4,1,2012-04-13T20:30:00,h
+Hamburger SV,Hannover 96,1,0,2012-04-14T15:30:00,h
+1. FC Kaiserslautern,1. FC Nürnberg,0,2,2012-04-14T15:30:00,a
+VfL Wolfsburg,FC Augsburg,1,2,2012-04-14T15:30:00,a
+Bayer Leverkusen,Hertha BSC,3,3,2012-04-14T15:30:00,d
+FC Schalke 04,Borussia Dortmund,1,2,2012-04-14T15:30:00,a
+FC Bayern,1. FSV Mainz 05,0,0,2012-04-14T18:30:00,d
+Borussia Mönchengladbach,1. FC Köln,3,0,2012-04-15T15:30:00,h
+SC Freiburg,TSG 1899 Hoffenheim,0,0,2012-04-15T17:30:00,d
+1. FSV Mainz 05,VfL Wolfsburg,0,0,2012-04-20T20:30:00,d
+TSG 1899 Hoffenheim,Bayer Leverkusen,0,1,2012-04-21T15:30:00,a
+Werder Bremen,FC Bayern,1,2,2012-04-21T15:30:00,a
+1. FC Nürnberg,Hamburger SV,1,1,2012-04-21T15:30:00,d
+Hertha BSC,1. FC Kaiserslautern,1,2,2012-04-21T15:30:00,a
+1. FC Köln,VfB Stuttgart,1,1,2012-04-21T15:30:00,d
+Borussia Dortmund,Borussia Mönchengladbach,2,0,2012-04-21T18:30:00,h
+FC Augsburg,FC Schalke 04,1,1,2012-04-22T15:30:00,d
+Hannover 96,SC Freiburg,0,0,2012-04-22T17:30:00,d
+1. FC Kaiserslautern,Borussia Dortmund,2,5,2012-04-28T15:30:00,a
+VfL Wolfsburg,Werder Bremen,3,1,2012-04-28T15:30:00,h
+Bayer Leverkusen,Hannover 96,1,0,2012-04-28T15:30:00,h
+Hamburger SV,1. FSV Mainz 05,0,0,2012-04-28T15:30:00,d
+TSG 1899 Hoffenheim,1. FC Nürnberg,2,3,2012-04-28T15:30:00,a
+FC Bayern,VfB Stuttgart,2,0,2012-04-28T15:30:00,h
+SC Freiburg,1. FC Köln,4,1,2012-04-28T15:30:00,h
+Borussia Mönchengladbach,FC Augsburg,0,0,2012-04-28T15:30:00,d
+FC Schalke 04,Hertha BSC,4,0,2012-04-28T15:30:00,h
+1. FC Nürnberg,Bayer Leverkusen,1,4,2012-05-05T15:30:00,a
+1. FC Köln,FC Bayern,1,4,2012-05-05T15:30:00,a
+Werder Bremen,FC Schalke 04,2,3,2012-05-05T15:30:00,a
+FC Augsburg,Hamburger SV,1,0,2012-05-05T15:30:00,h
+Borussia Dortmund,SC Freiburg,4,0,2012-05-05T15:30:00,h
+Hannover 96,1. FC Kaiserslautern,2,1,2012-05-05T15:30:00,h
+Hertha BSC,TSG 1899 Hoffenheim,3,1,2012-05-05T15:30:00,h
+VfB Stuttgart,VfL Wolfsburg,3,2,2012-05-05T15:30:00,h
+1. FSV Mainz 05,Borussia Mönchengladbach,0,3,2012-05-05T15:30:00,a
+Borussia Dortmund,Werder Bremen,2,1,2012-08-24T20:30:00,h
+Borussia Mönchengladbach,TSG 1899 Hoffenheim,2,1,2012-08-25T15:30:00,h
+SC Freiburg,1. FSV Mainz 05,1,1,2012-08-25T15:30:00,d
+FC Augsburg,Fortuna Düsseldorf,0,2,2012-08-25T15:30:00,a
+Hamburger SV,1. FC Nürnberg,0,1,2012-08-25T15:30:00,a
+SpVgg Greuther Fürth,FC Bayern,0,3,2012-08-25T15:30:00,a
+Eintracht Frankfurt,Bayer Leverkusen,2,1,2012-08-25T18:30:00,h
+VfB Stuttgart,VfL Wolfsburg,0,1,2012-08-25T20:45:00,a
+Hannover 96,FC Schalke 04,2,2,2012-08-26T17:30:00,d
+1. FSV Mainz 05,SpVgg Greuther Fürth,0,1,2012-08-31T20:30:00,a
+FC Schalke 04,FC Augsburg,3,1,2012-09-01T15:30:00,h
+Bayer Leverkusen,SC Freiburg,2,0,2012-09-01T15:30:00,h
+Werder Bremen,Hamburger SV,2,0,2012-09-01T15:30:00,h
+1. FC Nürnberg,Borussia Dortmund,1,1,2012-09-01T15:30:00,d
+TSG 1899 Hoffenheim,Eintracht Frankfurt,0,4,2012-09-01T15:30:00,a
+Fortuna Düsseldorf,Borussia Mönchengladbach,0,0,2012-09-01T18:30:00,d
+VfL Wolfsburg,Hannover 96,0,4,2012-09-02T15:30:00,a
+FC Bayern,VfB Stuttgart,6,1,2012-09-02T17:30:00,h
+FC Augsburg,VfL Wolfsburg,0,0,2012-09-14T20:30:00,d
+Borussia Dortmund,Bayer Leverkusen,3,0,2012-09-15T15:30:00,h
+FC Bayern,1. FSV Mainz 05,3,1,2012-09-15T15:30:00,h
+Borussia Mönchengladbach,1. FC Nürnberg,2,3,2012-09-15T15:30:00,a
+VfB Stuttgart,Fortuna Düsseldorf,0,0,2012-09-15T15:30:00,d
+Hannover 96,Werder Bremen,3,2,2012-09-15T15:30:00,h
+SpVgg Greuther Fürth,FC Schalke 04,0,2,2012-09-15T18:30:00,d
+SC Freiburg,TSG 1899 Hoffenheim,5,3,2012-09-16T15:30:00,h
+Eintracht Frankfurt,Hamburger SV,3,2,2012-09-16T17:30:00,h
+1. FC Nürnberg,Eintracht Frankfurt,1,2,2012-09-21T20:30:00,a
+FC Schalke 04,FC Bayern,0,2,2012-09-22T15:30:00,a
+VfL Wolfsburg,SpVgg Greuther Fürth,1,1,2012-09-22T15:30:00,d
+1. FSV Mainz 05,FC Augsburg,2,0,2012-09-22T15:30:00,h
+Hamburger SV,Borussia Dortmund,3,2,2012-09-22T15:30:00,h
+Fortuna Düsseldorf,SC Freiburg,0,0,2012-09-22T15:30:00,d
+Bayer Leverkusen,Borussia Mönchengladbach,1,1,2012-09-23T15:30:00,d
+Werder Bremen,VfB Stuttgart,2,2,2012-09-23T17:30:00,d
+TSG 1899 Hoffenheim,Hannover 96,3,1,2012-09-23T17:30:00,h
+FC Bayern,VfL Wolfsburg,3,0,2012-09-25T20:00:00,h
+FC Schalke 04,1. FSV Mainz 05,3,0,2012-09-25T20:00:00,h
+SpVgg Greuther Fürth,Fortuna Düsseldorf,0,2,2012-09-25T20:00:00,a
+Eintracht Frankfurt,Borussia Dortmund,3,3,2012-09-25T20:00:00,d
+Borussia Mönchengladbach,Hamburger SV,2,2,2012-09-26T20:00:00,d
+VfB Stuttgart,TSG 1899 Hoffenheim,0,3,2012-09-26T20:00:00,a
+Hannover 96,1. FC Nürnberg,4,1,2012-09-26T20:00:00,h
+SC Freiburg,Werder Bremen,1,2,2012-09-26T20:00:00,a
+FC Augsburg,Bayer Leverkusen,1,3,2012-09-26T20:00:00,a
+Fortuna Düsseldorf,FC Schalke 04,2,2,2012-09-28T20:30:00,a
+Bayer Leverkusen,SpVgg Greuther Fürth,2,0,2012-09-29T15:30:00,h
+Werder Bremen,FC Bayern,0,2,2012-09-29T15:30:00,a
+1. FC Nürnberg,VfB Stuttgart,0,2,2012-09-29T15:30:00,a
+TSG 1899 Hoffenheim,FC Augsburg,0,0,2012-09-29T15:30:00,d
+Hamburger SV,Hannover 96,1,0,2012-09-29T15:30:00,h
+Borussia Dortmund,Borussia Mönchengladbach,5,0,2012-09-29T18:30:00,h
+Eintracht Frankfurt,SC Freiburg,2,1,2012-09-30T15:30:00,h
+VfL Wolfsburg,1. FSV Mainz 05,0,2,2012-09-30T17:30:00,a
+FC Augsburg,Werder Bremen,3,1,2012-10-05T20:30:00,h
+FC Bayern,TSG 1899 Hoffenheim,2,0,2012-10-06T15:30:00,h
+FC Schalke 04,VfL Wolfsburg,3,0,2012-10-06T15:30:00,h
+SC Freiburg,1. FC Nürnberg,3,0,2012-10-06T15:30:00,h
+1. FSV Mainz 05,Fortuna Düsseldorf,1,0,2012-10-06T15:30:00,h
+SpVgg Greuther Fürth,Hamburger SV,0,1,2012-10-06T15:30:00,a
+Borussia Mönchengladbach,Eintracht Frankfurt,2,0,2012-10-07T15:30:00,h
+VfB Stuttgart,Bayer Leverkusen,2,2,2012-10-07T17:30:00,d
+Hannover 96,Borussia Dortmund,1,1,2012-10-07T17:30:00,d
+TSG 1899 Hoffenheim,SpVgg Greuther Fürth,3,3,2012-10-19T20:30:00,d
+Borussia Dortmund,FC Schalke 04,1,2,2012-10-20T15:30:00,a
+Bayer Leverkusen,1. FSV Mainz 05,2,2,2012-10-20T15:30:00,d
+VfL Wolfsburg,SC Freiburg,0,2,2012-10-20T15:30:00,a
+Eintracht Frankfurt,Hannover 96,3,1,2012-10-20T15:30:00,h
+Fortuna Düsseldorf,FC Bayern,0,5,2012-10-20T15:30:00,a
+Werder Bremen,Borussia Mönchengladbach,4,0,2012-10-20T18:30:00,h
+1. FC Nürnberg,FC Augsburg,0,0,2012-10-21T15:30:00,d
+Hamburger SV,VfB Stuttgart,0,1,2012-10-21T17:30:00,a
+FC Augsburg,Hamburger SV,0,2,2012-10-26T20:30:00,a
+FC Schalke 04,1. FC Nürnberg,1,0,2012-10-27T15:30:00,h
+SC Freiburg,Borussia Dortmund,0,2,2012-10-27T15:30:00,a
+1. FSV Mainz 05,TSG 1899 Hoffenheim,3,0,2012-10-27T15:30:00,h
+SpVgg Greuther Fürth,Werder Bremen,1,1,2012-10-27T15:30:00,d
+Fortuna Düsseldorf,VfL Wolfsburg,1,4,2012-10-27T15:30:00,a
+VfB Stuttgart,Eintracht Frankfurt,2,1,2012-10-28T15:30:00,h
+FC Bayern,Bayer Leverkusen,1,2,2012-10-28T17:30:00,a
+Hannover 96,Borussia Mönchengladbach,2,3,2012-10-28T17:30:00,d
+Eintracht Frankfurt,SpVgg Greuther Fürth,1,1,2012-11-02T20:30:00,d
+Borussia Dortmund,VfB Stuttgart,0,0,2012-11-03T15:30:00,d
+Borussia Mönchengladbach,SC Freiburg,1,1,2012-11-03T15:30:00,d
+Hannover 96,FC Augsburg,2,0,2012-11-03T15:30:00,h
+1. FC Nürnberg,VfL Wolfsburg,1,0,2012-11-03T15:30:00,h
+TSG 1899 Hoffenheim,FC Schalke 04,3,2,2012-11-03T15:30:00,h
+Hamburger SV,FC Bayern,0,3,2012-11-03T18:30:00,a
+Bayer Leverkusen,Fortuna Düsseldorf,3,2,2012-11-04T15:30:00,h
+Werder Bremen,1. FSV Mainz 05,2,1,2012-11-04T17:30:00,h
+1. FSV Mainz 05,1. FC Nürnberg,2,1,2012-11-09T20:30:00,h
+FC Bayern,Eintracht Frankfurt,2,0,2012-11-10T15:30:00,h
+FC Schalke 04,Werder Bremen,2,1,2012-11-10T15:30:00,h
+SC Freiburg,Hamburger SV,0,0,2012-11-10T15:30:00,d
+FC Augsburg,Borussia Dortmund,1,3,2012-11-10T15:30:00,a
+Fortuna Düsseldorf,TSG 1899 Hoffenheim,1,1,2012-11-10T15:30:00,d
+VfL Wolfsburg,Bayer Leverkusen,3,1,2012-11-11T15:30:00,h
+VfB Stuttgart,Hannover 96,2,4,2012-11-11T17:30:00,a
+SpVgg Greuther Fürth,Borussia Mönchengladbach,2,4,2012-11-11T17:30:00,a
+Borussia Dortmund,SpVgg Greuther Fürth,3,1,2012-11-17T15:30:00,h
+Borussia Mönchengladbach,VfB Stuttgart,1,2,2012-11-17T15:30:00,d
+Hannover 96,SC Freiburg,1,2,2012-11-17T15:30:00,a
+1. FC Nürnberg,FC Bayern,1,1,2012-11-17T15:30:00,a
+Hamburger SV,1. FSV Mainz 05,1,0,2012-11-17T15:30:00,d
+Eintracht Frankfurt,FC Augsburg,4,2,2012-11-17T15:30:00,h
+Bayer Leverkusen,FC Schalke 04,2,0,2012-11-17T18:30:00,h
+Werder Bremen,Fortuna Düsseldorf,2,1,2012-11-18T15:30:00,h
+TSG 1899 Hoffenheim,VfL Wolfsburg,1,3,2012-11-18T17:30:00,a
+Fortuna Düsseldorf,Hamburger SV,2,0,2012-11-23T20:30:00,h
+FC Bayern,Hannover 96,5,0,2012-11-24T15:30:00,h
+FC Schalke 04,Eintracht Frankfurt,1,1,2012-11-24T15:30:00,d
+VfL Wolfsburg,Werder Bremen,1,1,2012-11-24T15:30:00,d
+1. FSV Mainz 05,Borussia Dortmund,1,2,2012-11-24T15:30:00,a
+SpVgg Greuther Fürth,1. FC Nürnberg,0,0,2012-11-24T15:30:00,d
+SC Freiburg,VfB Stuttgart,3,0,2012-11-25T15:30:00,h
+TSG 1899 Hoffenheim,Bayer Leverkusen,1,2,2012-11-25T17:30:00,a
+FC Augsburg,Borussia Mönchengladbach,1,1,2012-11-25T17:30:00,d
+Borussia Dortmund,Fortuna Düsseldorf,1,1,2012-11-27T20:00:00,d
+Hannover 96,SpVgg Greuther Fürth,2,0,2012-11-27T20:00:00,h
+Hamburger SV,FC Schalke 04,3,1,2012-11-27T20:00:00,h
+Eintracht Frankfurt,1. FSV Mainz 05,1,3,2012-11-27T20:00:00,a
+Borussia Mönchengladbach,VfL Wolfsburg,2,0,2012-11-28T20:00:00,h
+VfB Stuttgart,FC Augsburg,2,1,2012-11-28T20:00:00,h
+Werder Bremen,Bayer Leverkusen,1,4,2012-11-28T20:00:00,a
+SC Freiburg,FC Bayern,0,2,2012-11-28T20:00:00,a
+1. FC Nürnberg,TSG 1899 Hoffenheim,4,2,2012-11-28T20:45:00,h
+Fortuna Düsseldorf,Eintracht Frankfurt,4,0,2012-11-30T20:30:00,h
+FC Schalke 04,Borussia Mönchengladbach,1,1,2012-12-01T15:30:00,d
+1. FSV Mainz 05,Hannover 96,2,1,2012-12-01T15:30:00,h
+FC Augsburg,SC Freiburg,1,1,2012-12-01T15:30:00,d
+SpVgg Greuther Fürth,VfB Stuttgart,0,1,2012-12-01T15:30:00,a
+Bayer Leverkusen,1. FC Nürnberg,1,0,2012-12-01T15:30:00,h
+FC Bayern,Borussia Dortmund,1,1,2012-12-01T18:30:00,d
+TSG 1899 Hoffenheim,Werder Bremen,1,4,2012-12-02T15:30:00,a
+VfL Wolfsburg,Hamburger SV,1,1,2012-12-02T17:30:00,d
+Hamburger SV,TSG 1899 Hoffenheim,2,0,2012-12-07T20:30:00,h
+VfB Stuttgart,FC Schalke 04,3,1,2012-12-08T15:30:00,h
+Borussia Dortmund,VfL Wolfsburg,2,3,2012-12-08T15:30:00,a
+1. FC Nürnberg,Fortuna Düsseldorf,2,0,2012-12-08T15:30:00,h
+SC Freiburg,SpVgg Greuther Fürth,1,0,2012-12-08T15:30:00,h
+FC Augsburg,FC Bayern,0,2,2012-12-08T15:30:00,a
+Eintracht Frankfurt,Werder Bremen,4,1,2012-12-08T18:30:00,h
+Borussia Mönchengladbach,1. FSV Mainz 05,2,0,2012-12-09T15:30:00,h
+Hannover 96,Bayer Leverkusen,3,2,2012-12-09T17:30:00,h
+FC Bayern,Borussia Mönchengladbach,1,1,2012-12-14T20:30:00,d
+Bayer Leverkusen,Hamburger SV,3,0,2012-12-15T15:30:00,h
+VfL Wolfsburg,Eintracht Frankfurt,0,2,2012-12-15T15:30:00,a
+1. FSV Mainz 05,VfB Stuttgart,3,1,2012-12-15T15:30:00,h
+SpVgg Greuther Fürth,FC Augsburg,1,1,2012-12-15T15:30:00,d
+Fortuna Düsseldorf,Hannover 96,2,1,2012-12-15T15:30:00,h
+FC Schalke 04,SC Freiburg,1,3,2012-12-15T18:30:00,a
+TSG 1899 Hoffenheim,Borussia Dortmund,1,3,2012-12-16T15:30:00,a
+Werder Bremen,1. FC Nürnberg,1,1,2012-12-16T17:30:00,d
+FC Schalke 04,Hannover 96,5,4,2013-01-18T20:30:00,h
+Bayer Leverkusen,Eintracht Frankfurt,3,1,2013-01-19T15:30:00,h
+TSG 1899 Hoffenheim,Borussia Mönchengladbach,0,0,2013-01-19T15:30:00,d
+VfL Wolfsburg,VfB Stuttgart,2,0,2013-01-19T15:30:00,d
+1. FSV Mainz 05,SC Freiburg,0,0,2013-01-19T15:30:00,d
+FC Bayern,SpVgg Greuther Fürth,2,0,2013-01-19T15:30:00,h
+Werder Bremen,Borussia Dortmund,0,5,2013-01-19T18:30:00,a
+1. FC Nürnberg,Hamburger SV,1,1,2013-01-20T15:30:00,d
+Fortuna Düsseldorf,FC Augsburg,2,3,2013-01-20T17:30:00,a
+Borussia Dortmund,1. FC Nürnberg,3,0,2013-01-25T20:30:00,h
+SpVgg Greuther Fürth,1. FSV Mainz 05,0,3,2013-01-26T15:30:00,a
+Borussia Mönchengladbach,Fortuna Düsseldorf,2,1,2013-01-26T15:30:00,h
+FC Augsburg,FC Schalke 04,0,0,2013-01-26T15:30:00,d
+Hannover 96,VfL Wolfsburg,2,1,2013-01-26T15:30:00,h
+Eintracht Frankfurt,TSG 1899 Hoffenheim,2,1,2013-01-26T15:30:00,h
+SC Freiburg,Bayer Leverkusen,0,0,2013-01-26T18:30:00,d
+Hamburger SV,Werder Bremen,3,2,2013-01-27T15:30:00,h
+VfB Stuttgart,FC Bayern,0,2,2013-01-27T17:30:00,a
+Werder Bremen,Hannover 96,2,0,2013-02-01T20:30:00,h
+VfL Wolfsburg,FC Augsburg,1,1,2013-02-02T15:30:00,d
+FC Schalke 04,SpVgg Greuther Fürth,1,2,2013-02-02T15:30:00,a
+1. FSV Mainz 05,FC Bayern,0,3,2013-02-02T15:30:00,a
+Fortuna Düsseldorf,VfB Stuttgart,3,1,2013-02-02T15:30:00,h
+TSG 1899 Hoffenheim,SC Freiburg,2,1,2013-02-02T15:30:00,h
+Hamburger SV,Eintracht Frankfurt,0,2,2013-02-02T18:30:00,a
+1. FC Nürnberg,Borussia Mönchengladbach,2,1,2013-02-03T15:30:00,h
+Bayer Leverkusen,Borussia Dortmund,2,3,2013-02-03T17:30:00,a
+Hannover 96,TSG 1899 Hoffenheim,1,0,2013-02-09T15:30:00,h
+Borussia Dortmund,Hamburger SV,1,4,2013-02-09T15:30:00,a
+Borussia Mönchengladbach,Bayer Leverkusen,3,3,2013-02-09T15:30:00,d
+SpVgg Greuther Fürth,VfL Wolfsburg,0,1,2013-02-09T15:30:00,a
+VfB Stuttgart,Werder Bremen,1,4,2013-02-09T15:30:00,a
+Eintracht Frankfurt,1. FC Nürnberg,0,0,2013-02-09T15:30:00,d
+FC Bayern,FC Schalke 04,4,0,2013-02-09T18:30:00,h
+FC Augsburg,1. FSV Mainz 05,1,1,2013-02-10T15:30:00,d
+SC Freiburg,Fortuna Düsseldorf,1,0,2013-02-10T17:30:00,h
+VfL Wolfsburg,FC Bayern,0,2,2013-02-15T20:30:00,a
+Werder Bremen,SC Freiburg,2,3,2013-02-16T15:30:00,a
+Bayer Leverkusen,FC Augsburg,2,1,2013-02-16T15:30:00,h
+Fortuna Düsseldorf,SpVgg Greuther Fürth,1,0,2013-02-16T15:30:00,h
+1. FSV Mainz 05,FC Schalke 04,2,2,2013-02-16T15:30:00,d
+Hamburger SV,Borussia Mönchengladbach,1,0,2013-02-16T15:30:00,h
+Borussia Dortmund,Eintracht Frankfurt,3,0,2013-02-16T18:30:00,h
+1. FC Nürnberg,Hannover 96,2,2,2013-02-17T15:30:00,d
+TSG 1899 Hoffenheim,VfB Stuttgart,0,1,2013-02-17T17:30:00,a
+SC Freiburg,Eintracht Frankfurt,0,0,2013-02-22T20:30:00,d
+FC Bayern,Werder Bremen,6,1,2013-02-23T15:30:00,h
+VfB Stuttgart,1. FC Nürnberg,1,1,2013-02-23T15:30:00,d
+FC Augsburg,TSG 1899 Hoffenheim,2,1,2013-02-23T15:30:00,h
+Hannover 96,Hamburger SV,5,1,2013-02-23T15:30:00,h
+1. FSV Mainz 05,VfL Wolfsburg,1,1,2013-02-23T15:30:00,d
+FC Schalke 04,Fortuna Düsseldorf,2,1,2013-02-23T18:30:00,h
+Borussia Mönchengladbach,Borussia Dortmund,1,1,2013-02-24T15:30:00,a
+SpVgg Greuther Fürth,Bayer Leverkusen,0,0,2013-02-24T17:30:00,d
+Eintracht Frankfurt,Borussia Mönchengladbach,0,1,2013-03-01T20:30:00,a
+Borussia Dortmund,Hannover 96,3,1,2013-03-02T15:30:00,h
+VfL Wolfsburg,FC Schalke 04,1,4,2013-03-02T15:30:00,a
+Werder Bremen,FC Augsburg,0,1,2013-03-02T15:30:00,a
+1. FC Nürnberg,SC Freiburg,1,1,2013-03-02T15:30:00,h
+Hamburger SV,SpVgg Greuther Fürth,1,1,2013-03-02T15:30:00,d
+Bayer Leverkusen,VfB Stuttgart,2,1,2013-03-02T18:30:00,h
+TSG 1899 Hoffenheim,FC Bayern,0,1,2013-03-03T15:30:00,a
+Fortuna Düsseldorf,1. FSV Mainz 05,1,1,2013-03-03T17:30:00,d
+FC Augsburg,1. FC Nürnberg,1,2,2013-03-08T20:30:00,a
+1. FSV Mainz 05,Bayer Leverkusen,1,0,2013-03-09T15:30:00,h
+SC Freiburg,VfL Wolfsburg,2,5,2013-03-09T15:30:00,a
+SpVgg Greuther Fürth,TSG 1899 Hoffenheim,0,3,2013-03-09T15:30:00,a
+FC Schalke 04,Borussia Dortmund,2,1,2013-03-09T15:30:00,h
+FC Bayern,Fortuna Düsseldorf,3,2,2013-03-09T15:30:00,h
+Borussia Mönchengladbach,Werder Bremen,1,1,2013-03-09T18:30:00,d
+Hannover 96,Eintracht Frankfurt,0,0,2013-03-10T15:30:00,d
+VfB Stuttgart,Hamburger SV,0,1,2013-03-10T17:30:00,a
+VfL Wolfsburg,Fortuna Düsseldorf,1,1,2013-03-15T20:30:00,d
+1. FC Nürnberg,FC Schalke 04,3,0,2013-03-16T15:30:00,h
+Borussia Dortmund,SC Freiburg,5,1,2013-03-16T15:30:00,h
+TSG 1899 Hoffenheim,1. FSV Mainz 05,0,0,2013-03-16T15:30:00,d
+Hamburger SV,FC Augsburg,0,1,2013-03-16T15:30:00,a
+Werder Bremen,SpVgg Greuther Fürth,2,2,2013-03-16T15:30:00,d
+Bayer Leverkusen,FC Bayern,1,2,2013-03-16T18:30:00,a
+Eintracht Frankfurt,VfB Stuttgart,1,2,2013-03-17T15:30:00,a
+Borussia Mönchengladbach,Hannover 96,1,0,2013-03-17T17:30:00,h
+VfB Stuttgart,Borussia Dortmund,1,2,2013-03-30T15:30:00,a
+SC Freiburg,Borussia Mönchengladbach,2,0,2013-03-30T15:30:00,h
+Fortuna Düsseldorf,Bayer Leverkusen,1,4,2013-03-30T15:30:00,a
+FC Augsburg,Hannover 96,0,2,2013-03-30T15:30:00,a
+1. FSV Mainz 05,Werder Bremen,1,1,2013-03-30T15:30:00,d
+FC Schalke 04,TSG 1899 Hoffenheim,3,0,2013-03-30T15:30:00,h
+FC Bayern,Hamburger SV,9,2,2013-03-30T18:30:00,h
+VfL Wolfsburg,1. FC Nürnberg,2,2,2013-03-31T15:30:00,d
+SpVgg Greuther Fürth,Eintracht Frankfurt,2,3,2013-03-31T17:30:00,a
+TSG 1899 Hoffenheim,Fortuna Düsseldorf,3,0,2013-04-05T20:30:00,h
+Borussia Dortmund,FC Augsburg,4,2,2013-04-06T15:30:00,h
+Borussia Mönchengladbach,SpVgg Greuther Fürth,1,0,2013-04-06T15:30:00,h
+Eintracht Frankfurt,FC Bayern,0,1,2013-04-06T15:30:00,a
+Werder Bremen,FC Schalke 04,0,2,2013-04-06T15:30:00,a
+Bayer Leverkusen,VfL Wolfsburg,1,1,2013-04-06T15:30:00,d
+Hamburger SV,SC Freiburg,0,1,2013-04-06T18:30:00,a
+1. FC Nürnberg,1. FSV Mainz 05,2,1,2013-04-07T15:30:00,h
+Hannover 96,VfB Stuttgart,0,0,2013-04-07T17:30:00,d
+SC Freiburg,Hannover 96,3,1,2013-04-12T20:30:00,h
+FC Bayern,1. FC Nürnberg,4,0,2013-04-13T15:30:00,h
+VfL Wolfsburg,TSG 1899 Hoffenheim,2,2,2013-04-13T15:30:00,d
+1. FSV Mainz 05,Hamburger SV,1,2,2013-04-13T15:30:00,a
+SpVgg Greuther Fürth,Borussia Dortmund,1,6,2013-04-13T15:30:00,a
+Fortuna Düsseldorf,Werder Bremen,2,2,2013-04-13T15:30:00,d
+FC Schalke 04,Bayer Leverkusen,2,2,2013-04-13T18:30:00,d
+VfB Stuttgart,Borussia Mönchengladbach,2,0,2013-04-14T15:30:00,h
+FC Augsburg,Eintracht Frankfurt,2,0,2013-04-14T17:30:00,h
+Borussia Mönchengladbach,FC Augsburg,1,0,2013-04-19T20:30:00,h
+Borussia Dortmund,1. FSV Mainz 05,2,0,2013-04-20T15:30:00,h
+Hannover 96,FC Bayern,1,6,2013-04-20T15:30:00,a
+Hamburger SV,Fortuna Düsseldorf,2,1,2013-04-20T15:30:00,h
+Eintracht Frankfurt,FC Schalke 04,1,0,2013-04-20T15:30:00,h
+Bayer Leverkusen,TSG 1899 Hoffenheim,5,0,2013-04-20T15:30:00,h
+Werder Bremen,VfL Wolfsburg,0,3,2013-04-20T18:30:00,a
+VfB Stuttgart,SC Freiburg,2,1,2013-04-21T15:30:00,h
+1. FC Nürnberg,SpVgg Greuther Fürth,0,1,2013-04-21T17:30:00,a
+SpVgg Greuther Fürth,Hannover 96,2,3,2013-04-26T20:30:00,d
+Bayer Leverkusen,Werder Bremen,1,0,2013-04-27T15:30:00,h
+TSG 1899 Hoffenheim,1. FC Nürnberg,2,1,2013-04-27T15:30:00,h
+FC Bayern,SC Freiburg,1,0,2013-04-27T15:30:00,h
+VfL Wolfsburg,Borussia Mönchengladbach,3,1,2013-04-27T15:30:00,h
+FC Augsburg,VfB Stuttgart,3,0,2013-04-27T15:30:00,h
+Fortuna Düsseldorf,Borussia Dortmund,1,2,2013-04-27T18:30:00,a
+1. FSV Mainz 05,Eintracht Frankfurt,0,0,2013-04-28T15:30:00,d
+FC Schalke 04,Hamburger SV,4,1,2013-04-28T17:30:00,h
+Borussia Mönchengladbach,FC Schalke 04,0,1,2013-05-03T20:30:00,a
+1. FC Nürnberg,Bayer Leverkusen,0,2,2013-05-04T15:30:00,a
+Werder Bremen,TSG 1899 Hoffenheim,2,2,2013-05-04T15:30:00,d
+Hannover 96,1. FSV Mainz 05,2,2,2013-05-04T15:30:00,d
+VfB Stuttgart,SpVgg Greuther Fürth,0,2,2013-05-04T15:30:00,a
+Eintracht Frankfurt,Fortuna Düsseldorf,3,1,2013-05-04T15:30:00,h
+Borussia Dortmund,FC Bayern,1,1,2013-05-04T18:30:00,d
+SC Freiburg,FC Augsburg,2,0,2013-05-05T15:30:00,h
+Hamburger SV,VfL Wolfsburg,1,1,2013-05-05T17:30:00,d
+1. FSV Mainz 05,Borussia Mönchengladbach,2,4,2013-05-11T15:30:00,a
+FC Schalke 04,VfB Stuttgart,1,2,2013-05-11T15:30:00,a
+Bayer Leverkusen,Hannover 96,3,1,2013-05-11T15:30:00,h
+Fortuna Düsseldorf,1. FC Nürnberg,1,2,2013-05-11T15:30:00,a
+SpVgg Greuther Fürth,SC Freiburg,1,2,2013-05-11T15:30:00,a
+FC Bayern,FC Augsburg,3,0,2013-05-11T15:30:00,h
+TSG 1899 Hoffenheim,Hamburger SV,1,4,2013-05-11T15:30:00,a
+VfL Wolfsburg,Borussia Dortmund,3,3,2013-05-11T15:30:00,d
+Werder Bremen,Eintracht Frankfurt,1,1,2013-05-11T15:30:00,d
+Borussia Mönchengladbach,FC Bayern,3,4,2013-05-18T15:30:00,a
+Hannover 96,Fortuna Düsseldorf,3,0,2013-05-18T15:30:00,h
+SC Freiburg,FC Schalke 04,1,2,2013-05-18T15:30:00,a
+Hamburger SV,Bayer Leverkusen,0,1,2013-05-18T15:30:00,a
+Eintracht Frankfurt,VfL Wolfsburg,2,2,2013-05-18T15:30:00,d
+1. FC Nürnberg,Werder Bremen,3,2,2013-05-18T15:30:00,a
+Borussia Dortmund,TSG 1899 Hoffenheim,1,2,2013-05-18T15:30:00,a
+VfB Stuttgart,1. FSV Mainz 05,2,2,2013-05-18T15:30:00,d
+FC Augsburg,SpVgg Greuther Fürth,3,1,2013-05-18T15:30:00,h
 FC Bayern,Borussia Mönchengladbach,3,1,2013-08-09T20:30:00,h
 Bayer Leverkusen,SC Freiburg,3,1,2013-08-10T15:30:00,d
 Hannover 96,VfL Wolfsburg,2,0,2013-08-10T15:30:00,h
